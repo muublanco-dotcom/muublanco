@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Conceptual — Muu Blanco</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<header class="site-header">
+<div class="site-header__inner">
+<a href="index.html" class="brand"><em>Muu Blanco</em></a>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<nav class="site-nav" id="siteNav">
+<a href="conceptual.html" aria-current="page">Conceptual</a>
+<a href="multimedia.html">Multimedia</a>
+<a href="practicas-publicas.html">Prácticas Públicas</a>
+<a href="dr-musica.html">Dr Música</a>
+<a href="store.html">Galería</a>
+<a href="about.html">About</a>
+</nav>
+</div>
+</header>
+
+<main>
+<div class="page-head">
+<p class="eyebrow">01 — Conceptual</p>
+<h1>Conceptual</h1>
+<p>Bitácora de textos y documentos de trabajo, ordenados por fecha de creación real del archivo (metadata del PDF, no la fecha de subida).</p>
+</div>
+
+<div class="page-body">
+<div id="bibliography">
+<p class="muted">Cargando bibliografía…</p>
+</div>
+</div>
+</main>
+
+<footer class="site-footer">
+<div class="site-footer__inner">
+<span><em>Muu Blanco</em></span>
+<span>Artista &amp; músico — Caracas / Miami.</span>
+</div>
+</footer>
+
+<script src="js/main.js"></script>
+<script>
+(function () {
+  const root = document.querySelector("#bibliography");
+  if (!root) return;
+  const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const driveImg = (id, w = 1200) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
+  const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
+  const longDate = (iso) => {
+    const [y, m, d] = iso.split("-").map(Number);
+    const MONTHS = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+    return `${d} de ${MONTHS[m - 1]} de ${y}`;
+  };
+
+  fetch("data/conceptual.json", { cache: "no-store" })
+    .then((r) => r.json())
+    .then((entries) => {
+      if (!entries || !entries.length) { root.innerHTML = '<p class="muted">Aún no hay textos publicados.</p>'; return; }
+      entries.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+      root.innerHTML = entries.map((e) => `
+        <article class="biblio-entry">
+          ${e.imageId ? `<div class="biblio-entry__img"><img src="${driveImg(e.imageId, 900)}" alt="${esc(e.title)}" loading="lazy" referrerpolicy="no-referrer"></div>` : ""}
+          <div class="biblio-entry__body">
+            <p class="biblio-entry__date">${longDate(e.date)}</p>
+            <h2 class="display">${esc(e.title)}</h2>
+            ${e.medium ? `<p class="biblio-entry__medium">${esc(e.medium)}</p>` : ""}
+            <p>${esc(e.summary)}</p>
+            ${e.pdfId ? `<p class="detail__link"><a href="${driveView(e.pdfId)}" target="_blank" rel="noopener">Leer documento completo ↗</a></p>` : ""}
+          </div>
+        </article>
+      `).join("");
+    })
+    .catch(() => { root.innerHTML = '<p class="muted">No se pudo cargar la bibliografía.</p>'; });
+})();
+</script>
+</body>
+</html>

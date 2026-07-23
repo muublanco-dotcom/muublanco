@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Galería — Muu Blanco</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<header class="site-header">
+<div class="site-header__inner">
+<a href="index.html" class="brand"><em>Muu Blanco</em></a>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<nav class="site-nav" id="siteNav">
+<a href="conceptual.html">Conceptual</a>
+<a href="multimedia.html">Multimedia</a>
+<a href="practicas-publicas.html">Prácticas Públicas</a>
+<a href="dr-musica.html">Dr Música</a>
+<a href="store.html" aria-current="page">Galería</a>
+<a href="about.html">About</a>
+</nav>
+</div>
+</header>
+
+<main>
+<div class="page-head">
+<p class="eyebrow">05 — Galería</p>
+<h1>Galería</h1>
+<p>Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.</p>
+</div>
+
+<div class="page-body">
+<p class="artfair-note">El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.</p>
+<div id="store">
+<p class="muted">Cargando galería…</p>
+</div>
+</div>
+</main>
+
+<!-- ===== Detalle de obra (carrusel + info) ===== -->
+<div class="detail" id="storeDetail" aria-hidden="true">
+<div class="detail__box" role="dialog" aria-modal="true" aria-labelledby="sdName">
+<button class="detail__close" id="storeDetailClose" aria-label="Cerrar">×</button>
+<div class="detail__media">
+<div class="carousel">
+<img class="carousel__img" id="sdImg" alt="" />
+<div class="carousel__ph" id="sdPh">Imagen en Google Drive</div>
+<button class="carousel__nav carousel__prev" id="sdPrev" aria-label="Obra anterior">‹</button>
+<button class="carousel__nav carousel__next" id="sdNext" aria-label="Obra siguiente">›</button>
+<div class="carousel__dots" id="sdDots"></div>
+</div>
+</div>
+<div class="detail__info">
+<h2 class="detail__name" id="sdName"></h2>
+<div class="detail__meta" id="sdMeta"></div>
+<div id="sdBody"></div>
+</div>
+</div>
+</div>
+
+<footer class="site-footer">
+<div class="site-footer__inner">
+<span><em>Muu Blanco</em></span>
+<span>Artista &amp; músico — Caracas / Miami.</span>
+</div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
