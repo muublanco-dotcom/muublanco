@@ -11,7 +11,8 @@
       "cv": "CV",
       "galeria": "Galería",
       "about": "About",
-      "contacto": "Contacto"
+      "contacto": "Contacto",
+      "proyectos": "Proyectos"
     },
     "footer": {
       "tagline": "Artista &amp; músico — Caracas / Miami."
@@ -38,7 +39,8 @@
       "galeria": "Obra original disponible — tienda virtual, consulta precio y disponibilidad.",
       "prensa": "Reseñas publicadas en periódicos y revistas — ordenadas cronológicamente.",
       "cv": "Guía cronológica completa — educación, exposiciones, discografía y prensa.",
-      "contacto": "Para curadores, galerías, prensa, coleccionistas y consultas de música."
+      "contacto": "Para curadores, galerías, prensa, coleccionistas y consultas de música.",
+      "proyectos": "Líneas de investigación de largo aliento — NatuUrban Symphony, 100 Years of Sound Art y más."
     }
   },
   "about": {
@@ -178,5 +180,28 @@
     "music": { "label": "Música / Bookings (Dr.Muusica)" },
     "general": { "label": "Consultas generales" },
     "note": "Más material: <a href=\"cv.html\">CV</a> para trayectoria completa, <a href=\"prensa.html\">Prensa</a> para reseñas y cobertura, <a href=\"practicas-publicas.html\">Prácticas Públicas</a> para redes sociales, <a href=\"store.html\">Galería</a> para obra disponible."
+  },
+  "proyectos": {
+    "eyebrow": "09 — Proyectos de Investigación",
+    "h1": "Proyectos de Investigación",
+    "lead": "Líneas de investigación de largo aliento dentro de la práctica de Muu Blanco — cada una con su propio cuerpo de obra, publicaciones y presentaciones.",
+    "ongoing": "En curso",
+    "seeInPress": "Ver en Prensa musical",
+    "natuurban": {
+      "medium": "Instalación sonora, danza y video mapping",
+      "p1": "Programa de instalación y arte sonoro presentado en Arts Connection Foundation, Miami. Integra música experimental, danza, proyecciones de video mapping y un documental homónimo — la investigación más reciente de Muu Blanco sobre paisaje sonoro y entorno natural urbano."
+    },
+    "soundart": {
+      "medium": "Investigación / archivo",
+      "p1": "Proyecto de investigación propio sobre la historia del arte sonoro, desde sus raíces en el futurismo hasta el siglo XXI."
+    },
+    "abstracciones": {
+      "medium": "Fotografía",
+      "p1": "Diez años de abstracción fotográfica urbana de Caracas, reunidos en el fotolibro \"AAA 2002–2012\"."
+    },
+    "modernismo": {
+      "medium": "Collage análogo / mixmedia",
+      "p1": "Serie de collage análogo y mixmedia que reinterpreta la modernidad arquitectónica venezolana — expuesta en Galería Sicart (Barcelona) y Centro Cultural Chacao (Caracas), y publicada como catálogo/libro."
+    }
   }
 }

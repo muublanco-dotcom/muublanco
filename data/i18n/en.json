@@ -11,7 +11,8 @@
       "cv": "CV",
       "galeria": "Gallery",
       "about": "About",
-      "contacto": "Contact"
+      "contacto": "Contact",
+      "proyectos": "Projects"
     },
     "footer": {
       "tagline": "Artist &amp; musician — Caracas / Miami."
@@ -38,7 +39,8 @@
       "galeria": "Original works available — online store, inquire about price and availability.",
       "prensa": "Reviews published in newspapers and magazines — ordered chronologically.",
       "cv": "Full chronological guide — education, exhibitions, discography, and press.",
-      "contacto": "For curators, galleries, press, collectors, and music inquiries."
+      "contacto": "For curators, galleries, press, collectors, and music inquiries.",
+      "proyectos": "Long-running research lines — NatuUrban Symphony, 100 Years of Sound Art, and more."
     }
   },
   "about": {
@@ -178,5 +180,28 @@
     "music": { "label": "Music / Bookings (Dr.Muusica)" },
     "general": { "label": "General inquiries" },
     "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works."
+  },
+  "proyectos": {
+    "eyebrow": "09 — Research Projects",
+    "h1": "Research Projects",
+    "lead": "Long-running research lines within Muu Blanco's practice — each with its own body of work, publications, and presentations.",
+    "ongoing": "Ongoing",
+    "seeInPress": "See in Music Press",
+    "natuurban": {
+      "medium": "Sound installation, dance, and video mapping",
+      "p1": "An installation and sound art program presented at Arts Connection Foundation, Miami. It integrates experimental music, dance, video mapping projections, and a companion documentary — Muu Blanco's most recent research into soundscape and the urban natural environment."
+    },
+    "soundart": {
+      "medium": "Research / archive",
+      "p1": "A personal research project on the history of sound art, from its roots in Futurism through the 21st century."
+    },
+    "abstracciones": {
+      "medium": "Photography",
+      "p1": "Ten years of urban photographic abstraction from Caracas, gathered in the photobook \"AAA 2002–2012\"."
+    },
+    "modernismo": {
+      "medium": "Analog collage / mixed media",
+      "p1": "A series of analog collage and mixed media work reinterpreting Venezuelan architectural modernism — exhibited at Galería Sicart (Barcelona) and Centro Cultural Chacao (Caracas), and published as a catalog/book."
+    }
   }
 }
