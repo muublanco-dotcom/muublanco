@@ -54,6 +54,8 @@
   if (!root) return;
   const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
+  const driveThumb = (id, w = 900) => `https://drive.google.com/thumbnail?id=${id}&sz=w${w}`;
+  const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
 
   fetch("data/prensa.json", { cache: "no-store" })
     .then((r) => r.json())
@@ -64,6 +66,7 @@
         <article class="press-entry">
           <p class="press-entry__year">${esc(e.year)}</p>
           <div>
+            ${e.imageId ? `<a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a>` : ""}
             <p class="press-entry__outlet">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(e.kind)}</span>` : ""}</p>
             ${e.place ? `<p class="press-entry__place">${esc(e.place)}</p>` : ""}
             ${e.note ? `<p class="press-entry__note">${esc(e.note)}</p>` : ""}

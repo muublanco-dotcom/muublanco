@@ -159,6 +159,9 @@ main { min-height: 60vh; }
 .press-entry { display: grid; grid-template-columns: 100px 1fr; gap: 1.4rem; padding: 1.3rem 0; border-bottom: 1px solid var(--line); }
 .press-entry:first-of-type { padding-top: 0; }
 .press-entry__year { font-family: var(--display); font-size: 1.2rem; color: var(--muted); }
+.press-entry__img { display: block; max-width: 260px; margin: 0 0 .8rem; border: 1px solid var(--line-soft); background: #e7e4db; overflow: hidden; }
+.press-entry__img img { width: 100%; display: block; transition: opacity .18s; }
+.press-entry__img:hover img { opacity: .85; }
 .press-entry__outlet { font-family: var(--display); font-size: 1.2rem; }
 .press-entry__place { color: var(--muted); font-size: .9rem; margin-top: .25rem; }
 .press-entry__note { color: var(--ink); font-size: .92rem; margin-top: .3rem; }
