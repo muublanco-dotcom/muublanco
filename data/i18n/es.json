@@ -10,7 +10,8 @@
       "prensa": "Prensa",
       "cv": "CV",
       "galeria": "Galería",
-      "about": "About"
+      "about": "About",
+      "contacto": "Contacto"
     },
     "footer": {
       "tagline": "Artista &amp; músico — Caracas / Miami."
@@ -36,7 +37,8 @@
       "drmusica": "El alias sonoro — producciones, colaboraciones y lanzamientos.",
       "galeria": "Obra original disponible — tienda virtual, consulta precio y disponibilidad.",
       "prensa": "Reseñas publicadas en periódicos y revistas — ordenadas cronológicamente.",
-      "cv": "Guía cronológica completa — educación, exposiciones, discografía y prensa."
+      "cv": "Guía cronológica completa — educación, exposiciones, discografía y prensa.",
+      "contacto": "Para curadores, galerías, prensa, coleccionistas y consultas de música."
     }
   },
   "about": {
@@ -166,5 +168,15 @@
       "publications": "Publicaciones / Prensa / Mención crítica (selección)",
       "media": "Reseñado en medios como"
     }
+  },
+  "contacto": {
+    "eyebrow": "08 — Contacto",
+    "lead": "Para curadores, galerías, prensa y coleccionistas. Escribe directamente según el motivo de tu consulta.",
+    "curators": { "label": "Curadores y Galerías" },
+    "press": { "label": "Prensa" },
+    "collectors": { "label": "Coleccionistas" },
+    "music": { "label": "Música / Bookings (Dr.Muusica)" },
+    "general": { "label": "Consultas generales" },
+    "note": "Más material: <a href=\"cv.html\">CV</a> para trayectoria completa, <a href=\"prensa.html\">Prensa</a> para reseñas y cobertura, <a href=\"practicas-publicas.html\">Prácticas Públicas</a> para redes sociales, <a href=\"store.html\">Galería</a> para obra disponible."
   }
 }

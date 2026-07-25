@@ -10,7 +10,8 @@
       "prensa": "Press",
       "cv": "CV",
       "galeria": "Gallery",
-      "about": "About"
+      "about": "About",
+      "contacto": "Contact"
     },
     "footer": {
       "tagline": "Artist &amp; musician — Caracas / Miami."
@@ -36,7 +37,8 @@
       "drmusica": "The sonic alias — productions, collaborations, and releases.",
       "galeria": "Original works available — online store, inquire about price and availability.",
       "prensa": "Reviews published in newspapers and magazines — ordered chronologically.",
-      "cv": "Full chronological guide — education, exhibitions, discography, and press."
+      "cv": "Full chronological guide — education, exhibitions, discography, and press.",
+      "contacto": "For curators, galleries, press, collectors, and music inquiries."
     }
   },
   "about": {
@@ -166,5 +168,15 @@
       "publications": "Publications / Press / Critical Mentions (selection)",
       "media": "Reviewed in media including"
     }
+  },
+  "contacto": {
+    "eyebrow": "08 — Contact",
+    "lead": "For curators, galleries, press, and collectors. Write directly depending on the reason for your inquiry.",
+    "curators": { "label": "Curators and Galleries" },
+    "press": { "label": "Press" },
+    "collectors": { "label": "Collectors" },
+    "music": { "label": "Music / Bookings (Dr.Muusica)" },
+    "general": { "label": "General inquiries" },
+    "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works."
   }
 }

@@ -10,7 +10,8 @@
       "prensa": "프레스",
       "cv": "CV",
       "galeria": "갤러리",
-      "about": "About"
+      "about": "About",
+      "contacto": "연락처"
     },
     "footer": {
       "tagline": "아티스트 &amp; 뮤지션 — 카라카스 / 마이애미."
@@ -36,7 +37,8 @@
       "drmusica": "사운드 앨리어스 — 프로덕션, 협업, 발매작.",
       "galeria": "구매 가능한 오리지널 작품 — 온라인 스토어, 가격 및 재고 문의.",
       "prensa": "신문 및 잡지에 게재된 리뷰 — 연대순으로 정리.",
-      "cv": "전체 연대기 가이드 — 학력, 전시, 디스코그래피, 언론 보도."
+      "cv": "전체 연대기 가이드 — 학력, 전시, 디스코그래피, 언론 보도.",
+      "contacto": "큐레이터, 갤러리, 언론, 컬렉터 및 음악 관련 문의."
     }
   },
   "about": {
@@ -166,5 +168,15 @@
       "publications": "출판물 / 언론 보도 / 비평 (선정)",
       "media": "다음 매체에 소개됨"
     }
+  },
+  "contacto": {
+    "eyebrow": "08 — 연락처",
+    "lead": "큐레이터, 갤러리, 언론, 컬렉터를 위한 연락처입니다. 문의 목적에 따라 직접 이메일을 보내주세요.",
+    "curators": { "label": "큐레이터 및 갤러리" },
+    "press": { "label": "언론" },
+    "collectors": { "label": "컬렉터" },
+    "music": { "label": "음악 / 부킹 (Dr.Muusica)" },
+    "general": { "label": "일반 문의" },
+    "note": "추가 자료: 전체 이력은 <a href=\"cv.html\">CV</a>, 리뷰와 보도는 <a href=\"prensa.html\">프레스</a>, 소셜 미디어는 <a href=\"practicas-publicas.html\">퍼블릭 프랙티스</a>, 구매 가능한 작품은 <a href=\"store.html\">갤러리</a>에서 확인하세요."
   }
 }

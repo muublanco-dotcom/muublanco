@@ -176,7 +176,7 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
     const bits = [];
     if (cur.technique || cur.size) bits.push(`<p class="biblio-entry__medium">${[esc(cur.technique), esc(cur.size)].filter(Boolean).join(" · ")}</p>`);
     if (cur.description) bits.push(`<p>${esc(cur.description)}</p>`);
-    bits.push(`<p class="detail__link"><a href="mailto:drmuuuusica@gmail.com?subject=${encodeURIComponent("Consulta — " + cur.title)}">${t().inquire}</a></p>`);
+    bits.push(`<p class="detail__link"><a href="mailto:muublanco@gmail.com?subject=${encodeURIComponent("Consulta — " + cur.title)}">${t().inquire}</a></p>`);
     document.querySelector("#sdBody").innerHTML = bits.join("");
     document.querySelector("#sdDots").innerHTML = cur.imageIds.map((_, k) => `<button data-k="${k}" aria-label="Imagen ${k + 1}"></button>`).join("");
     document.querySelectorAll("#sdDots button").forEach((d) => d.addEventListener("click", () => showSlide(+d.dataset.k)));
