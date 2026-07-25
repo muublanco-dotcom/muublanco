@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Prensa — Muu Blanco</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<header class="site-header">
+<div class="site-header__inner">
+<a href="index.html" class="brand"><em>Muu Blanco</em></a>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<nav class="site-nav" id="siteNav">
+<a href="conceptual.html">Conceptual</a>
+<a href="multimedia.html">Multimedia</a>
+<a href="practicas-publicas.html">Prácticas Públicas</a>
+<a href="dr-musica.html">DR.MUUSICA</a>
+<a href="prensa.html" aria-current="page">Prensa</a>
+<a href="store.html">Galería</a>
+<a href="about.html">About</a>
+</nav>
+</div>
+</header>
+
+<main>
+<div class="page-head">
+<p class="eyebrow">06 — Prensa</p>
+<h1>Prensa</h1>
+<p>Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.</p>
+</div>
+
+<div class="page-body">
+<div id="press">
+<p class="muted">Cargando reseñas…</p>
+</div>
+</div>
+</main>
+
+<footer class="site-footer">
+<div class="site-footer__inner">
+<span><em>Muu Blanco</em></span>
+<span>Artista &amp; músico — Caracas / Miami.</span>
+</div>
+</footer>
+
+<script src="js/main.js"></script>
+<script>
+(function () {
+  const root = document.querySelector("#press");
+  if (!root) return;
+  const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
+
+  fetch("data/prensa.json", { cache: "no-store" })
+    .then((r) => r.json())
+    .then((entries) => {
+      if (!entries || !entries.length) { root.innerHTML = '<p class="muted">Aún no hay reseñas publicadas.</p>'; return; }
+      entries.sort((a, b) => yearKey(b.year) - yearKey(a.year));
+      root.innerHTML = `<div class="press-list">${entries.map((e) => `
+        <article class="press-entry">
+          <p class="press-entry__year">${esc(e.year)}</p>
+          <div>
+            <p class="press-entry__outlet">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(e.kind)}</span>` : ""}</p>
+            ${e.place ? `<p class="press-entry__place">${esc(e.place)}</p>` : ""}
+            ${e.note ? `<p class="press-entry__note">${esc(e.note)}</p>` : ""}
+          </div>
+        </article>
+      `).join("")}</div>`;
+    })
+    .catch(() => { root.innerHTML = '<p class="muted">No se pudieron cargar las reseñas.</p>'; });
+})();
+</script>
+</body>
+</html>

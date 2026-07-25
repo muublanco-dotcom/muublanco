@@ -154,6 +154,16 @@ main { min-height: 60vh; }
 .audio-embed { border: 1px solid var(--line-soft); background: #fff; }
 .audio-embed iframe { width: 100%; height: 120px; border: 0; display: block; }
 
+/* ===== Prensa ===== */
+.press-list { max-width: 78ch; }
+.press-entry { display: grid; grid-template-columns: 100px 1fr; gap: 1.4rem; padding: 1.3rem 0; border-bottom: 1px solid var(--line); }
+.press-entry:first-of-type { padding-top: 0; }
+.press-entry__year { font-family: var(--display); font-size: 1.2rem; color: var(--muted); }
+.press-entry__outlet { font-family: var(--display); font-size: 1.2rem; }
+.press-entry__place { color: var(--muted); font-size: .9rem; margin-top: .25rem; }
+.press-entry__note { color: var(--ink); font-size: .92rem; margin-top: .3rem; }
+@media (max-width: 640px) { .press-entry { grid-template-columns: 1fr; gap: .25rem; } }
+
 /* ===== Bibliography (Conceptual) ===== */
 .biblio-entry { display: grid; grid-template-columns: 320px 1fr; gap: clamp(1.4rem, 3vw, 2.4rem); padding: clamp(1.8rem, 4vw, 2.6rem) 0; border-bottom: 1px solid var(--line); }
 .biblio-entry:first-of-type { padding-top: 0; }
