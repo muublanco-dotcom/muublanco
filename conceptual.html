@@ -13,34 +13,35 @@
 <header class="site-header">
 <div class="site-header__inner">
 <a href="index.html" class="brand"><em>Muu Blanco</em></a>
-<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<div class="lang-switch" id="langSwitch"></div>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" data-i18n="common.menu">Menu</button>
 <nav class="site-nav" id="siteNav">
-<a href="conceptual.html" aria-current="page">Conceptual</a>
-<a href="multimedia.html">Multimedia</a>
-<a href="practicas-publicas.html">Prácticas Públicas</a>
-<a href="dr-musica.html">DR.MUUSICA</a>
-<a href="prensa.html">Prensa</a>
-<a href="cv.html">CV</a>
-<a href="store.html">Galería</a>
-<a href="about.html">About</a>
+<a href="conceptual.html" aria-current="page" data-i18n="common.nav.conceptual">Conceptual</a>
+<a href="multimedia.html" data-i18n="common.nav.multimedia">Multimedia</a>
+<a href="practicas-publicas.html" data-i18n="common.nav.practicas">Prácticas Públicas</a>
+<a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
+<a href="prensa.html" data-i18n="common.nav.prensa">Prensa</a>
+<a href="cv.html" data-i18n="common.nav.cv">CV</a>
+<a href="store.html" data-i18n="common.nav.galeria">Galería</a>
+<a href="about.html" data-i18n="common.nav.about">About</a>
 </nav>
 </div>
 </header>
 
 <main>
 <div class="page-head">
-<p class="eyebrow">01 — Conceptual</p>
-<h1>Conceptual</h1>
-<p>Bitácora de textos y documentos de trabajo, ordenados por fecha de creación real del archivo (metadata del PDF, no la fecha de subida).</p>
+<p class="eyebrow" data-i18n="conceptual.eyebrow">01 — Conceptual</p>
+<h1 data-i18n="common.nav.conceptual">Conceptual</h1>
+<p data-i18n="conceptual.lead">Bitácora de textos y documentos de trabajo, ordenados por fecha de creación real del archivo (metadata del PDF, no la fecha de subida).</p>
 </div>
 
 <div class="page-body">
 <div id="bibliography">
-<p class="muted">Cargando bibliografía…</p>
+<p class="muted" data-i18n="conceptual.loading">Cargando bibliografía…</p>
 </div>
 
 <section style="margin-top:3.5rem;">
-<h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:1rem;">Publicaciones</h2>
+<h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:1rem;" data-i18n="conceptual.publications">Publicaciones</h2>
 <div class="social-grid">
 <a class="social-card" href="https://www.blurb.es/b/11873110-aaa-2002-2012-ccs-abstracciones-paisajisticas" target="_blank" rel="noopener">
 <span class="social-card__label">AAA 2002–2012 (ccs)</span>
@@ -56,7 +57,7 @@
 </a>
 <a class="social-card" href="https://www.blurb.es/b/6384389-new-compositional-thinking-1" target="_blank" rel="noopener">
 <span class="social-card__label">New Compositional Thinking 1</span>
-<span class="social-card__handle">con Gerardo Zavarze</span>
+<span class="social-card__handle" data-i18n="conceptual.withGerardo">con Gerardo Zavarze</span>
 </a>
 </div>
 </section>
@@ -66,10 +67,11 @@
 <footer class="site-footer">
 <div class="site-footer__inner">
 <span><em>Muu Blanco</em></span>
-<span>Artista &amp; músico — Caracas / Miami.</span>
+<span data-i18n="common.footer.tagline">Artista &amp; músico — Caracas / Miami.</span>
 </div>
 </footer>
 
+<script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
 <script>
 (function () {
@@ -78,31 +80,53 @@
   const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const driveImg = (id, w = 1200) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
-  const longDate = (iso) => {
-    const [y, m, d] = iso.split("-").map(Number);
-    const MONTHS = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
-    return `${d} de ${MONTHS[m - 1]} de ${y}`;
+  const MONTHS = {
+    es: ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
+    en: ["January","February","March","April","May","June","July","August","September","October","November","December"]
   };
+  const readLink = { es: "Leer documento completo ↗", en: "Read full document ↗", ko: "전체 문서 읽기 ↗", ja: "全文を読む ↗" };
+  const emptyMsg = { es: "Aún no hay textos publicados.", en: "No texts published yet.", ko: "아직 게시된 텍스트가 없습니다.", ja: "まだ公開されたテキストはありません。" };
+  const errMsg = { es: "No se pudo cargar la bibliografía.", en: "Could not load the bibliography.", ko: "참고 문헌을 불러올 수 없습니다.", ja: "参考文献を読み込めませんでした。" };
+
+  const longDate = (iso, lang) => {
+    const [y, m, d] = iso.split("-").map(Number);
+    if (lang === "ko") return `${y}년 ${m}월 ${d}일`;
+    if (lang === "ja") return `${y}年${m}月${d}日`;
+    if (lang === "en") return `${MONTHS.en[m - 1]} ${d}, ${y}`;
+    return `${d} de ${MONTHS.es[m - 1]} de ${y}`;
+  };
+  const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
+
+  let ENTRIES = null;
+
+  function render() {
+    if (!ENTRIES) return;
+    const lang = (window.i18n && window.i18n.getLang()) || "es";
+    if (!ENTRIES.length) { root.innerHTML = `<p class="muted">${emptyMsg[lang]}</p>`; return; }
+    const sorted = [...ENTRIES].sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+    root.innerHTML = sorted.map((e) => `
+      <article class="biblio-entry">
+        ${e.imageId ? `<div class="biblio-entry__img"><img src="${driveImg(e.imageId, 900)}" alt="${esc(pick(e.title, lang))}" loading="lazy" referrerpolicy="no-referrer"></div>` : ""}
+        <div class="biblio-entry__body">
+          <p class="biblio-entry__date">${longDate(e.date, lang)}</p>
+          <h2 class="display">${esc(pick(e.title, lang))}</h2>
+          ${e.medium ? `<p class="biblio-entry__medium">${esc(pick(e.medium, lang))}</p>` : ""}
+          <p>${esc(pick(e.summary, lang))}</p>
+          ${e.pdfId ? `<p class="detail__link"><a href="${driveView(e.pdfId)}" target="_blank" rel="noopener">${readLink[lang]}</a></p>` : ""}
+        </div>
+      </article>
+    `).join("");
+  }
 
   fetch("data/conceptual.json", { cache: "no-store" })
     .then((r) => r.json())
-    .then((entries) => {
-      if (!entries || !entries.length) { root.innerHTML = '<p class="muted">Aún no hay textos publicados.</p>'; return; }
-      entries.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
-      root.innerHTML = entries.map((e) => `
-        <article class="biblio-entry">
-          ${e.imageId ? `<div class="biblio-entry__img"><img src="${driveImg(e.imageId, 900)}" alt="${esc(e.title)}" loading="lazy" referrerpolicy="no-referrer"></div>` : ""}
-          <div class="biblio-entry__body">
-            <p class="biblio-entry__date">${longDate(e.date)}</p>
-            <h2 class="display">${esc(e.title)}</h2>
-            ${e.medium ? `<p class="biblio-entry__medium">${esc(e.medium)}</p>` : ""}
-            <p>${esc(e.summary)}</p>
-            ${e.pdfId ? `<p class="detail__link"><a href="${driveView(e.pdfId)}" target="_blank" rel="noopener">Leer documento completo ↗</a></p>` : ""}
-          </div>
-        </article>
-      `).join("");
-    })
-    .catch(() => { root.innerHTML = '<p class="muted">No se pudo cargar la bibliografía.</p>'; });
+    .then((entries) => { ENTRIES = entries; render(); })
+    .catch(() => {
+      const lang = (window.i18n && window.i18n.getLang()) || "es";
+      root.innerHTML = `<p class="muted">${errMsg[lang]}</p>`;
+    });
+
+  document.addEventListener("langchange", render);
 })();
 </script>
 </body>

@@ -13,31 +13,32 @@
 <header class="site-header">
 <div class="site-header__inner">
 <a href="index.html" class="brand"><em>Muu Blanco</em></a>
-<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<div class="lang-switch" id="langSwitch"></div>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" data-i18n="common.menu">Menu</button>
 <nav class="site-nav" id="siteNav">
-<a href="conceptual.html">Conceptual</a>
-<a href="multimedia.html">Multimedia</a>
-<a href="practicas-publicas.html">Prácticas Públicas</a>
-<a href="dr-musica.html">DR.MUUSICA</a>
-<a href="prensa.html">Prensa</a>
-<a href="cv.html">CV</a>
-<a href="store.html" aria-current="page">Galería</a>
-<a href="about.html">About</a>
+<a href="conceptual.html" data-i18n="common.nav.conceptual">Conceptual</a>
+<a href="multimedia.html" data-i18n="common.nav.multimedia">Multimedia</a>
+<a href="practicas-publicas.html" data-i18n="common.nav.practicas">Prácticas Públicas</a>
+<a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
+<a href="prensa.html" data-i18n="common.nav.prensa">Prensa</a>
+<a href="cv.html" data-i18n="common.nav.cv">CV</a>
+<a href="store.html" aria-current="page" data-i18n="common.nav.galeria">Galería</a>
+<a href="about.html" data-i18n="common.nav.about">About</a>
 </nav>
 </div>
 </header>
 
 <main>
 <div class="page-head">
-<p class="eyebrow">05 — Galería</p>
-<h1>Galería</h1>
-<p>Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.</p>
+<p class="eyebrow" data-i18n="store.eyebrow">05 — Galería</p>
+<h1 data-i18n="common.nav.galeria">Galería</h1>
+<p data-i18n="store.lead">Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.</p>
 </div>
 
 <div class="page-body">
-<p class="artfair-note">El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.</p>
+<p class="artfair-note" data-i18n="store.note">El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.</p>
 <div id="store">
-<p class="muted">Cargando galería…</p>
+<p class="muted" data-i18n="store.loading">Cargando galería…</p>
 </div>
 </div>
 </main>
@@ -49,7 +50,7 @@
 <div class="detail__media">
 <div class="carousel">
 <img class="carousel__img" id="sdImg" alt="" />
-<div class="carousel__ph" id="sdPh">Imagen en Google Drive</div>
+<div class="carousel__ph" id="sdPh" data-i18n="store.driveImage">Imagen en Google Drive</div>
 <button class="carousel__nav carousel__prev" id="sdPrev" aria-label="Obra anterior">‹</button>
 <button class="carousel__nav carousel__next" id="sdNext" aria-label="Obra siguiente">›</button>
 <div class="carousel__dots" id="sdDots"></div>
@@ -66,10 +67,11 @@
 <footer class="site-footer">
 <div class="site-footer__inner">
 <span><em>Muu Blanco</em></span>
-<span>Artista &amp; músico — Caracas / Miami.</span>
+<span data-i18n="common.footer.tagline">Artista &amp; músico — Caracas / Miami.</span>
 </div>
 </footer>
 
+<script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>

@@ -13,25 +13,26 @@
 <header class="site-header">
 <div class="site-header__inner">
 <a href="index.html" class="brand"><em>Muu Blanco</em></a>
-<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<div class="lang-switch" id="langSwitch"></div>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" data-i18n="common.menu">Menu</button>
 <nav class="site-nav" id="siteNav">
-<a href="conceptual.html">Conceptual</a>
-<a href="multimedia.html" aria-current="page">Multimedia</a>
-<a href="practicas-publicas.html">Prácticas Públicas</a>
-<a href="dr-musica.html">DR.MUUSICA</a>
-<a href="prensa.html">Prensa</a>
-<a href="cv.html">CV</a>
-<a href="store.html">Galería</a>
-<a href="about.html">About</a>
+<a href="conceptual.html" data-i18n="common.nav.conceptual">Conceptual</a>
+<a href="multimedia.html" aria-current="page" data-i18n="common.nav.multimedia">Multimedia</a>
+<a href="practicas-publicas.html" data-i18n="common.nav.practicas">Prácticas Públicas</a>
+<a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
+<a href="prensa.html" data-i18n="common.nav.prensa">Prensa</a>
+<a href="cv.html" data-i18n="common.nav.cv">CV</a>
+<a href="store.html" data-i18n="common.nav.galeria">Galería</a>
+<a href="about.html" data-i18n="common.nav.about">About</a>
 </nav>
 </div>
 </header>
 
 <main>
 <div class="page-head">
-<p class="eyebrow">02 — Multimedia</p>
-<h1>Multimedia</h1>
-<p>Video, performance sensorial e imagen en movimiento.</p>
+<p class="eyebrow" data-i18n="multimedia.eyebrow">02 — Multimedia</p>
+<h1 data-i18n="common.nav.multimedia">Multimedia</h1>
+<p data-i18n="multimedia.lead">Video, performance sensorial e imagen en movimiento.</p>
 </div>
 
 <div class="page-body">
@@ -40,11 +41,11 @@
 <div class="video-embed">
 <iframe src="https://drive.google.com/file/d/1X5a0MoWCM50cDSUWMdVh0Wcz3Q4QqhsL/preview" allow="autoplay" title="Latencies — Muu Blanco, 2026" loading="lazy"></iframe>
 </div>
-<p class="section-note">Sensori Mixmedia Performance · 40 min.</p>
+<p class="section-note" data-i18n="multimedia.latenciesNote">Sensori Mixmedia Performance · 40 min.</p>
 </section>
 
 <section>
-<h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:1.2rem;">Imagen en movimiento — registro</h2>
+<h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:1.2rem;" data-i18n="multimedia.record">Imagen en movimiento — registro</h2>
 <div class="gallery">
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1H-z5p0A8xt3G2LFBAnvQpsZGjEAJeudW=w900" alt="Latencies — promo" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -52,15 +53,15 @@
 </article>
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1KaT323kJ_TiFCAK2hS5ZdmNsOPigwNlZ=w900" alt="Registro" loading="lazy" referrerpolicy="no-referrer"></div>
-<div class="work__meta"><p class="work__title">Registro</p><p class="work__sub">2026</p></div>
+<div class="work__meta"><p class="work__title" data-i18n="multimedia.work.record">Registro</p><p class="work__sub">2026</p></div>
 </article>
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1RxJKeH6U9xzUbtc5eyNurO4R3r4QG_Vy=w900" alt="Autorretrato" loading="lazy" referrerpolicy="no-referrer"></div>
-<div class="work__meta"><p class="work__title">Autorretrato</p><p class="work__sub">2024</p></div>
+<div class="work__meta"><p class="work__title" data-i18n="multimedia.work.selfportrait">Autorretrato</p><p class="work__sub">2024</p></div>
 </article>
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1SVlCiQp5TChkyIjjW63jSaOyv9KWGPrm=w900" alt="Retratos Dr.Muusica — Andrés Manner" loading="lazy" referrerpolicy="no-referrer"></div>
-<div class="work__meta"><p class="work__title">Retratos Dr.Muusica</p><p class="work__sub">Andrés Manner, 2019</p></div>
+<div class="work__meta"><p class="work__title" data-i18n="multimedia.work.portraits">Retratos Dr.Muusica</p><p class="work__sub">Andrés Manner, 2019</p></div>
 </article>
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1Ty_yCUy9GSKoliByydKb4YAFS9mcYGZ8=w900" alt="AutoCopia" loading="lazy" referrerpolicy="no-referrer"></div>
@@ -78,9 +79,10 @@
 <footer class="site-footer">
 <div class="site-footer__inner">
 <span><em>Muu Blanco</em></span>
-<span>Artista &amp; músico — Caracas / Miami.</span>
+<span data-i18n="common.footer.tagline">Artista &amp; músico — Caracas / Miami.</span>
 </div>
 </footer>
+<script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>

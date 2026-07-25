@@ -13,30 +13,31 @@
 <header class="site-header">
 <div class="site-header__inner">
 <a href="index.html" class="brand"><em>Muu Blanco</em></a>
-<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<div class="lang-switch" id="langSwitch"></div>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" data-i18n="common.menu">Menu</button>
 <nav class="site-nav" id="siteNav">
-<a href="conceptual.html">Conceptual</a>
-<a href="multimedia.html">Multimedia</a>
-<a href="practicas-publicas.html">Prácticas Públicas</a>
-<a href="dr-musica.html">DR.MUUSICA</a>
-<a href="prensa.html" aria-current="page">Prensa</a>
-<a href="cv.html">CV</a>
-<a href="store.html">Galería</a>
-<a href="about.html">About</a>
+<a href="conceptual.html" data-i18n="common.nav.conceptual">Conceptual</a>
+<a href="multimedia.html" data-i18n="common.nav.multimedia">Multimedia</a>
+<a href="practicas-publicas.html" data-i18n="common.nav.practicas">Prácticas Públicas</a>
+<a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
+<a href="prensa.html" aria-current="page" data-i18n="common.nav.prensa">Prensa</a>
+<a href="cv.html" data-i18n="common.nav.cv">CV</a>
+<a href="store.html" data-i18n="common.nav.galeria">Galería</a>
+<a href="about.html" data-i18n="common.nav.about">About</a>
 </nav>
 </div>
 </header>
 
 <main>
 <div class="page-head">
-<p class="eyebrow">06 — Prensa</p>
-<h1>Prensa</h1>
-<p>Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.</p>
+<p class="eyebrow" data-i18n="prensa.eyebrow">06 — Prensa</p>
+<h1 data-i18n="common.nav.prensa">Prensa</h1>
+<p data-i18n="prensa.lead">Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.</p>
 </div>
 
 <div class="page-body">
 <div id="press">
-<p class="muted">Cargando reseñas…</p>
+<p class="muted" data-i18n="prensa.loading">Cargando reseñas…</p>
 </div>
 </div>
 </main>
@@ -44,10 +45,11 @@
 <footer class="site-footer">
 <div class="site-footer__inner">
 <span><em>Muu Blanco</em></span>
-<span>Artista &amp; músico — Caracas / Miami.</span>
+<span data-i18n="common.footer.tagline">Artista &amp; músico — Caracas / Miami.</span>
 </div>
 </footer>
 
+<script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
 <script>
 (function () {
@@ -57,25 +59,39 @@
   const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
   const driveThumb = (id, w = 900) => `https://drive.google.com/thumbnail?id=${id}&sz=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
+  const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
+  const emptyMsg = { es: "Aún no hay reseñas publicadas.", en: "No reviews published yet.", ko: "아직 게시된 리뷰가 없습니다.", ja: "まだ公開されたレビューはありません。" };
+  const errMsg = { es: "No se pudieron cargar las reseñas.", en: "Could not load the reviews.", ko: "리뷰를 불러올 수 없습니다.", ja: "レビューを読み込めませんでした。" };
+
+  let ENTRIES = null;
+
+  function render() {
+    if (!ENTRIES) return;
+    const lang = (window.i18n && window.i18n.getLang()) || "es";
+    if (!ENTRIES.length) { root.innerHTML = `<p class="muted">${emptyMsg[lang]}</p>`; return; }
+    const sorted = [...ENTRIES].sort((a, b) => yearKey(b.year) - yearKey(a.year));
+    root.innerHTML = `<div class="press-list">${sorted.map((e) => `
+      <article class="press-entry">
+        <p class="press-entry__year">${esc(e.year)}</p>
+        <div>
+          ${e.imageId ? `<a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a>` : ""}
+          <p class="press-entry__outlet">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(pick(e.kind, lang))}</span>` : ""}</p>
+          ${pick(e.place, lang) ? `<p class="press-entry__place">${esc(pick(e.place, lang))}</p>` : ""}
+          ${pick(e.note, lang) ? `<p class="press-entry__note">${esc(pick(e.note, lang))}</p>` : ""}
+        </div>
+      </article>
+    `).join("")}</div>`;
+  }
 
   fetch("data/prensa.json", { cache: "no-store" })
     .then((r) => r.json())
-    .then((entries) => {
-      if (!entries || !entries.length) { root.innerHTML = '<p class="muted">Aún no hay reseñas publicadas.</p>'; return; }
-      entries.sort((a, b) => yearKey(b.year) - yearKey(a.year));
-      root.innerHTML = `<div class="press-list">${entries.map((e) => `
-        <article class="press-entry">
-          <p class="press-entry__year">${esc(e.year)}</p>
-          <div>
-            ${e.imageId ? `<a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a>` : ""}
-            <p class="press-entry__outlet">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(e.kind)}</span>` : ""}</p>
-            ${e.place ? `<p class="press-entry__place">${esc(e.place)}</p>` : ""}
-            ${e.note ? `<p class="press-entry__note">${esc(e.note)}</p>` : ""}
-          </div>
-        </article>
-      `).join("")}</div>`;
-    })
-    .catch(() => { root.innerHTML = '<p class="muted">No se pudieron cargar las reseñas.</p>'; });
+    .then((entries) => { ENTRIES = entries; render(); })
+    .catch(() => {
+      const lang = (window.i18n && window.i18n.getLang()) || "es";
+      root.innerHTML = `<p class="muted">${errMsg[lang]}</p>`;
+    });
+
+  document.addEventListener("langchange", render);
 })();
 </script>
 </body>

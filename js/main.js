@@ -81,6 +81,14 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
   const root = document.querySelector("#store");
   if (!root) return;
 
+  const STORE_I18N = {
+    es: { available: "Disponible", images: "imágenes", driveImage: "Imagen en Google Drive", inquire: "Consultar disponibilidad ↗", noWorks: "Aún no hay obras cargadas.", loadError: "No se pudo cargar la galería.", prepStatus: "Galería en preparación", prepText: "Crea una Google Sheet con estas columnas y pega su ID en <code>STORE_SHEET_ID</code> (js/main.js): <code>Título, Imagen(es), Precio, Técnica, Tamaño, Disponible, Descripción, Fecha</code>. Plantilla de ejemplo: <code>data/store-template.csv</code>." },
+    en: { available: "Available", images: "images", driveImage: "Image on Google Drive", inquire: "Inquire about availability ↗", noWorks: "No works loaded yet.", loadError: "Could not load the gallery.", prepStatus: "Gallery in preparation", prepText: "Create a Google Sheet with these columns and paste its ID into <code>STORE_SHEET_ID</code> (js/main.js): <code>Title, Image(s), Price, Technique, Size, Available, Description, Date</code>. Example template: <code>data/store-template.csv</code>." },
+    ko: { available: "구매 가능", images: "이미지", driveImage: "Google Drive 이미지", inquire: "구매 가능 여부 문의 ↗", noWorks: "아직 등록된 작품이 없습니다.", loadError: "갤러리를 불러올 수 없습니다.", prepStatus: "갤러리 준비 중", prepText: "다음 열이 포함된 Google Sheet를 만들고 그 ID를 <code>STORE_SHEET_ID</code>(js/main.js)에 붙여넣으세요: <code>제목, 이미지, 가격, 기법, 크기, 구매가능여부, 설명, 날짜</code>. 예시 템플릿: <code>data/store-template.csv</code>." },
+    ja: { available: "販売可能", images: "枚の画像", driveImage: "Google Drive の画像", inquire: "在庫状況を問い合わせる ↗", noWorks: "まだ作品が登録されていません。", loadError: "ギャラリーを読み込めませんでした。", prepStatus: "ギャラリー準備中", prepText: "以下の列を含むGoogle Sheetを作成し、そのIDを<code>STORE_SHEET_ID</code>（js/main.js）に貼り付けてください：<code>タイトル、画像、価格、技法、サイズ、在庫、説明、日付</code>。サンプルテンプレート：<code>data/store-template.csv</code>。" }
+  };
+  const t = () => STORE_I18N[(window.i18n && window.i18n.getLang()) || "es"] || STORE_I18N.es;
+
   const driveImg = (id, w = 1200) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
   const driveIds = (s) => [...(s || "").matchAll(/(?:id=|\/d\/)([A-Za-z0-9_-]{20,})/g)].map((m) => m[1]);
@@ -119,7 +127,7 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
   function metaHtml(w) {
     const p = [];
     if (w.price) p.push(`<span class="badge">${esc(w.price)}</span>`);
-    if (w.available) p.push(`<span>${/^(s[ií]|yes|true)/i.test(w.available) ? "Disponible" : esc(w.available)}</span>`);
+    if (w.available) p.push(`<span>${/^(s[ií]|yes|true)/i.test(w.available) ? t().available : esc(w.available)}</span>`);
     return p.join("");
   }
 
@@ -128,9 +136,9 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
     const img = first
       ? `<img src="${driveImg(first, 800)}" alt="${esc(w.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove();this.closest('.art-card__img').classList.add('is-empty')">`
       : "";
-    const count = w.imageIds.length > 1 ? `<span class="art-card__count">${w.imageIds.length} imágenes</span>` : "";
+    const count = w.imageIds.length > 1 ? `<span class="art-card__count">${w.imageIds.length} ${t().images}</span>` : "";
     return `<button class="art-card" data-i="${i}" aria-label="Ver ${esc(w.title)}">
-      <span class="art-card__img${first ? "" : " is-empty"}">${img}<span class="art-card__ph">Imagen en Google Drive</span>${count}</span>
+      <span class="art-card__img${first ? "" : " is-empty"}">${img}<span class="art-card__ph">${t().driveImage}</span>${count}</span>
       <span class="art-card__body">
         <span class="art-card__name">${esc(w.title)}</span>
         <span class="art-card__meta">${metaHtml(w)}</span>
@@ -168,7 +176,7 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
     const bits = [];
     if (cur.technique || cur.size) bits.push(`<p class="biblio-entry__medium">${[esc(cur.technique), esc(cur.size)].filter(Boolean).join(" · ")}</p>`);
     if (cur.description) bits.push(`<p>${esc(cur.description)}</p>`);
-    bits.push(`<p class="detail__link"><a href="mailto:drmuuuusica@gmail.com?subject=${encodeURIComponent("Consulta — " + cur.title)}">Consultar disponibilidad ↗</a></p>`);
+    bits.push(`<p class="detail__link"><a href="mailto:drmuuuusica@gmail.com?subject=${encodeURIComponent("Consulta — " + cur.title)}">${t().inquire}</a></p>`);
     document.querySelector("#sdBody").innerHTML = bits.join("");
     document.querySelector("#sdDots").innerHTML = cur.imageIds.map((_, k) => `<button data-k="${k}" aria-label="Imagen ${k + 1}"></button>`).join("");
     document.querySelectorAll("#sdDots button").forEach((d) => d.addEventListener("click", () => showSlide(+d.dataset.k)));
@@ -199,18 +207,23 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
     WORKS = works;
     root.innerHTML = works.length
       ? `<div class="artfair-grid">${works.map(cardHtml).join("")}</div>`
-      : '<p class="muted">Aún no hay obras cargadas.</p>';
+      : `<p class="muted">${t().noWorks}</p>`;
     root.querySelectorAll(".art-card").forEach((b) => b.addEventListener("click", () => openDetail(+b.dataset.i)));
   }
 
   const csvUrl = (id) => `https://docs.google.com/spreadsheets/d/${id}/gviz/tq?tqx=out:csv`;
 
-  if (!STORE_SHEET_ID) {
+  function renderPrepState() {
     root.innerHTML = `
       <div class="open-call">
-        <p class="open-call__status">Galería en preparación</p>
-        <p class="open-call__text">Crea una Google Sheet con estas columnas y pega su ID en <code>STORE_SHEET_ID</code> (js/main.js): <code>Título, Imagen(es), Precio, Técnica, Tamaño, Disponible, Descripción, Fecha</code>. Plantilla de ejemplo: <code>data/store-template.csv</code>.</p>
+        <p class="open-call__status">${t().prepStatus}</p>
+        <p class="open-call__text">${t().prepText}</p>
       </div>`;
+  }
+
+  if (!STORE_SHEET_ID) {
+    renderPrepState();
+    document.addEventListener("langchange", renderPrepState);
     return;
   }
 
@@ -219,6 +232,8 @@ const STORE_SHEET_ID = ""; // paste the Google Sheet id here when ready
     .then((text) => render(rowsToWorks(parseCSV(text))))
     .catch((err) => {
       console.warn("Store fetch failed:", err);
-      root.innerHTML = '<p class="muted">No se pudo cargar la galería.</p>';
+      root.innerHTML = `<p class="muted">${t().loadError}</p>`;
     });
+
+  document.addEventListener("langchange", () => render(WORKS));
 })();

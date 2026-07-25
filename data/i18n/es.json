@@ -1,0 +1,170 @@
+{
+  "common": {
+    "menu": "Menu",
+    "enter": "Entrar →",
+    "nav": {
+      "conceptual": "Conceptual",
+      "multimedia": "Multimedia",
+      "practicas": "Prácticas Públicas",
+      "drmusica": "DR.MUUSICA",
+      "prensa": "Prensa",
+      "cv": "CV",
+      "galeria": "Galería",
+      "about": "About"
+    },
+    "footer": {
+      "tagline": "Artista &amp; músico — Caracas / Miami."
+    }
+  },
+  "index": {
+    "intro": {
+      "subtitle": "Artista &amp; músico. Caracas / Miami.",
+      "hint": "Toca para continuar",
+      "cta": "Esto es lo que puedes explorar →",
+      "skip": "Saltar"
+    },
+    "hero": {
+      "placeholder": "Imagen pendiente",
+      "needs": "Artista y músico multidisciplinario —",
+      "accent": "arte conceptual, multimedia y práctica pública.",
+      "sub": "Explora los espacios de <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
+    },
+    "tiles": {
+      "conceptual": "Textos, notas de trabajo y bitácora de piezas — ordenados cronológicamente.",
+      "multimedia": "Video, performance sensorial e imagen en movimiento.",
+      "practicas": "Instagram, YouTube, SoundCloud y Discogs — la práctica en curso.",
+      "drmusica": "El alias sonoro — producciones, colaboraciones y lanzamientos.",
+      "galeria": "Obra original disponible — tienda virtual, consulta precio y disponibilidad.",
+      "prensa": "Reseñas publicadas en periódicos y revistas — ordenadas cronológicamente.",
+      "cv": "Guía cronológica completa — educación, exposiciones, discografía y prensa."
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "lead": "Artista y músico multidisciplinario. Alias sonoro: <em>Dr.Muusica</em>. Caracas / Miami.",
+    "h2": {
+      "summary": "Resumen",
+      "full": "Biografía completa",
+      "recent": "Trabajo reciente",
+      "selfportrait": "Autorretrato en el tiempo",
+      "contact": "Contacto",
+      "morelinks": "Más enlaces",
+      "projects": "Proyectos y espacios"
+    },
+    "summary": {
+      "p1": "Muu Blanco (Caracas, Venezuela, 1966) es un artista multidisciplinario, videoartista y creador de instalaciones multimedia radicado en Miami. Desde principios de los años 90, su práctica ha explorado la relación entre la imagen, el sonido y el paisaje urbano a través del video experimental, el arte sonoro, la performance, la fotografía y el video mapping.",
+      "p2": "Sus primeras obras en video fueron realizadas en formato Video8 y presentadas más tarde en el II Salón Pirelli de Jóvenes Artistas del Museo de Arte Contemporáneo de Caracas, donde la serie completa fue adquirida por la Colección Noa Noa. Su obra ha sido exhibida en instituciones como el Museo de Arte Contemporáneo de Caracas Sofía Imber, la Sala Mendoza, la Cinemateca Nacional de Caracas y Mandragoras Art Space en Nueva York.",
+      "p3": "Desde su traslado a Miami en 2014, Blanco ha continuado desarrollando instalaciones multimedia que integran video mapping, arte sonoro y performance, incluyendo su proyecto más reciente, NatuUrban Symphony (2024–2025)."
+    },
+    "full": {
+      "p1": "Muu Blanco (Caracas, Venezuela, 1966) es un artista multidisciplinario, videoartista y creador de instalaciones multimedia radicado en Miami. Su práctica artística abarca el videoarte experimental, el arte sonoro, la performance, la fotografía, el ensamblaje, la instalación, la música electrónica y el video mapping, desarrollando desde principios de los años 90 una investigación continua sobre la relación entre la imagen, el sonido y el paisaje urbano.",
+      "p2": "Blanco comenzó a trabajar con videoarte experimental a principios de los años 90, utilizando inicialmente el formato Video8 como herramienta de exploración estética. Su primera participación en una exposición colectiva con video tuvo lugar en 1992, cuando una de sus piezas fue adquirida por el coleccionista Jimmy Belilty. A partir de ese momento, inició una exploración continua del lenguaje audiovisual experimental.",
+      "p3": "En 1994 participó en la exposición colectiva Técnicas Mixtas en la Galería Alternativa de Caracas, una de sus primeras presentaciones dentro del circuito expositivo de arte contemporáneo.",
+      "p4": "Para 1995 ya había producido más de treinta piezas de video experimental, que posteriormente fueron presentadas en el II Salón Pirelli de Jóvenes Artistas (1997) en el Museo de Arte Contemporáneo de Caracas, donde todo el conjunto de obras fue adquirido por la colección privada Noa Noa de la familia Oberto.",
+      "p5": "Durante finales de los años 90 y principios de los 2000 continuó ampliando su investigación audiovisual, documentando performances y desarrollando proyectos experimentales en video y sonido.",
+      "p6": "En 2002 participó en la exposición Del Cubo Blanco a la Caja Negra: cintas históricas, videos creativos, arte digital, video venezolano en el Museo de Arte Contemporáneo de Caracas Sofía Imber. Ese mismo año participó también en el proyecto Artista multimedia, fundador del Centro para las Artes, presentado en la misma institución. Durante este período también contribuyó a la creación de la colección de videoarte del museo, donando e incorporando veinte obras de video producidas durante esa década a la institución.",
+      "p7": "En 2003 participó en el XI Premio Eugenio Mendoza en la Sala Mendoza, Caracas.",
+      "p8": "En 2004 presentó la obra Variaciones del ojo. Videodanza – Muu Blanco en la Cinemateca Nacional de Caracas. Ese mismo año su obra fue incluida en la exposición Tierra Eléctrica. Cortometrajes y videos de Reino Unido y Venezuela, presentada en la Sala Mendoza, un programa internacional dedicado al video experimental y al cortometraje.",
+      "p9": "En 2006 presentó un proyecto de video experimental en el Museo Jacobo Borges, desarrollado en colaboración con el Goethe-Institut. El proyecto se centraba en los vendedores ambulantes y la economía informal en las calles de Caracas, abordando el paisaje urbano como un espacio social y político.",
+      "p10": "A partir de 2008 comenzó a integrar la proyección expandida y el video mapping en sus instalaciones multimedia. Más tarde, en 2013, desarrolló un proyecto de investigación en diapositivas y retrato fotográfico animado, que culminó ese mismo año con su última exposición individual en Venezuela, In Tha House, presentada en Carmen Araujo Arte, una instalación multimedia que combinaba video, pintura, escultura y sonido.",
+      "p11": "En 2014 realizó su primera exposición individual en la ciudad de Nueva York con la instalación multimedia Black Point Venezuela, presentada dentro del programa de performance de Mandragoras Art Space en Long Island City. La obra integraba arte sonoro, video mapping, escultura y collage analógico, abordando las tensiones sociales y políticas del contexto venezolano contemporáneo.",
+      "p12": "Ese mismo año se mudó a Miami, donde continúa desarrollando gran parte de su producción artística. En 2015 presentó Nuevo Pensamiento Compositivo Vol.1 en Arts Connection Foundation, dentro del espacio Chill Concept, una instalación que combinaba fotografía de gran formato, video mapping y arte sonoro.",
+      "p13": "Entre 2017 y 2019 desarrolló una serie de eventos y experiencias audiovisuales experimentales en Ironside Miami, específicamente en Espacio Santamantis, donde organizó encuentros dedicados al video mapping y a la música experimental en vivo.",
+      "p14": "Tras la interrupción de estos espacios creativos durante la pandemia de COVID-19, en 2020 cofundó el colectivo artístico IDArt Lab en el vecindario de Allapattah, activo hasta 2023. Dentro de este colectivo participó en varias exposiciones colectivas presentando video mapping, animaciones experimentales y performances lumínicas sensibles al sonido, acompañadas de composiciones de arte sonoro en vivo.",
+      "p15": "Su proyecto más reciente es el programa de instalación y arte sonoro NatuUrban Symphony, presentado entre noviembre de 2024 y enero de 2025 en Arts Connection Foundation, que integra música experimental, danza, proyecciones de video mapping y la presentación de su documental NatuUrban Symphony.",
+      "p16": "Desde 2017, Blanco mantiene la cuenta de Instagram <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a> como un archivo vivo de su producción audiovisual, documentando instalaciones, performances y experimentos de video desarrollados durante su última década de trabajo en Miami.",
+      "p17": "Con más de tres décadas de trayectoria artística, Muu Blanco ha desarrollado una práctica híbrida en la que el video, el sonido, la tecnología y la performance funcionan como dispositivos para investigar la cultura urbana, la memoria y las tensiones sociales contemporáneas. Su obra forma parte de diversas colecciones públicas y privadas internacionales."
+    },
+    "recent": {
+      "p1": "La pieza en curso, <strong>Latencies</strong> (2026), es una performance sensorial multimedia de 40 minutos. Se documenta en las secciones <a href=\"conceptual.html\">Conceptual</a> y <a href=\"multimedia.html\">Multimedia</a> de este sitio."
+    },
+    "selfportrait": {
+      "li1": "AutoCopia — primer autorretrato registrado en el archivo del artista.",
+      "li2": "Retratos Dr.Muusica — por Andrés Manner.",
+      "li3": "Autorretrato — Muu Blanco.",
+      "li4": "Latencies — performance sensorial multimedia, 40 min."
+    },
+    "contact": {
+      "p1": "Prácticas y redes activas en <a href=\"practicas-publicas.html\">Prácticas Públicas</a>. Obra disponible para adquisición en la <a href=\"store.html\">Galería</a>."
+    },
+    "morelinks": {
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — biografía y trayectoria. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — todos los enlaces del artista en un solo lugar."
+    },
+    "projects": {
+      "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — perfil de artista en el espacio expositivo de Miami. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — proyecto de investigación sobre la historia del arte sonoro."
+    }
+  },
+  "conceptual": {
+    "eyebrow": "01 — Conceptual",
+    "lead": "Bitácora de textos y documentos de trabajo, ordenados por fecha de creación real del archivo (metadata del PDF, no la fecha de subida).",
+    "loading": "Cargando bibliografía…",
+    "publications": "Publicaciones",
+    "withGerardo": "con Gerardo Zavarze"
+  },
+  "multimedia": {
+    "eyebrow": "02 — Multimedia",
+    "lead": "Video, performance sensorial e imagen en movimiento.",
+    "latenciesNote": "Sensori Mixmedia Performance · 40 min.",
+    "record": "Imagen en movimiento — registro",
+    "work": {
+      "record": "Registro",
+      "selfportrait": "Autorretrato",
+      "portraits": "Retratos Dr.Muusica"
+    }
+  },
+  "practicas": {
+    "eyebrow": "03 — Prácticas Públicas",
+    "lead": "La práctica en curso, documentada en redes: siete cuentas de Instagram, YouTube, SoundCloud y Discogs.",
+    "pending": "Pendiente",
+    "note": "Los enlaces se están definiendo — esta sección se actualiza en cuanto estén disponibles."
+  },
+  "drmusica": {
+    "eyebrow": "04 — DR.MUUSICA",
+    "lead": "El alias sonoro de Muu Blanco. Producciones, colaboraciones y lanzamientos.",
+    "tracks": "81 pistas",
+    "videos": "78 videos",
+    "h2": {
+      "listen": "Escucha",
+      "press": "En la prensa"
+    },
+    "press": {
+      "lead": "Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente.",
+      "p1": { "outlet": "Código de Barra (blog)", "place": "El Patio, Caracas — 29 de enero de 2009" },
+      "p2": { "outlet": "El Hilo Musical (blog)", "place": "Caracas — 27 de febrero de 2009" },
+      "p3": { "outlet": "Fundación Cisneros — Seminario (Vimeo)", "place": "Pecha Kucha" },
+      "p4": { "place": "Caracas — 4 de julio de 2013" },
+      "p5": { "place": "12 de diciembre de 2019", "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (reseña) ↗</a>" },
+      "p6": { "place": "Venezuela" },
+      "p7": { "place": "Miami" },
+      "p8": { "place": "20 de noviembre de 2024" }
+    }
+  },
+  "prensa": {
+    "eyebrow": "06 — Prensa",
+    "lead": "Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.",
+    "loading": "Cargando reseñas…"
+  },
+  "store": {
+    "eyebrow": "05 — Galería",
+    "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
+    "note": "El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.",
+    "loading": "Cargando galería…",
+    "driveImage": "Imagen en Google Drive"
+  },
+  "cv": {
+    "eyebrow": "07 — CV",
+    "lead": "Guía cronológica de la trayectoria artística de Muu Blanco (Caracas, Venezuela, 1966). Vive y trabaja en Miami. Artista venezolano-norteamericano.",
+    "h2": {
+      "education": "Educación",
+      "awards": "Premios y Reconocimientos",
+      "solo": "Exposiciones Individuales",
+      "group": "Exposiciones Colectivas",
+      "collections": "Colecciones Públicas",
+      "discography": "Discografía (selección)",
+      "installations": "Instalaciones sonoras y performativas destacadas",
+      "residencies": "Residencias Artísticas",
+      "publications": "Publicaciones / Prensa / Mención crítica (selección)",
+      "media": "Reseñado en medios como"
+    }
+  }
+}

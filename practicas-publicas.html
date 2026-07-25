@@ -13,25 +13,26 @@
 <header class="site-header">
 <div class="site-header__inner">
 <a href="index.html" class="brand"><em>Muu Blanco</em></a>
-<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">Menu</button>
+<div class="lang-switch" id="langSwitch"></div>
+<button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" data-i18n="common.menu">Menu</button>
 <nav class="site-nav" id="siteNav">
-<a href="conceptual.html">Conceptual</a>
-<a href="multimedia.html">Multimedia</a>
-<a href="practicas-publicas.html" aria-current="page">Prácticas Públicas</a>
-<a href="dr-musica.html">DR.MUUSICA</a>
-<a href="prensa.html">Prensa</a>
-<a href="cv.html">CV</a>
-<a href="store.html">Galería</a>
-<a href="about.html">About</a>
+<a href="conceptual.html" data-i18n="common.nav.conceptual">Conceptual</a>
+<a href="multimedia.html" data-i18n="common.nav.multimedia">Multimedia</a>
+<a href="practicas-publicas.html" aria-current="page" data-i18n="common.nav.practicas">Prácticas Públicas</a>
+<a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
+<a href="prensa.html" data-i18n="common.nav.prensa">Prensa</a>
+<a href="cv.html" data-i18n="common.nav.cv">CV</a>
+<a href="store.html" data-i18n="common.nav.galeria">Galería</a>
+<a href="about.html" data-i18n="common.nav.about">About</a>
 </nav>
 </div>
 </header>
 
 <main>
 <div class="page-head">
-<p class="eyebrow">03 — Prácticas Públicas</p>
-<h1>Prácticas Públicas</h1>
-<p>La práctica en curso, documentada en redes: siete cuentas de Instagram, YouTube, SoundCloud y Discogs.</p>
+<p class="eyebrow" data-i18n="practicas.eyebrow">03 — Prácticas Públicas</p>
+<h1 data-i18n="common.nav.practicas">Prácticas Públicas</h1>
+<p data-i18n="practicas.lead">La práctica en curso, documentada en redes: siete cuentas de Instagram, YouTube, SoundCloud y Discogs.</p>
 </div>
 
 <div class="page-body">
@@ -75,19 +76,20 @@
 </a>
 <a class="social-card" href="#" target="_blank" rel="noopener">
 <span class="social-card__label">Discogs</span>
-<span class="social-card__handle">Pendiente</span>
+<span class="social-card__handle" data-i18n="practicas.pending">Pendiente</span>
 </a>
 </div>
-<p class="artfair-note" style="margin-top:2.2rem;">Los enlaces se están definiendo — esta sección se actualiza en cuanto estén disponibles.</p>
+<p class="artfair-note" style="margin-top:2.2rem;" data-i18n="practicas.note">Los enlaces se están definiendo — esta sección se actualiza en cuanto estén disponibles.</p>
 </div>
 </main>
 
 <footer class="site-footer">
 <div class="site-footer__inner">
 <span><em>Muu Blanco</em></span>
-<span>Artista &amp; músico — Caracas / Miami.</span>
+<span data-i18n="common.footer.tagline">Artista &amp; músico — Caracas / Miami.</span>
 </div>
 </footer>
+<script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>
