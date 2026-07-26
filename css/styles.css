@@ -141,10 +141,10 @@ main { min-height: 60vh; }
 .page-body { max-width: var(--wrap); margin: 0 auto; padding: 1rem var(--gutter) 5rem; }
 
 /* ===== Gallery grid (Art Fair / Archive) ===== */
-.gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1rem, 2.5vw, 2rem); }
+.gallery { display: grid; grid-template-columns: 1fr; gap: clamp(1.5rem, 4vw, 3rem); }
 .work { }
-.work__img { aspect-ratio: 4 / 5; background: #e7e4db; border: 1px solid var(--line-soft); overflow: hidden; }
-.work__img img { width: 100%; height: 100%; object-fit: cover; }
+.work__img { background: #e7e4db; border: 1px solid var(--line-soft); }
+.work__img img { display: block; width: 100%; height: auto; }
 .work__meta { padding-top: .7rem; }
 .work__title { font-size: 1rem; }
 .work__sub { color: var(--muted); font-size: .88rem; }
@@ -284,7 +284,6 @@ main { min-height: 60vh; }
 
 /* ===== Responsive ===== */
 @media (max-width: 860px) {
-  .gallery { grid-template-columns: repeat(2, 1fr); }
   .index-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
@@ -292,5 +291,4 @@ main { min-height: 60vh; }
   .site-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--paper); border-bottom: 1px solid var(--line); }
   .site-nav.is-open { display: flex; }
   .site-nav a { padding: 1rem var(--gutter); border-top: 1px solid var(--line-soft); }
-  .gallery { grid-template-columns: 1fr 1fr; gap: 1rem; }
 }
