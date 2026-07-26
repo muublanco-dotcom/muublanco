@@ -189,6 +189,12 @@
     "lead": "Long-running research lines within Muu Blanco's practice — each with its own body of work, publications, and presentations.",
     "ongoing": "Ongoing",
     "seeInPress": "See in Music Press",
+    "seeInPress2": "See in Press",
+    "viewPdfCatalog": "Catalog (PDF) ↗",
+    "viewPdfSicart": "2010 Sicart Catalog (PDF) ↗",
+    "viewPdfBook": "AAA 2002–2012 Photobook (PDF) ↗",
+    "viewPdfPhotos": "Photographs (PDF) ↗",
+    "viewPdfDossier": "Dossier (PDF) ↗",
     "natuurban": {
       "medium": "Sound installation, dance, and video mapping",
       "p1": "An installation and sound art program presented at Arts Connection Foundation, Miami. It integrates experimental music, dance, video mapping projections, and a companion documentary — Muu Blanco's most recent research into soundscape and the urban natural environment."
@@ -203,7 +209,11 @@
     },
     "modernismo": {
       "medium": "Analog collage / mixed media",
-      "p1": "A series of analog collage and mixed media work reinterpreting Venezuelan architectural modernism — exhibited at Galería Sicart (Barcelona) and Centro Cultural Chacao (Caracas), and published as a catalog/book."
+      "p1": "A series of analog collage and mixed media work reinterpreting Venezuelan architectural modernism, begun in 2002 — exhibited at Héroes y Basura (Caracas, 2005), Espacio Hardcore Art Contemporary (Miami, 2006), Bello Horizonte / Centro Cultural Chacao (Caracas, 2007), and Galería Sicart (Barcelona, 2008), and published as a catalog/book."
+    },
+    "fosiles": {
+      "medium": "Photography",
+      "p1": "Independent photographic research begun in 2002, presented as a solo exhibition at Galería Fernando Zubillaga, Caracas (Periférico Caracas, 2006; Galpones del Centro de Arte, 2010) — covered in an interview by El Nacional."
     }
   }
 }
