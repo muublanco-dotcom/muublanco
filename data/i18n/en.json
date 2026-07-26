@@ -224,8 +224,19 @@
     },
     "artesonoro": {
       "title": "Sound Art",
-      "medium": "Sound installation",
-      "p1": "Paisaje Sonoro Caracas–Berlín (2009), a sound art installation presented at Sala Mendoza, Caracas, and released as a sound catalog on CD."
+      "medium": "Sound installation, performance, and video documentation",
+      "p1": "An archive of video and photographic documentation of Muu Blanco's sound art practice, from early sound installations to recent performances and short films.",
+      "v1": { "meta": "Multimedia sensorial performance · Mad Museum" },
+      "v2": { "meta": "Short film · PlantPop" },
+      "v3": {
+        "meta": "Concept and curation: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, November 2023",
+        "desc": "This historical overview, spanning from Futurism to contemporary Sound Art, highlights the evolution of sound experimentation throughout the XX and XXI centuries. Beginning with Futurist artists who sought to represent modern life and technology through chaotic Dadaism and musical vanguards such as Concrete Music and Fluxus. Next, Radio Art introduces collaboration and audience interaction into the audible narrative. Lastly, Ambient Music, inspired by Brian Eno, focuses on creating relaxing sound atmospheres. Finally, R. Murray Schafer's Soundscape concept highlights the importance of sounds in culture and the environment, influencing urban design and environmental awareness. This historical journey reflects the constant expansion of sound creativity over the years."
+      },
+      "v4": {
+        "meta": "Series: Lumínico Sonoro #MuuBlanco · 05.01.2021",
+        "desc": "Documentation of the interactive multimedia sound and light action — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — \"Multimedia Art Action 2021\" at @idartlab. Documentation: Anarquía 101."
+      },
+      "v5": { "meta": "Multimedia Installation (Performance, Sound) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC" }
     },
     "instalaciones": {
       "title": "Installations",
