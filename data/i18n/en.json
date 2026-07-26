@@ -118,14 +118,7 @@
   },
   "multimedia": {
     "eyebrow": "02 — Multimedia",
-    "lead": "Video, sensorial performance, and moving image.",
-    "latenciesNote": "Sensorial Mixmedia Performance · 40 min.",
-    "record": "Moving image — documentation",
-    "work": {
-      "record": "Documentation",
-      "selfportrait": "Self-portrait",
-      "portraits": "Dr.Muusica Portraits"
-    }
+    "lead": "Video, sensorial performance, and moving image."
   },
   "practicas": {
     "eyebrow": "03 — Public Practices",

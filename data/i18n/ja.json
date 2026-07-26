@@ -118,14 +118,7 @@
   },
   "multimedia": {
     "eyebrow": "02 — マルチメディア",
-    "lead": "ビデオ、感覚的パフォーマンス、動画イメージ。",
-    "latenciesNote": "感覚的ミックスメディア・パフォーマンス・40分。",
-    "record": "動画イメージ — 記録",
-    "work": {
-      "record": "記録",
-      "selfportrait": "自画像",
-      "portraits": "Dr.Muusica肖像"
-    }
+    "lead": "ビデオ、感覚的パフォーマンス、動画イメージ。"
   },
   "practicas": {
     "eyebrow": "03 — パブリック・プラクティス",

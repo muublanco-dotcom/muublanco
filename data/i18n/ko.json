@@ -118,14 +118,7 @@
   },
   "multimedia": {
     "eyebrow": "02 — 멀티미디어",
-    "lead": "비디오, 감각적 퍼포먼스, 무빙 이미지.",
-    "latenciesNote": "감각적 믹스미디어 퍼포먼스 · 40분.",
-    "record": "무빙 이미지 — 기록",
-    "work": {
-      "record": "기록",
-      "selfportrait": "자화상",
-      "portraits": "Dr.Muusica 초상"
-    }
+    "lead": "비디오, 감각적 퍼포먼스, 무빙 이미지."
   },
   "practicas": {
     "eyebrow": "03 — 퍼블릭 프랙티스",
