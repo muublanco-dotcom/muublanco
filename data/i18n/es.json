@@ -214,6 +214,25 @@
     "fosiles": {
       "medium": "Fotografía",
       "p1": "Investigación fotográfica independiente iniciada en 2002, presentada como exposición individual en la Galería Fernando Zubillaga, Caracas (Periférico Caracas, 2006; Galpones del Centro de Arte, 2010) — cubierta en entrevista por El Nacional."
+    },
+    "abstraccion": {
+      "title": "Abstracción",
+      "p1": "Violencia Abstracta (2023), nueva serie de investigación en abstracción."
+    },
+    "artesonoro": {
+      "title": "Arte Sonoro",
+      "medium": "Instalación sonora",
+      "p1": "Paisaje Sonoro Caracas–Berlín (2009), instalación de arte sonoro presentada en la Sala Mendoza, Caracas, y publicada como catálogo sonoro en CD."
+    },
+    "instalaciones": {
+      "title": "Instalaciones",
+      "medium": "Instalación",
+      "p1": "Muuseo Blanco (1998), una de las primeras instalaciones documentadas del artista."
+    },
+    "performances": {
+      "title": "Performances",
+      "medium": "Performance",
+      "p1": "Dos hitos performáticos de la trayectoria de Muu Blanco: su primer performance (1986), que marca el inicio de su práctica artística, y Perra Chillona (1996), cortometraje ganador del Primer Premio en la Bienal de Cortometrajes de São Paulo — monólogo de Muu Blanco, dirección de Sabrina Montiel-Soto."
     }
   }
 }

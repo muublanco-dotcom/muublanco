@@ -214,6 +214,25 @@
     "fosiles": {
       "medium": "Photography",
       "p1": "Independent photographic research begun in 2002, presented as a solo exhibition at Galería Fernando Zubillaga, Caracas (Periférico Caracas, 2006; Galpones del Centro de Arte, 2010) — covered in an interview by El Nacional."
+    },
+    "abstraccion": {
+      "title": "Abstraction",
+      "p1": "Violencia Abstracta (2023), a new research series in abstraction."
+    },
+    "artesonoro": {
+      "title": "Sound Art",
+      "medium": "Sound installation",
+      "p1": "Paisaje Sonoro Caracas–Berlín (2009), a sound art installation presented at Sala Mendoza, Caracas, and released as a sound catalog on CD."
+    },
+    "instalaciones": {
+      "title": "Installations",
+      "medium": "Installation",
+      "p1": "Muuseo Blanco (1998), one of the artist's earliest documented installations."
+    },
+    "performances": {
+      "title": "Performances",
+      "medium": "Performance",
+      "p1": "Two performative milestones in Muu Blanco's trajectory: his first performance (1986), marking the beginning of his artistic practice, and Perra Chillona (1996), a short film that won First Prize at the São Paulo Short Film Biennial — monologue by Muu Blanco, directed by Sabrina Montiel-Soto."
     }
   }
 }
