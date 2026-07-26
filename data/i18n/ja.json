@@ -104,6 +104,8 @@
     "loading": "参考文献を読み込み中…",
     "publications": "出版物",
     "withGerardo": "ジェラルド・サバルセとの共著",
+    "pdfNct1": "New Compositional Thinking 1（PDF）↗",
+    "pdfNct2": "New Compositional Thinking 2（PDF）↗",
     "statementTitle": "アーティスト・ステートメント",
     "statement": {
       "p1": "私の芸術的実践は1986年、芸術を孤立した一分野としてではなく、イメージ、音、建築、風景、記憶が出会うことのできる領域として理解する直感的な探求として始まった。それ以来、私たちが世界をどのように知覚し、時間がその関係をどのように変えていくのかを探求する必要性に突き動かされながら、絶えず変容し続ける学際的な軌跡を築いてきた。",
@@ -191,6 +193,7 @@
     "seeInPress": "音楽プレスで見る",
     "seeInPress2": "プレスで見る",
     "viewPdfCatalog": "カタログ（PDF）↗",
+    "viewPdfMA": "MA資料集（PDF）↗",
     "viewPdfSicart": "2010年シカルトカタログ（PDF）↗",
     "viewPdfBook": "AAA 2002–2012 フォトブック（PDF）↗",
     "viewPdfPhotos": "写真（PDF）↗",

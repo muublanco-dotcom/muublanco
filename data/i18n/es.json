@@ -104,6 +104,8 @@
     "loading": "Cargando bibliografía…",
     "publications": "Publicaciones",
     "withGerardo": "con Gerardo Zavarze",
+    "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
+    "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
     "statementTitle": "Declaración de Artista",
     "statement": {
       "p1": "Mi práctica artística comenzó en 1986 como una búsqueda intuitiva que entendía el arte no como una disciplina aislada, sino como un territorio donde podían encontrarse la imagen, el sonido, la arquitectura, el paisaje y la memoria. Desde entonces he construido una trayectoria multidisciplinaria en constante transformación, impulsada por la necesidad de investigar cómo percibimos el mundo y cómo el tiempo modifica nuestra relación con él.",
@@ -191,6 +193,7 @@
     "seeInPress": "Ver en Prensa musical",
     "seeInPress2": "Ver en Prensa",
     "viewPdfCatalog": "Catálogo (PDF) ↗",
+    "viewPdfMA": "Dossier MA (PDF) ↗",
     "viewPdfSicart": "Catálogo Sicart 2010 (PDF) ↗",
     "viewPdfBook": "Fotolibro AAA 2002–2012 (PDF) ↗",
     "viewPdfPhotos": "Fotografías (PDF) ↗",

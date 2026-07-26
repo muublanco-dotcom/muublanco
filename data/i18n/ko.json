@@ -104,6 +104,8 @@
     "loading": "참고 문헌 불러오는 중…",
     "publications": "출판물",
     "withGerardo": "제라르도 사바르세 공저",
+    "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
+    "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
     "statementTitle": "작가 노트",
     "statement": {
       "p1": "저의 예술적 실천은 1986년, 예술을 고립된 하나의 분야가 아니라 이미지, 소리, 건축, 풍경, 기억이 만날 수 있는 하나의 영역으로 이해하는 직관적인 탐구로부터 시작되었다. 그 이후로 나는 우리가 세상을 어떻게 지각하는지, 그리고 시간이 그 관계를 어떻게 변화시키는지를 탐구해야 한다는 필요에 이끌려 끊임없이 변화하는 다학제적 궤적을 쌓아왔다.",
@@ -191,6 +193,7 @@
     "seeInPress": "음악 프레스에서 보기",
     "seeInPress2": "프레스에서 보기",
     "viewPdfCatalog": "카탈로그 (PDF) ↗",
+    "viewPdfMA": "MA 자료집 (PDF) ↗",
     "viewPdfSicart": "2010년 시카르트 카탈로그 (PDF) ↗",
     "viewPdfBook": "AAA 2002–2012 포토북 (PDF) ↗",
     "viewPdfPhotos": "사진 (PDF) ↗",
