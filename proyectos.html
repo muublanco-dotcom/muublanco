@@ -68,16 +68,6 @@
 </div>
 </div>
 
-<div style="margin-top:2.4rem;">
-<p class="biblio-entry__date">2025</p>
-<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">NatuUrban Symphony</h3>
-<p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v2.meta">Cortometraje · PlantPop</p>
-<div class="video-toggle-content">
-<div class="video-embed" style="margin-top:.8rem;">
-<iframe src="https://www.youtube.com/embed/ZGzBzBNNk9I" title="NatuUrban Symphony — cortometraje" loading="lazy" allowfullscreen></iframe>
-</div>
-</div>
-</div>
 
 <div style="margin-top:2.4rem;">
 <p class="biblio-entry__date">2023</p>
@@ -160,6 +150,15 @@
 <a href="https://revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami" target="_blank" rel="noopener">Revista Estilo ↗</a> ·
 <a href="dr-musica.html" data-i18n="proyectos.seeInPress">Ver en Prensa musical</a>
 </p>
+<div style="margin-top:1.6rem;">
+<h3 class="display video-toggle" style="font-size:1.1rem; margin-bottom:.3rem;" data-i18n="proyectos.natuurban.videoTitle">Cortometraje</h3>
+<p class="biblio-entry__medium" data-i18n="proyectos.natuurban.videoMeta">PlantPop · 2025</p>
+<div class="video-toggle-content">
+<div class="video-embed" style="margin-top:.8rem;">
+<iframe src="https://www.youtube.com/embed/ZGzBzBNNk9I" title="NatuUrban Symphony — cortometraje" loading="lazy" allowfullscreen></iframe>
+</div>
+</div>
+</div>
 </div>
 </article>
 
@@ -693,12 +692,14 @@
       while (content && content.tagName === "P") content = content.nextElementSibling;
       if (!content || !content.classList.contains("video-toggle-content")) return;
 
-      if (!h3.querySelector(".gallery-toggle__caret")) {
-        var caret = document.createElement("span");
-        caret.className = "gallery-toggle__caret";
-        caret.textContent = "▸";
-        h3.appendChild(caret);
-      }
+      // strip and re-add the caret each time — data-i18n titles get their
+      // innerHTML replaced when the dictionary loads (async fetch), which
+      // would otherwise wipe it out.
+      h3.querySelectorAll(".gallery-toggle__caret").forEach(function (el) { el.remove(); });
+      var caret = document.createElement("span");
+      caret.className = "gallery-toggle__caret";
+      caret.textContent = "▸";
+      h3.appendChild(caret);
 
       if (h3.dataset.toggleBound) return;
       h3.dataset.toggleBound = "true";
@@ -721,6 +722,7 @@
   initGalleryToggles();
   initVideoToggles();
   document.addEventListener("langchange", initGalleryToggles);
+  document.addEventListener("langchange", initVideoToggles);
 })();
 </script>
 </body>

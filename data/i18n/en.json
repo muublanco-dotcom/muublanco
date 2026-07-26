@@ -200,7 +200,9 @@
     "viewPdfDossier": "Dossier (PDF) ↗",
     "natuurban": {
       "medium": "Sound installation, dance, and video mapping",
-      "p1": "An installation and sound art program presented at Arts Connection Foundation, Miami. It integrates experimental music, dance, video mapping projections, and a companion documentary — Muu Blanco's most recent research into soundscape and the urban natural environment."
+      "p1": "An installation and sound art program presented at Arts Connection Foundation, Miami. It integrates experimental music, dance, video mapping projections, and a companion documentary — Muu Blanco's most recent research into soundscape and the urban natural environment.",
+      "videoTitle": "Short Film",
+      "videoMeta": "PlantPop · 2025"
     },
     "soundart": {
       "medium": "Research / archive",
@@ -227,7 +229,6 @@
       "medium": "Sound installation, performance, and video documentation",
       "p1": "An archive of video and photographic documentation of Muu Blanco's sound art practice, from early sound installations to recent performances and short films.",
       "v1": { "meta": "Multimedia sensorial performance · Mad Museum" },
-      "v2": { "meta": "Short film · PlantPop" },
       "v3": {
         "meta": "Concept and curation: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, November 2023",
         "desc": "This historical overview, spanning from Futurism to contemporary Sound Art, highlights the evolution of sound experimentation throughout the XX and XXI centuries. Beginning with Futurist artists who sought to represent modern life and technology through chaotic Dadaism and musical vanguards such as Concrete Music and Fluxus. Next, Radio Art introduces collaboration and audience interaction into the audible narrative. Lastly, Ambient Music, inspired by Brian Eno, focuses on creating relaxing sound atmospheres. Finally, R. Murray Schafer's Soundscape concept highlights the importance of sounds in culture and the environment, influencing urban design and environmental awareness. This historical journey reflects the constant expansion of sound creativity over the years."
