@@ -156,6 +156,12 @@ main { min-height: 60vh; }
 .biblio-entry__body h2.display.has-gallery.is-open .gallery-toggle__caret { transform: rotate(90deg); }
 .gallery.is-collapsed .work:not(:first-child) { display: none; }
 
+.video-toggle { cursor: pointer; user-select: none; display: inline-flex; align-items: baseline; gap: .5rem; }
+.video-toggle:hover { opacity: .7; }
+.video-toggle .gallery-toggle__caret { font-size: .6em; color: var(--muted); transition: transform .15s ease; }
+.video-toggle.is-open .gallery-toggle__caret { transform: rotate(90deg); }
+.video-toggle-content.is-collapsed { display: none; }
+
 /* ===== Section notes / placeholders ===== */
 .section-note { color: var(--muted); margin: 0 0 1.6rem; max-width: 60ch; }
 .placeholder-tag { font-size: .74rem; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); margin: 0 0 .4rem; }

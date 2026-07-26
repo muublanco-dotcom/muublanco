@@ -59,48 +59,58 @@
 
 <div style="margin-top:2rem;">
 <p class="biblio-entry__date">2026</p>
-<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">Latencias</h3>
+<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">Latencias</h3>
 <p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v1.meta">Performance sensorial multimedia · Mad Museum</p>
+<div class="video-toggle-content">
 <div class="video-embed" style="margin-top:.8rem;">
 <iframe src="https://www.youtube.com/embed/t86iOwDd4Zg" title="Latencias" loading="lazy" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 
 <div style="margin-top:2.4rem;">
 <p class="biblio-entry__date">2025</p>
-<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">NatuUrban Symphony</h3>
+<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">NatuUrban Symphony</h3>
 <p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v2.meta">Cortometraje · PlantPop</p>
+<div class="video-toggle-content">
 <div class="video-embed" style="margin-top:.8rem;">
 <iframe src="https://www.youtube.com/embed/ZGzBzBNNk9I" title="NatuUrban Symphony — cortometraje" loading="lazy" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 
 <div style="margin-top:2.4rem;">
 <p class="biblio-entry__date">2023</p>
-<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">Exploring the Roots and Evolution of Sound Art: from Futurism to the XXI Century</h3>
+<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">Exploring the Roots and Evolution of Sound Art: from Futurism to the XXI Century</h3>
 <p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v3.meta">Concepto y curaduría: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, noviembre 2023</p>
+<div class="video-toggle-content">
 <p data-i18n="proyectos.artesonoro.v3.desc">Este recorrido histórico, que abarca desde el Futurismo hasta el Arte Sonoro contemporáneo, destaca la evolución de la experimentación sonora a lo largo de los siglos XX y XXI. Comienza con los artistas futuristas que buscaban representar la vida moderna y la tecnología a través del Dadaísmo caótico y vanguardias musicales como la Música Concreta y Fluxus. Luego, el Arte Radiofónico introduce la colaboración y la interacción con el público en la narrativa sonora. Por último, la Música Ambient, inspirada en Brian Eno, se enfoca en crear atmósferas sonoras relajantes. Finalmente, el concepto de Paisaje Sonoro de R. Murray Schafer resalta la importancia del sonido en la cultura y el entorno, influyendo en el diseño urbano y la conciencia ambiental. Este recorrido histórico refleja la constante expansión de la creatividad sonora a lo largo de los años.</p>
 <div class="video-embed" style="margin-top:.8rem;">
 <iframe src="https://www.youtube.com/embed/FKow3URafqU" title="Exploring the Roots and Evolution of Sound Art" loading="lazy" allowfullscreen></iframe>
 </div>
 </div>
+</div>
 
 <div style="margin-top:2.4rem;">
 <p class="biblio-entry__date">2021</p>
-<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">"Katatonic Garden III"</h3>
+<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">"Katatonic Garden III"</h3>
 <p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v4.meta">Serie: Lumínico Sonoro #MuuBlanco · 05.01.2021</p>
+<div class="video-toggle-content">
 <p data-i18n="proyectos.artesonoro.v4.desc">Documentación de la acción multimedia interactiva de sonido y luz — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — "Multimedia Art Action 2021" en @idartlab. Documentación: Anarquía 101.</p>
 <div class="video-embed" style="margin-top:.8rem;">
 <iframe src="https://www.youtube.com/embed/hjFGoI85Xlo" title="Katatonic Garden III" loading="lazy" allowfullscreen></iframe>
 </div>
 </div>
+</div>
 
 <div style="margin-top:2.4rem;">
 <p class="biblio-entry__date">2014</p>
-<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">"Black Point - Live Sound Art Action"</h3>
+<h3 class="display video-toggle" style="font-size:1.25rem; margin-bottom:.3rem;">"Black Point - Live Sound Art Action"</h3>
 <p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v5.meta">Instalación Multimedia (Performance, Sonido) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC</p>
+<div class="video-toggle-content">
 <div class="video-embed" style="margin-top:.8rem;">
 <iframe src="https://www.youtube.com/embed/UzsOeTBBpzA" title="Black Point - Live Sound Art Action" loading="lazy" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 
@@ -658,7 +668,39 @@
       });
     });
   }
+  function initVideoToggles() {
+    document.querySelectorAll(".video-toggle").forEach(function (h3) {
+      var content = h3.nextElementSibling;
+      while (content && content.tagName === "P") content = content.nextElementSibling;
+      if (!content || !content.classList.contains("video-toggle-content")) return;
+
+      if (!h3.querySelector(".gallery-toggle__caret")) {
+        var caret = document.createElement("span");
+        caret.className = "gallery-toggle__caret";
+        caret.textContent = "▸";
+        h3.appendChild(caret);
+      }
+
+      if (h3.dataset.toggleBound) return;
+      h3.dataset.toggleBound = "true";
+      content.classList.add("is-collapsed");
+      h3.setAttribute("role", "button");
+      h3.setAttribute("tabindex", "0");
+      h3.setAttribute("aria-expanded", "false");
+      function toggle() {
+        var willOpen = content.classList.contains("is-collapsed");
+        content.classList.toggle("is-collapsed");
+        h3.classList.toggle("is-open", willOpen);
+        h3.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      h3.addEventListener("click", toggle);
+      h3.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+    });
+  }
   initGalleryToggles();
+  initVideoToggles();
   document.addEventListener("langchange", initGalleryToggles);
 })();
 </script>
