@@ -236,7 +236,11 @@
         "meta": "シリーズ：Lumínico Sonoro #MuuBlanco・2021年1月5日",
         "desc": "インタラクティブなマルチメディア・サウンド＆ライト・アクションの記録 — @muublancoartsound・@muublancovideoart &amp; @anarquia101 — @idartlabにて開催の「Multimedia Art Action 2021」。記録：Anarquía 101。"
       },
-      "v5": { "meta": "マルチメディア・インスタレーション（パフォーマンス、サウンド）・可変・.Wav・15分38秒・Mandragoras Art Space、クイーンズ、ニューヨーク" }
+      "v5": { "meta": "マルチメディア・インスタレーション（パフォーマンス、サウンド）・可変・.Wav・15分38秒・Mandragoras Art Space、クイーンズ、ニューヨーク" },
+      "v6": {
+        "meta": "サウンドインスタレーション・サラ・メンドーサ、カラカス",
+        "desc": "カラカスのサラ・メンドーサで発表されたサウンドアート・インスタレーションで、CDのサウンドカタログとしてリリースされた。"
+      }
     },
     "instalaciones": {
       "title": "インスタレーション",

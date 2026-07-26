@@ -114,7 +114,12 @@
 </div>
 </div>
 
-<div class="gallery" style="margin-top:2.4rem;">
+<div style="margin-top:2.4rem;">
+<p class="biblio-entry__date">2009</p>
+<h3 class="display" style="font-size:1.25rem; margin-bottom:.3rem;">Paisaje Sonoro Caracas–Berlín</h3>
+<p class="biblio-entry__medium" data-i18n="proyectos.artesonoro.v6.meta">Instalación sonora · Sala Mendoza, Caracas</p>
+<p data-i18n="proyectos.artesonoro.v6.desc">Instalación de arte sonoro presentada en la Sala Mendoza, Caracas, y publicada como catálogo sonoro en CD.</p>
+<div class="gallery" style="margin-top:1.6rem;">
 <article class="work">
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1g8Im8gG7Z32H0b94ZbMWQZYHU3qY7dJ4=w700" alt="Paisaje Sonoro Berlín Caracas 2009 A" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="work__meta"><p class="work__title">Paisaje Sonoro Caracas–Berlín A</p><p class="work__sub">2009</p></div>
@@ -139,6 +144,7 @@
 <div class="work__img"><img src="https://lh3.googleusercontent.com/d/1CcPybgp3yYDp5KLome3FojxOklkXNT8W=w700" alt="paisaje sonoro CCS-BRLN 2009 B" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="work__meta"><p class="work__title">Paisaje Sonoro Caracas–Berlín F</p><p class="work__sub">2009</p></div>
 </article>
+</div>
 </div>
 </div>
 </article>
@@ -630,15 +636,28 @@
 <script>
 (function () {
   function initGalleryToggles() {
-    document.querySelectorAll(".biblio-entry").forEach(function (entry) {
-      var gallery = entry.querySelector(".gallery");
-      var h2 = entry.querySelector("h2.display");
-      if (!gallery || !h2) return;
+    document.querySelectorAll(".gallery").forEach(function (gallery) {
+      // find the nearest preceding heading (h2 or h3) at this same level —
+      // entries can have a generic h2 intro plus per-item h3 sub-headings,
+      // so each gallery must bind to its own closest title, not the entry's.
+      // Check the gallery's own parent first (its dedicated sub-heading, if
+      // any) before climbing up to the entry's outer h2.
+      var heading = gallery.previousElementSibling;
+      while (heading && !/^H[23]$/.test(heading.tagName)) {
+        heading = heading.previousElementSibling;
+      }
+      if (!heading) {
+        heading = gallery.parentElement.previousElementSibling;
+        while (heading && !/^H[23]$/.test(heading.tagName)) {
+          heading = heading.previousElementSibling;
+        }
+      }
+      if (!heading) return;
 
       // data-i18n titles get their innerHTML replaced when the dictionary
       // loads (async fetch), which would wipe any appended count/caret —
       // strip and re-add them each time this runs so they always survive.
-      h2.querySelectorAll(".gallery-toggle__count, .gallery-toggle__caret").forEach(function (el) { el.remove(); });
+      heading.querySelectorAll(".gallery-toggle__count, .gallery-toggle__caret").forEach(function (el) { el.remove(); });
       var count = gallery.querySelectorAll(".work").length;
       var countEl = document.createElement("span");
       countEl.className = "gallery-toggle__count";
@@ -646,24 +665,24 @@
       var caret = document.createElement("span");
       caret.className = "gallery-toggle__caret";
       caret.textContent = "▸";
-      h2.appendChild(countEl);
-      h2.appendChild(caret);
-      h2.classList.add("has-gallery");
+      heading.appendChild(countEl);
+      heading.appendChild(caret);
+      heading.classList.add("has-gallery");
 
-      if (h2.dataset.toggleBound) return;
-      h2.dataset.toggleBound = "true";
+      if (heading.dataset.toggleBound) return;
+      heading.dataset.toggleBound = "true";
       gallery.classList.add("is-collapsed");
-      h2.setAttribute("role", "button");
-      h2.setAttribute("tabindex", "0");
-      h2.setAttribute("aria-expanded", "false");
+      heading.setAttribute("role", "button");
+      heading.setAttribute("tabindex", "0");
+      heading.setAttribute("aria-expanded", "false");
       function toggle() {
         var willOpen = gallery.classList.contains("is-collapsed");
         gallery.classList.toggle("is-collapsed");
-        h2.classList.toggle("is-open", willOpen);
-        h2.setAttribute("aria-expanded", willOpen ? "true" : "false");
+        heading.classList.toggle("is-open", willOpen);
+        heading.setAttribute("aria-expanded", willOpen ? "true" : "false");
       }
-      h2.addEventListener("click", toggle);
-      h2.addEventListener("keydown", function (e) {
+      heading.addEventListener("click", toggle);
+      heading.addEventListener("keydown", function (e) {
         if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
       });
     });

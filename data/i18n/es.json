@@ -236,7 +236,11 @@
         "meta": "Serie: Lumínico Sonoro #MuuBlanco · 05.01.2021",
         "desc": "Documentación de la acción multimedia interactiva de sonido y luz — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — \"Multimedia Art Action 2021\" en @idartlab. Documentación: Anarquía 101."
       },
-      "v5": { "meta": "Instalación Multimedia (Performance, Sonido) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC" }
+      "v5": { "meta": "Instalación Multimedia (Performance, Sonido) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC" },
+      "v6": {
+        "meta": "Instalación sonora · Sala Mendoza, Caracas",
+        "desc": "Instalación de arte sonoro presentada en la Sala Mendoza, Caracas, y publicada como catálogo sonoro en CD."
+      }
     },
     "instalaciones": {
       "title": "Instalaciones",

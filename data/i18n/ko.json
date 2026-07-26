@@ -236,7 +236,11 @@
         "meta": "시리즈: Lumínico Sonoro #MuuBlanco · 2021.01.05",
         "desc": "인터랙티브 멀티미디어 사운드 앤 라이트 액션 기록 — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — @idartlab에서 열린 \"Multimedia Art Action 2021\". 기록: Anarquía 101."
       },
-      "v5": { "meta": "멀티미디어 설치 (퍼포먼스, 사운드) · 가변 크기 · .Wav · 15분 38초 · Mandragoras Art Space, 퀸즈, 뉴욕" }
+      "v5": { "meta": "멀티미디어 설치 (퍼포먼스, 사운드) · 가변 크기 · .Wav · 15분 38초 · Mandragoras Art Space, 퀸즈, 뉴욕" },
+      "v6": {
+        "meta": "사운드 설치 · Sala Mendoza, 카라카스",
+        "desc": "카라카스 살라 멘도사에서 발표된 사운드 아트 설치로, CD 사운드 카탈로그로 발매되었다."
+      }
     },
     "instalaciones": {
       "title": "설치",
