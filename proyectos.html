@@ -569,5 +569,50 @@
 </footer>
 <script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
+<script>
+(function () {
+  function initGalleryToggles() {
+    document.querySelectorAll(".biblio-entry").forEach(function (entry) {
+      var gallery = entry.querySelector(".gallery");
+      var h2 = entry.querySelector("h2.display");
+      if (!gallery || !h2) return;
+
+      // data-i18n titles get their innerHTML replaced when the dictionary
+      // loads (async fetch), which would wipe any appended count/caret —
+      // strip and re-add them each time this runs so they always survive.
+      h2.querySelectorAll(".gallery-toggle__count, .gallery-toggle__caret").forEach(function (el) { el.remove(); });
+      var count = gallery.querySelectorAll(".work").length;
+      var countEl = document.createElement("span");
+      countEl.className = "gallery-toggle__count";
+      countEl.textContent = "(" + count + ")";
+      var caret = document.createElement("span");
+      caret.className = "gallery-toggle__caret";
+      caret.textContent = "▸";
+      h2.appendChild(countEl);
+      h2.appendChild(caret);
+      h2.classList.add("has-gallery");
+
+      if (h2.dataset.toggleBound) return;
+      h2.dataset.toggleBound = "true";
+      gallery.classList.add("is-collapsed");
+      h2.setAttribute("role", "button");
+      h2.setAttribute("tabindex", "0");
+      h2.setAttribute("aria-expanded", "false");
+      function toggle() {
+        var willOpen = gallery.classList.contains("is-collapsed");
+        gallery.classList.toggle("is-collapsed");
+        h2.classList.toggle("is-open", willOpen);
+        h2.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      h2.addEventListener("click", toggle);
+      h2.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+    });
+  }
+  initGalleryToggles();
+  document.addEventListener("langchange", initGalleryToggles);
+})();
+</script>
 </body>
 </html>
