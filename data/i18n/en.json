@@ -117,15 +117,15 @@
     }
   },
   "multimedia": {
-    "eyebrow": "02 — Multimedia",
+    "eyebrow": "03 — Multimedia",
     "lead": "Video, sensorial performance, and moving image."
   },
   "practicas": {
-    "eyebrow": "03 — Public Practices",
+    "eyebrow": "04 — Public Practices",
     "lead": "The ongoing practice, documented across networks: seven Instagram accounts, YouTube, SoundCloud, and Discogs."
   },
   "drmusica": {
-    "eyebrow": "04 — DR.MUUSICA",
+    "eyebrow": "05 — DR.MUUSICA",
     "lead": "Muu Blanco's sonic alias. Productions, collaborations, and releases.",
     "tracks": "81 tracks",
     "videos": "78 videos",
@@ -146,19 +146,19 @@
     }
   },
   "prensa": {
-    "eyebrow": "06 — Press",
+    "eyebrow": "07 — Press",
     "lead": "Reviews published about Muu Blanco's work in newspapers and magazines, ordered chronologically.",
     "loading": "Loading reviews…"
   },
   "store": {
-    "eyebrow": "05 — Gallery",
+    "eyebrow": "06 — Gallery",
     "lead": "Online store — original works available. The list updates live from a Google Sheet. Tap any piece to see details, price, and availability.",
     "note": "The catalog is powered by a Google Sheet published as CSV (same as Art Fair). Until a sheet is connected, you'll see the column template below.",
     "loading": "Loading gallery…",
     "driveImage": "Image on Google Drive"
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "Chronological guide to the artistic career of Muu Blanco (Caracas, Venezuela, 1966). Lives and works in Miami. Venezuelan-American artist.",
     "h2": {
       "education": "Education",
@@ -174,7 +174,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — Contact",
+    "eyebrow": "09 — Contact",
     "lead": "For curators, galleries, press, and collectors. Write directly depending on the reason for your inquiry.",
     "curators": { "label": "Curators and Galleries" },
     "press": { "label": "Press" },
@@ -184,7 +184,7 @@
     "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works."
   },
   "proyectos": {
-    "eyebrow": "09 — Research Projects",
+    "eyebrow": "02 — Research Projects",
     "h1": "Research Projects",
     "lead": "Long-running research lines within Muu Blanco's practice — each with its own body of work, publications, and presentations.",
     "ongoing": "Ongoing",

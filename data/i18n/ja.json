@@ -117,15 +117,15 @@
     }
   },
   "multimedia": {
-    "eyebrow": "02 — マルチメディア",
+    "eyebrow": "03 — マルチメディア",
     "lead": "ビデオ、感覚的パフォーマンス、動画イメージ。"
   },
   "practicas": {
-    "eyebrow": "03 — パブリック・プラクティス",
+    "eyebrow": "04 — パブリック・プラクティス",
     "lead": "現在進行中の活動をネットワーク上に記録：7つのInstagramアカウント、YouTube、SoundCloud、Discogs。"
   },
   "drmusica": {
-    "eyebrow": "04 — DR.MUUSICA",
+    "eyebrow": "05 — DR.MUUSICA",
     "lead": "ムー・ブランコのサウンドのエイリアス。制作、コラボレーション、リリース。",
     "tracks": "81曲",
     "videos": "78本の動画",
@@ -146,19 +146,19 @@
     }
   },
   "prensa": {
-    "eyebrow": "06 — プレス",
+    "eyebrow": "07 — プレス",
     "lead": "新聞・雑誌に掲載されたムー・ブランコの作品に関するレビュー — 年代順。",
     "loading": "レビューを読み込み中…"
   },
   "store": {
-    "eyebrow": "05 — ギャラリー",
+    "eyebrow": "06 — ギャラリー",
     "lead": "オンラインストア — 購入可能なオリジナル作品。リストはGoogle Sheetからリアルタイムで更新されます。作品をタップすると詳細、価格、在庫状況を確認できます。",
     "note": "カタログはCSVとして公開されたGoogle Sheetから供給されます（Art Fairと同様）。シートが接続されるまでは、下記の列テンプレートが表示されます。",
     "loading": "ギャラリーを読み込み中…",
     "driveImage": "Google Drive の画像"
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "ムー・ブランコ（1966年ベネズエラ・カラカス生まれ）の芸術活動の年代記ガイド。マイアミを拠点に活動。ベネズエラ系アメリカ人アーティスト。",
     "h2": {
       "education": "学歴",
@@ -174,7 +174,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — 連絡先",
+    "eyebrow": "09 — 連絡先",
     "lead": "キュレーター、ギャラリー、プレス、コレクターの方へ。お問い合わせの内容に応じて直接ご連絡ください。",
     "curators": { "label": "キュレーター・ギャラリー" },
     "press": { "label": "プレス" },
@@ -184,7 +184,7 @@
     "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。"
   },
   "proyectos": {
-    "eyebrow": "09 — リサーチ・プロジェクト",
+    "eyebrow": "02 — リサーチ・プロジェクト",
     "h1": "リサーチ・プロジェクト",
     "lead": "Muu Blancoの実践の中で長期にわたり続けられている研究のライン — それぞれ独自の作品群、出版物、発表を持つ。",
     "ongoing": "進行中",

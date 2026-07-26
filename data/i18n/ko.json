@@ -117,15 +117,15 @@
     }
   },
   "multimedia": {
-    "eyebrow": "02 — 멀티미디어",
+    "eyebrow": "03 — 멀티미디어",
     "lead": "비디오, 감각적 퍼포먼스, 무빙 이미지."
   },
   "practicas": {
-    "eyebrow": "03 — 퍼블릭 프랙티스",
+    "eyebrow": "04 — 퍼블릭 프랙티스",
     "lead": "현재 진행 중인 활동을 다양한 네트워크에 기록: 7개의 Instagram 계정, YouTube, SoundCloud, Discogs."
   },
   "drmusica": {
-    "eyebrow": "04 — DR.MUUSICA",
+    "eyebrow": "05 — DR.MUUSICA",
     "lead": "무 블랑코의 사운드 앨리어스. 프로덕션, 협업, 발매작.",
     "tracks": "81곡",
     "videos": "78개 영상",
@@ -146,19 +146,19 @@
     }
   },
   "prensa": {
-    "eyebrow": "06 — 프레스",
+    "eyebrow": "07 — 프레스",
     "lead": "무 블랑코의 작업에 대해 신문과 잡지에 게재된 리뷰, 연대순 정리.",
     "loading": "리뷰 불러오는 중…"
   },
   "store": {
-    "eyebrow": "05 — 갤러리",
+    "eyebrow": "06 — 갤러리",
     "lead": "온라인 스토어 — 구매 가능한 오리지널 작품. 목록은 Google Sheet에서 실시간으로 업데이트됩니다. 작품을 눌러 세부 정보, 가격, 재고를 확인하세요.",
     "note": "카탈로그는 CSV로 게시된 Google Sheet를 통해 제공됩니다(Art Fair와 동일한 방식). 시트가 연결되기 전까지는 아래에 열 템플릿이 표시됩니다.",
     "loading": "갤러리 불러오는 중…",
     "driveImage": "Google Drive 이미지"
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "무 블랑코(1966년 베네수엘라 카라카스 출생)의 예술 활동 연대기 가이드. 마이애미에 거주하며 활동 중. 베네수엘라계 미국인 아티스트.",
     "h2": {
       "education": "학력",
@@ -174,7 +174,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — 연락처",
+    "eyebrow": "09 — 연락처",
     "lead": "큐레이터, 갤러리, 언론, 컬렉터를 위한 연락처입니다. 문의 목적에 따라 직접 이메일을 보내주세요.",
     "curators": { "label": "큐레이터 및 갤러리" },
     "press": { "label": "언론" },
@@ -184,7 +184,7 @@
     "note": "추가 자료: 전체 이력은 <a href=\"cv.html\">CV</a>, 리뷰와 보도는 <a href=\"prensa.html\">프레스</a>, 소셜 미디어는 <a href=\"practicas-publicas.html\">퍼블릭 프랙티스</a>, 구매 가능한 작품은 <a href=\"store.html\">갤러리</a>에서 확인하세요."
   },
   "proyectos": {
-    "eyebrow": "09 — 리서치 프로젝트",
+    "eyebrow": "02 — 리서치 프로젝트",
     "h1": "리서치 프로젝트",
     "lead": "Muu Blanco의 작업 안에서 오랜 기간 이어져 온 연구 계열 — 각각 고유한 작품군, 출판물, 발표를 가지고 있습니다.",
     "ongoing": "진행 중",

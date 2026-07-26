@@ -117,15 +117,15 @@
     }
   },
   "multimedia": {
-    "eyebrow": "02 — Multimedia",
+    "eyebrow": "03 — Multimedia",
     "lead": "Video, performance sensorial e imagen en movimiento."
   },
   "practicas": {
-    "eyebrow": "03 — Prácticas Públicas",
+    "eyebrow": "04 — Prácticas Públicas",
     "lead": "La práctica en curso, documentada en redes: siete cuentas de Instagram, YouTube, SoundCloud y Discogs."
   },
   "drmusica": {
-    "eyebrow": "04 — DR.MUUSICA",
+    "eyebrow": "05 — DR.MUUSICA",
     "lead": "El alias sonoro de Muu Blanco. Producciones, colaboraciones y lanzamientos.",
     "tracks": "81 pistas",
     "videos": "78 videos",
@@ -146,19 +146,19 @@
     }
   },
   "prensa": {
-    "eyebrow": "06 — Prensa",
+    "eyebrow": "07 — Prensa",
     "lead": "Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.",
     "loading": "Cargando reseñas…"
   },
   "store": {
-    "eyebrow": "05 — Galería",
+    "eyebrow": "06 — Galería",
     "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
     "note": "El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.",
     "loading": "Cargando galería…",
     "driveImage": "Imagen en Google Drive"
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "Guía cronológica de la trayectoria artística de Muu Blanco (Caracas, Venezuela, 1966). Vive y trabaja en Miami. Artista venezolano-norteamericano.",
     "h2": {
       "education": "Educación",
@@ -174,7 +174,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — Contacto",
+    "eyebrow": "09 — Contacto",
     "lead": "Para curadores, galerías, prensa y coleccionistas. Escribe directamente según el motivo de tu consulta.",
     "curators": { "label": "Curadores y Galerías" },
     "press": { "label": "Prensa" },
@@ -184,7 +184,7 @@
     "note": "Más material: <a href=\"cv.html\">CV</a> para trayectoria completa, <a href=\"prensa.html\">Prensa</a> para reseñas y cobertura, <a href=\"practicas-publicas.html\">Prácticas Públicas</a> para redes sociales, <a href=\"store.html\">Galería</a> para obra disponible."
   },
   "proyectos": {
-    "eyebrow": "09 — Proyectos de Investigación",
+    "eyebrow": "02 — Proyectos de Investigación",
     "h1": "Proyectos de Investigación",
     "lead": "Líneas de investigación de largo aliento dentro de la práctica de Muu Blanco — cada una con su propio cuerpo de obra, publicaciones y presentaciones.",
     "ongoing": "En curso",
