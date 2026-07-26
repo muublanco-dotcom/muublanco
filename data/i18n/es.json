@@ -102,10 +102,6 @@
     "eyebrow": "01 — Conceptual",
     "lead": "Cuatro décadas de investigación artística donde paisaje, abstracción, sonido, memoria, naturaleza y tecnología convergen para expandir nuestra percepción del mundo contemporáneo.",
     "loading": "Cargando bibliografía…",
-    "publications": "Publicaciones",
-    "withGerardo": "con Gerardo Zavarze",
-    "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
-    "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
     "statementTitle": "Declaración de Artista",
     "statement": {
       "p1": "Mi práctica artística comenzó en 1986 como una búsqueda intuitiva que entendía el arte no como una disciplina aislada, sino como un territorio donde podían encontrarse la imagen, el sonido, la arquitectura, el paisaje y la memoria. Desde entonces he construido una trayectoria multidisciplinaria en constante transformación, impulsada por la necesidad de investigar cómo percibimos el mundo y cómo el tiempo modifica nuestra relación con él.",
@@ -157,7 +153,13 @@
     "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
     "note": "El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.",
     "loading": "Cargando galería…",
-    "driveImage": "Imagen en Google Drive"
+    "driveImage": "Imagen en Google Drive",
+    "books": {
+      "title": "Libros publicados",
+      "withGerardo": "con Gerardo Zavarze",
+      "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
+      "pdfNct2": "New Compositional Thinking 2 (PDF) ↗"
+    }
   },
   "cv": {
     "eyebrow": "08 — CV",

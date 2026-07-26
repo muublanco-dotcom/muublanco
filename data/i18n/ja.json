@@ -102,10 +102,6 @@
     "eyebrow": "01 — コンセプチュアル",
     "lead": "風景、抽象、音、記憶、自然、テクノロジーが収束し、現代世界に対する私たちの知覚を拡張する、四十年にわたる芸術的探求。",
     "loading": "参考文献を読み込み中…",
-    "publications": "出版物",
-    "withGerardo": "ジェラルド・サバルセとの共著",
-    "pdfNct1": "New Compositional Thinking 1（PDF）↗",
-    "pdfNct2": "New Compositional Thinking 2（PDF）↗",
     "statementTitle": "アーティスト・ステートメント",
     "statement": {
       "p1": "私の芸術的実践は1986年、芸術を孤立した一分野としてではなく、イメージ、音、建築、風景、記憶が出会うことのできる領域として理解する直感的な探求として始まった。それ以来、私たちが世界をどのように知覚し、時間がその関係をどのように変えていくのかを探求する必要性に突き動かされながら、絶えず変容し続ける学際的な軌跡を築いてきた。",
@@ -157,7 +153,13 @@
     "lead": "オンラインストア — 購入可能なオリジナル作品。リストはGoogle Sheetからリアルタイムで更新されます。作品をタップすると詳細、価格、在庫状況を確認できます。",
     "note": "カタログはCSVとして公開されたGoogle Sheetから供給されます（Art Fairと同様）。シートが接続されるまでは、下記の列テンプレートが表示されます。",
     "loading": "ギャラリーを読み込み中…",
-    "driveImage": "Google Drive の画像"
+    "driveImage": "Google Drive の画像",
+    "books": {
+      "title": "出版された書籍",
+      "withGerardo": "ジェラルド・サバルセとの共著",
+      "pdfNct1": "New Compositional Thinking 1（PDF）↗",
+      "pdfNct2": "New Compositional Thinking 2（PDF）↗"
+    }
   },
   "cv": {
     "eyebrow": "08 — CV",

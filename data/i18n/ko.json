@@ -102,10 +102,6 @@
     "eyebrow": "01 — 컨셉추얼",
     "lead": "풍경, 추상, 소리, 기억, 자연, 기술이 수렴하여 동시대 세계에 대한 우리의 지각을 확장하는 40년간의 예술적 탐구.",
     "loading": "참고 문헌 불러오는 중…",
-    "publications": "출판물",
-    "withGerardo": "제라르도 사바르세 공저",
-    "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
-    "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
     "statementTitle": "작가 노트",
     "statement": {
       "p1": "저의 예술적 실천은 1986년, 예술을 고립된 하나의 분야가 아니라 이미지, 소리, 건축, 풍경, 기억이 만날 수 있는 하나의 영역으로 이해하는 직관적인 탐구로부터 시작되었다. 그 이후로 나는 우리가 세상을 어떻게 지각하는지, 그리고 시간이 그 관계를 어떻게 변화시키는지를 탐구해야 한다는 필요에 이끌려 끊임없이 변화하는 다학제적 궤적을 쌓아왔다.",
@@ -157,7 +153,13 @@
     "lead": "온라인 스토어 — 구매 가능한 오리지널 작품. 목록은 Google Sheet에서 실시간으로 업데이트됩니다. 작품을 눌러 세부 정보, 가격, 재고를 확인하세요.",
     "note": "카탈로그는 CSV로 게시된 Google Sheet를 통해 제공됩니다(Art Fair와 동일한 방식). 시트가 연결되기 전까지는 아래에 열 템플릿이 표시됩니다.",
     "loading": "갤러리 불러오는 중…",
-    "driveImage": "Google Drive 이미지"
+    "driveImage": "Google Drive 이미지",
+    "books": {
+      "title": "출판된 도서",
+      "withGerardo": "제라르도 사바르세 공저",
+      "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
+      "pdfNct2": "New Compositional Thinking 2 (PDF) ↗"
+    }
   },
   "cv": {
     "eyebrow": "08 — CV",
