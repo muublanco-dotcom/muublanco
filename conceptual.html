@@ -71,16 +71,19 @@
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
   const MONTHS = {
     es: ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
-    en: ["January","February","March","April","May","June","July","August","September","October","November","December"]
+    en: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    hi: ["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्टूबर","नवंबर","दिसंबर"]
   };
-  const readLink = { es: "Leer documento completo ↗", en: "Read full document ↗", ko: "전체 문서 읽기 ↗", ja: "全文を読む ↗" };
-  const emptyMsg = { es: "Aún no hay textos publicados.", en: "No texts published yet.", ko: "아직 게시된 텍스트가 없습니다.", ja: "まだ公開されたテキストはありません。" };
-  const errMsg = { es: "No se pudo cargar la bibliografía.", en: "Could not load the bibliography.", ko: "참고 문헌을 불러올 수 없습니다.", ja: "参考文献を読み込めませんでした。" };
+  const readLink = { es: "Leer documento completo ↗", en: "Read full document ↗", ko: "전체 문서 읽기 ↗", ja: "全文を読む ↗", zh: "阅读完整文档 ↗", hi: "पूरा दस्तावेज़ पढ़ें ↗" };
+  const emptyMsg = { es: "Aún no hay textos publicados.", en: "No texts published yet.", ko: "아직 게시된 텍스트가 없습니다.", ja: "まだ公開されたテキストはありません。", zh: "暂无已发布的文本。", hi: "अभी तक कोई पाठ प्रकाशित नहीं हुआ है।" };
+  const errMsg = { es: "No se pudo cargar la bibliografía.", en: "Could not load the bibliography.", ko: "참고 문헌을 불러올 수 없습니다.", ja: "参考文献を読み込めませんでした。", zh: "无法加载文献。", hi: "ग्रंथ सूची लोड नहीं की जा सकी।" };
 
   const longDate = (iso, lang) => {
     const [y, m, d] = iso.split("-").map(Number);
     if (lang === "ko") return `${y}년 ${m}월 ${d}일`;
     if (lang === "ja") return `${y}年${m}月${d}日`;
+    if (lang === "zh") return `${y}年${m}月${d}日`;
+    if (lang === "hi") return `${d} ${MONTHS.hi[m - 1]} ${y}`;
     if (lang === "en") return `${MONTHS.en[m - 1]} ${d}, ${y}`;
     return `${d} de ${MONTHS.es[m - 1]} de ${y}`;
   };

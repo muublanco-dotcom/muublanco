@@ -1,0 +1,273 @@
+{
+  "common": {
+    "menu": "菜单",
+    "enter": "进入 →",
+    "nav": {
+      "conceptual": "概念",
+      "practicas": "公共实践",
+      "drmusica": "DR.MUUSICA",
+      "prensa": "新闻",
+      "cv": "CV",
+      "galeria": "画廊",
+      "about": "关于",
+      "contacto": "联系",
+      "proyectos": "项目",
+      "exposiciones": "展览"
+    },
+    "footer": {
+      "tagline": "艺术家 &amp; 音乐家 — 加拉加斯 / 迈阿密。"
+    }
+  },
+  "index": {
+    "intro": {
+      "subtitle": "自1986年起的跨媒体艺术家"
+    },
+    "hero": {
+      "placeholder": "图片待添加",
+      "needs": "跨学科艺术家 —",
+      "accent": "观念艺术与公共实践。",
+      "sub": "探索 <em>Muu Blanco</em>（化名 <em>Dr.Muusica</em>）的创作空间。"
+    },
+    "tiles": {
+      "conceptual": "文本、创作笔记与作品记录——按时间顺序排列。",
+      "practicas": "Instagram、YouTube、SoundCloud 与 Discogs——持续进行的实践。",
+      "drmusica": "音乐化名——制作、合作与发行。",
+      "galeria": "现有原作——在线商店，查询价格与库存。",
+      "prensa": "报刊杂志上发表的评论——按时间顺序排列。",
+      "cv": "完整的年表指南——教育、展览、唱片作品与新闻报道。",
+      "contacto": "策展人、画廊、媒体、藏家及音乐相关咨询。",
+      "proyectos": "长期研究方向——NatuUrban Symphony、100 Years of Sound Art 等。",
+      "exposiciones": "1994年至2014年个展与联展的展览画册。"
+    }
+  },
+  "about": {
+    "eyebrow": "关于",
+    "lead": "跨学科艺术家。音乐化名：<em>Dr.Muusica</em>。加拉加斯 / 迈阿密。",
+    "h2": {
+      "summary": "简介",
+      "full": "完整传记",
+      "recent": "近期作品",
+      "selfportrait": "时间中的自画像",
+      "contact": "联系方式",
+      "morelinks": "更多链接",
+      "projects": "项目与空间"
+    },
+    "summary": {
+      "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
+      "p2": "他早期的录像作品以Video8格式拍摄，后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙展出，整套系列作品被Noa Noa收藏收购。他的作品曾在加拉加斯索菲亚·因贝尔当代艺术博物馆、门多萨厅、加拉加斯国家电影资料馆以及纽约Mandragoras艺术空间等机构展出。",
+      "p3": "自2014年迁居迈阿密以来，Blanco持续开发融合视频投影、声音艺术与行为表演的多媒体装置，包括他最新的项目NatuUrban Symphony（2024–2025）。"
+    },
+    "full": {
+      "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。他的艺术实践涵盖实验录像艺术、声音艺术、行为表演、摄影、拼贴装置、电子音乐与视频投影，自1990年代初以来持续研究影像、声音与城市景观之间的关系。",
+      "p2": "Blanco于1990年代初开始从事实验录像艺术创作，最初以Video8格式作为审美探索的工具。他首次以录像作品参加集体展览是在1992年，当时他的一件作品被收藏家Jimmy Belilty收购。自此，他开始持续探索实验视听语言。",
+      "p3": "1994年，他参加了在加拉加斯Alternativa画廊举办的集体展览《混合技法》，这是他在当代艺术展览体系中最早的展出之一。",
+      "p4": "到1995年，他已创作了三十多件实验录像作品，这些作品后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙（1997年）展出，全部作品被Oberto家族的私人收藏Noa Noa收购。",
+      "p5": "1990年代末至2000年代初，他持续拓展视听研究，记录行为表演并开发录像与声音方面的实验项目。",
+      "p6": "2002年，他参加了在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的展览《从白立方到黑匣子：历史录像带、创意视频、数字艺术、委内瑞拉录像》。同年，他还参与了在该机构展出的项目《多媒体艺术家，艺术中心创始人》。在此期间，他还为该博物馆的录像艺术收藏做出贡献，捐赠并纳入了他在那十年间创作的二十件录像作品。",
+      "p7": "2003年，他参加了在加拉加斯门多萨厅举办的第十一届尤金尼奥·门多萨奖。",
+      "p8": "2004年，他在加拉加斯国家电影资料馆展出作品《眼之变奏。视频舞蹈——Muu Blanco》。同年，他的作品被纳入在门多萨厅举办的展览《电力大地：英国与委内瑞拉短片与录像》，这是一项致力于实验录像与短片的国际项目。",
+      "p9": "2006年，他与歌德学院合作，在雅各布·博尔赫斯博物馆展出了一项实验录像项目。该项目聚焦于加拉加斯街头的流动商贩与非正规经济，将城市景观视为一个社会与政治空间来探讨。",
+      "p10": "自2008年起，他开始将扩展投影与视频投影融入他的多媒体装置中。随后，2013年，他开展了一项关于幻灯片与动态肖像摄影的研究项目，同年以他在委内瑞拉的最后一次个展《In Tha House》作为收尾，该展览在Carmen Araujo Arte举办，是一件结合录像、绘画、雕塑与声音的多媒体装置。",
+      "p11": "2014年，他在纽约举办了首次个展，展出多媒体装置《Black Point Venezuela》，该展览是Mandragoras艺术空间在长岛市举办的行为表演项目的一部分。该作品融合了声音艺术、视频投影、雕塑与模拟拼贴，探讨了当代委内瑞拉社会与政治的紧张局势。",
+      "p12": "同年，他迁居迈阿密，至今仍在那里持续进行大部分艺术创作。2015年，他在Arts Connection Foundation的Chill Concept空间展出了《新作曲思维 第一辑》，这是一件结合大幅摄影、视频投影与声音艺术的装置作品。",
+      "p13": "2017年至2019年间，他在迈阿密Ironside，特别是在Santamantis空间，策划了一系列实验视听活动，组织了多场专注于视频投影与实验现场音乐的聚会。",
+      "p14": "在新冠疫情打断这些创作空间之后，他于2020年在Allapattah社区共同创立了艺术团体IDArt Lab，活跃至2023年。在该团体中，他参加了多场集体展览，展示视频投影、实验动画以及对声音敏感的光影表演，并配以现场声音艺术创作。",
+      "p15": "他最新的项目是装置与声音艺术项目NatuUrban Symphony，于2024年11月至2025年1月在Arts Connection Foundation展出，融合了实验音乐、舞蹈、视频投影，以及他的同名纪录片NatuUrban Symphony的放映。",
+      "p16": "自2017年起，Blanco一直维护着Instagram账号 <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a>，作为其视听创作的活档案，记录他在迈阿密最近十年间开发的装置、行为表演与录像实验。",
+      "p17": "凭借三十多年的艺术生涯，Muu Blanco发展出一种混合实践，其中录像、声音、技术与行为表演成为探究都市文化、记忆与当代社会紧张关系的装置。他的作品收藏于多家国际公共与私人收藏机构。"
+    },
+    "recent": {
+      "p1": "正在进行的作品<strong>Latencies</strong>（2026年）是一场40分钟的多媒体感官表演。记录于本网站的<a href=\"conceptual.html\">概念</a>与<a href=\"proyectos.html\">项目</a>两个板块。"
+    },
+    "selfportrait": {
+      "li1": "AutoCopia——艺术家档案中记录的第一幅自画像。",
+      "li2": "Dr.Muusica肖像——由Andrés Manner拍摄。",
+      "li3": "自画像——Muu Blanco。",
+      "li4": "Latencies——多媒体感官表演，40分钟。"
+    },
+    "contact": {
+      "p1": "活跃的实践与社交网络请见<a href=\"practicas-publicas.html\">公共实践</a>。可购作品请见<a href=\"store.html\">画廊</a>。"
+    },
+    "morelinks": {
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">维基百科 ↗</a>——传记与创作历程。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a>——艺术家所有链接汇总于一处。"
+    },
+    "projects": {
+      "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a>——迈阿密展览空间的艺术家档案。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a>——关于声音艺术历史的研究项目。"
+    }
+  },
+  "conceptual": {
+    "eyebrow": "01 — 概念",
+    "lead": "四十年的艺术研究，景观、抽象、声音、记忆、自然与技术在此交汇，扩展我们对当代世界的感知。",
+    "loading": "正在加载文献…",
+    "statementTitle": "艺术家陈述",
+    "statement": {
+      "p1": "我的艺术实践始于1986年，那是一场直觉式的探索，我将艺术理解为一个可以让影像、声音、建筑、景观与记忆相遇的领域，而非孤立的学科。从那时起，我建立了一条不断演变的跨学科创作道路，驱动力来自于探究我们如何感知世界，以及时间如何改变我们与世界的关系。",
+      "p2": "我1966年生于加拉加斯，这座城市复杂的都市结构深刻影响了我理解空间的方式。早年间，我的研究以绘画、素描与实验性介入为中心，很快演变为录像艺术、实验电影、装置与声音实践。1990年代，我获得的一些认可肯定了这一方向，包括凭借《Perra Chillona》获得圣保罗短片双年展一等奖，以及在第五届圭亚那国家艺术双年展获得特别提名。",
+      "p3": "我的创作从未局限于单一媒介。每个项目都决定了它得以存在所需的语言。四十年来，我穿梭于摄影、拼贴、音乐创作、声音艺术、行为表演、文献研究与沉浸式装置之间，将所有这些学科理解为同一创作过程的组成部分。",
+      "p4": "自然与景观一直是我研究的恒定轴心。我并不将它们视为被再现的场景，而是历史、生态、文化与人类经验交汇的活档案。从这种探索中诞生了诸如《Abstraciones Paisajísticas》、《Modernismo Anacrónico》、《NatuUrban：迈阿密亚热带交响曲》以及《Archipiélago Sonoro》等作品，它们研究领土、记忆、生物多样性与声音之间的关系。",
+      "p5": "2014年迁居迈阿密，为我的创作实践开启了新篇章。与南佛罗里达亚热带生态系统的相遇，拓展了我对声景生态学的兴趣，也拓展了创造沉浸式体验的可能性——在其中，实地录音、电声作曲、人工智能、摄影、录像与互动技术共存。在这一时期，声音不再只是影像的伴随，而成为一种能够构筑沉思空间的雕塑性材料。",
+      "p6": "这些年间，我也作为研究者、作曲家、DJ、编辑与文化制作人展开了密集的工作，产出了致力于声音艺术以及加勒比与拉丁美洲音乐文化的出版物、档案、黑胶唱片、音乐会、实验室与传播平台。我将这些活动理解为我艺术实践的自然延伸，也是围绕聆听激活社群的方式。",
+      "p7": "我的作品提出一种目光与聆听的减速。我关注揭示那些通常保持不可见的东西：景观的回响、一片领土所承载的记忆、被忽略的日常声音，以及自然、城市与文化之间隐藏的关系。与其说是再现一个地方，我更希望创造条件，让人们从一种扩展的感知出发去体验它。",
+      "p8": "2026年，正值艺术生涯四十周年之际，我意识到自己的创作仍是一场开放的探索。每个项目都是一次邀请——以不同的方式聆听，以更专注的态度观察，并理解景观并非外在的客体，而是一个我们同为其组成部分的活体。我的实践持续在技术实验与诗意感性之间演进，我坚信艺术能够构建人与世界、人与集体记忆之间新的关系形式。"
+    }
+  },
+  "practicas": {
+    "eyebrow": "03 — 公共实践",
+    "lead": "持续进行的实践，记录于社交网络：七个Instagram、YouTube、SoundCloud与Discogs账号。"
+  },
+  "drmusica": {
+    "eyebrow": "04 — DR.MUUSICA",
+    "lead": "Muu Blanco的音乐化名。制作、合作与发行。",
+    "tracks": "81首曲目",
+    "videos": "78个视频",
+    "h2": {
+      "listen": "收听",
+      "press": "媒体报道"
+    },
+    "press": {
+      "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。",
+      "p1": {
+        "outlet": "Código de Barra（博客）",
+        "place": "El Patio，加拉加斯 — 2009年1月29日"
+      },
+      "p4": {
+        "place": "加拉加斯 — 2013年7月4日"
+      },
+      "p5": {
+        "place": "2019年12月12日",
+        "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\"（评论）↗</a>"
+      },
+      "p6": {
+        "place": "2024年11月17日"
+      },
+      "p7": {
+        "place": "迈阿密"
+      },
+      "p8": {
+        "place": "2024年11月20日"
+      }
+    }
+  },
+  "prensa": {
+    "eyebrow": "06 — 新闻",
+    "lead": "报刊杂志上发表的关于Muu Blanco作品的评论，按时间顺序排列。",
+    "loading": "正在加载报道…"
+  },
+  "store": {
+    "eyebrow": "05 — 画廊",
+    "lead": "在线商店 — 现有原作。列表通过Google表格实时更新。点击任意作品查看详情、价格与库存情况。",
+    "note": "该目录数据来自以CSV形式发布的Google表格（与Art Fair相同）。在尚未连接表格之前，你将看到下方的列模板。",
+    "loading": "正在加载画廊…",
+    "driveImage": "Google Drive中的图片",
+    "books": {
+      "title": "已出版书籍",
+      "withGerardo": "与Gerardo Zavarze合作",
+      "pdfNct1": "New Compositional Thinking 1（PDF）↗",
+      "pdfNct2": "New Compositional Thinking 2（PDF）↗"
+    }
+  },
+  "cv": {
+    "eyebrow": "08 — 简历",
+    "lead": "Muu Blanco（1966年生于委内瑞拉加拉加斯）艺术生涯年表。现居迈阿密并在此工作。委内瑞拉裔美籍艺术家。",
+    "h2": {
+      "education": "教育背景",
+      "awards": "奖项与荣誉",
+      "solo": "个展",
+      "group": "联展",
+      "collections": "公共收藏",
+      "discography": "唱片作品（精选）",
+      "installations": "重要声音与表演装置",
+      "residencies": "艺术驻留",
+      "publications": "出版物 / 媒体报道 / 评论提及（精选）",
+      "media": "曾被以下媒体报道"
+    }
+  },
+  "contacto": {
+    "eyebrow": "09 — 联系",
+    "lead": "艺术或音乐相关咨询，请直接来信。",
+    "arte": {
+      "label": "艺术"
+    },
+    "music": {
+      "label": "音乐"
+    },
+    "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。"
+  },
+  "proyectos": {
+    "eyebrow": "02 — 研究项目",
+    "h1": "研究项目",
+    "lead": "Muu Blanco创作实践中的长期研究方向——每一条都拥有自己的作品体系、出版物与展示。",
+    "ongoing": "进行中",
+    "seeInPress": "见音乐新闻报道",
+    "seeInPress2": "见新闻报道",
+    "viewPdfCatalog": "画册（PDF）↗",
+    "viewPdfMA": "MA档案（PDF）↗",
+    "viewPdfSicart": "2010年Sicart画册（PDF）↗",
+    "viewPdfBook": "AAA 2002–2012摄影书（PDF）↗",
+    "viewPdfPhotos": "照片（PDF）↗",
+    "viewPdfDossier": "档案（PDF）↗",
+    "natuurban": {
+      "medium": "声音装置、舞蹈与视频投影",
+      "p1": "在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。融合实验音乐、舞蹈、视频投影，以及一部同名纪录片——Muu Blanco关于声景与城市自然环境的最新研究。",
+      "videoTitle": "短片",
+      "videoMeta": "PlantPop · 2025年"
+    },
+    "soundart": {
+      "p1": "关于声音艺术历史的个人研究项目，从未来主义的根源到二十一世纪——持续进行中。"
+    },
+    "abstracciones": {
+      "medium": "摄影",
+      "p1": "十年间加拉加斯城市摄影抽象创作，汇集于摄影书《AAA 2002–2012》。"
+    },
+    "modernismo": {
+      "medium": "模拟拼贴 / 混合媒介",
+      "p1": "一组重新诠释委内瑞拉建筑现代性的模拟拼贴与混合媒介系列，始于2002年——曾在Héroes y Basura（加拉加斯，2005年）、Espacio Hardcore Art Contemporary（迈阿密，2006年）、Bello Horizonte / Centro Cultural Chacao（加拉加斯，2007年）及Sicart画廊（巴塞罗那，2008年）展出，并以画册/图书形式出版。"
+    },
+    "fosiles": {
+      "medium": "摄影",
+      "p1": "始于2002年的独立摄影研究，曾作为个展在加拉加斯Fernando Zubillaga画廊展出（Periférico Caracas，2006年；Galpones del Centro de Arte，2010年）。"
+    },
+    "abstraccion": {
+      "title": "抽象",
+      "p1": "《Violencia Abstracta》（2013年），抽象领域的新研究系列。"
+    },
+    "artesonoro": {
+      "title": "声音艺术",
+      "medium": "声音装置、行为表演与录像记录",
+      "p1": "Muu Blanco声音艺术实践的录像与摄影档案，从早期的声音装置到近期的行为表演与短片。",
+      "v1": {
+        "meta": "多媒体感官表演 · Mad Museum"
+      },
+      "v3": {
+        "meta": "构思与策展：Muu Blanco · Doral Cultural Arts Center（DIAF 1），2023年 / Arts Connection Foundation，2023年11月",
+        "desc": "这一历史脉络，从未来主义延伸至当代声音艺术，凸显了二十与二十一世纪声音实验的演变。始于未来主义艺术家，他们试图通过混乱的达达主义以及具体音乐、激浪派等音乐前卫运动来表现现代生活与技术。随后，广播艺术在声音叙事中引入了协作与公众互动。最后，受布莱恩·伊诺启发的氛围音乐，专注于营造令人放松的声音氛围。最终，R. Murray Schafer提出的声景概念，凸显了声音在文化与环境中的重要性，影响了城市设计与环境意识。这一历史脉络反映了声音创造力多年来的持续扩展。"
+      },
+      "v4": {
+        "meta": "系列：Lumínico Sonoro #MuuBlanco · 2021年1月5日",
+        "desc": "记录了一场声与光互动多媒体行动——@muublancoartsound · @muublancovideoart 与 @anarquia101——于@idartlab举办的“Multimedia Art Action 2021”。记录：Anarquía 101。"
+      },
+      "v5": {
+        "meta": "多媒体装置（行为表演、声音）· 可变尺寸 · .Wav · 15:38分钟 · Mandragoras Art Space，纽约皇后区"
+      },
+      "v6": {
+        "meta": "声音装置 · Sala Mendoza，加拉加斯",
+        "desc": "在加拉加斯Sala Mendoza展出的声音艺术装置，并以CD-ROM形式发行了声音画册。"
+      }
+    },
+    "instalaciones": {
+      "title": "装置",
+      "medium": "装置",
+      "p1": "《Muuseo Blanco》（1998年），艺术家有记录的最早装置作品之一。"
+    },
+    "performances": {
+      "title": "行为表演",
+      "medium": "行为表演",
+      "p1": "Muu Blanco创作生涯中的两个表演里程碑：标志其艺术实践起点的首次行为表演（1986年），以及《Perra Chillona》（1996年）——在圣保罗短片双年展获得一等奖的短片，由Muu Blanco独白，Sabrina Montiel-Soto执导。"
+    }
+  },
+  "exposiciones": {
+    "eyebrow": "07 — 展览",
+    "lead": "个展与联展的画册及文献资料，按时间顺序排列。",
+    "loading": "正在加载展览…"
+  }
+}
