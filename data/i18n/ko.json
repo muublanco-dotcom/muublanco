@@ -179,12 +179,9 @@
   },
   "contacto": {
     "eyebrow": "09 — 연락처",
-    "lead": "큐레이터, 갤러리, 언론, 컬렉터를 위한 연락처입니다. 문의 목적에 따라 직접 이메일을 보내주세요.",
-    "curators": { "label": "큐레이터 및 갤러리" },
-    "press": { "label": "언론" },
-    "collectors": { "label": "컬렉터" },
-    "music": { "label": "음악 / 부킹 (Dr.Muusica)" },
-    "general": { "label": "일반 문의" },
+    "lead": "예술 또는 음악 문의는 직접 이메일을 보내주세요.",
+    "arte": { "label": "예술" },
+    "music": { "label": "음악" },
     "note": "추가 자료: 전체 이력은 <a href=\"cv.html\">CV</a>, 리뷰와 보도는 <a href=\"prensa.html\">프레스</a>, 소셜 미디어는 <a href=\"practicas-publicas.html\">퍼블릭 프랙티스</a>, 구매 가능한 작품은 <a href=\"store.html\">갤러리</a>에서 확인하세요."
   },
   "proyectos": {

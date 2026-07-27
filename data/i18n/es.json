@@ -179,12 +179,9 @@
   },
   "contacto": {
     "eyebrow": "09 — Contacto",
-    "lead": "Para curadores, galerías, prensa y coleccionistas. Escribe directamente según el motivo de tu consulta.",
-    "curators": { "label": "Curadores y Galerías" },
-    "press": { "label": "Prensa" },
-    "collectors": { "label": "Coleccionistas" },
-    "music": { "label": "Música / Bookings (Dr.Muusica)" },
-    "general": { "label": "Consultas generales" },
+    "lead": "Para consultas de arte o música, escribe directamente.",
+    "arte": { "label": "Arte" },
+    "music": { "label": "Música" },
     "note": "Más material: <a href=\"cv.html\">CV</a> para trayectoria completa, <a href=\"prensa.html\">Prensa</a> para reseñas y cobertura, <a href=\"practicas-publicas.html\">Prácticas Públicas</a> para redes sociales, <a href=\"store.html\">Galería</a> para obra disponible."
   },
   "proyectos": {
