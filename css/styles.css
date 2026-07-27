@@ -12,8 +12,8 @@
   --accent: #a8331d;     /* terracotta, used sparingly */
   --wrap: 1240px;
   --gutter: clamp(1.25rem, 4vw, 3rem);
-  --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --display: "Fraunces", Georgia, serif;
+  --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --display: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
