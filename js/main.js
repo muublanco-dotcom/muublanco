@@ -30,15 +30,7 @@ function parseCSV(text) {
 (function initIntro() {
   const intro = $("#intro");
   if (!intro) return;
-  let revealed = false;
 
-  function reveal() {
-    if (revealed) return;
-    revealed = true;
-    intro.classList.add("is-revealed");
-    const hint = $("#introHint");
-    if (hint) hint.textContent = "";
-  }
   function dismiss(e) {
     if (e) e.preventDefault();
     intro.classList.add("is-hidden");
@@ -48,17 +40,8 @@ function parseCSV(text) {
 
   document.body.style.overflow = "hidden";
 
-  intro.addEventListener("click", (e) => {
-    if (e.target.closest(".intro__actions")) return;
-    reveal();
-  });
-  intro.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") reveal(); });
-
-  $("#introEnter") && $("#introEnter").addEventListener("click", (e) => {
-    if (!revealed) { reveal(); e.preventDefault(); return; }
-    dismiss(e);
-  });
-  $("#introSkip") && $("#introSkip").addEventListener("click", dismiss);
+  intro.addEventListener("click", dismiss);
+  intro.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") dismiss(e); });
 })();
 
 /* ---------- Mobile menu ---------- */

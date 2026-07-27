@@ -52,7 +52,6 @@ h1, h2, h3 { font-weight: 500; line-height: 1.05; margin: 0; letter-spacing: -.0
 .lang-switch button { background: none; border: 0; cursor: pointer; color: var(--muted); font: inherit; padding: .15rem .2rem; }
 .lang-switch button:hover { color: var(--ink); }
 .lang-switch button[aria-current="true"] { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; }
-.lang-switch--intro { justify-content: center; gap: 1rem; margin-top: 1.6rem; font-size: .8rem; }
 .site-nav a { color: var(--muted); font-size: .82rem; letter-spacing: .08em; text-transform: uppercase; transition: color .18s; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--ink); }
 .site-nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 5px; }
@@ -71,19 +70,11 @@ h1, h2, h3 { font-weight: 500; line-height: 1.05; margin: 0; letter-spacing: -.0
 .intro__inner { max-width: 900px; }
 .intro__brand { font-family: var(--display); font-size: 1.1rem; color: var(--muted); margin-bottom: 2.5rem; }
 .intro__lead { font-family: var(--display); font-size: clamp(1.8rem, 5vw, 3.4rem); line-height: 1.08; }
-.intro__hint { margin-top: 1.6rem; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); transition: opacity .3s; }
 .intro__subtitle {
   font-family: var(--display); font-style: italic;
   font-size: clamp(1.4rem, 4vw, 2.4rem); color: var(--accent);
-  max-height: 0; opacity: 0; overflow: hidden;
-  transition: max-height .6s ease, opacity .6s ease, margin .6s ease;
-  margin: 0;
+  margin: 1.8rem 0 0;
 }
-.intro.is-revealed .intro__subtitle { max-height: 240px; opacity: 1; margin: 1.8rem 0 0; }
-.intro.is-revealed .intro__hint { opacity: 0; }
-.intro__actions { display: flex; gap: 1rem; justify-content: center; margin-top: 2.4rem; opacity: 0; max-height: 0; overflow: hidden; transition: opacity .5s ease .1s, max-height .5s ease; }
-.intro.is-revealed .intro__actions { opacity: 1; max-height: 120px; }
-.intro__cta { font-size: .95rem; }
 
 /* ===== Buttons / links ===== */
 .btn {
