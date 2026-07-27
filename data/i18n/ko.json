@@ -27,7 +27,7 @@
     },
     "hero": {
       "placeholder": "이미지 준비 중",
-      "needs": "다학제적 아티스트이자 뮤지션 —",
+      "needs": "다학제적 아티스트 —",
       "accent": "개념미술, 멀티미디어, 그리고 공공 실천.",
       "sub": "<em>Muu Blanco</em>의 세계를 탐색하세요, 별칭 <em>Dr.Muusica</em>."
     },
@@ -45,7 +45,7 @@
   },
   "about": {
     "eyebrow": "About",
-    "lead": "다학제적 아티스트이자 뮤지션. 사운드 앨리어스: <em>Dr.Muusica</em>. 카라카스 / 마이애미.",
+    "lead": "다학제적 아티스트. 사운드 앨리어스: <em>Dr.Muusica</em>. 카라카스 / 마이애미.",
     "h2": {
       "summary": "요약",
       "full": "전체 이력",

@@ -27,7 +27,7 @@
     },
     "hero": {
       "placeholder": "Imagen pendiente",
-      "needs": "Artista y músico multidisciplinario —",
+      "needs": "Artista Multidisciplinario —",
       "accent": "arte conceptual, multimedia y práctica pública.",
       "sub": "Explora los espacios de <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
     },
@@ -45,7 +45,7 @@
   },
   "about": {
     "eyebrow": "About",
-    "lead": "Artista y músico multidisciplinario. Alias sonoro: <em>Dr.Muusica</em>. Caracas / Miami.",
+    "lead": "Artista Multidisciplinario. Alias sonoro: <em>Dr.Muusica</em>. Caracas / Miami.",
     "h2": {
       "summary": "Resumen",
       "full": "Biografía completa",

@@ -27,7 +27,7 @@
     },
     "hero": {
       "placeholder": "Image pending",
-      "needs": "Multidisciplinary artist and musician —",
+      "needs": "Multidisciplinary Artist —",
       "accent": "conceptual art, multimedia, and public practice.",
       "sub": "Explore the spaces of <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
     },
@@ -45,7 +45,7 @@
   },
   "about": {
     "eyebrow": "About",
-    "lead": "Multidisciplinary artist and musician. Sonic alias: <em>Dr.Muusica</em>. Caracas / Miami.",
+    "lead": "Multidisciplinary Artist. Sonic alias: <em>Dr.Muusica</em>. Caracas / Miami.",
     "h2": {
       "summary": "Summary",
       "full": "Full biography",
