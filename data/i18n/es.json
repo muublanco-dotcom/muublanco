@@ -4,7 +4,6 @@
     "enter": "Entrar →",
     "nav": {
       "conceptual": "Conceptual",
-      "multimedia": "Multimedia",
       "practicas": "Prácticas Públicas",
       "drmusica": "DR.MUUSICA",
       "prensa": "Prensa",
@@ -28,12 +27,11 @@
     "hero": {
       "placeholder": "Imagen pendiente",
       "needs": "Artista Multidisciplinario —",
-      "accent": "arte conceptual, multimedia y práctica pública.",
+      "accent": "arte conceptual y práctica pública.",
       "sub": "Explora los espacios de <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
     },
     "tiles": {
       "conceptual": "Textos, notas de trabajo y bitácora de piezas — ordenados cronológicamente.",
-      "multimedia": "Video, performance sensorial e imagen en movimiento.",
       "practicas": "Instagram, YouTube, SoundCloud y Discogs — la práctica en curso.",
       "drmusica": "El alias sonoro — producciones, colaboraciones y lanzamientos.",
       "galeria": "Obra original disponible — tienda virtual, consulta precio y disponibilidad.",
@@ -80,7 +78,7 @@
       "p17": "Con más de tres décadas de trayectoria artística, Muu Blanco ha desarrollado una práctica híbrida en la que el video, el sonido, la tecnología y la performance funcionan como dispositivos para investigar la cultura urbana, la memoria y las tensiones sociales contemporáneas. Su obra forma parte de diversas colecciones públicas y privadas internacionales."
     },
     "recent": {
-      "p1": "La pieza en curso, <strong>Latencies</strong> (2026), es una performance sensorial multimedia de 40 minutos. Se documenta en las secciones <a href=\"conceptual.html\">Conceptual</a> y <a href=\"multimedia.html\">Multimedia</a> de este sitio."
+      "p1": "La pieza en curso, <strong>Latencies</strong> (2026), es una performance sensorial multimedia de 40 minutos. Se documenta en las secciones <a href=\"conceptual.html\">Conceptual</a> y <a href=\"proyectos.html\">Proyectos</a> de este sitio."
     },
     "selfportrait": {
       "li1": "AutoCopia — primer autorretrato registrado en el archivo del artista.",
@@ -114,16 +112,12 @@
       "p8": "En 2026, al cumplirse cuarenta años de trayectoria artística, reconozco que mi trabajo continúa siendo una investigación abierta. Cada proyecto es una invitación a escuchar de otra manera, a observar con mayor atención y a comprender que el paisaje no es un objeto externo, sino un organismo vivo del cual también formamos parte. Mi práctica sigue evolucionando entre la experimentación tecnológica y la sensibilidad poética, convencido de que el arte puede construir nuevas formas de relación con el mundo y con la memoria colectiva."
     }
   },
-  "multimedia": {
-    "eyebrow": "03 — Multimedia",
-    "lead": "Video, performance sensorial e imagen en movimiento."
-  },
   "practicas": {
-    "eyebrow": "04 — Prácticas Públicas",
+    "eyebrow": "03 — Prácticas Públicas",
     "lead": "La práctica en curso, documentada en redes: siete cuentas de Instagram, YouTube, SoundCloud y Discogs."
   },
   "drmusica": {
-    "eyebrow": "05 — DR.MUUSICA",
+    "eyebrow": "04 — DR.MUUSICA",
     "lead": "El alias sonoro de Muu Blanco. Producciones, colaboraciones y lanzamientos.",
     "tracks": "81 pistas",
     "videos": "78 videos",
@@ -133,23 +127,43 @@
     },
     "press": {
       "lead": "Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente.",
-      "p1": { "outlet": "Código de Barra (blog)", "place": "El Patio, Caracas — 29 de enero de 2009" },
-      "p2": { "outlet": "El Hilo Musical (blog)", "place": "Caracas — 27 de febrero de 2009" },
-      "p3": { "outlet": "Fundación Cisneros — Seminario (Vimeo)", "place": "Pecha Kucha" },
-      "p4": { "place": "Caracas — 4 de julio de 2013" },
-      "p5": { "place": "12 de diciembre de 2019", "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (reseña) ↗</a>" },
-      "p6": { "place": "Venezuela" },
-      "p7": { "place": "Miami" },
-      "p8": { "place": "20 de noviembre de 2024" }
+      "p1": {
+        "outlet": "Código de Barra (blog)",
+        "place": "El Patio, Caracas — 29 de enero de 2009"
+      },
+      "p2": {
+        "outlet": "El Hilo Musical (blog)",
+        "place": "Caracas — 27 de febrero de 2009"
+      },
+      "p3": {
+        "outlet": "Fundación Cisneros — Seminario (Vimeo)",
+        "place": "Pecha Kucha"
+      },
+      "p4": {
+        "place": "Caracas — 4 de julio de 2013"
+      },
+      "p5": {
+        "place": "12 de diciembre de 2019",
+        "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (reseña) ↗</a>"
+      },
+      "p6": {
+        "place": "Venezuela"
+      },
+      "p7": {
+        "place": "Miami"
+      },
+      "p8": {
+        "place": "20 de noviembre de 2024"
+      }
     }
   },
   "prensa": {
-    "eyebrow": "07 — Prensa",
+    "eyebrow": "06 — Prensa",
     "lead": "Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.",
     "loading": "Cargando reseñas…"
   },
   "store": {
-    "eyebrow": "06 — Galería",
+    "eyebrow": "05 — Galería",
     "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
     "note": "El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.",
     "loading": "Cargando galería…",
@@ -162,7 +176,7 @@
     }
   },
   "cv": {
-    "eyebrow": "08 — CV",
+    "eyebrow": "07 — CV",
     "lead": "Guía cronológica de la trayectoria artística de Muu Blanco (Caracas, Venezuela, 1966). Vive y trabaja en Miami. Artista venezolano-norteamericano.",
     "h2": {
       "education": "Educación",
@@ -178,10 +192,14 @@
     }
   },
   "contacto": {
-    "eyebrow": "09 — Contacto",
+    "eyebrow": "08 — Contacto",
     "lead": "Para consultas de arte o música, escribe directamente.",
-    "arte": { "label": "Arte" },
-    "music": { "label": "Música" },
+    "arte": {
+      "label": "Arte"
+    },
+    "music": {
+      "label": "Música"
+    },
     "note": "Más material: <a href=\"cv.html\">CV</a> para trayectoria completa, <a href=\"prensa.html\">Prensa</a> para reseñas y cobertura, <a href=\"practicas-publicas.html\">Prácticas Públicas</a> para redes sociales, <a href=\"store.html\">Galería</a> para obra disponible."
   },
   "proyectos": {
@@ -226,7 +244,9 @@
       "title": "Arte Sonoro",
       "medium": "Instalación sonora, performance y documentación en video",
       "p1": "Archivo de documentación en video y fotografía de la práctica de arte sonoro de Muu Blanco, desde instalaciones sonoras tempranas hasta performances y cortometrajes recientes.",
-      "v1": { "meta": "Performance sensorial multimedia · Mad Museum" },
+      "v1": {
+        "meta": "Performance sensorial multimedia · Mad Museum"
+      },
       "v3": {
         "meta": "Concepto y curaduría: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, noviembre 2023",
         "desc": "Este recorrido histórico, que abarca desde el Futurismo hasta el Arte Sonoro contemporáneo, destaca la evolución de la experimentación sonora a lo largo de los siglos XX y XXI. Comienza con los artistas futuristas que buscaban representar la vida moderna y la tecnología a través del Dadaísmo caótico y vanguardias musicales como la Música Concreta y Fluxus. Luego, el Arte Radiofónico introduce la colaboración y la interacción con el público en la narrativa sonora. Por último, la Música Ambient, inspirada en Brian Eno, se enfoca en crear atmósferas sonoras relajantes. Finalmente, el concepto de Paisaje Sonoro de R. Murray Schafer resalta la importancia del sonido en la cultura y el entorno, influyendo en el diseño urbano y la conciencia ambiental. Este recorrido histórico refleja la constante expansión de la creatividad sonora a lo largo de los años."
@@ -235,7 +255,9 @@
         "meta": "Serie: Lumínico Sonoro #MuuBlanco · 05.01.2021",
         "desc": "Documentación de la acción multimedia interactiva de sonido y luz — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — \"Multimedia Art Action 2021\" en @idartlab. Documentación: Anarquía 101."
       },
-      "v5": { "meta": "Instalación Multimedia (Performance, Sonido) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC" },
+      "v5": {
+        "meta": "Instalación Multimedia (Performance, Sonido) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC"
+      },
       "v6": {
         "meta": "Instalación sonora · Sala Mendoza, Caracas",
         "desc": "Instalación de arte sonoro presentada en la Sala Mendoza, Caracas, y publicada como catálogo sonoro en un CD ROM."

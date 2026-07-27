@@ -4,7 +4,6 @@
     "enter": "Enter →",
     "nav": {
       "conceptual": "Conceptual",
-      "multimedia": "Multimedia",
       "practicas": "Public Practices",
       "drmusica": "DR.MUUSICA",
       "prensa": "Press",
@@ -28,12 +27,11 @@
     "hero": {
       "placeholder": "Image pending",
       "needs": "Multidisciplinary Artist —",
-      "accent": "conceptual art, multimedia, and public practice.",
+      "accent": "conceptual art and public practice.",
       "sub": "Explore the spaces of <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
     },
     "tiles": {
       "conceptual": "Texts, working notes, and a log of works — ordered chronologically.",
-      "multimedia": "Video, sensorial performance, and moving image.",
       "practicas": "Instagram, YouTube, SoundCloud, and Discogs — the ongoing practice.",
       "drmusica": "The sonic alias — productions, collaborations, and releases.",
       "galeria": "Original works available — online store, inquire about price and availability.",
@@ -80,7 +78,7 @@
       "p17": "With more than three decades of artistic trajectory, Muu Blanco has developed a hybrid practice in which video, sound, technology, and performance function as devices to investigate urban culture, memory, and contemporary social tensions. His work is part of various international public and private collections."
     },
     "recent": {
-      "p1": "The ongoing piece, <strong>Latencies</strong> (2026), is a 40-minute multimedia sensorial performance. It is documented in the <a href=\"conceptual.html\">Conceptual</a> and <a href=\"multimedia.html\">Multimedia</a> sections of this site."
+      "p1": "The ongoing piece, <strong>Latencies</strong> (2026), is a 40-minute multimedia sensorial performance. It is documented in the <a href=\"conceptual.html\">Conceptual</a> and <a href=\"proyectos.html\">Projects</a> sections of this site."
     },
     "selfportrait": {
       "li1": "AutoCopia — first self-portrait recorded in the artist's archive.",
@@ -114,16 +112,12 @@
       "p8": "In 2026, marking forty years of artistic trajectory, I recognize that my work continues to be an open investigation. Each project is an invitation to listen differently, to observe more attentively, and to understand that landscape is not an external object, but a living organism of which we are also part. My practice continues to evolve between technological experimentation and poetic sensibility, convinced that art can build new forms of relationship with the world and with collective memory."
     }
   },
-  "multimedia": {
-    "eyebrow": "03 — Multimedia",
-    "lead": "Video, sensorial performance, and moving image."
-  },
   "practicas": {
-    "eyebrow": "04 — Public Practices",
+    "eyebrow": "03 — Public Practices",
     "lead": "The ongoing practice, documented across networks: seven Instagram accounts, YouTube, SoundCloud, and Discogs."
   },
   "drmusica": {
-    "eyebrow": "05 — DR.MUUSICA",
+    "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco's sonic alias. Productions, collaborations, and releases.",
     "tracks": "81 tracks",
     "videos": "78 videos",
@@ -133,23 +127,43 @@
     },
     "press": {
       "lead": "Mentions and coverage of Muu Blanco as a musician and music producer, ordered chronologically.",
-      "p1": { "outlet": "Código de Barra (blog)", "place": "El Patio, Caracas — January 29, 2009" },
-      "p2": { "outlet": "El Hilo Musical (blog)", "place": "Caracas — February 27, 2009" },
-      "p3": { "outlet": "Cisneros Foundation — Seminar (Vimeo)", "place": "Pecha Kucha" },
-      "p4": { "place": "Caracas — July 4, 2013" },
-      "p5": { "place": "December 12, 2019", "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (review) ↗</a>" },
-      "p6": { "place": "Venezuela" },
-      "p7": { "place": "Miami" },
-      "p8": { "place": "November 20, 2024" }
+      "p1": {
+        "outlet": "Código de Barra (blog)",
+        "place": "El Patio, Caracas — January 29, 2009"
+      },
+      "p2": {
+        "outlet": "El Hilo Musical (blog)",
+        "place": "Caracas — February 27, 2009"
+      },
+      "p3": {
+        "outlet": "Cisneros Foundation — Seminar (Vimeo)",
+        "place": "Pecha Kucha"
+      },
+      "p4": {
+        "place": "Caracas — July 4, 2013"
+      },
+      "p5": {
+        "place": "December 12, 2019",
+        "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (review) ↗</a>"
+      },
+      "p6": {
+        "place": "Venezuela"
+      },
+      "p7": {
+        "place": "Miami"
+      },
+      "p8": {
+        "place": "November 20, 2024"
+      }
     }
   },
   "prensa": {
-    "eyebrow": "07 — Press",
+    "eyebrow": "06 — Press",
     "lead": "Reviews published about Muu Blanco's work in newspapers and magazines, ordered chronologically.",
     "loading": "Loading reviews…"
   },
   "store": {
-    "eyebrow": "06 — Gallery",
+    "eyebrow": "05 — Gallery",
     "lead": "Online store — original works available. The list updates live from a Google Sheet. Tap any piece to see details, price, and availability.",
     "note": "The catalog is powered by a Google Sheet published as CSV (same as Art Fair). Until a sheet is connected, you'll see the column template below.",
     "loading": "Loading gallery…",
@@ -162,7 +176,7 @@
     }
   },
   "cv": {
-    "eyebrow": "08 — CV",
+    "eyebrow": "07 — CV",
     "lead": "Chronological guide to the artistic career of Muu Blanco (Caracas, Venezuela, 1966). Lives and works in Miami. Venezuelan-American artist.",
     "h2": {
       "education": "Education",
@@ -178,10 +192,14 @@
     }
   },
   "contacto": {
-    "eyebrow": "09 — Contact",
+    "eyebrow": "08 — Contact",
     "lead": "For art or music inquiries, write directly.",
-    "arte": { "label": "Art" },
-    "music": { "label": "Music" },
+    "arte": {
+      "label": "Art"
+    },
+    "music": {
+      "label": "Music"
+    },
     "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works."
   },
   "proyectos": {
@@ -226,7 +244,9 @@
       "title": "Sound Art",
       "medium": "Sound installation, performance, and video documentation",
       "p1": "An archive of video and photographic documentation of Muu Blanco's sound art practice, from early sound installations to recent performances and short films.",
-      "v1": { "meta": "Multimedia sensorial performance · Mad Museum" },
+      "v1": {
+        "meta": "Multimedia sensorial performance · Mad Museum"
+      },
       "v3": {
         "meta": "Concept and curation: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, November 2023",
         "desc": "This historical overview, spanning from Futurism to contemporary Sound Art, highlights the evolution of sound experimentation throughout the XX and XXI centuries. Beginning with Futurist artists who sought to represent modern life and technology through chaotic Dadaism and musical vanguards such as Concrete Music and Fluxus. Next, Radio Art introduces collaboration and audience interaction into the audible narrative. Lastly, Ambient Music, inspired by Brian Eno, focuses on creating relaxing sound atmospheres. Finally, R. Murray Schafer's Soundscape concept highlights the importance of sounds in culture and the environment, influencing urban design and environmental awareness. This historical journey reflects the constant expansion of sound creativity over the years."
@@ -235,7 +255,9 @@
         "meta": "Series: Lumínico Sonoro #MuuBlanco · 05.01.2021",
         "desc": "Documentation of the interactive multimedia sound and light action — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — \"Multimedia Art Action 2021\" at @idartlab. Documentation: Anarquía 101."
       },
-      "v5": { "meta": "Multimedia Installation (Performance, Sound) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC" },
+      "v5": {
+        "meta": "Multimedia Installation (Performance, Sound) · Variable · .Wav · 15:38 min · Mandragoras Art Space, Queens, NYC"
+      },
       "v6": {
         "meta": "Sound installation · Sala Mendoza, Caracas",
         "desc": "A sound art installation presented at Sala Mendoza, Caracas, and released as a sound catalog on CD-ROM."

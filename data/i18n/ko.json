@@ -4,7 +4,6 @@
     "enter": "입장 →",
     "nav": {
       "conceptual": "컨셉추얼",
-      "multimedia": "멀티미디어",
       "practicas": "퍼블릭 프랙티스",
       "drmusica": "DR.MUUSICA",
       "prensa": "프레스",
@@ -28,12 +27,11 @@
     "hero": {
       "placeholder": "이미지 준비 중",
       "needs": "다학제적 아티스트 —",
-      "accent": "개념미술, 멀티미디어, 그리고 공공 실천.",
+      "accent": "개념미술과 공공 실천.",
       "sub": "<em>Muu Blanco</em>의 세계를 탐색하세요, 별칭 <em>Dr.Muusica</em>."
     },
     "tiles": {
       "conceptual": "텍스트, 작업 노트, 작품 기록 — 연대순으로 정리.",
-      "multimedia": "비디오, 감각적 퍼포먼스, 무빙 이미지.",
       "practicas": "Instagram, YouTube, SoundCloud, Discogs — 현재 진행 중인 활동.",
       "drmusica": "사운드 앨리어스 — 프로덕션, 협업, 발매작.",
       "galeria": "구매 가능한 오리지널 작품 — 온라인 스토어, 가격 및 재고 문의.",
@@ -80,7 +78,7 @@
       "p17": "30년이 넘는 예술 활동을 통해 무 블랑코는 비디오, 사운드, 기술, 퍼포먼스가 도시 문화와 기억, 동시대 사회적 긴장을 탐구하는 장치로 기능하는 혼종적 실천을 발전시켜왔다. 그의 작품은 다수의 국제 공공 및 개인 컬렉션에 소장되어 있다."
     },
     "recent": {
-      "p1": "현재 진행 중인 작품 <strong>Latencies</strong>(2026)는 40분 분량의 멀티미디어 감각 퍼포먼스이다. 이 사이트의 <a href=\"conceptual.html\">Conceptual</a> 및 <a href=\"multimedia.html\">Multimedia</a> 섹션에 기록되어 있다."
+      "p1": "현재 진행 중인 작품 <strong>Latencies</strong>(2026)는 40분 분량의 멀티미디어 감각 퍼포먼스이다. 이 사이트의 <a href=\"conceptual.html\">Conceptual</a> 및 <a href=\"proyectos.html\">프로젝트</a> 섹션에 기록되어 있다."
     },
     "selfportrait": {
       "li1": "AutoCopia — 작가 아카이브에 기록된 첫 자화상.",
@@ -114,16 +112,12 @@
       "p8": "2026년, 예술 활동 40주년을 맞아, 나는 나의 작업이 여전히 열려 있는 탐구임을 인식한다. 각 프로젝트는 다르게 듣고, 더 세심하게 관찰하며, 풍경이 외부의 대상이 아니라 우리 또한 그 일부를 이루는 살아 있는 유기체임을 이해하도록 초대한다. 나의 실천은 기술적 실험과 시적 감수성 사이에서 계속 진화하고 있으며, 예술이 세계 및 집단적 기억과의 새로운 관계 방식을 만들어낼 수 있다고 확신한다."
     }
   },
-  "multimedia": {
-    "eyebrow": "03 — 멀티미디어",
-    "lead": "비디오, 감각적 퍼포먼스, 무빙 이미지."
-  },
   "practicas": {
-    "eyebrow": "04 — 퍼블릭 프랙티스",
+    "eyebrow": "03 — 퍼블릭 프랙티스",
     "lead": "현재 진행 중인 활동을 다양한 네트워크에 기록: 7개의 Instagram 계정, YouTube, SoundCloud, Discogs."
   },
   "drmusica": {
-    "eyebrow": "05 — DR.MUUSICA",
+    "eyebrow": "04 — DR.MUUSICA",
     "lead": "무 블랑코의 사운드 앨리어스. 프로덕션, 협업, 발매작.",
     "tracks": "81곡",
     "videos": "78개 영상",
@@ -133,23 +127,43 @@
     },
     "press": {
       "lead": "음악가이자 프로듀서로서의 무 블랑코에 대한 언급과 보도, 연대순 정리.",
-      "p1": { "outlet": "Código de Barra (블로그)", "place": "엘 파티오, 카라카스 — 2009년 1월 29일" },
-      "p2": { "outlet": "El Hilo Musical (블로그)", "place": "카라카스 — 2009년 2월 27일" },
-      "p3": { "outlet": "시스네로스 재단 — 세미나 (Vimeo)", "place": "페차 쿠차" },
-      "p4": { "place": "카라카스 — 2013년 7월 4일" },
-      "p5": { "place": "2019년 12월 12일", "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (리뷰) ↗</a>" },
-      "p6": { "place": "베네수엘라" },
-      "p7": { "place": "마이애미" },
-      "p8": { "place": "2024년 11월 20일" }
+      "p1": {
+        "outlet": "Código de Barra (블로그)",
+        "place": "엘 파티오, 카라카스 — 2009년 1월 29일"
+      },
+      "p2": {
+        "outlet": "El Hilo Musical (블로그)",
+        "place": "카라카스 — 2009년 2월 27일"
+      },
+      "p3": {
+        "outlet": "시스네로스 재단 — 세미나 (Vimeo)",
+        "place": "페차 쿠차"
+      },
+      "p4": {
+        "place": "카라카스 — 2013년 7월 4일"
+      },
+      "p5": {
+        "place": "2019년 12월 12일",
+        "note": "<a href=\"https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/\" target=\"_blank\" rel=\"noopener\">\"Muu Blanco — Lumínico Sonoro 2019\" (리뷰) ↗</a>"
+      },
+      "p6": {
+        "place": "베네수엘라"
+      },
+      "p7": {
+        "place": "마이애미"
+      },
+      "p8": {
+        "place": "2024년 11월 20일"
+      }
     }
   },
   "prensa": {
-    "eyebrow": "07 — 프레스",
+    "eyebrow": "06 — 프레스",
     "lead": "무 블랑코의 작업에 대해 신문과 잡지에 게재된 리뷰, 연대순 정리.",
     "loading": "리뷰 불러오는 중…"
   },
   "store": {
-    "eyebrow": "06 — 갤러리",
+    "eyebrow": "05 — 갤러리",
     "lead": "온라인 스토어 — 구매 가능한 오리지널 작품. 목록은 Google Sheet에서 실시간으로 업데이트됩니다. 작품을 눌러 세부 정보, 가격, 재고를 확인하세요.",
     "note": "카탈로그는 CSV로 게시된 Google Sheet를 통해 제공됩니다(Art Fair와 동일한 방식). 시트가 연결되기 전까지는 아래에 열 템플릿이 표시됩니다.",
     "loading": "갤러리 불러오는 중…",
@@ -162,7 +176,7 @@
     }
   },
   "cv": {
-    "eyebrow": "08 — CV",
+    "eyebrow": "07 — CV",
     "lead": "무 블랑코(1966년 베네수엘라 카라카스 출생)의 예술 활동 연대기 가이드. 마이애미에 거주하며 활동 중. 베네수엘라계 미국인 아티스트.",
     "h2": {
       "education": "학력",
@@ -178,10 +192,14 @@
     }
   },
   "contacto": {
-    "eyebrow": "09 — 연락처",
+    "eyebrow": "08 — 연락처",
     "lead": "예술 또는 음악 문의는 직접 이메일을 보내주세요.",
-    "arte": { "label": "예술" },
-    "music": { "label": "음악" },
+    "arte": {
+      "label": "예술"
+    },
+    "music": {
+      "label": "음악"
+    },
     "note": "추가 자료: 전체 이력은 <a href=\"cv.html\">CV</a>, 리뷰와 보도는 <a href=\"prensa.html\">프레스</a>, 소셜 미디어는 <a href=\"practicas-publicas.html\">퍼블릭 프랙티스</a>, 구매 가능한 작품은 <a href=\"store.html\">갤러리</a>에서 확인하세요."
   },
   "proyectos": {
@@ -226,7 +244,9 @@
       "title": "사운드 아트",
       "medium": "사운드 설치, 퍼포먼스 및 영상 기록",
       "p1": "무 블랑코의 사운드 아트 실천에 대한 영상 및 사진 기록 아카이브로, 초기 사운드 설치부터 최근의 퍼포먼스와 단편 영화까지를 아우른다.",
-      "v1": { "meta": "멀티미디어 감각 퍼포먼스 · Mad Museum" },
+      "v1": {
+        "meta": "멀티미디어 감각 퍼포먼스 · Mad Museum"
+      },
       "v3": {
         "meta": "콘셉트 및 큐레이션: 무 블랑코 · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, 2023년 11월",
         "desc": "미래주의부터 현대 사운드 아트에 이르는 이 역사적 개관은 20세기와 21세기에 걸친 사운드 실험의 진화를 조명한다. 혼돈적인 다다이즘과 콘크리트 음악, 플럭서스와 같은 음악적 전위를 통해 현대 생활과 기술을 표현하고자 했던 미래주의 예술가들로부터 시작된다. 이어서 라디오 아트는 청각적 서사에 협업과 관객 상호작용을 도입한다. 마지막으로 브라이언 이노에게 영감을 받은 앰비언트 뮤직은 편안한 사운드 분위기를 만드는 데 집중한다. 끝으로 R. 머레이 셰이퍼의 사운드스케이프 개념은 문화와 환경 속 소리의 중요성을 강조하며, 도시 설계와 환경 인식에 영향을 미친다. 이 역사적 여정은 수년에 걸친 사운드 창의성의 지속적인 확장을 반영한다."
@@ -235,7 +255,9 @@
         "meta": "시리즈: Lumínico Sonoro #MuuBlanco · 2021.01.05",
         "desc": "인터랙티브 멀티미디어 사운드 앤 라이트 액션 기록 — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — @idartlab에서 열린 \"Multimedia Art Action 2021\". 기록: Anarquía 101."
       },
-      "v5": { "meta": "멀티미디어 설치 (퍼포먼스, 사운드) · 가변 크기 · .Wav · 15분 38초 · Mandragoras Art Space, 퀸즈, 뉴욕" },
+      "v5": {
+        "meta": "멀티미디어 설치 (퍼포먼스, 사운드) · 가변 크기 · .Wav · 15분 38초 · Mandragoras Art Space, 퀸즈, 뉴욕"
+      },
       "v6": {
         "meta": "사운드 설치 · Sala Mendoza, 카라카스",
         "desc": "카라카스 살라 멘도사에서 발표된 사운드 아트 설치로, CD-ROM 사운드 카탈로그로 발매되었다."
