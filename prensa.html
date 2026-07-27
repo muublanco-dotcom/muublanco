@@ -55,7 +55,7 @@
   if (!root) return;
   const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
-  const driveThumb = (id, w = 900) => `https://drive.google.com/thumbnail?id=${id}&sz=w${w}`;
+  const driveThumb = (id, w = 900) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
   const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
   const emptyMsg = { es: "Aún no hay reseñas publicadas.", en: "No reviews published yet.", ko: "아직 게시된 리뷰가 없습니다.", ja: "まだ公開されたレビューはありません。" };
