@@ -40,7 +40,10 @@ function parseCSV(text) {
 
   document.body.style.overflow = "hidden";
 
-  intro.addEventListener("click", dismiss);
+  intro.addEventListener("click", (e) => {
+    if (e.target.closest(".lang-switch")) return;
+    dismiss(e);
+  });
   intro.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") dismiss(e); });
 })();
 
