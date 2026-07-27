@@ -29,7 +29,8 @@ function parseCSV(text) {
 /* ---------- Intro (home page only) ---------- */
 (function initIntro() {
   const intro = $("#intro");
-  if (!intro) return;
+  const enter = $("#introEnter");
+  if (!intro || !enter) return;
 
   function dismiss(e) {
     if (e) e.preventDefault();
@@ -40,11 +41,8 @@ function parseCSV(text) {
 
   document.body.style.overflow = "hidden";
 
-  intro.addEventListener("click", (e) => {
-    if (e.target.closest(".lang-switch")) return;
-    dismiss(e);
-  });
-  intro.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") dismiss(e); });
+  enter.addEventListener("click", dismiss);
+  enter.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") dismiss(e); });
 })();
 
 /* ---------- Mobile menu ---------- */
