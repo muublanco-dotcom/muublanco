@@ -1,0 +1,646 @@
+[
+  {
+    "year": "2007",
+    "outlet": "Bello Horizonte",
+    "place": {
+      "es": "Centro Cultural Chacao, Caracas",
+      "en": "Centro Cultural Chacao, Caracas",
+      "ko": "센트로 쿨투랄 차카오, 카라카스",
+      "ja": "セントロ・クルトゥラル・チャカオ、カラカス"
+    },
+    "kind": {
+      "es": "Individual",
+      "en": "Solo",
+      "ko": "개인전",
+      "ja": "個展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP"
+  },
+  {
+    "year": "2008",
+    "outlet": "Abstracciones Paisajísticas",
+    "place": {
+      "es": "Galería F+F, Caracas",
+      "en": "Galería F+F, Caracas",
+      "ko": "갤러리 F+F, 카라카스",
+      "ja": "ギャラリーF+F、カラカス"
+    },
+    "kind": {
+      "es": "Individual",
+      "en": "Solo",
+      "ko": "개인전",
+      "ja": "個展"
+    },
+    "note": {
+      "es": "Catálogo de exposición",
+      "en": "Exhibition catalog",
+      "ko": "전시 카탈로그",
+      "ja": "展覧会カタログ"
+    },
+    "imageId": "1OEOdBUV13urUjmw--ybHtYcuZkWyesk4"
+  },
+  {
+    "year": "2008",
+    "outlet": "AAA",
+    "place": {
+      "es": "Galería HACS, Miami",
+      "en": "HACS Gallery, Miami",
+      "ko": "HACS 갤러리, 마이애미",
+      "ja": "HACSギャラリー、マイアミ"
+    },
+    "kind": {
+      "es": "Individual",
+      "en": "Solo",
+      "ko": "개인전",
+      "ja": "個展"
+    },
+    "note": {
+      "es": "Hoja de sala",
+      "en": "Exhibition handout",
+      "ko": "전시 안내지",
+      "ja": "展示解説シート"
+    },
+    "imageId": "1bnGu_k8Hzicjxk-X5l4sS8RiJOB6nxR2"
+  },
+  {
+    "year": "2008",
+    "outlet": "Modernismo Anacrónico",
+    "place": {
+      "es": "Galería Sicart, Barcelona",
+      "en": "Galería Sicart, Barcelona",
+      "ko": "갤러리 시카르트, 바르셀로나",
+      "ja": "ギャラリー・シカルト、バルセロナ"
+    },
+    "kind": {
+      "es": "Individual",
+      "en": "Solo",
+      "ko": "개인전",
+      "ja": "個展"
+    },
+    "note": {
+      "es": "Tríptico de exposición",
+      "en": "Exhibition triptych",
+      "ko": "전시 삼단 리플릿",
+      "ja": "展覧会トリプティック"
+    },
+    "imageId": "1w-d9XzZGzzg9WTlhi2noUPUlnZebuHYb"
+  },
+  {
+    "year": "1994",
+    "outlet": "IV Bienal Nacional de Arte de Guayana",
+    "place": {
+      "es": "Ciudad Bolívar, Venezuela",
+      "en": "Ciudad Bolívar, Venezuela",
+      "ko": "시우다드 볼리바르, 베네수엘라",
+      "ja": "シウダー・ボリバル、ベネズエラ"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7"
+  },
+  {
+    "year": "1998",
+    "outlet": "Casco de Acero — Arte de Instalación",
+    "place": {
+      "es": "Caracas",
+      "en": "Caracas",
+      "ko": "카라카스",
+      "ja": "カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "15q_1kpH203Mfw8Iiu6G7-j945bm5EO-X"
+  },
+  {
+    "year": "1998",
+    "outlet": "Longitud de Onda",
+    "place": {
+      "es": "Museo Alejandro Otero, Caracas",
+      "en": "Museo Alejandro Otero, Caracas",
+      "ko": "알레한드로 오테로 미술관, 카라카스",
+      "ja": "アレハンドロ・オテロ美術館、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Exposición de videoarte",
+      "en": "Video art exhibition",
+      "ko": "비디오 아트 전시",
+      "ja": "ビデオアート展"
+    },
+    "imageId": "1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz"
+  },
+  {
+    "year": "1998",
+    "outlet": "La Resurrección del Cadáver Exquisito",
+    "place": {
+      "es": "Sala Mendoza, Caracas",
+      "en": "Sala Mendoza, Caracas",
+      "ko": "살라 멘도사, 카라카스",
+      "ja": "サラ・メンドーサ、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz"
+  },
+  {
+    "year": "1998",
+    "outlet": "III Bienal de Barro de América",
+    "place": {
+      "es": "Museo de Bellas Artes, Caracas",
+      "en": "Museo de Bellas Artes, Caracas",
+      "ko": "카라카스 미술관",
+      "ja": "カラカス美術館"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe"
+  },
+  {
+    "year": "2000",
+    "outlet": "A Case Study",
+    "place": {
+      "es": "Or Gallery, Vancouver, Canadá",
+      "en": "Or Gallery, Vancouver, Canada",
+      "ko": "오어 갤러리, 밴쿠버, 캐나다",
+      "ja": "オア・ギャラリー、バンクーバー、カナダ"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Hoja de sala",
+      "en": "Exhibition handout",
+      "ko": "전시 안내지",
+      "ja": "展示解説シート"
+    },
+    "imageId": "1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM"
+  },
+  {
+    "year": "2000",
+    "outlet": "90 60 90",
+    "place": {
+      "es": "Museo Jacobo Borges, Caracas",
+      "en": "Museo Jacobo Borges, Caracas",
+      "ko": "하코보 보르헤스 미술관, 카라카스",
+      "ja": "ハコボ・ボルヘス美術館、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV"
+  },
+  {
+    "year": "2001",
+    "outlet": "58º Salón de Arte Arturo Michelena",
+    "place": {
+      "es": "Venezuela",
+      "en": "Venezuela",
+      "ko": "베네수엘라",
+      "ja": "ベネズエラ"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr"
+  },
+  {
+    "year": "2002",
+    "outlet": "Mapas Abiertos — Fotografía Latinoamericana 1991–2002",
+    "place": {
+      "es": "Madrid, España",
+      "en": "Madrid, Spain",
+      "ko": "마드리드, 스페인",
+      "ja": "マドリード、スペイン"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH"
+  },
+  {
+    "year": "2003–2004",
+    "outlet": "Arte Venezolano del Siglo XX",
+    "place": {
+      "es": "Museo de Arte Contemporáneo de Caracas",
+      "en": "Museo de Arte Contemporáneo de Caracas",
+      "ko": "카라카스 현대미술관",
+      "ja": "カラカス現代美術館"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1i8ruLA7brUUXEqhXT8rY3XPTd5Nm9I-N"
+  },
+  {
+    "year": "2004",
+    "outlet": "Estética del Petróleo",
+    "place": {
+      "es": "Museo Jacobo Borges & Goethe-Institut, Caracas",
+      "en": "Museo Jacobo Borges & Goethe-Institut, Caracas",
+      "ko": "하코보 보르헤스 미술관 & 괴테 인스티투트, 카라카스",
+      "ja": "ハコボ・ボルヘス美術館＆ゲーテ・インスティトゥート、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "16281z47hmWGZ5Re5VC__hrsXZ_RkKA27"
+  },
+  {
+    "year": "2004",
+    "outlet": "VII Salón CANTV Jóvenes con FIA",
+    "place": {
+      "es": "Caracas",
+      "en": "Caracas",
+      "ko": "카라카스",
+      "ja": "カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Invitado especial",
+      "en": "Special guest",
+      "ko": "특별 초청",
+      "ja": "特別ゲスト"
+    },
+    "imageId": "1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX"
+  },
+  {
+    "year": "2004–2005",
+    "outlet": "Diálogos",
+    "place": {
+      "es": "Museo Nacional de Bellas Artes, Santiago de Chile",
+      "en": "Museo Nacional de Bellas Artes, Santiago de Chile",
+      "ko": "국립미술관, 산티아고, 칠레",
+      "ja": "国立美術館、サンティアゴ、チリ"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt"
+  },
+  {
+    "year": "2005",
+    "outlet": "Arte Contemporáneo Venezolano — Colección Cisneros",
+    "place": {
+      "es": "Venezuela / Estados Unidos",
+      "en": "Venezuela / United States",
+      "ko": "베네수엘라 / 미국",
+      "ja": "ベネズエラ／米国"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu"
+  },
+  {
+    "year": "2006",
+    "outlet": "Arte Contemporáneo de Venezuela",
+    "place": {
+      "es": "Caracas",
+      "en": "Caracas",
+      "ko": "카라카스",
+      "ja": "カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Libro, 4 páginas",
+      "en": "Book, 4 pages",
+      "ko": "도서, 4페이지",
+      "ja": "書籍、4ページ"
+    },
+    "imageId": "1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP"
+  },
+  {
+    "year": "2006",
+    "outlet": "Wight Biennial: Anxiety of Influence",
+    "place": {
+      "es": "UCLA, Estados Unidos",
+      "en": "UCLA, United States",
+      "ko": "UCLA, 미국",
+      "ja": "UCLA、米国"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n"
+  },
+  {
+    "year": "2007",
+    "outlet": "Feria Internacional de Arte de Caracas",
+    "place": {
+      "es": "Galería HACS, Caracas",
+      "en": "HACS Gallery, Caracas",
+      "ko": "HACS 갤러리, 카라카스",
+      "ja": "HACSギャラリー、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1mgblT9KqPYIPQerQwv8Miu8oYPuAW2UF"
+  },
+  {
+    "year": "2007",
+    "outlet": "Bienal de Mercosur",
+    "place": {
+      "es": "Porto Alegre, Brasil",
+      "en": "Porto Alegre, Brazil",
+      "ko": "포르투알레그리, 브라질",
+      "ja": "ポルト・アレグレ、ブラジル"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l"
+  },
+  {
+    "year": "2009",
+    "outlet": "Workshop OpenArt",
+    "place": {
+      "es": "Museo de Arte de Zaragoza, España",
+      "en": "Museo de Arte de Zaragoza, Spain",
+      "ko": "사라고사 미술관, 스페인",
+      "ja": "サラゴサ美術館、スペイン"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Exposición Mixmedia · Hoja de sala",
+      "en": "Mixed media exhibition · Handout",
+      "ko": "믹스미디어 전시 · 안내지",
+      "ja": "ミクストメディア展・解説シート"
+    },
+    "imageId": "1PItXx059gOYPCWRh9zhHVbeRvbtOXuge"
+  },
+  {
+    "year": "2010",
+    "outlet": "Paisaje Sonoro Caracas–Berlín",
+    "place": {
+      "es": "Sala Mendoza, Caracas",
+      "en": "Sala Mendoza, Caracas",
+      "ko": "살라 멘도사, 카라카스",
+      "ja": "サラ・メンドーサ、カラカス"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Catálogo sonoro en CD",
+      "en": "Sound catalog on CD",
+      "ko": "CD 사운드 카탈로그",
+      "ja": "サウンドカタログ（CD）"
+    },
+    "imageId": "1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd"
+  },
+  {
+    "year": "2011",
+    "outlet": "About Change in Latin America and the Caribbean",
+    "place": {
+      "es": "Washington D.C., Estados Unidos",
+      "en": "Washington D.C., United States",
+      "ko": "워싱턴 D.C., 미국",
+      "ja": "ワシントンD.C.、米国"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1jyqbhTnt-o3inE2qT1J0FdMN5Ysk17TF"
+  },
+  {
+    "year": "2012",
+    "outlet": "El Juego No Acaba Hasta Que Termina",
+    "place": {
+      "es": "Brasilia, Brasil",
+      "en": "Brasília, Brazil",
+      "ko": "브라질리아, 브라질",
+      "ja": "ブラジリア、ブラジル"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "Exposición internacional sobre fútbol",
+      "en": "International exhibition on football",
+      "ko": "축구를 주제로 한 국제 전시",
+      "ja": "サッカーをテーマにした国際展"
+    },
+    "imageId": "1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh"
+  },
+  {
+    "year": "2013",
+    "outlet": "Feria Internacional ArteBo",
+    "place": {
+      "es": "Bogotá, Colombia",
+      "en": "Bogotá, Colombia",
+      "ko": "보고타, 콜롬비아",
+      "ja": "ボゴタ、コロンビア"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq"
+  },
+  {
+    "year": "2014",
+    "outlet": "Panorámica Emergente en Venezuela 2000–2012",
+    "place": {
+      "es": "Venezuela",
+      "en": "Venezuela",
+      "ko": "베네수엘라",
+      "ja": "ベネズエラ"
+    },
+    "kind": {
+      "es": "Colectiva",
+      "en": "Group",
+      "ko": "단체전",
+      "ja": "グループ展"
+    },
+    "note": {
+      "es": "",
+      "en": "",
+      "ko": "",
+      "ja": ""
+    },
+    "imageId": "1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH"
+  }
+]

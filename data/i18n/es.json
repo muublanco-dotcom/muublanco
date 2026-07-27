@@ -11,7 +11,8 @@
       "galeria": "Galería",
       "about": "About",
       "contacto": "Contacto",
-      "proyectos": "Proyectos"
+      "proyectos": "Proyectos",
+      "exposiciones": "Exposiciones"
     },
     "footer": {
       "tagline": "Artista &amp; músico — Caracas / Miami."
@@ -35,7 +36,8 @@
       "prensa": "Reseñas publicadas en periódicos y revistas — ordenadas cronológicamente.",
       "cv": "Guía cronológica completa — educación, exposiciones, discografía y prensa.",
       "contacto": "Para curadores, galerías, prensa, coleccionistas y consultas de música.",
-      "proyectos": "Líneas de investigación de largo aliento — NatuUrban Symphony, 100 Years of Sound Art y más."
+      "proyectos": "Líneas de investigación de largo aliento — NatuUrban Symphony, 100 Years of Sound Art y más.",
+      "exposiciones": "Catálogos de exposiciones individuales y colectivas, de 1994 a 2014."
     }
   },
   "about": {
@@ -165,7 +167,7 @@
     }
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "Guía cronológica de la trayectoria artística de Muu Blanco (Caracas, Venezuela, 1966). Vive y trabaja en Miami. Artista venezolano-norteamericano.",
     "h2": {
       "education": "Educación",
@@ -181,7 +183,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — Contacto",
+    "eyebrow": "09 — Contacto",
     "lead": "Para consultas de arte o música, escribe directamente.",
     "arte": {
       "label": "Arte"
@@ -262,5 +264,10 @@
       "medium": "Performance",
       "p1": "Dos hitos performáticos de la trayectoria de Muu Blanco: su primer performance (1986), que marca el inicio de su práctica artística, y Perra Chillona (1996), cortometraje ganador del Primer Premio en la Bienal de Cortometrajes de São Paulo — monólogo de Muu Blanco, dirección de Sabrina Montiel-Soto."
     }
+  },
+  "exposiciones": {
+    "eyebrow": "07 — Exposiciones",
+    "lead": "Catálogos y documentación de exposiciones individuales y colectivas, ordenadas cronológicamente.",
+    "loading": "Cargando exposiciones…"
   }
 }

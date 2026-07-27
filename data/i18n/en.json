@@ -11,7 +11,8 @@
       "galeria": "Gallery",
       "about": "About",
       "contacto": "Contact",
-      "proyectos": "Projects"
+      "proyectos": "Projects",
+      "exposiciones": "Exhibitions"
     },
     "footer": {
       "tagline": "Artist &amp; musician — Caracas / Miami."
@@ -35,7 +36,8 @@
       "prensa": "Reviews published in newspapers and magazines — ordered chronologically.",
       "cv": "Full chronological guide — education, exhibitions, discography, and press.",
       "contacto": "For curators, galleries, press, collectors, and music inquiries.",
-      "proyectos": "Long-running research lines — NatuUrban Symphony, 100 Years of Sound Art, and more."
+      "proyectos": "Long-running research lines — NatuUrban Symphony, 100 Years of Sound Art, and more.",
+      "exposiciones": "Solo and group exhibition catalogs, from 1994 to 2014."
     }
   },
   "about": {
@@ -165,7 +167,7 @@
     }
   },
   "cv": {
-    "eyebrow": "07 — CV",
+    "eyebrow": "08 — CV",
     "lead": "Chronological guide to the artistic career of Muu Blanco (Caracas, Venezuela, 1966). Lives and works in Miami. Venezuelan-American artist.",
     "h2": {
       "education": "Education",
@@ -181,7 +183,7 @@
     }
   },
   "contacto": {
-    "eyebrow": "08 — Contact",
+    "eyebrow": "09 — Contact",
     "lead": "For art or music inquiries, write directly.",
     "arte": {
       "label": "Art"
@@ -262,5 +264,10 @@
       "medium": "Performance",
       "p1": "Two performative milestones in Muu Blanco's trajectory: his first performance (1986), marking the beginning of his artistic practice, and Perra Chillona (1996), a short film that won First Prize at the São Paulo Short Film Biennial — monologue by Muu Blanco, directed by Sabrina Montiel-Soto."
     }
+  },
+  "exposiciones": {
+    "eyebrow": "07 — Exhibitions",
+    "lead": "Catalogs and documentation of solo and group exhibitions, ordered chronologically.",
+    "loading": "Loading exhibitions…"
   }
 }

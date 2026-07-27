@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Prensa — Muu Blanco</title>
+<title>Exposiciones — Muu Blanco</title>
 <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
@@ -17,8 +17,8 @@
 <a href="proyectos.html" data-i18n="common.nav.proyectos">Proyectos</a>
 <a href="practicas-publicas.html" data-i18n="common.nav.practicas">Prácticas Públicas</a>
 <a href="dr-musica.html" data-i18n="common.nav.drmusica">DR.MUUSICA</a>
-<a href="prensa.html" aria-current="page" data-i18n="common.nav.prensa">Prensa</a>
-<a href="exposiciones.html" data-i18n="common.nav.exposiciones">Exposiciones</a>
+<a href="prensa.html" data-i18n="common.nav.prensa">Prensa</a>
+<a href="exposiciones.html" aria-current="page" data-i18n="common.nav.exposiciones">Exposiciones</a>
 <a href="cv.html" data-i18n="common.nav.cv">CV</a>
 <a href="store.html" data-i18n="common.nav.galeria">Galería</a>
 <a href="about.html" data-i18n="common.nav.about">About</a>
@@ -29,14 +29,14 @@
 
 <main>
 <div class="page-head">
-<p class="eyebrow" data-i18n="prensa.eyebrow">06 — Prensa</p>
-<h1 data-i18n="common.nav.prensa">Prensa</h1>
-<p data-i18n="prensa.lead">Reseñas publicadas sobre el trabajo de Muu Blanco en periódicos y revistas, ordenadas cronológicamente.</p>
+<p class="eyebrow" data-i18n="exposiciones.eyebrow">07 — Exposiciones</p>
+<h1 data-i18n="common.nav.exposiciones">Exposiciones</h1>
+<p data-i18n="exposiciones.lead">Catálogos y documentación de exposiciones individuales y colectivas, ordenadas cronológicamente.</p>
 </div>
 
 <div class="page-body">
-<div id="press">
-<p class="muted" data-i18n="prensa.loading">Cargando reseñas…</p>
+<div id="expo">
+<p class="muted" data-i18n="exposiciones.loading">Cargando exposiciones…</p>
 </div>
 </div>
 </main>
@@ -52,15 +52,15 @@
 <script src="js/main.js"></script>
 <script>
 (function () {
-  const root = document.querySelector("#press");
+  const root = document.querySelector("#expo");
   if (!root) return;
   const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
   const driveThumb = (id, w = 900) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
   const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
-  const emptyMsg = { es: "Aún no hay reseñas publicadas.", en: "No reviews published yet.", ko: "아직 게시된 리뷰가 없습니다.", ja: "まだ公開されたレビューはありません。" };
-  const errMsg = { es: "No se pudieron cargar las reseñas.", en: "Could not load the reviews.", ko: "리뷰를 불러올 수 없습니다.", ja: "レビューを読み込めませんでした。" };
+  const emptyMsg = { es: "Aún no hay exposiciones publicadas.", en: "No exhibitions published yet.", ko: "아직 게시된 전시가 없습니다.", ja: "まだ公開された展覧会はありません。" };
+  const errMsg = { es: "No se pudieron cargar las exposiciones.", en: "Could not load the exhibitions.", ko: "전시를 불러올 수 없습니다.", ja: "展覧会を読み込めませんでした。" };
 
   let ENTRIES = null;
 
@@ -103,7 +103,7 @@
     });
   }
 
-  fetch("data/prensa.json", { cache: "no-store" })
+  fetch("data/exposiciones.json", { cache: "no-store" })
     .then((r) => r.json())
     .then((entries) => { ENTRIES = entries; render(); })
     .catch(() => {
