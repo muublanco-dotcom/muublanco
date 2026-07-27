@@ -72,13 +72,34 @@
       <article class="press-entry">
         <p class="press-entry__year">${esc(e.year)}</p>
         <div>
-          ${e.imageId ? `<a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a>` : ""}
-          <p class="press-entry__outlet">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(pick(e.kind, lang))}</span>` : ""}</p>
+          <p class="press-entry__outlet${e.imageId ? " video-toggle" : ""}">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(pick(e.kind, lang))}</span>` : ""}${e.imageId ? ` <span class="gallery-toggle__caret">▸</span>` : ""}</p>
           ${pick(e.place, lang) ? `<p class="press-entry__place">${esc(pick(e.place, lang))}</p>` : ""}
           ${pick(e.note, lang) ? `<p class="press-entry__note">${esc(pick(e.note, lang))}</p>` : ""}
+          ${e.imageId ? `<div class="press-entry__img-wrap video-toggle-content is-collapsed"><a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a></div>` : ""}
         </div>
       </article>
     `).join("")}</div>`;
+    bindToggles();
+  }
+
+  function bindToggles() {
+    root.querySelectorAll(".video-toggle").forEach((title) => {
+      const content = title.parentElement.querySelector(".video-toggle-content");
+      if (!content) return;
+      title.setAttribute("role", "button");
+      title.setAttribute("tabindex", "0");
+      title.setAttribute("aria-expanded", "false");
+      function toggle() {
+        const willOpen = content.classList.contains("is-collapsed");
+        content.classList.toggle("is-collapsed");
+        title.classList.toggle("is-open", willOpen);
+        title.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      title.addEventListener("click", toggle);
+      title.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+    });
   }
 
   fetch("data/prensa.json", { cache: "no-store" })
