@@ -619,5 +619,28 @@
       "ja": "個展「BlackPoint」のレビュー（8月9日）"
     },
     "imageId": "1Xcm8LVnDBHEcDi7XHOWT8GMr119lssnO"
+  },
+  {
+    "year": "2024",
+    "outlet": "El Nacional — Papel Literario",
+    "place": {
+      "es": "17 de noviembre de 2024",
+      "en": "November 17, 2024",
+      "ko": "2024년 11월 17일",
+      "ja": "2024年11月17日"
+    },
+    "kind": {
+      "es": "Individual",
+      "en": "Solo",
+      "ko": "개인전",
+      "ja": "個展"
+    },
+    "note": {
+      "es": "\"Apuntes para una poética del silencio\" — reseña de la exposición NatuUrban Symphony",
+      "en": "\"Apuntes para una poética del silencio\" — review of the exhibition NatuUrban Symphony",
+      "ko": "\"Apuntes para una poética del silencio\" — NatuUrban Symphony 전시 리뷰",
+      "ja": "「Apuntes para una poética del silencio」— NatuUrban Symphony展のレビュー"
+    },
+    "url": "https://www.elnacional.com/papel-literario/apuntes-para-una-poetica-del-silencio/"
   }
 ]
