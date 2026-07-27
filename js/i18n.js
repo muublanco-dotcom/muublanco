@@ -4,7 +4,7 @@
 (function () {
   const SUPPORTED = ["es", "en", "ko", "ja", "zh", "hi"];
   const DEFAULT_LANG = "es";
-  const LABELS = { es: "ES", en: "EN", ko: "한국어", ja: "日本語", zh: "中文", hi: "हिन्दी" };
+  const LABELS = { es: "Español", en: "English", ko: "한국어", ja: "日本語", zh: "中文", hi: "हिन्दी" };
 
   function getLang() {
     const saved = localStorage.getItem("lang");
