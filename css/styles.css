@@ -230,6 +230,11 @@ main { min-height: 60vh; }
 @media (max-width: 860px) { .artfair-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .artfair-grid { grid-template-columns: 1fr; } }
 
+.book-card { display: block; text-decoration: none; color: inherit; }
+.book-card .art-card__img { transition: border-color .18s; }
+.book-card:hover .art-card__img { border-color: var(--green); }
+.book-card:hover .art-card__name { color: var(--green); }
+
 /* Art card as a clickable button */
 .art-card { display: block; width: 100%; margin: 0; padding: 0; text-align: left; background: none; border: 0; font: inherit; color: inherit; cursor: pointer; }
 .art-card .art-card__img { transition: border-color .18s; }
