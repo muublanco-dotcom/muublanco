@@ -80,55 +80,8 @@
 <section style="margin-top:3rem;">
 <h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:.4rem;" data-i18n="drmusica.h2.press">En la prensa</h2>
 <p class="section-note" data-i18n="drmusica.press.lead">Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente.</p>
-<div class="press-list">
-<article class="press-entry">
-<p class="press-entry__year">2024</p>
-<div>
-<p class="press-entry__outlet">Revista Estilo</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p8.place">20 de noviembre de 2024</p>
-<p class="press-entry__note"><a href="https://revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami" target="_blank" rel="noopener">"NatuUrban Symphony por Muu Blanco en Miami" ↗</a></p>
-</div>
-</article>
-<article class="press-entry">
-<p class="press-entry__year">2024</p>
-<div>
-<p class="press-entry__outlet">The Wynwood Times</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p7.place">Miami</p>
-<p class="press-entry__note"><a href="https://thewynwoodtimes.com/muu-blanco-natuurban-miami" target="_blank" rel="noopener">"NatuUrban — Una sinfonía subnatural de Miami" ↗</a></p>
-</div>
-</article>
-<article class="press-entry">
-<p class="press-entry__year">2024</p>
-<div>
-<p class="press-entry__outlet">El Nacional — Papel Literario</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p6.place">Venezuela</p>
-<p class="press-entry__note"><a href="https://www.elnacional.com/papel-literario/apuntes-para-una-poetica-del-silencio/" target="_blank" rel="noopener">"Apuntes para una poética del silencio" ↗</a></p>
-</div>
-</article>
-<article class="press-entry">
-<p class="press-entry__year">2019</p>
-<div>
-<p class="press-entry__outlet">Tráfico Visual</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p5.place">12 de diciembre de 2019</p>
-<p class="press-entry__note" data-i18n="drmusica.press.p5.note"><a href="https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/" target="_blank" rel="noopener">"Muu Blanco — Lumínico Sonoro 2019" (reseña) ↗</a></p>
-</div>
-</article>
-<article class="press-entry">
-<p class="press-entry__year">2013</p>
-<div>
-<p class="press-entry__outlet">Universidad Metropolitana (Unimet)</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p4.place">Caracas — 4 de julio de 2013</p>
-<p class="press-entry__note"><a href="https://www.unimet.edu.ve/sonidos-electronicos-ambientaran-el-campus/" target="_blank" rel="noopener">"Sonidos electrónicos ambientarán el campus" — Espacio Electrónico, vol. 5 ↗</a></p>
-</div>
-</article>
-<article class="press-entry">
-<p class="press-entry__year">2009</p>
-<div>
-<p class="press-entry__outlet" data-i18n="drmusica.press.p1.outlet">Código de Barra (blog)</p>
-<p class="press-entry__place" data-i18n="drmusica.press.p1.place">El Patio, Caracas — 29 de enero de 2009</p>
-<p class="press-entry__note"><a href="https://codigodebarra-fotosymiscelaneas.blogspot.com/2009/01/drmuusica-dj-sessionvideoarte-muu.html" target="_blank" rel="noopener">"DRMUUSICA — DJ Session + Videoarte" ↗</a></p>
-</div>
-</article>
+<div id="drmusicaPress">
+<p class="muted" data-i18n="prensa.loading">Cargando reseñas…</p>
 </div>
 </section>
 </div>
@@ -142,5 +95,69 @@
 </footer>
 <script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
+<script>
+(function () {
+  const root = document.querySelector("#drmusicaPress");
+  if (!root) return;
+  const esc = (s) => (s || "").toString().replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const yearKey = (y) => parseInt((y || "").toString().replace(/[^0-9].*$/, ""), 10) || 0;
+  const driveThumb = (id, w = 900) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
+  const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
+  const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
+  const emptyMsg = { es: "Aún no hay reseñas publicadas.", en: "No reviews published yet.", ko: "아직 게시된 리뷰가 없습니다.", ja: "まだ公開されたレビューはありません。", zh: "暂无已发布的评论。", hi: "अभी तक कोई समीक्षा प्रकाशित नहीं हुई है।" };
+  const errMsg = { es: "No se pudieron cargar las reseñas.", en: "Could not load the reviews.", ko: "리뷰를 불러올 수 없습니다.", ja: "レビューを読み込めませんでした。", zh: "无法加载评论。", hi: "समीक्षाएं लोड नहीं की जा सकीं।" };
+
+  let ENTRIES = null;
+
+  function render() {
+    if (!ENTRIES) return;
+    const lang = (window.i18n && window.i18n.getLang()) || "es";
+    if (!ENTRIES.length) { root.innerHTML = `<p class="muted">${emptyMsg[lang]}</p>`; return; }
+    const sorted = [...ENTRIES].sort((a, b) => yearKey(b.year) - yearKey(a.year));
+    root.innerHTML = `<div class="press-list">${sorted.map((e) => `
+      <article class="press-entry">
+        <p class="press-entry__year">${esc(e.year)}</p>
+        <div>
+          <p class="press-entry__outlet${e.imageId ? " video-toggle" : ""}">${esc(e.outlet)}${e.kind ? ` <span class="badge">${esc(pick(e.kind, lang))}</span>` : ""}${e.imageId ? ` <span class="gallery-toggle__caret">▸</span>` : ""}</p>
+          ${pick(e.place, lang) ? `<p class="press-entry__place">${esc(pick(e.place, lang))}</p>` : ""}
+          ${pick(e.note, lang) ? `<p class="press-entry__note">${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${esc(pick(e.note, lang))} ↗</a>` : esc(pick(e.note, lang))}</p>` : ""}
+          ${e.imageId ? `<div class="press-entry__img-wrap video-toggle-content is-collapsed"><a class="press-entry__img" href="${driveView(e.imageId)}" target="_blank" rel="noopener"><img src="${driveThumb(e.imageId)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a></div>` : ""}
+        </div>
+      </article>
+    `).join("")}</div>`;
+    bindToggles();
+  }
+
+  function bindToggles() {
+    root.querySelectorAll(".video-toggle").forEach((title) => {
+      const content = title.parentElement.querySelector(".video-toggle-content");
+      if (!content) return;
+      title.setAttribute("role", "button");
+      title.setAttribute("tabindex", "0");
+      title.setAttribute("aria-expanded", "false");
+      function toggle() {
+        const willOpen = content.classList.contains("is-collapsed");
+        content.classList.toggle("is-collapsed");
+        title.classList.toggle("is-open", willOpen);
+        title.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      title.addEventListener("click", toggle);
+      title.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+    });
+  }
+
+  fetch("data/drmusica-press.json", { cache: "no-store" })
+    .then((r) => r.json())
+    .then((entries) => { ENTRIES = entries; render(); })
+    .catch(() => {
+      const lang = (window.i18n && window.i18n.getLang()) || "es";
+      root.innerHTML = `<p class="muted">${errMsg[lang]}</p>`;
+    });
+
+  document.addEventListener("langchange", render);
+})();
+</script>
 </body>
 </html>

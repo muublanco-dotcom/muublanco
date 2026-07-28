@@ -1,0 +1,128 @@
+[
+  {
+    "year": "1998",
+    "outlet": "Zona de Obras (CD + Revista #5)",
+    "place": {
+      "es": "España",
+      "en": "Spain",
+      "ko": "스페인",
+      "ja": "スペイン",
+      "zh": "西班牙",
+      "hi": "स्पेन"
+    },
+    "note": {
+      "es": "Especial latinoamericano",
+      "en": "Latin American special issue",
+      "ko": "라틴아메리카 특집",
+      "ja": "ラテンアメリカ特集",
+      "zh": "拉丁美洲特刊",
+      "hi": "लैटिन अमेरिकी विशेषांक"
+    },
+    "imageId": "1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7"
+  },
+  {
+    "year": "2001",
+    "outlet": "El Universal",
+    "place": {
+      "es": "Caracas",
+      "en": "Caracas",
+      "ko": "카라카스",
+      "ja": "カラカス",
+      "zh": "加拉加斯",
+      "hi": "कराकास"
+    },
+    "note": {
+      "es": "Lanzamiento del CD \"ChoKolate\" de los Hermanos Monteverde",
+      "en": "Launch of the Hermanos Monteverde CD \"ChoKolate\"",
+      "ko": "에르마노스 몬테베르데의 CD 《ChoKolate》 발매",
+      "ja": "エルマノス・モンテベルデのCD「ChoKolate」リリース",
+      "zh": "Hermanos Monteverde专辑《ChoKolate》发行",
+      "hi": "Hermanos Monteverde की CD \"ChoKolate\" का लॉन्च"
+    },
+    "imageId": "1h5txy34NDK2w72Z0tYxJo3oJEKlfldg6"
+  },
+  {
+    "year": "2004",
+    "outlet": "Zona de Obras 38 DC",
+    "place": {
+      "es": "España",
+      "en": "Spain",
+      "ko": "스페인",
+      "ja": "スペイン",
+      "zh": "西班牙",
+      "hi": "स्पेन"
+    },
+    "note": {
+      "es": "Música",
+      "en": "Music",
+      "ko": "음악",
+      "ja": "音楽",
+      "zh": "音乐",
+      "hi": "संगीत"
+    },
+    "imageId": "1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa"
+  },
+  {
+    "year": "2007",
+    "outlet": "Semanario ZITTY",
+    "place": {
+      "es": "Berlín",
+      "en": "Berlin",
+      "ko": "베를린",
+      "ja": "ベルリン",
+      "zh": "柏林",
+      "hi": "बर्लिन"
+    },
+    "note": {
+      "es": "Música",
+      "en": "Music",
+      "ko": "음악",
+      "ja": "音楽",
+      "zh": "音乐",
+      "hi": "संगीत"
+    },
+    "imageId": "1tPG2wTM3LrwIiA5W7V95D6MYpTmnSEdQ"
+  },
+  {
+    "year": "2009",
+    "outlet": "Código de Barra (blog)",
+    "place": {
+      "es": "El Patio, Caracas — 29 de enero de 2009",
+      "en": "El Patio, Caracas — January 29, 2009",
+      "ko": "엘 파티오, 카라카스 — 2009년 1월 29일",
+      "ja": "エル・パティオ、カラカス — 2009年1月29日",
+      "zh": "El Patio，加拉加斯 — 2009年1月29日",
+      "hi": "El Patio, कराकास — 29 जनवरी 2009"
+    },
+    "note": {
+      "es": "\"DRMUUSICA — DJ Session + Videoarte\"",
+      "en": "\"DRMUUSICA — DJ Session + Videoarte\"",
+      "ko": "\"DRMUUSICA — DJ Session + Videoarte\"",
+      "ja": "\"DRMUUSICA — DJ Session + Videoarte\"",
+      "zh": "\"DRMUUSICA — DJ Session + Videoarte\"",
+      "hi": "\"DRMUUSICA — DJ Session + Videoarte\""
+    },
+    "url": "https://codigodebarra-fotosymiscelaneas.blogspot.com/2009/01/drmuusica-dj-sessionvideoarte-muu.html"
+  },
+  {
+    "year": "2013",
+    "outlet": "Universidad Metropolitana (Unimet)",
+    "place": {
+      "es": "Caracas — 4 de julio de 2013",
+      "en": "Caracas — July 4, 2013",
+      "ko": "카라카스 — 2013년 7월 4일",
+      "ja": "カラカス — 2013年7月4日",
+      "zh": "加拉加斯 — 2013年7月4日",
+      "hi": "कराकास — 4 जुलाई 2013"
+    },
+    "note": {
+      "es": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5",
+      "en": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5",
+      "ko": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5",
+      "ja": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5",
+      "zh": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5",
+      "hi": "\"Sonidos electrónicos ambientarán el campus\" — Espacio Electrónico, vol. 5"
+    },
+    "url": "https://www.unimet.edu.ve/sonidos-electronicos-ambientaran-el-campus/"
+  }
+]

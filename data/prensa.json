@@ -87,64 +87,6 @@
     "imageId": "1yYMHIgLd0g57D7vjlsInWieKFBi4iCdm"
   },
   {
-    "year": "1998",
-    "outlet": "Zona de Obras (CD + Revista #5)",
-    "place": {
-      "es": "España",
-      "en": "Spain",
-      "ko": "스페인",
-      "ja": "スペイン",
-      "zh": "西班牙",
-      "hi": "स्पेन"
-    },
-    "kind": {
-      "es": "Colectiva",
-      "en": "Group",
-      "ko": "단체전",
-      "ja": "グループ展",
-      "zh": "联展",
-      "hi": "सामूहिक"
-    },
-    "note": {
-      "es": "Especial latinoamericano",
-      "en": "Latin American special issue",
-      "ko": "라틴아메리카 특집",
-      "ja": "ラテンアメリカ特集",
-      "zh": "拉丁美洲特刊",
-      "hi": "लैटिन अमेरिकी विशेषांक"
-    },
-    "imageId": "1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7"
-  },
-  {
-    "year": "2001",
-    "outlet": "El Universal",
-    "place": {
-      "es": "Caracas",
-      "en": "Caracas",
-      "ko": "카라카스",
-      "ja": "カラカス",
-      "zh": "加拉加斯",
-      "hi": "कराकास"
-    },
-    "kind": {
-      "es": "Colectiva",
-      "en": "Group",
-      "ko": "단체전",
-      "ja": "グループ展",
-      "zh": "联展",
-      "hi": "सामूहिक"
-    },
-    "note": {
-      "es": "Lanzamiento del CD \"ChoKolate\" de los Hermanos Monteverde",
-      "en": "Launch of the Hermanos Monteverde CD \"ChoKolate\"",
-      "ko": "에르마노스 몬테베르데의 CD 《ChoKolate》 발매",
-      "ja": "エルマノス・モンテベルデのCD「ChoKolate」リリース",
-      "zh": "Hermanos Monteverde专辑《ChoKolate》发行",
-      "hi": "Hermanos Monteverde की CD \"ChoKolate\" का लॉन्च"
-    },
-    "imageId": "1h5txy34NDK2w72Z0tYxJo3oJEKlfldg6"
-  },
-  {
     "year": "2001",
     "outlet": "Art in America",
     "place": {
@@ -230,35 +172,6 @@
       "hi": "फोटोग्राफी"
     },
     "imageId": "1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG"
-  },
-  {
-    "year": "2004",
-    "outlet": "Zona de Obras 38 DC",
-    "place": {
-      "es": "España",
-      "en": "Spain",
-      "ko": "스페인",
-      "ja": "スペイン",
-      "zh": "西班牙",
-      "hi": "स्पेन"
-    },
-    "kind": {
-      "es": "Colectiva",
-      "en": "Group",
-      "ko": "단체전",
-      "ja": "グループ展",
-      "zh": "联展",
-      "hi": "सामूहिक"
-    },
-    "note": {
-      "es": "Música",
-      "en": "Music",
-      "ko": "음악",
-      "ja": "音楽",
-      "zh": "音乐",
-      "hi": "संगीत"
-    },
-    "imageId": "1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa"
   },
   {
     "year": "2005",
@@ -433,35 +346,6 @@
       "hi": "फोटोग्राफी"
     },
     "imageId": "1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ"
-  },
-  {
-    "year": "2007",
-    "outlet": "Semanario ZITTY",
-    "place": {
-      "es": "Berlín",
-      "en": "Berlin",
-      "ko": "베를린",
-      "ja": "ベルリン",
-      "zh": "柏林",
-      "hi": "बर्लिन"
-    },
-    "kind": {
-      "es": "Colectiva",
-      "en": "Group",
-      "ko": "단체전",
-      "ja": "グループ展",
-      "zh": "联展",
-      "hi": "सामूहिक"
-    },
-    "note": {
-      "es": "Música",
-      "en": "Music",
-      "ko": "음악",
-      "ja": "音楽",
-      "zh": "音乐",
-      "hi": "संगीत"
-    },
-    "imageId": "1tPG2wTM3LrwIiA5W7V95D6MYpTmnSEdQ"
   },
   {
     "year": "2008",
@@ -781,6 +665,69 @@
       "hi": "एकल प्रदर्शनी \"BlackPoint\" की समीक्षा (9 अगस्त)"
     },
     "imageId": "1Xcm8LVnDBHEcDi7XHOWT8GMr119lssnO"
+  },
+  {
+    "year": "2019",
+    "outlet": "Tráfico Visual",
+    "place": {
+      "es": "12 de diciembre de 2019",
+      "en": "December 12, 2019",
+      "ko": "2019년 12월 12일",
+      "ja": "2019年12月12日",
+      "zh": "2019年12月12日",
+      "hi": "12 दिसंबर 2019"
+    },
+    "note": {
+      "es": "\"Muu Blanco — Lumínico Sonoro 2019\" (reseña)",
+      "en": "\"Muu Blanco — Lumínico Sonoro 2019\" (review)",
+      "ko": "\"Muu Blanco — Lumínico Sonoro 2019\" (리뷰)",
+      "ja": "\"Muu Blanco — Lumínico Sonoro 2019\"（レビュー）",
+      "zh": "\"Muu Blanco — Lumínico Sonoro 2019\"（评论）",
+      "hi": "\"Muu Blanco — Lumínico Sonoro 2019\" (समीक्षा)"
+    },
+    "url": "https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/"
+  },
+  {
+    "year": "2024",
+    "outlet": "Revista Estilo",
+    "place": {
+      "es": "20 de noviembre de 2024",
+      "en": "November 20, 2024",
+      "ko": "2024년 11월 20일",
+      "ja": "2024年11月20日",
+      "zh": "2024年11月20日",
+      "hi": "20 नवंबर 2024"
+    },
+    "note": {
+      "es": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "en": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "ko": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "ja": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "zh": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "hi": "\"NatuUrban Symphony por Muu Blanco en Miami\""
+    },
+    "url": "https://revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami"
+  },
+  {
+    "year": "2024",
+    "outlet": "The Wynwood Times",
+    "place": {
+      "es": "Miami",
+      "en": "Miami",
+      "ko": "마이애미",
+      "ja": "マイアミ",
+      "zh": "迈阿密",
+      "hi": "मियामी"
+    },
+    "note": {
+      "es": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "en": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "ko": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "ja": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "zh": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "hi": "\"NatuUrban — Una sinfonía subnatural de Miami\""
+    },
+    "url": "https://thewynwoodtimes.com/muu-blanco-natuurban-miami"
   },
   {
     "year": "2024",
