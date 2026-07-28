@@ -119,10 +119,40 @@
     "videos": "78 वीडियो",
     "h2": {
       "listen": "सुनें",
-      "press": "प्रेस में"
+      "press": "प्रेस में",
+      "videoclips": "वीडियो क्लिप्स"
     },
     "press": {
       "lead": "संगीतकार और संगीत निर्माता के रूप में Muu Blanco की चर्चाएं और कवरेज, कालानुक्रमिक क्रम में।"
+    },
+    "videoclips": {
+      "lead": "Muu Blanco / Dr.Muusica द्वारा निर्देशित और निर्मित संगीत वीडियो।",
+      "v1": {
+        "meta": "हेक्तोर लावोए की भागीदारी के साथ · पटकथा: Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "JABALEE (एलपी), ट्रैक 5 · Ditto Music Venezuela · वीडियो: MuuBlancoVideoArt &amp; SaltaMantis · निर्देशन: Muu Blanco",
+        "date": "जून 2019"
+      },
+      "v3": {
+        "meta": "एलपी New Wave BeatMaker CCS 66 का पहला सिंगल · चित्र, संकल्पना और निर्देशन: Muu Blanco",
+        "date": "मार्च 2019"
+      },
+      "v4": {
+        "meta": "Sound Live: Dr.Muusica · Video Live: SaltaMantis · Voice Live: Veekelly · निर्देशन: Muu Blanco · Espacio SaltaMantis",
+        "date": "मार्च 2019"
+      },
+      "v5": {
+        "meta": "एलपी New Wave BeatMaker CCS 66 का तीसरा वीडियो सिंगल"
+      },
+      "v6": {
+        "meta": "वीडियो: Dr.Muu Desing",
+        "date": "मार्च 2017"
+      },
+      "v7": {
+        "meta": "सेल्फी वीडियो क्लिप · मूल संगीत: Dr.Muusica",
+        "date": "दिसंबर 2016"
+      }
     }
   },
   "prensa": {

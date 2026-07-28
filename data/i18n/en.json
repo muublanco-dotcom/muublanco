@@ -119,10 +119,40 @@
     "videos": "78 videos",
     "h2": {
       "listen": "Listen",
-      "press": "In the press"
+      "press": "In the press",
+      "videoclips": "Video Clips"
     },
     "press": {
       "lead": "Mentions and coverage of Muu Blanco as a musician and music producer, ordered chronologically."
+    },
+    "videoclips": {
+      "lead": "Music videos directed and produced by Muu Blanco / Dr.Muusica.",
+      "v1": {
+        "meta": "Featuring Héctor Lavoe · Screenplay: Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "JABALEE (LP), Track 5 · Ditto Music Venezuela · Video: MuuBlancoVideoArt &amp; SaltaMantis · Direction: Muu Blanco",
+        "date": "June 2019"
+      },
+      "v3": {
+        "meta": "First single from the LP New Wave BeatMaker CCS 66 · Images, concept and direction: Muu Blanco",
+        "date": "March 2019"
+      },
+      "v4": {
+        "meta": "Sound Live: Dr.Muusica · Video Live: SaltaMantis · Voice Live: Veekelly · Direction: Muu Blanco · SaltaMantis Space",
+        "date": "March 2019"
+      },
+      "v5": {
+        "meta": "Third video single from the LP New Wave BeatMaker CCS 66"
+      },
+      "v6": {
+        "meta": "Video: Dr.Muu Desing",
+        "date": "March 2017"
+      },
+      "v7": {
+        "meta": "Selfie video clip · Original music: Dr.Muusica",
+        "date": "December 2016"
+      }
     }
   },
   "prensa": {

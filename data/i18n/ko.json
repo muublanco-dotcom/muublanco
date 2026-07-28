@@ -119,10 +119,40 @@
     "videos": "78개 영상",
     "h2": {
       "listen": "듣기",
-      "press": "언론 보도"
+      "press": "언론 보도",
+      "videoclips": "비디오클립"
     },
     "press": {
       "lead": "음악가이자 프로듀서로서의 무 블랑코에 대한 언급과 보도, 연대순 정리."
+    },
+    "videoclips": {
+      "lead": "무 블랑코 / Dr.Muusica가 연출하고 제작한 뮤직비디오.",
+      "v1": {
+        "meta": "헥토르 라보에 참여 · 각본: Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "JABALEE (LP), 트랙 5 · Ditto Music Venezuela · 영상: MuuBlancoVideoArt &amp; SaltaMantis · 연출: 무 블랑코",
+        "date": "2019년 6월"
+      },
+      "v3": {
+        "meta": "LP New Wave BeatMaker CCS 66의 첫 번째 싱글 · 이미지, 콘셉트 및 연출: 무 블랑코",
+        "date": "2019년 3월"
+      },
+      "v4": {
+        "meta": "Sound Live: Dr.Muusica · Video Live: SaltaMantis · Voice Live: Veekelly · 연출: 무 블랑코 · Espacio SaltaMantis",
+        "date": "2019년 3월"
+      },
+      "v5": {
+        "meta": "LP New Wave BeatMaker CCS 66의 세 번째 비디오 싱글"
+      },
+      "v6": {
+        "meta": "영상: Dr.Muu Desing",
+        "date": "2017년 3월"
+      },
+      "v7": {
+        "meta": "셀피 비디오클립 · 오리지널 음악: Dr.Muusica",
+        "date": "2016년 12월"
+      }
     }
   },
   "prensa": {

@@ -119,10 +119,40 @@
     "videos": "78个视频",
     "h2": {
       "listen": "收听",
-      "press": "媒体报道"
+      "press": "媒体报道",
+      "videoclips": "视频短片"
     },
     "press": {
       "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
+    },
+    "videoclips": {
+      "lead": "由Muu Blanco / Dr.Muusica执导和制作的音乐视频。",
+      "v1": {
+        "meta": "Héctor Lavoe参与 · 编剧：Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "《JABALEE》（专辑），第5首 · Ditto Music Venezuela · 视频：MuuBlancoVideoArt &amp; SaltaMantis · 导演：Muu Blanco",
+        "date": "2019年6月"
+      },
+      "v3": {
+        "meta": "专辑《New Wave BeatMaker CCS 66》首支单曲 · 影像、概念与导演：Muu Blanco",
+        "date": "2019年3月"
+      },
+      "v4": {
+        "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 导演：Muu Blanco · Espacio SaltaMantis",
+        "date": "2019年3月"
+      },
+      "v5": {
+        "meta": "专辑《New Wave BeatMaker CCS 66》第三支视频单曲"
+      },
+      "v6": {
+        "meta": "视频：Dr.Muu Desing",
+        "date": "2017年3月"
+      },
+      "v7": {
+        "meta": "自拍视频短片 · 原创音乐：Dr.Muusica",
+        "date": "2016年12月"
+      }
     }
   },
   "prensa": {

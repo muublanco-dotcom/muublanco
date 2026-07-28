@@ -119,10 +119,40 @@
     "videos": "78本の動画",
     "h2": {
       "listen": "聴く",
-      "press": "プレス掲載"
+      "press": "プレス掲載",
+      "videoclips": "ビデオクリップ"
     },
     "press": {
       "lead": "ミュージシャン兼音楽プロデューサーとしてのムー・ブランコに関する言及と報道 — 年代順。"
+    },
+    "videoclips": {
+      "lead": "ムー・ブランコ / Dr.Muusicaが監督・制作したミュージックビデオ。",
+      "v1": {
+        "meta": "エクトル・ラボエ参加 · 脚本：Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "JABALEE（LP）、トラック5 · Ditto Music Venezuela · 映像：MuuBlancoVideoArt &amp; SaltaMantis · 監督：ムー・ブランコ",
+        "date": "2019年6月"
+      },
+      "v3": {
+        "meta": "LP『New Wave BeatMaker CCS 66』からの最初のシングル · 映像・コンセプト・監督：ムー・ブランコ",
+        "date": "2019年3月"
+      },
+      "v4": {
+        "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 監督：ムー・ブランコ · Espacio SaltaMantis",
+        "date": "2019年3月"
+      },
+      "v5": {
+        "meta": "LP『New Wave BeatMaker CCS 66』から3枚目のビデオシングル"
+      },
+      "v6": {
+        "meta": "映像：Dr.Muu Desing",
+        "date": "2017年3月"
+      },
+      "v7": {
+        "meta": "セルフィー・ビデオクリップ · オリジナル音楽：Dr.Muusica",
+        "date": "2016年12月"
+      }
     }
   },
   "prensa": {
