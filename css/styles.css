@@ -143,8 +143,7 @@ main { min-height: 60vh; }
 .biblio-entry__body .display.has-gallery .gallery-toggle__count { font-size: .55em; color: var(--muted); font-family: var(--sans, inherit); }
 .biblio-entry__body .display.has-gallery .gallery-toggle__caret { font-size: .6em; color: var(--muted); transition: transform .15s ease; }
 .biblio-entry__body .display.has-gallery.is-open .gallery-toggle__caret { transform: rotate(90deg); }
-.gallery.is-collapsed .work:not(:first-child) { display: none; }
-.gallery.gallery--hide-all.is-collapsed .work { display: none; }
+.gallery.is-collapsed .work { display: none; }
 
 .video-toggle { cursor: pointer; user-select: none; display: inline-flex; align-items: baseline; gap: .5rem; }
 .video-toggle:hover { color: var(--green); }
