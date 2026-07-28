@@ -116,7 +116,6 @@
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco的音乐化名。制作、合作与发行。",
     "tracks": "81首曲目",
-    "videos": "78个视频",
     "h2": {
       "listen": "收听",
       "press": "媒体报道",
@@ -153,6 +152,10 @@
         "meta": "自拍视频短片 · 原创音乐：Dr.Muusica",
         "date": "2016年12月"
       }
+    },
+    "youtube": {
+      "label": "原创音乐",
+      "handle": "Muu Blanco的YouTube频道"
     }
   },
   "prensa": {

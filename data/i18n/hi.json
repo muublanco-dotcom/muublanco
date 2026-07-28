@@ -116,7 +116,6 @@
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco का ध्वनि उपनाम। निर्माण, सहयोग और रिलीज़।",
     "tracks": "81 ट्रैक",
-    "videos": "78 वीडियो",
     "h2": {
       "listen": "सुनें",
       "press": "प्रेस में",
@@ -153,6 +152,10 @@
         "meta": "सेल्फी वीडियो क्लिप · मूल संगीत: Dr.Muusica",
         "date": "दिसंबर 2016"
       }
+    },
+    "youtube": {
+      "label": "मूल संगीत",
+      "handle": "YouTube पर Muu Blanco"
     }
   },
   "prensa": {

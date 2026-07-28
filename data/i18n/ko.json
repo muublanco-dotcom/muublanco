@@ -116,7 +116,6 @@
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "무 블랑코의 사운드 앨리어스. 프로덕션, 협업, 발매작.",
     "tracks": "81곡",
-    "videos": "78개 영상",
     "h2": {
       "listen": "듣기",
       "press": "언론 보도",
@@ -153,6 +152,10 @@
         "meta": "셀피 비디오클립 · 오리지널 음악: Dr.Muusica",
         "date": "2016년 12월"
       }
+    },
+    "youtube": {
+      "label": "오리지널 음악",
+      "handle": "유튜브의 무 블랑코"
     }
   },
   "prensa": {

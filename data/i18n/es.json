@@ -116,7 +116,6 @@
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "El alias sonoro de Muu Blanco. Producciones, colaboraciones y lanzamientos.",
     "tracks": "81 pistas",
-    "videos": "78 videos",
     "h2": {
       "listen": "Escucha",
       "press": "En la prensa",
@@ -153,6 +152,10 @@
         "meta": "Video clip selfie · Música original: Dr.Muusica",
         "date": "Diciembre 2016"
       }
+    },
+    "youtube": {
+      "label": "Música Original",
+      "handle": "Muu Blanco en YouTube"
     }
   },
   "prensa": {

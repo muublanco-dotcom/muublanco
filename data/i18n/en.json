@@ -116,7 +116,6 @@
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco's sonic alias. Productions, collaborations, and releases.",
     "tracks": "81 tracks",
-    "videos": "78 videos",
     "h2": {
       "listen": "Listen",
       "press": "In the press",
@@ -153,6 +152,10 @@
         "meta": "Selfie video clip · Original music: Dr.Muusica",
         "date": "December 2016"
       }
+    },
+    "youtube": {
+      "label": "Original Music",
+      "handle": "Muu Blanco on YouTube"
     }
   },
   "prensa": {
