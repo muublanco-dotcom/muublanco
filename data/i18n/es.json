@@ -248,7 +248,11 @@
     },
     "abstracciones": {
       "medium": "Fotografía",
-      "p1": "Diez años de abstracción fotográfica urbana de Caracas, reunidos en el fotolibro \"AAA 2002–2012\"."
+      "p1": "Diez años de abstracción fotográfica urbana de Caracas, reunidos en el fotolibro \"AAA 2002–2012\".",
+      "animadas": {
+        "title": "Abstracciones Paisajísticas animadas (AAOA)",
+        "meta": "Animación: Benky Chang · Zaragoza, España"
+      }
     },
     "modernismo": {
       "medium": "Collage análogo / mixmedia",

@@ -248,7 +248,11 @@
     },
     "abstracciones": {
       "medium": "사진",
-      "p1": "카라카스의 도시 사진 추상화 10년의 기록, 포토북 \"AAA 2002–2012\"로 엮음."
+      "p1": "카라카스의 도시 사진 추상화 10년의 기록, 포토북 \"AAA 2002–2012\"로 엮음.",
+      "animadas": {
+        "title": "애니메이션 Abstracciones Paisajísticas (AAOA)",
+        "meta": "애니메이션: Benky Chang · 사라고사, 스페인"
+      }
     },
     "modernismo": {
       "medium": "아날로그 콜라주 / 믹스미디어",
