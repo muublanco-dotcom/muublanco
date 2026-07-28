@@ -134,6 +134,9 @@ main { min-height: 60vh; }
 .work { }
 .work__img { background: #e7e4db; border: 1px solid var(--line-soft); }
 .work__img img { display: block; width: 100%; height: auto; }
+.work__img a { display: block; }
+.work__img a:hover img { opacity: .85; }
+.work__img:has(a):hover { border-color: var(--green); }
 .work__meta { padding-top: .7rem; }
 .work__title { font-size: 1rem; }
 .work__sub { color: var(--muted); font-size: .88rem; }
