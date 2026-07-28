@@ -195,7 +195,6 @@
       "withGerardo": "con Gerardo Zavarze",
       "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
       "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
-      "memoriaTitle": "Memoria descriptiva",
       "v1": {
         "p1": "Representa una síntesis de imágenes realizadas por Muu Blanco (Caracas, Venezuela, 1966) centradas en la confluencia de la naturaleza, la arquitectura y otras formas que se abrazan a la tradición sensible de la abstracción geométrica presente en el arte venezolano.",
         "p2": "La génesis del proyecto se inscribe en la emergencia del espacio experimental de aprendizaje concebido por el Instituto de Estudios Superiores de Artes Plásticas Armando Reverón (IUESAPAR): práctica y crítica de los sistemas de representación visual contemporáneos, allí se dieron diálogos significativos con la investigadora Sandra Pinardi, el curador Luis Enrique Pérez Oramas y el arquitecto William Niño Araque, que conformaron las circunstancias creativas para avanzar sobre esta investigación visual.",
@@ -218,7 +217,8 @@
         "p2": "Desde esta perspectiva, Muu Blanco propone invertir el imaginario petrolero venezolano a través de la serie New Compositional Thinking (2014). En esta obra, Blanco interviene un conjunto de imágenes referidas a la epopeya petrolera venezolana, publicadas originalmente en la revista de fotografía Extra Cámara, insertando un escapulario con la efigie del Chapulín Colorado. Sin duda, la intención de esta inserción es que el espectador recuerde la célebre frase del personaje televisivo: \"Y ahora, ¿quién podrá defendernos?\". Al mismo tiempo, es evidente que con esta obra Muu Blanco denuncia el culto al petróleo de la misma manera en que el historiador Germán Carrera Damas expuso años atrás el culto a Bolívar, tan profundamente arraigado en la cultura venezolana.",
         "credits": "Fotolibro de Muu Blanco · Texto: Gerardo Zavarce · Diseño gráfico: Muu Blanco",
         "details": "Fotografía artística · Educación · Cuadrado pequeño, 18×18 cm · 20 páginas · ISBN 9781320500975 · Publicado agosto 2015 · Inglés"
-      }
+      },
+      "memoriaLabel": "Memoria descriptiva"
     }
   },
   "cv": {

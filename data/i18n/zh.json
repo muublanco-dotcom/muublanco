@@ -195,7 +195,6 @@
       "withGerardo": "与Gerardo Zavarze合作",
       "pdfNct1": "New Compositional Thinking 1（PDF）↗",
       "pdfNct2": "New Compositional Thinking 2（PDF）↗",
-      "memoriaTitle": "作品说明",
       "v1": {
         "p1": "这是Muu Blanco（1966年生于委内瑞拉加拉加斯）所拍摄影像的一次综合，聚焦于自然、建筑与其他形式的交汇，这些形式承接着委内瑞拉艺术中几何抽象的感性传统。",
         "p2": "该项目的缘起可追溯到Instituto de Estudios Superiores de Artes Plásticas Armando Reverón（IUESAPAR）所构想的实验性学习空间的出现：对当代视觉再现体系的实践与批评。在那里，与研究者Sandra Pinardi、策展人Luis Enrique Pérez Oramas及建筑师William Niño Araque展开了重要的对话，共同塑造了推进这一视觉研究的创作条件。",
@@ -218,7 +217,8 @@
         "p2": "基于这一视角，Muu Blanco试图通过系列作品《New Compositional Thinking》（2014）颠覆委内瑞拉的石油想象。在这件作品中，Blanco对一组最初刊登于摄影杂志《Extra Cámara》、涉及委内瑞拉石油史诗的影像进行介入，插入了一枚印有“红蚱蜢”（Chapulín Colorado）肖像的圣牌。毫无疑问，这一插入的用意在于让观者联想起这位著名电视角色的名言：“现在，谁来保护我们？”与此同时，显而易见，Blanco借此作品谴责石油崇拜，其方式与历史学家赫尔曼·卡雷拉·达马斯（Germán Carrera Damas）数年前揭露深植于委内瑞拉文化中的玻利瓦尔崇拜如出一辙。",
         "credits": "Muu Blanco摄影集 · 文字：Gerardo Zavarce · 平面设计：Muu Blanco",
         "details": "艺术摄影 · 教育 · 小方形，18×18 cm · 20页 · ISBN 9781320500975 · 2015年8月出版 · 英语"
-      }
+      },
+      "memoriaLabel": "作品说明"
     }
   },
   "cv": {
