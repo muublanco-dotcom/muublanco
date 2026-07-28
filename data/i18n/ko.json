@@ -118,7 +118,8 @@
     "h2": {
       "listen": "듣기",
       "press": "언론 보도",
-      "videoclips": "비디오클립"
+      "videoclips": "비디오클립",
+      "selector": "DR.Muusica 셀렉터"
     },
     "press": {
       "lead": "음악가이자 프로듀서로서의 무 블랑코에 대한 언급과 보도, 연대순 정리."
@@ -158,6 +159,24 @@
     "listen": {
       "original": "오리지널 음악",
       "mixtapes": "라이브 녹음 믹스테이프"
+    },
+    "selector": {
+      "lead": "라이브 세션",
+      "v1": {
+        "meta": "라이브 바이닐 리스닝 세션 · Record Store Day 2026 · Lucky Records, 마이애미"
+      },
+      "v2": {
+        "date": "2025년 2월 9일",
+        "meta": "라이브 스트리밍 · Dr. Muusica의 사운드 · Tripping Animals Brewing, 도럴 시티, FL"
+      },
+      "v3": {
+        "date": "2025년 1월 14일",
+        "meta": "라이브 스트리밍 · Tripping Animals Brewing, 도럴 시티, FL"
+      },
+      "v4": {
+        "date": "2025년 1월",
+        "meta": "Uncle Jei와 함께 · Tripping Animals Brewing, 도럴 시티, FL"
+      }
     }
   },
   "prensa": {

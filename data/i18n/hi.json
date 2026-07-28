@@ -118,7 +118,8 @@
     "h2": {
       "listen": "सुनें",
       "press": "प्रेस में",
-      "videoclips": "वीडियो क्लिप्स"
+      "videoclips": "वीडियो क्लिप्स",
+      "selector": "DR.Muusica सेलेक्टर"
     },
     "press": {
       "lead": "संगीतकार और संगीत निर्माता के रूप में Muu Blanco की चर्चाएं और कवरेज, कालानुक्रमिक क्रम में।"
@@ -158,6 +159,24 @@
     "listen": {
       "original": "मूल संगीत",
       "mixtapes": "लाइव रिकॉर्ड की गई मिक्सटेप"
+    },
+    "selector": {
+      "lead": "लाइव सत्र",
+      "v1": {
+        "meta": "लाइव विनाइल लिसनिंग सेशन · Record Store Day 2026 · Lucky Records, मियामी"
+      },
+      "v2": {
+        "date": "9 फरवरी 2025",
+        "meta": "लाइव स्ट्रीम · Dr. Muusica द्वारा साउंड्स · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v3": {
+        "date": "14 जनवरी 2025",
+        "meta": "लाइव स्ट्रीम · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v4": {
+        "date": "जनवरी 2025",
+        "meta": "Uncle Jei के साथ · Tripping Animals Brewing, Doral City, FL"
+      }
     }
   },
   "prensa": {

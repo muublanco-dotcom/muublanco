@@ -118,7 +118,8 @@
     "h2": {
       "listen": "收听",
       "press": "媒体报道",
-      "videoclips": "视频短片"
+      "videoclips": "视频短片",
+      "selector": "DR.Muusica 精选"
     },
     "press": {
       "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
@@ -158,6 +159,24 @@
     "listen": {
       "original": "原创音乐",
       "mixtapes": "现场录制混音带"
+    },
+    "selector": {
+      "lead": "现场演出",
+      "v1": {
+        "meta": "现场黑胶试听会 · Record Store Day 2026 · Lucky Records，迈阿密"
+      },
+      "v2": {
+        "date": "2025年2月9日",
+        "meta": "现场直播 · 音效：Dr. Muusica · Tripping Animals Brewing，Doral City，FL"
+      },
+      "v3": {
+        "date": "2025年1月14日",
+        "meta": "现场直播 · Tripping Animals Brewing，Doral City，FL"
+      },
+      "v4": {
+        "date": "2025年1月",
+        "meta": "与Uncle Jei合作 · Tripping Animals Brewing，Doral City，FL"
+      }
     }
   },
   "prensa": {

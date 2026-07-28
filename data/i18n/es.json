@@ -118,7 +118,8 @@
     "h2": {
       "listen": "Escucha",
       "press": "En la prensa",
-      "videoclips": "VideoClips"
+      "videoclips": "VideoClips",
+      "selector": "DR.Muusica Selector"
     },
     "press": {
       "lead": "Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente."
@@ -158,6 +159,24 @@
     "listen": {
       "original": "Música Original",
       "mixtapes": "Mixtapes grabados en vivo"
+    },
+    "selector": {
+      "lead": "Sesiones en vivo",
+      "v1": {
+        "meta": "Live Vinyl Listening Session · Record Store Day 2026 · Lucky Records, Miami"
+      },
+      "v2": {
+        "date": "9 de febrero de 2025",
+        "meta": "Transmitido en vivo · Sonidos por Dr. Muusica · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v3": {
+        "date": "14 de enero de 2025",
+        "meta": "Transmitido en vivo · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v4": {
+        "date": "Enero 2025",
+        "meta": "Con Uncle Jei · Tripping Animals Brewing, Doral City, FL"
+      }
     }
   },
   "prensa": {

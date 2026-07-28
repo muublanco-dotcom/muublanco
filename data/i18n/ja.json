@@ -118,7 +118,8 @@
     "h2": {
       "listen": "聴く",
       "press": "プレス掲載",
-      "videoclips": "ビデオクリップ"
+      "videoclips": "ビデオクリップ",
+      "selector": "DR.Muusica セレクター"
     },
     "press": {
       "lead": "ミュージシャン兼音楽プロデューサーとしてのムー・ブランコに関する言及と報道 — 年代順。"
@@ -158,6 +159,24 @@
     "listen": {
       "original": "オリジナル音楽",
       "mixtapes": "ライブ録音ミックステープ"
+    },
+    "selector": {
+      "lead": "ライブセッション",
+      "v1": {
+        "meta": "ライブ・ヴァイナル・リスニングセッション · Record Store Day 2026 · Lucky Records、マイアミ"
+      },
+      "v2": {
+        "date": "2025年2月9日",
+        "meta": "ライブ配信 · サウンド：Dr. Muusica · Tripping Animals Brewing、ドーラルシティ、FL"
+      },
+      "v3": {
+        "date": "2025年1月14日",
+        "meta": "ライブ配信 · Tripping Animals Brewing、ドーラルシティ、FL"
+      },
+      "v4": {
+        "date": "2025年1月",
+        "meta": "Uncle Jei と共に · Tripping Animals Brewing、ドーラルシティ、FL"
+      }
     }
   },
   "prensa": {
