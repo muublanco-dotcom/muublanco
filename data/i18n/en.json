@@ -115,7 +115,6 @@
   "drmusica": {
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco's sonic alias. Productions, collaborations, and releases.",
-    "tracks": "81 tracks",
     "h2": {
       "listen": "Listen",
       "press": "In the press",
@@ -154,8 +153,11 @@
       }
     },
     "youtube": {
-      "label": "Original Music",
       "handle": "Muu Blanco on YouTube"
+    },
+    "listen": {
+      "original": "Original Music",
+      "mixtapes": "Live-recorded mixtapes"
     }
   },
   "prensa": {

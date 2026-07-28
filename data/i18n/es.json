@@ -115,7 +115,6 @@
   "drmusica": {
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "El alias sonoro de Muu Blanco. Producciones, colaboraciones y lanzamientos.",
-    "tracks": "81 pistas",
     "h2": {
       "listen": "Escucha",
       "press": "En la prensa",
@@ -154,8 +153,11 @@
       }
     },
     "youtube": {
-      "label": "Música Original",
       "handle": "Muu Blanco en YouTube"
+    },
+    "listen": {
+      "original": "Música Original",
+      "mixtapes": "Mixtapes grabados en vivo"
     }
   },
   "prensa": {

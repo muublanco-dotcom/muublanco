@@ -115,7 +115,6 @@
   "drmusica": {
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco的音乐化名。制作、合作与发行。",
-    "tracks": "81首曲目",
     "h2": {
       "listen": "收听",
       "press": "媒体报道",
@@ -154,8 +153,11 @@
       }
     },
     "youtube": {
-      "label": "原创音乐",
       "handle": "Muu Blanco的YouTube频道"
+    },
+    "listen": {
+      "original": "原创音乐",
+      "mixtapes": "现场录制混音带"
     }
   },
   "prensa": {

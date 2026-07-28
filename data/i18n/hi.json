@@ -115,7 +115,6 @@
   "drmusica": {
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "Muu Blanco का ध्वनि उपनाम। निर्माण, सहयोग और रिलीज़।",
-    "tracks": "81 ट्रैक",
     "h2": {
       "listen": "सुनें",
       "press": "प्रेस में",
@@ -154,8 +153,11 @@
       }
     },
     "youtube": {
-      "label": "मूल संगीत",
       "handle": "YouTube पर Muu Blanco"
+    },
+    "listen": {
+      "original": "मूल संगीत",
+      "mixtapes": "लाइव रिकॉर्ड की गई मिक्सटेप"
     }
   },
   "prensa": {

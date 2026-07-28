@@ -115,7 +115,6 @@
   "drmusica": {
     "eyebrow": "04 — DR.MUUSICA",
     "lead": "ムー・ブランコのサウンドのエイリアス。制作、コラボレーション、リリース。",
-    "tracks": "81曲",
     "h2": {
       "listen": "聴く",
       "press": "プレス掲載",
@@ -154,8 +153,11 @@
       }
     },
     "youtube": {
-      "label": "オリジナル音楽",
       "handle": "YouTubeのムー・ブランコ"
+    },
+    "listen": {
+      "original": "オリジナル音楽",
+      "mixtapes": "ライブ録音ミックステープ"
     }
   },
   "prensa": {
