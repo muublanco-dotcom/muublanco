@@ -269,7 +269,12 @@
     "instalaciones": {
       "title": "Instalaciones",
       "medium": "Instalación",
-      "p1": "Muuseo Blanco (1998), una de las primeras instalaciones documentadas del artista."
+      "p1": "Muuseo Blanco (1998), una de las primeras instalaciones documentadas del artista.",
+      "v1": {
+        "date": "13 de enero de 2020",
+        "meta": "Instalación multimedia · LFA Space, Wynwood, Miami · Noviembre 2019 – marzo 2020",
+        "p1": "Una vista general de un minuto de la instalación multimedia Lumínico Sonoro, de Muu Blanco, presentada de noviembre de 2019 a marzo de 2020 en LFA Space, Wynwood, Miami, Florida, EE. UU."
+      }
     },
     "performances": {
       "title": "Performances",

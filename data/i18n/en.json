@@ -269,7 +269,12 @@
     "instalaciones": {
       "title": "Installations",
       "medium": "Installation",
-      "p1": "Muuseo Blanco (1998), one of the artist's earliest documented installations."
+      "p1": "Muuseo Blanco (1998), one of the artist's earliest documented installations.",
+      "v1": {
+        "date": "January 13, 2020",
+        "meta": "Multimedia installation · LFA Space, Wynwood, Miami · November 2019 – March 2020",
+        "p1": "A one-minute overview of the multimedia installation Lumínico Sonoro, by Muu Blanco, presented from November 2019 to March 2020 at LFA Space, Wynwood, Miami, Florida, USA."
+      }
     },
     "performances": {
       "title": "Performances",

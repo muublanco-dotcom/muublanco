@@ -269,7 +269,12 @@
     "instalaciones": {
       "title": "装置",
       "medium": "装置",
-      "p1": "《Muuseo Blanco》（1998年），艺术家有记录的最早装置作品之一。"
+      "p1": "《Muuseo Blanco》（1998年），艺术家有记录的最早装置作品之一。",
+      "v1": {
+        "date": "2020年1月13日",
+        "meta": "多媒体装置 · LFA Space，Wynwood，迈阿密 · 2019年11月至2020年3月",
+        "p1": "这是Muu Blanco多媒体装置作品《Lumínico Sonoro》的一分钟概览影像，该作品于2019年11月至2020年3月在美国佛罗里达州迈阿密Wynwood的LFA Space展出。"
+      }
     },
     "performances": {
       "title": "行为表演",
