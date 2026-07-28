@@ -273,8 +273,58 @@
     },
     "performances": {
       "title": "Performances",
-      "medium": "Performance",
-      "p1": "Two performative milestones in Muu Blanco's trajectory: his first performance (1986), marking the beginning of his artistic practice, and Perra Chillona (1996), a short film that won First Prize at the São Paulo Short Film Biennial — monologue by Muu Blanco, directed by Sabrina Montiel-Soto."
+      "medium": "Live actions, video mapping and multimedia installation",
+      "p1": "Two performative milestones in Muu Blanco's trajectory: his first performance (1986), marking the beginning of his artistic practice, and Perra Chillona (1996), a short film that won First Prize at the São Paulo Short Film Biennial — monologue by Muu Blanco, directed by Sabrina Montiel-Soto.",
+      "v1": {
+        "meta": "Live multimedia action · Opening of the group exhibition of New World School of the Arts students and graduates, Miami Dade Art District — Miami Art Week 2025",
+        "p1": "It is a live multimedia action that explores the intersection of landscape, body and technology through a continuous flow of sound and image. Over 30 minutes, the intervention articulates a dialogue between synthesizer, beat, live radio, trombone and a visual device that blends loops of moving water —filmed off the coast of Key Biscayne— with digital drawings transformed into kaleidoscopic patterns through MadMapper.",
+        "p2": "This visual cartography is joined by dynamic, vibrating lines, generated in real time, that react to the sound frequencies created during the action. These lines respond not only to the synthesizer, the beat or the trombone: the noise of the audience also becomes a visual trigger, integrating into the system so that every vibration, every murmur and every ambient interruption modifies the projection. The audience thus becomes an involuntary co-author of the piece, leaving a trace inscribed in the texture of the image.",
+        "p3": "The work builds a sensory ecosystem where the natural and the digital influence each other: acoustic vibration runs through the visuality, the marine landscape is fragmented and expanded, and the collective presence becomes part of the pulse that sustains the experience. The radio transmission introduces an element of chance and live presence, underscoring that every shore —physical or technological— is a point of crossing.",
+        "p4": "Presented at the opening of the group exhibition of New World School of the Arts students and graduates in the Miami Dade Art District, as part of Miami Art Week 2025, the action proposes an immersive territory where sound, image and audience coexist in a state of continuous vibration.",
+        "date": "December 2025"
+      },
+      "v2": {
+        "meta": "Sound action · PINTA Art Fair, Miami Art Week 2025",
+        "p1": "I appear faceless, covered by a nest of magnetic tape: remnants of voices, fractured memories, recordings no one listens to anymore. My instrument is a green trombone, the color of sprout and toxicity, of hope and rust. With it I blow a language that seeks not music, but fissure.",
+        "p2": "This sound action is a gesture of insubordination. Atonal, repetitive, insistent: a refusal of the structures that domesticate the ear and the discourses that order the body. What happens here is not a concert, but an interruption. Not a spectacle, but an open crack in the flow of what is supposed to be seen, celebrated, consumed.",
+        "p3": "In this marina garden, guarded by boats awaiting their departure to sea, I become interference. I bring with me the vibrations of a scattered south, of migrant geographies, of cities that rethink themselves from their margins. I blow from the silences that have not been invited, from the memories that resist being archived, from the fragility of what persists even when everything tries to erase it.",
+        "p4": "The infinite repetitions do not seek hypnosis, but affirmation: to exist is to insist. In front of the fair, in front of the market, in front of the logic that labels, values and circulates, I present a presence that refuses to be captured. My sound does not offer melody, it offers detour. It does not offer relief, it offers possibility.",
+        "p5": "I invite you to listen without expecting. To remain without understanding. To accompany this act as one who enters a wave that does not belong to them, but still touches them. May this vibration remind us that the indeterminate also has the right to occupy space.",
+        "date": "December 2025"
+      },
+      "v3": {
+        "meta": "M/P'25 · Edge Zone Cultural Center, Miami",
+        "p1": "\"Ceguera Ambiental y SocioCultural Vol.1 (Miami)\" belongs to the line of artistic research Muu Blanco has developed for more than two decades, where the sonic, the political and the visual intertwine in actions that interrogate the tensions of contemporaneity.",
+        "p2": "This project engages in dialogue with the artist's previous experiences, such as his urban sound actions in Caracas, where the noise of the city was transformed into plastic and performative material; his critical audiovisual installations on violence and power, in which media language became a field of distortion and resistance; as well as his explorations under the alias DrMuusica, in which vinyl, loop and improvisation rewrite the sound archives of the Caribbean and its diaspora.",
+        "p3": "In all these approaches, Blanco has sought the same gesture: to reconfigure the signs of the everyday, the political and the cultural into sensory landscapes where memory, tension and the urgency of our time are activated. Ceguera Ambiental y SocioCultural continues this critical and experimental path, now with a radical emphasis on perception itself: geometric lines and sound vibrations that, when intertwined, reveal the contemporary contradiction between the rigidity of the social gaze and the uncontrollable power of improvisation and error.",
+        "date": "December 2025"
+      },
+      "v4": {
+        "meta": "Video &amp; Sound: MadMapper &amp; Live Ableton · Coral Gables Museum (Gallery Night) · Video: Raúl Blanco",
+        "date": "May 2022"
+      },
+      "v5": {
+        "meta": "Multimedia installation — 4 channels of video and stereo audio (performance, video, photography, sound, texts, oil painting) · Duration: 2 hours · Location: ESM (Espacio SaltaMantis), Miami · Documentary video: 01:59 min · Collaborating musicians: Andrés Michelena, Diego Damas, Muu Blanco"
+      },
+      "v6": {
+        "meta": "Concept, direction, sound, piano and live video mapping, with guest artists Andrés Michelena (digital percussion) and Diego Damas (electric guitar) · Miami New Media Festival, Miami Iron Side, Little River Art District · Filming and editing: Raúl Blanco",
+        "date": "February 2019"
+      },
+      "v7": {
+        "meta": "27\" fragment of a live multimedia action — video mapping, experimental music over paintings and walls · Miami New Media Festival"
+      },
+      "v8": {
+        "meta": "Video mapping installation and original music · Espace Expresions, Wynwood, Miami",
+        "p1": "A piece paying tribute to three masters of abstract art — Jesús Rafael Soto, Carlos Cruz-Diez and Julio Le Parc.",
+        "date": "September 15, 2017"
+      },
+      "v9": {
+        "meta": "Technique: video performance — body action, photography, single-channel video · Format: .MOV 4K · Duration: 03:13 min",
+        "date": "July 2016"
+      },
+      "v10": {
+        "meta": "Location: Mandrágoras Art Space, Queens, NYC"
+      }
     }
   },
   "exposiciones": {
