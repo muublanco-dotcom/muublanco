@@ -12,7 +12,7 @@
       "about": "About",
       "contacto": "Contact",
       "proyectos": "Projects",
-      "exposiciones": "Exhibitions"
+      "exposiciones": "Exhibition Catalogs"
     },
     "footer": {
       "tagline": "Artist &amp; musician — Caracas / Miami."
@@ -243,7 +243,7 @@
     }
   },
   "exposiciones": {
-    "eyebrow": "07 — Exhibitions",
+    "eyebrow": "07 — Exhibition Catalogs",
     "lead": "Catalogs and documentation of solo and group exhibitions, ordered chronologically.",
     "loading": "Loading exhibitions…"
   }

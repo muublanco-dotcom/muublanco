@@ -12,7 +12,7 @@
       "about": "关于",
       "contacto": "联系",
       "proyectos": "项目",
-      "exposiciones": "展览"
+      "exposiciones": "展览目录"
     },
     "footer": {
       "tagline": "艺术家 &amp; 音乐家 — 加拉加斯 / 迈阿密。"
@@ -243,7 +243,7 @@
     }
   },
   "exposiciones": {
-    "eyebrow": "07 — 展览",
+    "eyebrow": "07 — 展览目录",
     "lead": "个展与联展的画册及文献资料，按时间顺序排列。",
     "loading": "正在加载展览…"
   }

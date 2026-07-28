@@ -12,7 +12,7 @@
       "about": "About",
       "contacto": "연락처",
       "proyectos": "프로젝트",
-      "exposiciones": "전시"
+      "exposiciones": "전시 카탈로그"
     },
     "footer": {
       "tagline": "아티스트 &amp; 뮤지션 — 카라카스 / 마이애미."
@@ -243,7 +243,7 @@
     }
   },
   "exposiciones": {
-    "eyebrow": "07 — 전시",
+    "eyebrow": "07 — 전시 카탈로그",
     "lead": "개인전과 단체전의 카탈로그와 기록 자료, 연대순.",
     "loading": "전시를 불러오는 중…"
   }
