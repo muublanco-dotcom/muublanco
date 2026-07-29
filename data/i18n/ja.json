@@ -186,7 +186,7 @@
   },
   "store": {
     "eyebrow": "05 — ギャラリー",
-    "lead": "オンラインストア — 購入可能なオリジナル作品。リストはGoogle Sheetからリアルタイムで更新されます。作品をタップすると詳細、価格、在庫状況を確認できます。",
+    "lead": "入手可能なアーティストブック4冊：AAA 2002–2012（Abstracciones Paisajísticas）、Modernismo Anacrónico、New Compositional Thinking 1・2。各表紙をタップするとBlurbで表示、または作品解説を開けます。",
     "driveImage": "Google Drive の画像",
     "books": {
       "title": "販売中の書籍",

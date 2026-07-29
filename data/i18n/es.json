@@ -186,7 +186,7 @@
   },
   "store": {
     "eyebrow": "05 — Galería",
-    "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
+    "lead": "Cuatro libros de artista disponibles: AAA 2002–2012 (Abstracciones Paisajísticas), Modernismo Anacrónico, y New Compositional Thinking 1 y 2. Toca cada portada para verlo en Blurb, o abre su memoria descriptiva.",
     "driveImage": "Imagen en Google Drive",
     "books": {
       "title": "Libros disponibles",

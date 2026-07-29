@@ -186,7 +186,7 @@
   },
   "store": {
     "eyebrow": "05 — गैलरी",
-    "lead": "ऑनलाइन स्टोर — उपलब्ध मूल कृतियाँ। सूची एक Google Sheet से लाइव अपडेट होती है। विवरण, मूल्य और उपलब्धता देखने के लिए किसी भी कृति को स्पर्श करें।",
+    "lead": "चार कलाकार-पुस्तकें उपलब्ध हैं: AAA 2002–2012 (Abstracciones Paisajísticas), Modernismo Anacrónico, और New Compositional Thinking 1 व 2। हर कवर पर टैप करके Blurb पर देखें, या उसका विवरणात्मक नोट खोलें।",
     "driveImage": "Google Drive में छवि",
     "books": {
       "title": "उपलब्ध पुस्तकें",
