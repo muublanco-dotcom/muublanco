@@ -324,7 +324,6 @@
     "performances": {
       "title": "퍼포먼스",
       "medium": "라이브 액션, 비디오 매핑 및 멀티미디어 설치",
-      "p1": "무 블랑코의 궤적에서 두 개의 퍼포먼스적 이정표: 그의 예술적 실천의 시작을 알리는 첫 퍼포먼스(1986), 그리고 상파울루 단편영화 비엔날레 대상을 수상한 단편영화 《Perra Chillona》(1996) — 무 블랑코의 독백, 사브리나 몬티엘-소토 연출.",
       "v1": {
         "meta": "라이브 멀티미디어 액션 · New World School of the Arts 재학생 및 졸업생 단체전 오프닝, Miami Dade Art District — 마이애미 아트 위크 2025",
         "p1": "풍경, 신체, 기술의 교차점을 지속적인 소리와 이미지의 흐름을 통해 탐구하는 라이브 멀티미디어 액션이다. 30분 동안 신디사이저, 비트, 라이브 라디오, 트롬본, 그리고 키비스케인 해안에서 촬영한 움직이는 물의 루프를 MadMapper로 만화경 같은 패턴으로 변환한 디지털 드로잉을 결합한 영상 장치 사이의 대화가 펼쳐진다.",
@@ -375,9 +374,6 @@
       "v10": {
         "meta": "장소: Mandrágoras Art Space, 퀸스, 뉴욕"
       },
-      "v11": {
-        "title": "초기 퍼포먼스"
-      },
       "v12": {
         "meta": "주연: Muu Blanco · 연출: Andrés Manner · 편집: Murmullo",
         "p1": "카라카스 로스 초로스 지역에서 즉흥연주 지침을 따라 단 하루 아침 만에 촬영되었다 — 순수한 예술적 헌신으로 신체적 위험을 무릅쓰고."
@@ -396,6 +392,12 @@
       "v16": {
         "meta": "감독: Vity Rodríguez Castillo · 프로듀서: Gabriela Vanzetti, Fito Páez · 곡: Alberto Cabello / Carlos Eduardo \"Cayayo\" Troconis † / Edgar Jiménez · 게스트 출연: Intensiti Moon, Muu Blanco, Marino · Sonorodven: Carlos Sánchez · 1989년 베네수엘라 메리다 국제영화제 최우수 뮤직비디오상 · 앨범: El Amor Ya No Existe",
         "p1": "전체 크레딧을 담아 리마스터링한 오리지널 버전. 1988년 카라카스에서 슈퍼 8mm 필름으로 촬영되었다. 이는 무 블랑코가 베네수엘라 밴드의 뮤직비디오에 배우로 출연한 최초의 미디어 등장이었다."
+      },
+      "v17": {
+        "meta": "상파울루 단편영화 비엔날레 대상 · 모놀로그: Muu Blanco · 연출: Sabrina Montiel-Soto"
+      },
+      "v18": {
+        "p1": "무 블랑코의 예술적 실천의 시작을 알린다."
       }
     }
   },

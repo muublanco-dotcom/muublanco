@@ -324,7 +324,6 @@
     "performances": {
       "title": "Performances",
       "medium": "Live actions, video mapping and multimedia installation",
-      "p1": "Two performative milestones in Muu Blanco's trajectory: his first performance (1986), marking the beginning of his artistic practice, and Perra Chillona (1996), a short film that won First Prize at the São Paulo Short Film Biennial — monologue by Muu Blanco, directed by Sabrina Montiel-Soto.",
       "v1": {
         "meta": "Live multimedia action · Opening of the group exhibition of New World School of the Arts students and graduates, Miami Dade Art District — Miami Art Week 2025",
         "p1": "It is a live multimedia action that explores the intersection of landscape, body and technology through a continuous flow of sound and image. Over 30 minutes, the intervention articulates a dialogue between synthesizer, beat, live radio, trombone and a visual device that blends loops of moving water —filmed off the coast of Key Biscayne— with digital drawings transformed into kaleidoscopic patterns through MadMapper.",
@@ -375,9 +374,6 @@
       "v10": {
         "meta": "Location: Mandrágoras Art Space, Queens, NYC"
       },
-      "v11": {
-        "title": "Early performances"
-      },
       "v12": {
         "meta": "Lead actor: Muu Blanco · Direction: Andrés Manner · Editing: Murmullo",
         "p1": "Shot in a single morning in the Los Chorros neighborhood of Caracas, following an improvisation score — at full physical risk, out of pure artistic commitment."
@@ -396,6 +392,12 @@
       "v16": {
         "meta": "Director: Vity Rodríguez Castillo · Producers: Gabriela Vanzetti, Fito Páez · Song: Alberto Cabello / Carlos Eduardo \"Cayayo\" Troconis † / Edgar Jiménez · Guest actors: Intensiti Moon, Muu Blanco, Marino · Sonorodven: Carlos Sánchez · Best Music Video Award, Mérida International Film Festival, Venezuela, 1989 · Album: El Amor Ya No Existe",
         "p1": "Original version remastered, with full credits. Filmed on Super 8 in Caracas in 1988. This was Muu Blanco's first media appearance, as an actor in a Venezuelan band's music video."
+      },
+      "v17": {
+        "meta": "First Prize, São Paulo Short Film Biennial · Monologue: Muu Blanco · Direction: Sabrina Montiel-Soto"
+      },
+      "v18": {
+        "p1": "Marks the beginning of Muu Blanco's artistic practice."
       }
     }
   },

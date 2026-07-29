@@ -324,7 +324,6 @@
     "performances": {
       "title": "行为表演",
       "medium": "现场行为艺术、视频投影与多媒体装置",
-      "p1": "Muu Blanco创作生涯中的两个表演里程碑：标志其艺术实践起点的首次行为表演（1986年），以及《Perra Chillona》（1996年）——在圣保罗短片双年展获得一等奖的短片，由Muu Blanco独白，Sabrina Montiel-Soto执导。",
       "v1": {
         "meta": "现场多媒体行为艺术 · New World School of the Arts在校生与毕业生联展开幕，Miami Dade Art District——2025迈阿密艺术周",
         "p1": "这是一场现场多媒体行为艺术，通过持续不断的声音与影像流探索风景、身体与科技之间的交汇。在30分钟内，作品在合成器、节拍、现场广播、长号与一个视觉装置之间展开对话——该装置将拍摄于Key Biscayne海岸的流动水体循环影像，与通过MadMapper转化为万花筒图案的数字绘画相融合。",
@@ -375,9 +374,6 @@
       "v10": {
         "meta": "地点：Mandrágoras Art Space，皇后区，纽约"
       },
-      "v11": {
-        "title": "早期行为艺术"
-      },
       "v12": {
         "meta": "主演：Muu Blanco · 导演：Andrés Manner · 剪辑：Murmullo",
         "p1": "在加拉加斯Los Chorros社区，仅用一个清晨依照即兴指令拍摄完成——冒着身体上的风险，出于纯粹的艺术投入。"
@@ -396,6 +392,12 @@
       "v16": {
         "meta": "导演：Vity Rodríguez Castillo · 制片人：Gabriela Vanzetti、Fito Páez · 歌曲：Alberto Cabello／Carlos Eduardo“Cayayo”Troconis †／Edgar Jiménez · 客串演员：Intensiti Moon、Muu Blanco、Marino · Sonorodven：Carlos Sánchez · 1989年委内瑞拉梅里达国际电影节最佳音乐录影带奖 · 专辑：El Amor Ya No Existe",
         "p1": "含完整制作名单的原版重制。1988年于加拉加斯以Super 8格式拍摄。这是Muu Blanco首次公开亮相，以演员身份出演一支委内瑞拉乐队的音乐录影带。"
+      },
+      "v17": {
+        "meta": "圣保罗短片双年展一等奖 · 独白：Muu Blanco · 导演：Sabrina Montiel-Soto"
+      },
+      "v18": {
+        "p1": "标志着Muu Blanco艺术实践的开端。"
       }
     }
   },
