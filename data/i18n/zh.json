@@ -187,8 +187,6 @@
   "store": {
     "eyebrow": "05 — 画廊",
     "lead": "在线商店 — 现有原作。列表通过Google表格实时更新。点击任意作品查看详情、价格与库存情况。",
-    "note": "该目录数据来自以CSV形式发布的Google表格（与Art Fair相同）。在尚未连接表格之前，你将看到下方的列模板。",
-    "loading": "正在加载画廊…",
     "driveImage": "Google Drive中的图片",
     "books": {
       "title": "现有书籍",

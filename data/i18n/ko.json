@@ -187,8 +187,6 @@
   "store": {
     "eyebrow": "05 — 갤러리",
     "lead": "온라인 스토어 — 구매 가능한 오리지널 작품. 목록은 Google Sheet에서 실시간으로 업데이트됩니다. 작품을 눌러 세부 정보, 가격, 재고를 확인하세요.",
-    "note": "카탈로그는 CSV로 게시된 Google Sheet를 통해 제공됩니다(Art Fair와 동일한 방식). 시트가 연결되기 전까지는 아래에 열 템플릿이 표시됩니다.",
-    "loading": "갤러리 불러오는 중…",
     "driveImage": "Google Drive 이미지",
     "books": {
       "title": "구매 가능한 도서",

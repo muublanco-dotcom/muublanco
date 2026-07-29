@@ -187,8 +187,6 @@
   "store": {
     "eyebrow": "05 — Galería",
     "lead": "Tienda virtual — obra original disponible. La lista se actualiza en vivo desde una Google Sheet. Toca cualquier pieza para ver detalle, precio y disponibilidad.",
-    "note": "El catálogo se alimenta de una Google Sheet publicada como CSV (igual que Art Fair). Mientras no tenga hoja conectada, verás la plantilla de columnas abajo.",
-    "loading": "Cargando galería…",
     "driveImage": "Imagen en Google Drive",
     "books": {
       "title": "Libros disponibles",
