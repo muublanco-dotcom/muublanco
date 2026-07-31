@@ -120,7 +120,7 @@
       "press": "媒体报道",
       "videoclips": "视频短片",
       "selector": "DR.Muusica 精选",
-      "lanzamientos": "发行作品"
+      "noticias": "新闻"
     },
     "press": {
       "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
@@ -179,11 +179,11 @@
         "meta": "与Uncle Jei合作 · Tripping Animals Brewing，Doral City，FL"
       }
     },
-    "lanzamientos": {
-      "lead": "Muu Blanco / Dr.Muusica的全新声音项目与合作。",
+    "noticias": {
+      "lead": "DR.MUU Records的全新发行，由Dr.Muusica制作。",
       "v1": {
         "date": "2026年5月",
-        "meta": "艺术、平面设计与音乐概念：@DrMuu_Desing &amp; Muu Blanco · 音乐与制作：Argenis Brito &amp; Muu Blanco · 于迈阿密与柏林录制及制作，2025–2026年 · 后期制作：Argenis Brito · 全球发行：2026年5月24日",
+        "meta": "厂牌：DR.MUU Records · 制作：Dr.Muusica · 艺术、平面设计与音乐概念：@DrMuu_Desing &amp; Muu Blanco · 音乐与制作：Argenis Brito &amp; Muu Blanco · 于迈阿密与柏林录制及制作，2025–2026年 · 后期制作：Argenis Brito · 全球发行：2026年5月24日",
         "p1": "这是一个系统的活跃实例，在此系统中，结构不再作为约束运作，而开始表现为断裂的表面。",
         "p2": "在这一语境中，声音并非以作曲的方式运作，而是作为一种压力——一股穿透界限直至将其撕裂的力量。",
         "track1title": "曲目1 —（界限被撕裂／无人停下）",

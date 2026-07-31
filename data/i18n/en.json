@@ -120,7 +120,7 @@
       "press": "In the press",
       "videoclips": "Video Clips",
       "selector": "DR.Muusica Selector",
-      "lanzamientos": "Releases"
+      "noticias": "News"
     },
     "press": {
       "lead": "Mentions and coverage of Muu Blanco as a musician and music producer, ordered chronologically."
@@ -179,11 +179,11 @@
         "meta": "With Uncle Jei · Tripping Animals Brewing, Doral City, FL"
       }
     },
-    "lanzamientos": {
-      "lead": "New sound projects and collaborations by Muu Blanco / Dr.Muusica.",
+    "noticias": {
+      "lead": "New release from DR.MUU Records, produced by Dr.Muusica.",
       "v1": {
         "date": "May 2026",
-        "meta": "Art, graphic design and musical concept: @DrMuu_Desing &amp; Muu Blanco · Music and production: Argenis Brito &amp; Muu Blanco · Recorded and produced between Miami and Berlin, 2025–2026 · Post-production: Argenis Brito · Global release: May 24, 2026",
+        "meta": "Label: DR.MUU Records · Production: Dr.Muusica · Art, graphic design and musical concept: @DrMuu_Desing &amp; Muu Blanco · Music and production: Argenis Brito &amp; Muu Blanco · Recorded and produced between Miami and Berlin, 2025–2026 · Post-production: Argenis Brito · Global release: May 24, 2026",
         "p1": "It is an active instance of a system where structure stops operating as containment and begins to behave as a surface of rupture.",
         "p2": "In this context, sound does not function as composition, but as pressure: a force that crosses the limit until it tears it apart.",
         "track1title": "Track 1 — (The Limit Tears / No One Stops)",
