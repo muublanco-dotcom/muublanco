@@ -119,7 +119,8 @@
       "listen": "Escucha",
       "press": "En la prensa",
       "videoclips": "VideoClips",
-      "selector": "DR.Muusica Selector"
+      "selector": "DR.Muusica Selector",
+      "lanzamientos": "Lanzamientos"
     },
     "press": {
       "lead": "Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente."
@@ -176,6 +177,21 @@
       "v4": {
         "date": "Enero 2025",
         "meta": "Con Uncle Jei · Tripping Animals Brewing, Doral City, FL"
+      }
+    },
+    "lanzamientos": {
+      "lead": "Nuevos proyectos y colaboraciones sonoras de Muu Blanco / Dr.Muusica.",
+      "v1": {
+        "date": "Mayo 2026",
+        "meta": "Arte, diseño gráfico y concepto musical: @DrMuu_Desing &amp; Muu Blanco · Música y producción: Argenis Brito &amp; Muu Blanco · Grabado y producido entre Miami y Berlín, 2025–2026 · Postproducción: Argenis Brito · Lanzamiento global: 24 de mayo de 2026",
+        "p1": "Es una instancia activa de un sistema donde la estructura deja de operar como contención y comienza a comportarse como superficie de ruptura.",
+        "p2": "En este contexto, el sonido no funciona como composición, sino como presión: una fuerza que atraviesa el límite hasta desgarrarlo.",
+        "track1title": "Track 1 — (Se Rasga el Límite / Nadie se Detiene)",
+        "track1desc": "Marca el momento en que la estructura cede. No hay transición ni advertencia: la apertura es inmediata y total. Lo que emerge no responde a una lógica narrativa, sino a un flujo que no reconoce freno ni dirección.",
+        "track2title": "Track 2 — (Respiran Donde No Hay Aire)",
+        "track2desc": "Habita las consecuencias de esa ruptura. Aquí, la anomalía se estabiliza. Lo imposible no colapsa: persiste. Lo que no debería tener condiciones para existir, encuentra una forma de mantenerse activo dentro de un entorno que ya no distingue entre interior y exterior.",
+        "p3": "La obra no propone una historia, sino un estado: una zona donde la percepción es forzada a operar sin referencias estables.",
+        "closing": "ARGMUU no construye significado; lo somete a interferencia."
       }
     }
   },
