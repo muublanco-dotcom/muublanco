@@ -432,5 +432,42 @@
     "eyebrow": "07 — Exhibition Catalogs",
     "lead": "Catalogs and documentation of solo and group exhibitions, ordered chronologically.",
     "loading": "Loading exhibitions…"
+  },
+  "selectedworks": {
+    "eyebrow": "Selected Works",
+    "lead": "Six curated projects from forty years of sound, performance, and visual practice. Each one links to its full documentation within the archive.",
+    "cta": "See full documentation →",
+    "works": {
+      "natuurban": {
+        "title": "NatuUrban Symphony",
+        "meta": "2024–2025 · Sound installation and video mapping · Arts Connection Foundation, Miami",
+        "desc": "An installation and sound art program presented between November 2024 and January 2025 at Arts Connection Foundation, Miami. NatuUrban Symphony integrates experimental music, dance, video mapping projections, and the presentation of the accompanying documentary, forming a reflection on Miami's subtropical landscape as sonic territory. The project continues Muu Blanco's research into the relationship between image, sound, and urban environment, and was also released as a 180-gram green vinyl LP through Arts Connection Foundation."
+      },
+      "latencias": {
+        "title": "Latencias",
+        "meta": "2026 · Multimedia sensory performance · 40 min",
+        "desc": "A work in progress: a 40-minute multimedia sensory performance exploring the latencies between body, sound, and memory. The project combines live sound composition, projection, and performative gesture, continuing Muu Blanco's research into perception and technology. Latencias is documented openly in the Conceptual and Projects sections of the archive, as part of the artist's most recent work, active through 2026."
+      },
+      "soundart": {
+        "title": "Exploring the Roots and Evolution of Sound Art",
+        "meta": "2023–2025 · Solo exhibition · MIFA, Miami / Doral",
+        "desc": "A solo exhibition tracing a genealogy of sound art, from Futurism to the 21st century, presented at Miami International Fine Art (MIFA) between 2023 and 2025. The project combines sound installation pieces, historical documentation, and original work by Muu Blanco, situating his practice within a broader tradition exploring sound, technology, and space. The show was also presented in a Doral variant, expanding its reach and consolidating one of the artist's most sustained curatorial investigations into the history of sound art."
+      },
+      "ceguera": {
+        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+        "meta": "2025 · Performance · Miami",
+        "desc": "A performance addressing environmental and sociocultural blindness as a contemporary condition, the first installment of a series developed in Miami during 2025. The piece combines body, sound, and critical gesture to question the relationship between perception, environment, and collective responsibility. It belongs to Muu Blanco's ongoing performance practice, active within Miami's performance art circuit, and is documented on video within the site's Projects archive."
+      },
+      "modernismo": {
+        "title": "Modernismo Anacrónico",
+        "meta": "2002–2008 · Collage, assemblage, and installation",
+        "desc": "A series of collage, assemblage, and installation work developed between 2002 and 2008, later published as an eponymous art book. The project gathers photographs of pieces built from found materials and mixed techniques, also presented at the international SWAB fair (2008). Modernismo Anacrónico proposes an ironic dialogue between the modern promise and its material remains, one of the earliest and most sustained lines of Muu Blanco's visual practice, fully documented in the Projects gallery."
+      },
+      "afrolatin": {
+        "title": "Afro Latin Culture Flavor",
+        "meta": "2019–present · Fanzine and DJ residency · Tripping Animals Brewery, Doral",
+        "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. The project runs alongside a weekly DJ residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presents vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
+      }
+    }
   }
 }

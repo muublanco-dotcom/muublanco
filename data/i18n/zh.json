@@ -432,5 +432,42 @@
     "eyebrow": "07 — 展览目录",
     "lead": "个展与联展的画册及文献资料，按时间顺序排列。",
     "loading": "正在加载展览…"
+  },
+  "selectedworks": {
+    "eyebrow": "精选作品",
+    "lead": "从四十年的声音、表演与视觉实践中精选的六个项目。每个项目都链接至档案中的完整记录。",
+    "cta": "查看完整记录 →",
+    "works": {
+      "natuurban": {
+        "title": "NatuUrban Symphony",
+        "meta": "2024–2025 · 声音装置与影像投影 · Arts Connection Foundation, 迈阿密",
+        "desc": "2024年11月至2025年1月在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。NatuUrban Symphony融合了实验音乐、舞蹈、影像投影(video mapping)以及同名纪录片的放映,将迈阿密的亚热带风景思考为一片声音的领土。该项目延续了穆·布兰科对图像、声音与城市环境之关系的研究,并通过Arts Connection Foundation发行为180克绿色黑胶唱片。"
+      },
+      "latencias": {
+        "title": "Latencias",
+        "meta": "2026 · 多媒体感官表演 · 40分钟",
+        "desc": "一件进行中的作品:一场时长40分钟的多媒体感官表演,探索身体、声音与记忆之间的潜伏状态。该项目结合现场声音创作、影像投影与表演性姿态,延续了穆·布兰科对感知与科技的研究。Latencias在网站档案的“观念”与“项目”版块中公开记录,是艺术家截至2026年最新的创作。"
+      },
+      "soundart": {
+        "title": "Exploring the Roots and Evolution of Sound Art",
+        "meta": "2023–2025 · 个展 · MIFA,迈阿密 / 多拉尔",
+        "desc": "一场追溯声音艺术谱系——从未来主义到二十一世纪——的个展,于2023年至2025年间在迈阿密国际艺术博览会(MIFA)展出。项目结合了声音装置作品、历史资料与穆·布兰科的原创作品,将其创作置于探索声音、科技与空间的更广泛传统之中。展览也曾以多拉尔版本呈现,扩大了观众范围,并巩固了艺术家在声音艺术史研究方面最持久的策展项目之一。"
+      },
+      "ceguera": {
+        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+        "meta": "2025 · 表演 · 迈阿密",
+        "desc": "一场探讨环境与社会文化性“失明”这一当代境况的表演,是2025年在迈阿密展开的系列作品的第一部。作品结合身体、声音与批判性姿态,叩问感知、环境与集体责任之间的关系。它属于穆·布兰科持续开展的表演实践,活跃于迈阿密的表演艺术圈,并以影像形式记录在本站的“项目”档案中。"
+      },
+      "modernismo": {
+        "title": "Modernismo Anacrónico",
+        "meta": "2002–2008 · 拼贴、装置与集合艺术",
+        "desc": "2002年至2008年间创作的拼贴、集合与装置作品系列,后来出版为同名艺术书。项目汇集了以现成材料与综合技法制作的作品照片,并曾在国际艺术博览会SWAB(2008)展出。Modernismo Anacrónico在现代性的承诺与其物质残余之间提出一种反讽的对话,是穆·布兰科视觉实践中最早也最持久的脉络之一,完整记录于“项目”画廊中。"
+      },
+      "afrolatin": {
+        "title": "Afro Latin Culture Flavor",
+        "meta": "2019年至今 · 同人志与DJ驻场 · Tripping Animals Brewery,多拉尔",
+        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周DJ驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
+      }
+    }
   }
 }

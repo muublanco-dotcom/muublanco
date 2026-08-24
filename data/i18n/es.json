@@ -432,5 +432,42 @@
     "eyebrow": "07 — Catálogos Exposiciones",
     "lead": "Catálogos y documentación de exposiciones individuales y colectivas, ordenadas cronológicamente.",
     "loading": "Cargando exposiciones…"
+  },
+  "selectedworks": {
+    "eyebrow": "Selected Works",
+    "lead": "Seis proyectos curados de cuarenta años de práctica sonora, performática y visual. Cada uno enlaza a su documentación completa dentro del archivo.",
+    "cta": "Ver documentación completa →",
+    "works": {
+      "natuurban": {
+        "title": "NatuUrban Symphony",
+        "meta": "2024–2025 · Instalación sonora y video mapping · Arts Connection Foundation, Miami",
+        "desc": "Programa de instalación y arte sonoro presentado entre noviembre de 2024 y enero de 2025 en Arts Connection Foundation, Miami. NatuUrban Symphony integra música experimental, danza, proyecciones de video mapping y la presentación del documental homónimo, articulando una reflexión sobre el paisaje subtropical de Miami como territorio sonoro. El proyecto continúa la investigación de Muu Blanco sobre la relación entre imagen, sonido y entorno urbano, y se materializó también en formato físico como LP de vinilo de 180 gramos, editado en color verde por Arts Connection Foundation."
+      },
+      "latencias": {
+        "title": "Latencias",
+        "meta": "2026 · Performance sensorial multimedia · 40 min",
+        "desc": "Pieza en curso: una performance sensorial multimedia de 40 minutos que explora las latencias entre cuerpo, sonido y memoria. El proyecto combina composición sonora en vivo, proyección y gesto performático, continuando la línea de investigación de Muu Blanco sobre percepción y tecnología. Latencias se documenta de forma abierta en las secciones Conceptual y Proyectos del archivo, como parte del trabajo más reciente del artista, activo durante 2026."
+      },
+      "soundart": {
+        "title": "Exploring the Roots and Evolution of Sound Art",
+        "meta": "2023–2025 · Exposición individual · MIFA, Miami / Doral",
+        "desc": "Exposición individual que traza una genealogía del arte sonoro, del futurismo al siglo XXI, presentada en Miami International Fine Art (MIFA) entre 2023 y 2025. El proyecto combina piezas de instalación sonora, documentación histórica y trabajo original de Muu Blanco, situando su práctica dentro de una tradición más amplia de exploración entre sonido, tecnología y espacio. La muestra se presentó también en una variante en Doral, ampliando su alcance de público y consolidando una de las investigaciones curatoriales más sostenidas del artista sobre la historia del arte sonoro."
+      },
+      "ceguera": {
+        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+        "meta": "2025 · Performance · Miami",
+        "desc": "Performance que aborda la ceguera ambiental y sociocultural como condición contemporánea, primera entrega de una serie desarrollada en Miami durante 2025. La pieza combina cuerpo, sonido y gesto crítico para interpelar la relación entre percepción, entorno y responsabilidad colectiva. Se inscribe en la línea de trabajo performático de Muu Blanco, activa dentro del circuito de arte de performance de Miami, y se documenta en video dentro del archivo de Proyectos del sitio."
+      },
+      "modernismo": {
+        "title": "Modernismo Anacrónico",
+        "meta": "2002–2008 · Collage, ensamblaje e instalación",
+        "desc": "Serie de collage, ensamblaje e instalación desarrollada entre 2002 y 2008, publicada posteriormente como libro de arte homónimo. El proyecto reúne fotografías de piezas construidas con materiales encontrados y técnicas mixtas, presentadas también en la feria internacional SWAB (2008). Modernismo Anacrónico propone un diálogo irónico entre la promesa moderna y sus restos materiales, una de las líneas más tempranas y sostenidas de la práctica visual de Muu Blanco, documentada íntegramente en la galería de Proyectos."
+      },
+      "afrolatin": {
+        "title": "Afro Latin Culture Flavor",
+        "meta": "2019–presente · Fanzine y residencia DJ · Tripping Animals Brewery, Doral",
+        "desc": "Fanzine mensual impreso, de edición limitada, con curaduría editorial y producción de Muu Blanco / Dr.Muusica, publicado en Doral City, Miami. El proyecto se acompaña de una residencia semanal como DJ e investigador sonoro en Tripping Animals Brewery, donde Dr.Muusica presenta sesiones de vinilo bajo el nombre DR.Muusica Selector. Afro Latin Culture Flavor conecta la práctica editorial con la selección musical en vivo, explorando raíces afrolatinas, ritmo y cultura popular como archivo sonoro en tiempo real."
+      }
+    }
   }
 }
