@@ -22,10 +22,10 @@
   },
   "index": {
     "hero": {
-      "placeholder": "Image pending",
       "needs": "Multidisciplinary artist,",
       "accent": "sound artist, performer, and vinyl selector.",
-      "sub": "Caracas, 1966 · Based in Miami — four decades exploring sound, image, landscape, memory, technology, and Latin American cultural archives."
+      "sub": "Caracas, 1966 · Based in Miami — four decades exploring sound, image, landscape, memory, technology, and Latin American cultural archives.",
+      "alt": "Muu Blanco — Portrait, Miami, 2026"
     },
     "tiles": {
       "conceptual": "Texts, working notes, and a log of works — ordered chronologically.",
