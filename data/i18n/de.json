@@ -23,7 +23,7 @@
   "index": {
     "hero": {
       "placeholder": "Bild folgt",
-      "needs": "Multidisziplinärer Künstler",
+      "needs": "Multidisziplinärer Künstler,",
       "accent": "Klangkünstler, Performer und Vinyl-Selector.",
       "sub": "Caracas, 1966 · Lebt in Miami — vier Jahrzehnte der Erkundung von Klang, Bild, Landschaft, Erinnerung, Technologie und lateinamerikanischen Kulturarchiven."
     },
