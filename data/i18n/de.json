@@ -9,12 +9,12 @@
       "prensa": "Presse",
       "cv": "CV",
       "galeria": "Galerie",
-      "about": "About",
+      "about": "Über",
       "contacto": "Kontakt",
       "proyectos": "Projekte",
       "exposiciones": "Ausstellungskataloge",
-      "selectedworks": "Selected Works",
-      "workwithmuu": "Work With Muu"
+      "selectedworks": "Ausgewählte Werke",
+      "workwithmuu": "Mit Muu arbeiten"
     },
     "footer": {
       "tagline": "Künstler &amp; Musiker — Caracas / Miami."
@@ -288,7 +288,7 @@
       "label": "Musik / Booking"
     },
     "note": "Weiteres Material: <a href=\"cv.html\">CV</a> für die vollständige Laufbahn, <a href=\"prensa.html\">Presse</a> für Rezensionen und Berichterstattung, <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a> für soziale Medien, <a href=\"store.html\">Galerie</a> für erhältliche Werke.",
-    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
+    "categories": "Ausstellungen · Performances · Klangauftragsarbeiten · Künstlergespräche · Vinyl-Programme · DJ-Buchungen · Presse · Kollaborationen"
   },
   "proyectos": {
     "eyebrow": "02 — Forschungsprojekte",
@@ -451,7 +451,7 @@
     "loading": "Ausstellungen werden geladen…"
   },
   "selectedworks": {
-    "eyebrow": "Selected Works",
+    "eyebrow": "Ausgewählte Werke",
     "lead": "Sechs kuratierte Projekte aus vierzig Jahren klanglicher, performativer und visueller Praxis. Jedes verlinkt zur vollständigen Dokumentation im Archiv.",
     "cta": "Vollständige Dokumentation ansehen →",
     "works": {
@@ -488,23 +488,23 @@
     }
   },
   "workwithmuu": {
-    "eyebrow": "Work With Muu",
+    "eyebrow": "Mit Muu arbeiten",
     "lead": "Verfügbar für Ausstellungen, Performances, ortsspezifische Klangauftragsarbeiten, Vorträge und Vinyl-Hörsitzungen. Vierzig Jahre interdisziplinärer Praxis zwischen Caracas und Miami.",
     "cards": {
       "soundart": {
-        "title": "Sound Art & Performance",
+        "title": "Klangkunst & Performance",
         "desc": "Live-Klangperformance, erweiterte Klanginstallationen und Improvisation für Galerien, Festivals und öffentliche Räume."
       },
       "commissions": {
-        "title": "Site-Specific Sound Commissions",
+        "title": "Ortsspezifische Klangauftragsarbeiten",
         "desc": "Originale Klangstücke, entwickelt für einen bestimmten Raum, eine Ausstellung oder einen Ort — Ambient-Komposition, Videomapping, räumliches Audio."
       },
       "talks": {
-        "title": "Artist Talks",
+        "title": "Künstlergespräche",
         "desc": "Vorträge und Präsentationen über Klangkunst, Videokunst und vierzig Jahre interdisziplinärer Praxis zwischen Caracas und Miami."
       },
       "vinyl": {
-        "title": "Vinyl Listening Experiences",
+        "title": "Vinyl-Hörerlebnisse",
         "desc": "Kuratierte Vinyl-Hörsitzungen und DJ-Sets, die afrolateinamerikanischen, experimentellen und archivarischen Klang erkunden — von intimen Zusammenkünften bis zu öffentlichen Veranstaltungen."
       },
       "dj": {
@@ -512,7 +512,7 @@
         "desc": "DJ-Sets und Originalproduktionen unter dem Alias Dr.Muusica, von House über Dance bis zu genreübergreifenden Live-Sets."
       }
     },
-    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "closing": "Ausstellungen · Performances · Klangauftragsarbeiten · Kollaborationen",
     "ctaButton": "An Muu Blanco schreiben →"
   }
 }

@@ -9,12 +9,12 @@
       "prensa": "プレス",
       "cv": "CV",
       "galeria": "ギャラリー",
-      "about": "About",
+      "about": "プロフィール",
       "contacto": "連絡先",
       "proyectos": "プロジェクト",
       "exposiciones": "展覧会カタログ",
-      "selectedworks": "Selected Works",
-      "workwithmuu": "Work With Muu"
+      "selectedworks": "厳選作品",
+      "workwithmuu": "ムーと仕事をする"
     },
     "footer": {
       "tagline": "アーティスト＆ミュージシャン — カラカス / マイアミ。"
@@ -288,7 +288,7 @@
       "label": "音楽 / ブッキング"
     },
     "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。",
-    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
+    "categories": "展覧会 · パフォーマンス · サウンドコミッション · アーティストトーク · ヴァイナルプログラム · DJブッキング · プレス · コラボレーション"
   },
   "proyectos": {
     "eyebrow": "02 — リサーチ・プロジェクト",
@@ -451,7 +451,7 @@
     "loading": "展覧会を読み込み中…"
   },
   "selectedworks": {
-    "eyebrow": "セレクテッド・ワークス",
+    "eyebrow": "厳選作品",
     "lead": "40年に及ぶサウンド、パフォーマンス、ビジュアル実践から厳選した6つのプロジェクト。それぞれがアーカイブ内の完全な記録にリンクしています。",
     "cta": "詳細な記録を見る →",
     "works": {
@@ -488,23 +488,23 @@
     }
   },
   "workwithmuu": {
-    "eyebrow": "Work With Muu",
+    "eyebrow": "ムーと仕事をする",
     "lead": "展覧会、パフォーマンス、サイトスペシフィックなサウンドコミッション、アーティストトーク、ヴァイナル・リスニングセッションに対応可能です。カラカスとマイアミを往還する40年間の学際的実践。",
     "cards": {
       "soundart": {
-        "title": "Sound Art & Performance",
+        "title": "サウンドアート＆パフォーマンス",
         "desc": "ギャラリー、フェスティバル、公共空間のためのライブサウンドパフォーマンス、拡張されたサウンドインスタレーション、即興演奏。"
       },
       "commissions": {
-        "title": "Site-Specific Sound Commissions",
+        "title": "サイトスペシフィック・サウンドコミッション",
         "desc": "特定の空間、展覧会、サイトのために開発されたオリジナルのサウンド作品 — アンビエント作曲、ビデオマッピング、空間オーディオ。"
       },
       "talks": {
-        "title": "Artist Talks",
+        "title": "アーティストトーク",
         "desc": "サウンドアート、ビデオアート、そしてカラカスとマイアミを往還する40年間の学際的実践についてのトークとプレゼンテーション。"
       },
       "vinyl": {
-        "title": "Vinyl Listening Experiences",
+        "title": "ヴァイナル・リスニング体験",
         "desc": "アフロラテン、実験的、アーカイブ的なサウンドを探るキュレーションされたヴァイナル・リスニングセッションとDJセット — 親密な集まりから公開イベントまで。"
       },
       "dj": {
@@ -512,7 +512,7 @@
         "desc": "Dr.Muusicaというエイリアスのもとでのハウス、ダンス、ジャンルを横断するライブセットとオリジナルプロダクション。"
       }
     },
-    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "closing": "展覧会 · パフォーマンス · サウンドコミッション · コラボレーション",
     "ctaButton": "ムー・ブランコに連絡する →"
   }
 }
