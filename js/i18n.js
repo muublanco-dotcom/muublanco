@@ -2,8 +2,8 @@
    Muu Blanco — i18n engine (ES / EN / KO / JA)
    ============================================================ */
 (function () {
-  const SUPPORTED = ["es", "en", "ko", "ja", "zh", "hi"];
-  const DEFAULT_LANG = "es";
+  const SUPPORTED = ["en", "es", "ko", "ja", "zh", "hi"];
+  const DEFAULT_LANG = "en";
   const LABELS = { es: "Español", en: "English", ko: "한국어", ja: "日本語", zh: "中文", hi: "हिन्दी" };
 
   function getLang() {
