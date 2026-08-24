@@ -130,11 +130,12 @@
     "eyebrow": "04 — DR.MUU RECORDS",
     "lead": "Producciones musicales realizadas por Dr.Muurecords y dirigidas por Dr.Muusica.",
     "h2": {
-      "listen": "Escucha",
+      "listen": "Discografía Completa",
       "press": "En la prensa",
       "videoclips": "VideoClips",
-      "selector": "DR.Muusica Selector",
-      "noticias": "Noticias"
+      "selector": "DR.Muusica Selector — Vinilo y Sesiones en Vivo",
+      "noticias": "Último Lanzamiento",
+      "selectedreleases": "Discos Destacados"
     },
     "press": {
       "lead": "Menciones y coberturas de Muu Blanco como músico y productor musical, ordenadas cronológicamente."
@@ -176,7 +177,7 @@
       "mixtapes": "Mixtapes grabados en vivo"
     },
     "selector": {
-      "lead": "Sesiones en vivo",
+      "lead": "Sesiones en vivo de escucha en vinilo. Residencia semanal en Tripping Animals Brewery, Doral City, FL (2024–2026).",
       "v1": {
         "meta": "Live Vinyl Listening Session · Record Store Day 2026 · Lucky Records, Miami"
       },
@@ -209,6 +210,12 @@
         "listen": "Escuchar en YouTube Music ↗",
         "track1credit": "VideoClip: MuuBlancoVideoArt"
       }
+    },
+    "selectedreleases": {
+      "lead": "Una selección de discos y publicaciones sonoras de Muu Blanco / Dr.Muusica.",
+      "natuurban": "2024 · LP 12\" Vinilo 180gr, color verde · Arts Connection Foundation",
+      "jabalee": "2019 · LP",
+      "nwbm": "2019 · CCS 66"
     }
   },
   "prensa": {
@@ -455,8 +462,8 @@
       },
       "latencias": {
         "title": "Latencias",
-        "meta": "2026 · Performance sensorial multimedia · 40 min",
-        "desc": "Pieza en curso: una performance sensorial multimedia de 40 minutos que explora las latencias entre cuerpo, sonido y memoria. El proyecto combina composición sonora en vivo, proyección y gesto performático, continuando la línea de investigación de Muu Blanco sobre percepción y tecnología. Latencias se documenta de forma abierta en las secciones Conceptual y Proyectos del archivo, como parte del trabajo más reciente del artista, activo durante 2026."
+        "meta": "19 de febrero de 2026 · Performance sensorial multimedia · Ignite Broward Festival, MAD Arts Museum, Dania Beach, FL",
+        "desc": "Performance sensorial multimedia de 40 minutos estrenada el 19 de febrero de 2026 en el festival Ignite Broward, MAD Arts Museum, Dania Beach, Florida. La pieza explora las latencias entre cuerpo, sonido y memoria, combinando composición sonora en vivo, proyección y gesto performático, y continúa la línea de investigación de Muu Blanco sobre percepción y tecnología. Latencias se documenta en las secciones Conceptual y Proyectos del archivo, como parte del trabajo más reciente del artista."
       },
       "soundart": {
         "title": "Exploring the Roots and Evolution of Sound Art",
@@ -475,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "2019–presente · Fanzine y residencia DJ · Tripping Animals Brewery, Doral",
-        "desc": "Fanzine mensual impreso, de edición limitada, con curaduría editorial y producción de Muu Blanco / Dr.Muusica, publicado en Doral City, Miami. El proyecto se acompaña de una residencia semanal como DJ e investigador sonoro en Tripping Animals Brewery, donde Dr.Muusica presenta sesiones de vinilo bajo el nombre DR.Muusica Selector. Afro Latin Culture Flavor conecta la práctica editorial con la selección musical en vivo, explorando raíces afrolatinas, ritmo y cultura popular como archivo sonoro en tiempo real."
+        "meta": "Fanzine · Residencia DJ 2024–2026 · Tripping Animals Brewery, Doral",
+        "desc": "Fanzine mensual impreso, de edición limitada, con curaduría editorial y producción de Muu Blanco / Dr.Muusica, publicado en Doral City, Miami. Entre 2024 y 2026, el proyecto estuvo acompañado de una residencia semanal como DJ e investigador sonoro en Tripping Animals Brewery, donde Dr.Muusica presentaba sesiones de vinilo bajo el nombre DR.Muusica Selector. Afro Latin Culture Flavor conecta la práctica editorial con la selección musical en vivo, explorando raíces afrolatinas, ritmo y cultura popular como archivo sonoro en tiempo real."
       }
     }
   },

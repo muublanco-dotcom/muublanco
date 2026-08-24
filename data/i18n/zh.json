@@ -130,11 +130,12 @@
     "eyebrow": "04 — DR.MUU RECORDS",
     "lead": "由Dr.Muurecords制作、Dr.Muusica执导的音乐制作。",
     "h2": {
-      "listen": "收听",
+      "listen": "完整唱片目录",
       "press": "媒体报道",
       "videoclips": "视频短片",
-      "selector": "DR.Muusica 精选",
-      "noticias": "新闻"
+      "selector": "DR.Muusica 精选 — 黑胶与现场录音",
+      "noticias": "最新发行",
+      "selectedreleases": "精选唱片"
     },
     "press": {
       "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
@@ -176,7 +177,7 @@
       "mixtapes": "现场录制混音带"
     },
     "selector": {
-      "lead": "现场演出",
+      "lead": "现场黑胶聆听场次。于Tripping Animals Brewery(佛罗里达州多拉尔市)的每周驻场(2024–2026)。",
       "v1": {
         "meta": "现场黑胶试听会 · Record Store Day 2026 · Lucky Records，迈阿密"
       },
@@ -209,6 +210,12 @@
         "listen": "在YouTube Music上收听 ↗",
         "track1credit": "视频短片：MuuBlancoVideoArt"
       }
+    },
+    "selectedreleases": {
+      "lead": "精选自穆·布兰科 / Dr.Muusica的专辑与声音作品。",
+      "natuurban": "2024年 · 12英寸黑胶LP,180克绿胶 · Arts Connection Foundation",
+      "jabalee": "2019年 · LP",
+      "nwbm": "2019年 · CCS 66"
     }
   },
   "prensa": {
@@ -455,8 +462,8 @@
       },
       "latencias": {
         "title": "Latencias",
-        "meta": "2026 · 多媒体感官表演 · 40分钟",
-        "desc": "一件进行中的作品:一场时长40分钟的多媒体感官表演,探索身体、声音与记忆之间的潜伏状态。该项目结合现场声音创作、影像投影与表演性姿态,延续了穆·布兰科对感知与科技的研究。Latencias在网站档案的“观念”与“项目”版块中公开记录,是艺术家截至2026年最新的创作。"
+        "meta": "2026年2月19日 · 多媒体感官表演 · Ignite Broward Festival, MAD Arts Museum, 戴尼亚海滩,佛罗里达",
+        "desc": "一场时长40分钟的多媒体感官表演,于2026年2月19日在佛罗里达州戴尼亚海滩MAD Arts Museum举办的Ignite Broward Festival上首演。作品探索身体、声音与记忆之间的潜伏状态,结合现场声音创作、影像投影与表演性姿态,延续了穆·布兰科对感知与科技的研究。Latencias记录于网站档案的“观念”与“项目”版块,是艺术家最新创作之一。"
       },
       "soundart": {
         "title": "Exploring the Roots and Evolution of Sound Art",
@@ -475,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "2019年至今 · 同人志与DJ驻场 · Tripping Animals Brewery,多拉尔",
-        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周DJ驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
+        "meta": "同人志 · DJ驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
+        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周DJ驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
       }
     }
   },

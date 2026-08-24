@@ -130,11 +130,12 @@
     "eyebrow": "04 — DR.MUU RECORDS",
     "lead": "Dr.Muurecords가 제작하고 Dr.Muusica가 연출한 음악 프로덕션.",
     "h2": {
-      "listen": "듣기",
+      "listen": "전체 디스코그래피",
       "press": "언론 보도",
       "videoclips": "비디오클립",
-      "selector": "DR.Muusica 셀렉터",
-      "noticias": "소식"
+      "selector": "DR.Muusica 셀렉터 — 바이닐 & 라이브 세션",
+      "noticias": "최신 발매",
+      "selectedreleases": "주요 발매작"
     },
     "press": {
       "lead": "음악가이자 프로듀서로서의 무 블랑코에 대한 언급과 보도, 연대순 정리."
@@ -176,7 +177,7 @@
       "mixtapes": "라이브 녹음 믹스테이프"
     },
     "selector": {
-      "lead": "라이브 세션",
+      "lead": "라이브 바이닐 리스닝 세션. Tripping Animals Brewery, 도럴 시티, FL에서의 주간 레지던시 (2024–2026).",
       "v1": {
         "meta": "라이브 바이닐 리스닝 세션 · Record Store Day 2026 · Lucky Records, 마이애미"
       },
@@ -209,6 +210,12 @@
         "listen": "YouTube Music에서 듣기 ↗",
         "track1credit": "비디오클립: MuuBlancoVideoArt"
       }
+    },
+    "selectedreleases": {
+      "lead": "무 블랑코 / Dr.Muusica의 앨범과 사운드 발매작 중 엄선한 목록.",
+      "natuurban": "2024 · 12인치 바이닐 LP, 180g 그린 · Arts Connection Foundation",
+      "jabalee": "2019 · LP",
+      "nwbm": "2019 · CCS 66"
     }
   },
   "prensa": {
@@ -455,8 +462,8 @@
       },
       "latencias": {
         "title": "Latencias",
-        "meta": "2026 · 멀티미디어 감각 퍼포먼스 · 40분",
-        "desc": "현재 진행 중인 작업으로, 몸, 소리, 기억 사이의 잠재성을 탐구하는 40분짜리 멀티미디어 감각 퍼포먼스다. 라이브 사운드 구성, 프로젝션, 퍼포먼스적 제스처를 결합하며, 지각과 기술에 대한 무 블랑코의 연구를 이어간다. Latencias는 아카이브의 컨셉추얼 및 프로젝트 섹션에 공개적으로 기록되어 있으며, 2026년 현재 진행 중인 작가의 최신 작업이다."
+        "meta": "2026년 2월 19일 · 멀티미디어 감각 퍼포먼스 · Ignite Broward Festival, MAD Arts Museum, 데이니아 비치, 플로리다",
+        "desc": "2026년 2월 19일 플로리다 데이니아 비치의 MAD Arts Museum에서 열린 Ignite Broward Festival에서 초연된 40분짜리 멀티미디어 감각 퍼포먼스. 몸, 소리, 기억 사이의 잠재성을 탐구하며, 라이브 사운드 구성, 프로젝션, 퍼포먼스적 제스처를 결합해 지각과 기술에 대한 무 블랑코의 연구를 이어간다. Latencias는 아카이브의 컨셉추얼 및 프로젝트 섹션에 기록되어 있으며, 작가의 최신 작업 중 하나이다."
       },
       "soundart": {
         "title": "Exploring the Roots and Evolution of Sound Art",
@@ -475,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "2019–현재 · 팬진과 DJ 레지던시 · Tripping Animals Brewery, 도럴",
-        "desc": "무 블랑코 / Dr.Muusica가 편집·제작하는 월간 인쇄 팬진(한정판)으로, 마이애미 도럴 시티에서 발행된다. Tripping Animals Brewery에서의 주간 DJ 레지던시(사운드 리서처로서)와 함께 진행되며, 이곳에서 Dr.Muusica는 DR.Muusica Selector라는 이름으로 바이닐 세션을 선보인다. Afro Latin Culture Flavor는 편집 작업과 실시간 음악 선곡을 연결하며, 아프로-라틴 뿌리, 리듬, 대중문화를 실시간 사운드 아카이브로서 탐구한다."
+        "meta": "팬진 · DJ 레지던시 2024–2026 · Tripping Animals Brewery, 도럴",
+        "desc": "무 블랑코 / Dr.Muusica가 편집·제작하는 월간 인쇄 팬진(한정판)으로, 마이애미 도럴 시티에서 발행된다. 2024년부터 2026년까지, 이 프로젝트는 Tripping Animals Brewery에서 사운드 리서처로서의 주간 DJ 레지던시와 함께 진행되었으며, 이곳에서 Dr.Muusica는 DR.Muusica Selector라는 이름으로 바이닐 세션을 선보였다. Afro Latin Culture Flavor는 편집 작업과 실시간 음악 선곡을 연결하며, 아프로-라틴 뿌리, 리듬, 대중문화를 실시간 사운드 아카이브로서 탐구한다."
       }
     }
   },

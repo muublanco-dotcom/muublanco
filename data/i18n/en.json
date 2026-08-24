@@ -130,11 +130,12 @@
     "eyebrow": "04 — DR.MUU RECORDS",
     "lead": "Music productions by Dr.Muurecords, directed by Dr.Muusica.",
     "h2": {
-      "listen": "Listen",
+      "listen": "Full Discography",
       "press": "In the press",
       "videoclips": "Video Clips",
-      "selector": "DR.Muusica Selector",
-      "noticias": "News"
+      "selector": "DR.Muusica Selector — Vinyl & Live Sessions",
+      "noticias": "Latest Release",
+      "selectedreleases": "Selected Releases"
     },
     "press": {
       "lead": "Mentions and coverage of Muu Blanco as a musician and music producer, ordered chronologically."
@@ -176,7 +177,7 @@
       "mixtapes": "Live-recorded mixtapes"
     },
     "selector": {
-      "lead": "Live sessions",
+      "lead": "Live vinyl listening sessions. Weekly residency at Tripping Animals Brewery, Doral City, FL (2024–2026).",
       "v1": {
         "meta": "Live Vinyl Listening Session · Record Store Day 2026 · Lucky Records, Miami"
       },
@@ -209,6 +210,12 @@
         "listen": "Listen on YouTube Music ↗",
         "track1credit": "Video Clip: MuuBlancoVideoArt"
       }
+    },
+    "selectedreleases": {
+      "lead": "A selection of albums and sound releases by Muu Blanco / Dr.Muusica.",
+      "natuurban": "2024 · 12” Vinyl LP, 180g green · Arts Connection Foundation",
+      "jabalee": "2019 · LP",
+      "nwbm": "2019 · CCS 66"
     }
   },
   "prensa": {
@@ -455,8 +462,8 @@
       },
       "latencias": {
         "title": "Latencias",
-        "meta": "2026 · Multimedia sensory performance · 40 min",
-        "desc": "A work in progress: a 40-minute multimedia sensory performance exploring the latencies between body, sound, and memory. The project combines live sound composition, projection, and performative gesture, continuing Muu Blanco's research into perception and technology. Latencias is documented openly in the Conceptual and Projects sections of the archive, as part of the artist's most recent work, active through 2026."
+        "meta": "February 19, 2026 · Multimedia sensory performance · Ignite Broward Festival, MAD Arts Museum, Dania Beach, FL",
+        "desc": "A 40-minute multimedia sensory performance premiered on February 19, 2026, at the Ignite Broward Festival, MAD Arts Museum, Dania Beach, Florida. The piece explores the latencies between body, sound, and memory, combining live sound composition, projection, and performative gesture, and continues Muu Blanco's research into perception and technology. Latencias is documented in the Conceptual and Projects sections of the archive, as part of the artist's most recent work."
       },
       "soundart": {
         "title": "Exploring the Roots and Evolution of Sound Art",
@@ -475,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "2019–present · Fanzine and DJ residency · Tripping Animals Brewery, Doral",
-        "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. The project runs alongside a weekly DJ residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presents vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
+        "meta": "Fanzine · DJ residency 2024–2026 · Tripping Animals Brewery, Doral",
+        "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. From 2024 to 2026, the project ran alongside a weekly DJ residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presented vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
       }
     }
   },
