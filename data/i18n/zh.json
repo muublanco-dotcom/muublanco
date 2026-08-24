@@ -133,7 +133,7 @@
       "listen": "完整唱片目录",
       "press": "媒体报道",
       "videoclips": "视频短片",
-      "selector": "DR.Muusica 精选 — 黑胶与现场录音",
+      "selector": "Dr.Muusica 精选 — 黑胶与现场录音",
       "noticias": "最新发行",
       "selectedreleases": "精选唱片"
     },
@@ -483,7 +483,7 @@
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
         "meta": "同人志 · Selector驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
-        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周Selector驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
+        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周Selector驻场活动,在那里Dr.Muusica以“Dr.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
       }
     }
   },
@@ -508,7 +508,7 @@
         "desc": "精心策划的黑胶聆听会与Selector场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
       },
       "dj": {
-        "title": "DR.Muusica / Selector",
+        "title": "Dr.Muusica / Selector",
         "desc": "以Dr.Muusica之名呈现的Selector场次与原创制作,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae与ska；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba与world music。"
       }
     },
