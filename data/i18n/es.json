@@ -12,7 +12,9 @@
       "about": "About",
       "contacto": "Contacto",
       "proyectos": "Proyectos",
-      "exposiciones": "Catálogos Exposiciones"
+      "exposiciones": "Catálogos Exposiciones",
+      "selectedworks": "Selected Works",
+      "workwithmuu": "Work With Muu"
     },
     "footer": {
       "tagline": "Artista &amp; músico — Caracas / Miami."
@@ -22,8 +24,8 @@
     "hero": {
       "placeholder": "Imagen pendiente",
       "needs": "Artista Multidisciplinario",
-      "accent": "arte conceptual y práctica pública.",
-      "sub": "Explora los espacios de <em>Muu Blanco</em>, alias <em>Dr.Muusica</em>."
+      "accent": "artista sonoro, performer y selector de vinilos.",
+      "sub": "Caracas, 1966 · Radicado en Miami — cuatro décadas explorando el sonido, la imagen, el paisaje, la memoria, la tecnología y los archivos culturales latinoamericanos."
     },
     "tiles": {
       "conceptual": "Textos, notas de trabajo y bitácora de piezas — ordenados cronológicamente.",
@@ -35,6 +37,13 @@
       "contacto": "Para curadores, galerías, prensa, coleccionistas y consultas de música.",
       "proyectos": "Líneas de investigación de largo aliento — NatuUrban Symphony, 100 Years of Sound Art y más.",
       "exposiciones": "Catálogos de exposiciones individuales y colectivas, de 1994 a 2014."
+    },
+    "featured": {
+      "eyebrow": "Muu Blanco — Ahora",
+      "selectedworks": "Seis proyectos curados de cuarenta años de práctica sonora, performática y visual.",
+      "workwithmuu": "Performance sonoro, comisiones, artist talks y sesiones de escucha en vinilo.",
+      "archiveTitle": "Archivo 1986–2026",
+      "archiveDesc": "La trayectoria completa — fotografía, performance, video, instalación, sonido y publicaciones."
     }
   },
   "about": {

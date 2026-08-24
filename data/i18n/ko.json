@@ -12,7 +12,9 @@
       "about": "About",
       "contacto": "연락처",
       "proyectos": "프로젝트",
-      "exposiciones": "전시 카탈로그"
+      "exposiciones": "전시 카탈로그",
+      "selectedworks": "Selected Works",
+      "workwithmuu": "Work With Muu"
     },
     "footer": {
       "tagline": "아티스트 &amp; 뮤지션 — 카라카스 / 마이애미."
@@ -22,8 +24,8 @@
     "hero": {
       "placeholder": "이미지 준비 중",
       "needs": "다학제적 아티스트",
-      "accent": "개념미술과 공공 실천.",
-      "sub": "<em>Muu Blanco</em>의 세계를 탐색하세요, 별칭 <em>Dr.Muusica</em>."
+      "accent": "사운드 아티스트, 퍼포머, 바이닐 셀렉터.",
+      "sub": "카라카스, 1966년 출생 · 마이애미 거주 — 사운드, 이미지, 풍경, 기억, 기술, 라틴 아메리카 문화 아카이브를 탐구해온 40년."
     },
     "tiles": {
       "conceptual": "텍스트, 작업 노트, 작품 기록 — 연대순으로 정리.",
@@ -35,6 +37,13 @@
       "contacto": "큐레이터, 갤러리, 언론, 컬렉터 및 음악 관련 문의.",
       "proyectos": "장기 연구 프로젝트 — NatuUrban Symphony, 100 Years of Sound Art 등.",
       "exposiciones": "1994년부터 2014년까지의 개인전·단체전 카탈로그."
+    },
+    "featured": {
+      "eyebrow": "무 블랑코 — 지금",
+      "selectedworks": "사운드, 퍼포먼스, 비주얼 작업 40년에서 엄선한 6개의 프로젝트.",
+      "workwithmuu": "사운드 퍼포먼스, 커미션, 아티스트 토크, 바이닐 리스닝 세션.",
+      "archiveTitle": "아카이브 1986–2026",
+      "archiveDesc": "사진, 퍼포먼스, 비디오, 설치, 사운드, 출판물을 아우르는 전체 여정."
     }
   },
   "about": {

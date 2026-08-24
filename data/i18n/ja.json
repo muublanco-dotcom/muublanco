@@ -12,7 +12,9 @@
       "about": "About",
       "contacto": "連絡先",
       "proyectos": "プロジェクト",
-      "exposiciones": "展覧会カタログ"
+      "exposiciones": "展覧会カタログ",
+      "selectedworks": "Selected Works",
+      "workwithmuu": "Work With Muu"
     },
     "footer": {
       "tagline": "アーティスト＆ミュージシャン — カラカス / マイアミ。"
@@ -22,8 +24,8 @@
     "hero": {
       "placeholder": "画像準備中",
       "needs": "マルチディシプリナリー・アーティスト",
-      "accent": "コンセプチュアルアート、パブリック・プラクティス。",
-      "sub": "<em>Muu Blanco</em>の世界を探索してください。エイリアス<em>Dr.Muusica</em>。"
+      "accent": "サウンドアーティスト、パフォーマー、ヴァイナルセレクター。",
+      "sub": "カラカス生まれ(1966年)・マイアミ在住 — 音、イメージ、風景、記憶、テクノロジー、ラテンアメリカの文化的アーカイブを探求してきた40年。"
     },
     "tiles": {
       "conceptual": "テキスト、制作ノート、作品記録 — 年代順。",
@@ -35,6 +37,13 @@
       "contacto": "キュレーター、ギャラリー、プレス、コレクター、音楽関連のお問い合わせ。",
       "proyectos": "長期にわたる研究プロジェクト — NatuUrban Symphony、100 Years of Sound Artほか。",
       "exposiciones": "1994年から2014年までの個展・グループ展カタログ。"
+    },
+    "featured": {
+      "eyebrow": "ムー・ブランコ — 現在",
+      "selectedworks": "40年に及ぶサウンド、パフォーマンス、ビジュアル実践から厳選した6つのプロジェクト。",
+      "workwithmuu": "サウンドパフォーマンス、コミッション、アーティストトーク、ヴァイナル・リスニングセッション。",
+      "archiveTitle": "アーカイブ 1986–2026",
+      "archiveDesc": "写真、パフォーマンス、映像、インスタレーション、サウンド、出版物を網羅する軌跡の全貌。"
     }
   },
   "about": {

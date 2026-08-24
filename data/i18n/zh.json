@@ -12,7 +12,9 @@
       "about": "关于",
       "contacto": "联系",
       "proyectos": "项目",
-      "exposiciones": "展览目录"
+      "exposiciones": "展览目录",
+      "selectedworks": "Selected Works",
+      "workwithmuu": "Work With Muu"
     },
     "footer": {
       "tagline": "艺术家 &amp; 音乐家 — 加拉加斯 / 迈阿密。"
@@ -22,8 +24,8 @@
     "hero": {
       "placeholder": "图片待添加",
       "needs": "跨学科艺术家",
-      "accent": "观念艺术与公共实践。",
-      "sub": "探索 <em>Muu Blanco</em>（化名 <em>Dr.Muusica</em>）的创作空间。"
+      "accent": "声音艺术家、表演者、黑胶唱片选曲人。",
+      "sub": "1966年生于加拉加斯 · 现居迈阿密 — 四十年来探索声音、影像、风景、记忆、科技与拉丁美洲文化档案。"
     },
     "tiles": {
       "conceptual": "文本、创作笔记与作品记录——按时间顺序排列。",
@@ -35,6 +37,13 @@
       "contacto": "策展人、画廊、媒体、藏家及音乐相关咨询。",
       "proyectos": "长期研究方向——NatuUrban Symphony、100 Years of Sound Art 等。",
       "exposiciones": "1994年至2014年个展与联展的展览画册。"
+    },
+    "featured": {
+      "eyebrow": "Muu Blanco — 现在",
+      "selectedworks": "从四十年的声音、表演与视觉实践中精选的六个项目。",
+      "workwithmuu": "声音表演、委托创作、艺术家对谈与黑胶聆听会。",
+      "archiveTitle": "档案 1986–2026",
+      "archiveDesc": "完整创作历程——摄影、表演、影像、装置、声音与出版物。"
     }
   },
   "about": {
