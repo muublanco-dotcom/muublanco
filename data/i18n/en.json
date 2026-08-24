@@ -56,7 +56,8 @@
       "selfportrait": "Self-portrait through time",
       "contact": "Contact",
       "morelinks": "More links",
-      "projects": "Projects and spaces"
+      "projects": "Projects and spaces",
+      "shortbio": "Short Bio"
     },
     "summary": {
       "p1": "Muu Blanco (Caracas, Venezuela, 1966) is a multidisciplinary artist, video artist, and creator of multimedia installations based in Miami. Since the early 1990s, his practice has explored the relationship between image, sound, and the urban landscape through experimental video, sound art, performance, photography, and video mapping.",
@@ -99,6 +100,10 @@
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — artist profile at the Miami exhibition space. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — research project on the history of sound art."
+    },
+    "shortbio": {
+      "p1": "Muu Blanco (Caracas, 1966) is a multidisciplinary artist and musician under the alias Dr.Muusica, based in Miami. His practice spans video art, sound art, performance, and installation, exploring the relationship between image, sound, and urban landscape for over three decades.",
+      "readmore": "Read full biography ↓"
     }
   },
   "conceptual": {
@@ -259,7 +264,11 @@
       "installations": "Notable Sound and Performance Installations",
       "residencies": "Artist Residencies",
       "publications": "Publications / Press / Critical Mentions (selection)",
-      "media": "Reviewed in media including"
+      "media": "Reviewed in media including",
+      "selected": "Selected Exhibitions & Performances"
+    },
+    "selected": {
+      "readmore": "View full CV ↓"
     }
   },
   "contacto": {
@@ -271,7 +280,8 @@
     "music": {
       "label": "Music / Booking"
     },
-    "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works."
+    "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works.",
+    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
   },
   "proyectos": {
     "eyebrow": "02 — Research Projects",

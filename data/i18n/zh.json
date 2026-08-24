@@ -56,7 +56,8 @@
       "selfportrait": "时间中的自画像",
       "contact": "联系方式",
       "morelinks": "更多链接",
-      "projects": "项目与空间"
+      "projects": "项目与空间",
+      "shortbio": "简短简介"
     },
     "summary": {
       "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
@@ -99,6 +100,10 @@
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a>——迈阿密展览空间的艺术家档案。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a>——关于声音艺术历史的研究项目。"
+    },
+    "shortbio": {
+      "p1": "穆·布兰科(1966年生于加拉加斯)是一位跨学科艺术家兼音乐人,以Dr.Muusica之名活动,现居迈阿密。他的创作横跨影像艺术、声音艺术、表演与装置,三十多年来持续探索图像、声音与城市景观之间的关系。",
+      "readmore": "阅读完整简介 ↓"
     }
   },
   "conceptual": {
@@ -259,7 +264,11 @@
       "installations": "重要声音与表演装置",
       "residencies": "艺术驻留",
       "publications": "出版物 / 媒体报道 / 评论提及（精选）",
-      "media": "曾被以下媒体报道"
+      "media": "曾被以下媒体报道",
+      "selected": "精选展览与表演"
+    },
+    "selected": {
+      "readmore": "查看完整简历 ↓"
     }
   },
   "contacto": {
@@ -271,7 +280,8 @@
     "music": {
       "label": "音乐 / 预订"
     },
-    "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。"
+    "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。",
+    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
   },
   "proyectos": {
     "eyebrow": "02 — 研究项目",

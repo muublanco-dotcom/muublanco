@@ -56,7 +56,8 @@
       "selfportrait": "समय में आत्म-चित्र",
       "contact": "संपर्क",
       "morelinks": "और लिंक",
-      "projects": "परियोजनाएं और स्थान"
+      "projects": "परियोजनाएं और स्थान",
+      "shortbio": "संक्षिप्त परिचय"
     },
     "summary": {
       "p1": "Muu Blanco (कराकास, वेनेज़ुएला, 1966) एक बहु-विषयक कलाकार, वीडियो कलाकार और मियामी में स्थित मल्टीमीडिया इंस्टॉलेशन निर्माता हैं। 1990 के दशक की शुरुआत से, उनका अभ्यास प्रयोगात्मक वीडियो, ध्वनि कला, परफॉर्मेंस, फोटोग्राफी और वीडियो मैपिंग के माध्यम से छवि, ध्वनि और शहरी परिदृश्य के बीच संबंध की खोज करता रहा है।",
@@ -99,6 +100,10 @@
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — मियामी प्रदर्शनी स्थल में कलाकार प्रोफ़ाइल। <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — ध्वनि कला के इतिहास पर शोध परियोजना।"
+    },
+    "shortbio": {
+      "p1": "मू ब्लैंको (कराकस, 1966) एक बहु-विषयक कलाकार और Dr.Muusica उपनाम के तहत संगीतकार हैं, जो मियामी में रहते हैं। उनका अभ्यास वीडियो आर्ट, साउंड आर्ट, परफॉर्मेंस और इंस्टॉलेशन तक फैला है, जो तीन दशकों से अधिक समय से छवि, ध्वनि और शहरी भूदृश्य के बीच के संबंध की खोज करता है।",
+      "readmore": "पूरी जीवनी पढ़ें ↓"
     }
   },
   "conceptual": {
@@ -259,7 +264,11 @@
       "installations": "प्रमुख ध्वनि और परफॉर्मेटिव इंस्टॉलेशन",
       "residencies": "कलात्मक निवास",
       "publications": "प्रकाशन / प्रेस / आलोचनात्मक उल्लेख (चयनित)",
-      "media": "इन माध्यमों में उल्लेखित"
+      "media": "इन माध्यमों में उल्लेखित",
+      "selected": "चयनित प्रदर्शनियाँ और परफॉर्मेंस"
+    },
+    "selected": {
+      "readmore": "पूरा सीवी देखें ↓"
     }
   },
   "contacto": {
@@ -271,7 +280,8 @@
     "music": {
       "label": "संगीत / बुकिंग"
     },
-    "note": "अधिक सामग्री: पूर्ण यात्रा के लिए <a href=\"cv.html\">CV</a>, समीक्षाओं और कवरेज के लिए <a href=\"prensa.html\">प्रेस</a>, सोशल नेटवर्क के लिए <a href=\"practicas-publicas.html\">सार्वजनिक अभ्यास</a>, उपलब्ध कृतियों के लिए <a href=\"store.html\">गैलरी</a>।"
+    "note": "अधिक सामग्री: पूर्ण यात्रा के लिए <a href=\"cv.html\">CV</a>, समीक्षाओं और कवरेज के लिए <a href=\"prensa.html\">प्रेस</a>, सोशल नेटवर्क के लिए <a href=\"practicas-publicas.html\">सार्वजनिक अभ्यास</a>, उपलब्ध कृतियों के लिए <a href=\"store.html\">गैलरी</a>।",
+    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
   },
   "proyectos": {
     "eyebrow": "02 — शोध परियोजनाएं",

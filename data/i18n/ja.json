@@ -56,7 +56,8 @@
       "selfportrait": "時間の中の自画像",
       "contact": "連絡先",
       "morelinks": "その他のリンク",
-      "projects": "プロジェクトと拠点"
+      "projects": "プロジェクトと拠点",
+      "shortbio": "ショートバイオ"
     },
     "summary": {
       "p1": "ムー・ブランコ（Muu Blanco、1966年ベネズエラ・カラカス生まれ）は、マイアミを拠点に活動するマルチディシプリナリー・アーティスト、ビデオアーティスト、マルチメディア・インスタレーション作家である。1990年代初頭以来、実験的ビデオ、サウンドアート、パフォーマンス、写真、ビデオマッピングを通して、イメージと音、都市風景の関係を探求してきた。",
@@ -99,6 +100,10 @@
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — マイアミの展示スペースにおけるアーティストプロフィール。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — サウンドアートの歴史に関するリサーチプロジェクト。"
+    },
+    "shortbio": {
+      "p1": "ムー・ブランコ(カラカス、1966年生)は、Dr.Muusicaというエイリアスで活動するマルチディシプリナリー・アーティスト兼ミュージシャンで、マイアミを拠点にしている。彼の実践はビデオアート、サウンドアート、パフォーマンス、インスタレーションにまたがり、30年以上にわたってイメージ、音、都市風景の関係を探求してきた。",
+      "readmore": "詳しい経歴を読む ↓"
     }
   },
   "conceptual": {
@@ -259,7 +264,11 @@
       "installations": "主要なサウンド＆パフォーマンス・インスタレーション",
       "residencies": "アーティスト・レジデンシー",
       "publications": "出版物／プレス／批評（抜粋）",
-      "media": "掲載メディア"
+      "media": "掲載メディア",
+      "selected": "主要展覧会・パフォーマンス"
+    },
+    "selected": {
+      "readmore": "全CVを見る ↓"
     }
   },
   "contacto": {
@@ -271,7 +280,8 @@
     "music": {
       "label": "音楽 / ブッキング"
     },
-    "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。"
+    "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。",
+    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
   },
   "proyectos": {
     "eyebrow": "02 — リサーチ・プロジェクト",
