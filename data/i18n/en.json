@@ -469,5 +469,33 @@
         "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. The project runs alongside a weekly DJ residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presents vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
       }
     }
+  },
+  "workwithmuu": {
+    "eyebrow": "Work With Muu",
+    "lead": "Available for exhibitions, performances, site-specific sound commissions, talks, and vinyl listening sessions. Forty years of interdisciplinary practice between Caracas and Miami.",
+    "cards": {
+      "soundart": {
+        "title": "Sound Art & Performance",
+        "desc": "Live sound performance, expanded sound installations, and improvisation for galleries, festivals, and public spaces."
+      },
+      "commissions": {
+        "title": "Site-Specific Sound Commissions",
+        "desc": "Original sound pieces developed for a specific space, exhibition, or site — ambient composition, video mapping, spatial audio."
+      },
+      "talks": {
+        "title": "Artist Talks",
+        "desc": "Talks and presentations on sound art, video art, and forty years of interdisciplinary practice between Caracas and Miami."
+      },
+      "vinyl": {
+        "title": "Vinyl Listening Experiences",
+        "desc": "Curated vinyl listening sessions and DJ sets exploring Afro-Latin, experimental, and archival sound — from intimate gatherings to public events."
+      },
+      "dj": {
+        "title": "DR.Muusica / DJ",
+        "desc": "DJ sets and original productions under the Dr.Muusica alias, spanning house, dance, and genre-blending live sets."
+      }
+    },
+    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "ctaButton": "Write to Muu Blanco →"
   }
 }

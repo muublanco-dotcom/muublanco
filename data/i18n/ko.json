@@ -469,5 +469,33 @@
         "desc": "무 블랑코 / Dr.Muusica가 편집·제작하는 월간 인쇄 팬진(한정판)으로, 마이애미 도럴 시티에서 발행된다. Tripping Animals Brewery에서의 주간 DJ 레지던시(사운드 리서처로서)와 함께 진행되며, 이곳에서 Dr.Muusica는 DR.Muusica Selector라는 이름으로 바이닐 세션을 선보인다. Afro Latin Culture Flavor는 편집 작업과 실시간 음악 선곡을 연결하며, 아프로-라틴 뿌리, 리듬, 대중문화를 실시간 사운드 아카이브로서 탐구한다."
       }
     }
+  },
+  "workwithmuu": {
+    "eyebrow": "Work With Muu",
+    "lead": "전시, 퍼포먼스, 사이트 스페시픽 사운드 커미션, 아티스트 토크, 바이닐 리스닝 세션을 위해 협업 가능합니다. 카라카스와 마이애미를 오간 40년의 융합적 실천.",
+    "cards": {
+      "soundart": {
+        "title": "Sound Art & Performance",
+        "desc": "갤러리, 페스티벌, 공공장소를 위한 라이브 사운드 퍼포먼스, 확장된 사운드 설치, 즉흥 연주."
+      },
+      "commissions": {
+        "title": "Site-Specific Sound Commissions",
+        "desc": "특정 공간, 전시, 장소를 위해 개발된 오리지널 사운드 작업 — 앰비언트 구성, 비디오 매핑, 공간 오디오."
+      },
+      "talks": {
+        "title": "Artist Talks",
+        "desc": "사운드 아트, 비디오 아트, 그리고 카라카스와 마이애미를 오간 40년의 융합적 실천에 관한 강연과 발표."
+      },
+      "vinyl": {
+        "title": "Vinyl Listening Experiences",
+        "desc": "아프로-라틴, 실험적, 아카이브 사운드를 탐구하는 큐레이팅된 바이닐 리스닝 세션과 DJ 세트 — 소규모 모임부터 공개 행사까지."
+      },
+      "dj": {
+        "title": "DR.Muusica / DJ",
+        "desc": "Dr.Muusica라는 이름으로 선보이는 DJ 세트와 오리지널 프로덕션, 하우스와 댄스를 넘나드는 장르 혼합 라이브 세트."
+      }
+    },
+    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "ctaButton": "무 블랑코에게 연락하기 →"
   }
 }

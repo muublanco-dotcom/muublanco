@@ -469,5 +469,33 @@
         "desc": "Fanzine mensual impreso, de edición limitada, con curaduría editorial y producción de Muu Blanco / Dr.Muusica, publicado en Doral City, Miami. El proyecto se acompaña de una residencia semanal como DJ e investigador sonoro en Tripping Animals Brewery, donde Dr.Muusica presenta sesiones de vinilo bajo el nombre DR.Muusica Selector. Afro Latin Culture Flavor conecta la práctica editorial con la selección musical en vivo, explorando raíces afrolatinas, ritmo y cultura popular como archivo sonoro en tiempo real."
       }
     }
+  },
+  "workwithmuu": {
+    "eyebrow": "Work With Muu",
+    "lead": "Disponible para exposiciones, performances, comisiones sonoras site-specific, charlas y sesiones de escucha en vinilo. Cuarenta años de práctica interdisciplinaria entre Caracas y Miami.",
+    "cards": {
+      "soundart": {
+        "title": "Sound Art & Performance",
+        "desc": "Performance sonoro en vivo, instalaciones sonoras expandidas e improvisación para galerías, festivales y espacios públicos."
+      },
+      "commissions": {
+        "title": "Site-Specific Sound Commissions",
+        "desc": "Piezas sonoras originales desarrolladas para un espacio, una exposición o un sitio específico — composición ambiental, video mapping, audio espacial."
+      },
+      "talks": {
+        "title": "Artist Talks",
+        "desc": "Conversatorios y presentaciones sobre arte sonoro, video arte y cuarenta años de práctica interdisciplinaria entre Caracas y Miami."
+      },
+      "vinyl": {
+        "title": "Vinyl Listening Experiences",
+        "desc": "Sesiones curadas de escucha en vinilo y sets de DJ que exploran sonido afrolatino, experimental y de archivo — de encuentros íntimos a eventos públicos."
+      },
+      "dj": {
+        "title": "DR.Muusica / DJ",
+        "desc": "Sets de DJ y producciones originales bajo el alias Dr.Muusica, entre house, dance y mezcla de géneros en vivo."
+      }
+    },
+    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "ctaButton": "Escribir a Muu Blanco →"
   }
 }

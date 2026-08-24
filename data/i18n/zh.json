@@ -469,5 +469,33 @@
         "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周DJ驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
       }
     }
+  },
+  "workwithmuu": {
+    "eyebrow": "Work With Muu",
+    "lead": "可接洽展览、表演、场域特定声音委托创作、艺术家对谈以及黑胶聆听会。四十年往返于加拉加斯与迈阿密之间的跨学科实践。",
+    "cards": {
+      "soundart": {
+        "title": "Sound Art & Performance",
+        "desc": "为画廊、艺术节与公共空间提供现场声音表演、扩展声音装置与即兴演奏。"
+      },
+      "commissions": {
+        "title": "Site-Specific Sound Commissions",
+        "desc": "为特定空间、展览或场地创作的原创声音作品——氛围音乐创作、影像投影、空间音频。"
+      },
+      "talks": {
+        "title": "Artist Talks",
+        "desc": "关于声音艺术、影像艺术,以及四十年间往返加拉加斯与迈阿密的跨学科实践的对谈与讲座。"
+      },
+      "vinyl": {
+        "title": "Vinyl Listening Experiences",
+        "desc": "精心策划的黑胶聆听会与DJ场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
+      },
+      "dj": {
+        "title": "DR.Muusica / DJ",
+        "desc": "以Dr.Muusica之名呈现的DJ场次与原创制作,涵盖house、dance及跨流派现场演出。"
+      }
+    },
+    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "ctaButton": "联系Muu Blanco →"
   }
 }

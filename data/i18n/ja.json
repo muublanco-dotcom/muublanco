@@ -469,5 +469,33 @@
         "desc": "ムー・ブランコ/Dr.Muusicaが編集・制作する月刊印刷ファンジン(限定版)で、マイアミのドーラルシティで発行されている。Tripping Animals Breweryでの週次DJレジデンシー(サウンドリサーチャーとして)と並行して展開され、そこでDr.MuusicaはDR.Muusica Selectorという名でヴァイナルセッションを披露する。Afro Latin Culture Flavorは編集実践とライブでの選曲を結びつけ、アフロラテンのルーツ、リズム、大衆文化をリアルタイムのサウンドアーカイブとして探求する。"
       }
     }
+  },
+  "workwithmuu": {
+    "eyebrow": "Work With Muu",
+    "lead": "展覧会、パフォーマンス、サイトスペシフィックなサウンドコミッション、アーティストトーク、ヴァイナル・リスニングセッションに対応可能です。カラカスとマイアミを往還する40年間の学際的実践。",
+    "cards": {
+      "soundart": {
+        "title": "Sound Art & Performance",
+        "desc": "ギャラリー、フェスティバル、公共空間のためのライブサウンドパフォーマンス、拡張されたサウンドインスタレーション、即興演奏。"
+      },
+      "commissions": {
+        "title": "Site-Specific Sound Commissions",
+        "desc": "特定の空間、展覧会、サイトのために開発されたオリジナルのサウンド作品 — アンビエント作曲、ビデオマッピング、空間オーディオ。"
+      },
+      "talks": {
+        "title": "Artist Talks",
+        "desc": "サウンドアート、ビデオアート、そしてカラカスとマイアミを往還する40年間の学際的実践についてのトークとプレゼンテーション。"
+      },
+      "vinyl": {
+        "title": "Vinyl Listening Experiences",
+        "desc": "アフロラテン、実験的、アーカイブ的なサウンドを探るキュレーションされたヴァイナル・リスニングセッションとDJセット — 親密な集まりから公開イベントまで。"
+      },
+      "dj": {
+        "title": "DR.Muusica / DJ",
+        "desc": "Dr.Muusicaというエイリアスのもとでのハウス、ダンス、ジャンルを横断するライブセットとオリジナルプロダクション。"
+      }
+    },
+    "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
+    "ctaButton": "ムー・ブランコに連絡する →"
   }
 }
