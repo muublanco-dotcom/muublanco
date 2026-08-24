@@ -8,7 +8,8 @@
       "ko": "센트로 쿨투랄 차카오, 카라카스",
       "ja": "セントロ・クルトゥラル・チャカオ、カラカス",
       "zh": "查考文化中心，加拉加斯",
-      "hi": "सेंट्रो कल्चरल चाकाओ, कराकास"
+      "hi": "सेंट्रो कल्चरल चाकाओ, कराकास",
+      "de": "Centro Cultural Chacao, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -16,7 +17,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "",
@@ -24,7 +26,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP"
   },
@@ -37,7 +40,8 @@
       "ko": "갤러리 F+F, 카라카스",
       "ja": "ギャラリーF+F、カラカス",
       "zh": "F+F画廊，加拉加斯",
-      "hi": "गैलरी F+F, कराकास"
+      "hi": "गैलरी F+F, कराकास",
+      "de": "Galerie F+F, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -45,7 +49,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Catálogo de exposición",
@@ -53,7 +58,8 @@
       "ko": "전시 카탈로그",
       "ja": "展覧会カタログ",
       "zh": "展览画册",
-      "hi": "प्रदर्शनी कैटलॉग"
+      "hi": "प्रदर्शनी कैटलॉग",
+      "de": "Ausstellungskatalog"
     },
     "imageId": "1OEOdBUV13urUjmw--ybHtYcuZkWyesk4"
   },
@@ -66,7 +72,8 @@
       "ko": "HACS 갤러리, 마이애미",
       "ja": "HACSギャラリー、マイアミ",
       "zh": "HACS画廊，迈阿密",
-      "hi": "गैलरी HACS, मियामी"
+      "hi": "गैलरी HACS, मियामी",
+      "de": "HACS Gallery, Miami"
     },
     "kind": {
       "es": "Individual",
@@ -74,7 +81,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Hoja de sala",
@@ -82,7 +90,8 @@
       "ko": "전시 안내지",
       "ja": "展示解説シート",
       "zh": "展厅说明单",
-      "hi": "प्रदर्शनी सूचना पत्र"
+      "hi": "प्रदर्शनी सूचना पत्र",
+      "de": "Ausstellungsflyer"
     },
     "imageId": "1bnGu_k8Hzicjxk-X5l4sS8RiJOB6nxR2"
   },
@@ -95,7 +104,8 @@
       "ko": "갤러리 시카르트, 바르셀로나",
       "ja": "ギャラリー・シカルト、バルセロナ",
       "zh": "Sicart画廊，巴塞罗那",
-      "hi": "गैलरी सिकार्त, बार्सिलोना"
+      "hi": "गैलरी सिकार्त, बार्सिलोना",
+      "de": "Galería Sicart, Barcelona"
     },
     "kind": {
       "es": "Individual",
@@ -103,7 +113,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Tríptico de exposición",
@@ -111,7 +122,8 @@
       "ko": "전시 삼단 리플릿",
       "ja": "展覧会トリプティック",
       "zh": "展览三折页",
-      "hi": "प्रदर्शनी त्रिफलक"
+      "hi": "प्रदर्शनी त्रिफलक",
+      "de": "Ausstellungs-Faltblatt"
     },
     "imageId": "1w-d9XzZGzzg9WTlhi2noUPUlnZebuHYb"
   },
@@ -124,7 +136,8 @@
       "ko": "시우다드 볼리바르, 베네수엘라",
       "ja": "シウダー・ボリバル、ベネズエラ",
       "zh": "玻利瓦尔城，委内瑞拉",
-      "hi": "सिउदाद बोलिवार, वेनेज़ुएला"
+      "hi": "सिउदाद बोलिवार, वेनेज़ुएला",
+      "de": "Ciudad Bolívar, Venezuela"
     },
     "kind": {
       "es": "Colectiva",
@@ -132,7 +145,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -140,7 +154,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7"
   },
@@ -153,7 +168,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -161,7 +177,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -169,7 +186,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "15q_1kpH203Mfw8Iiu6G7-j945bm5EO-X"
   },
@@ -182,7 +200,8 @@
       "ko": "알레한드로 오테로 미술관, 카라카스",
       "ja": "アレハンドロ・オテロ美術館、カラカス",
       "zh": "亚历杭德罗·奥特罗博物馆，加拉加斯",
-      "hi": "अलेहांद्रो ओतेरो संग्रहालय, कराकास"
+      "hi": "अलेहांद्रो ओतेरो संग्रहालय, कराकास",
+      "de": "Alejandro-Otero-Museum, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -190,7 +209,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Exposición de videoarte",
@@ -198,7 +218,8 @@
       "ko": "비디오 아트 전시",
       "ja": "ビデオアート展",
       "zh": "录像艺术展",
-      "hi": "वीडियो कला प्रदर्शनी"
+      "hi": "वीडियो कला प्रदर्शनी",
+      "de": "Videokunstausstellung"
     },
     "imageId": "1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz"
   },
@@ -211,7 +232,8 @@
       "ko": "살라 멘도사, 카라카스",
       "ja": "サラ・メンドーサ、カラカス",
       "zh": "门多萨厅，加拉加斯",
-      "hi": "साला मेंदोसा, कराकास"
+      "hi": "साला मेंदोसा, कराकास",
+      "de": "Sala Mendoza, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -219,7 +241,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -227,7 +250,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz"
   },
@@ -240,7 +264,8 @@
       "ko": "카라카스 미술관",
       "ja": "カラカス美術館",
       "zh": "美术博物馆，加拉加斯",
-      "hi": "फाइन आर्ट्स संग्रहालय, कराकास"
+      "hi": "फाइन आर्ट्स संग्रहालय, कराकास",
+      "de": "Museum der Schönen Künste, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -248,7 +273,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -256,7 +282,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe"
   },
@@ -269,7 +296,8 @@
       "ko": "오어 갤러리, 밴쿠버, 캐나다",
       "ja": "オア・ギャラリー、バンクーバー、カナダ",
       "zh": "Or Gallery，温哥华，加拿大",
-      "hi": "ऑर गैलरी, वैंकूवर, कनाडा"
+      "hi": "ऑर गैलरी, वैंकूवर, कनाडा",
+      "de": "Or Gallery, Vancouver, Kanada"
     },
     "kind": {
       "es": "Colectiva",
@@ -277,7 +305,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Hoja de sala",
@@ -285,7 +314,8 @@
       "ko": "전시 안내지",
       "ja": "展示解説シート",
       "zh": "展厅说明单",
-      "hi": "प्रदर्शनी सूचना पत्र"
+      "hi": "प्रदर्शनी सूचना पत्र",
+      "de": "Ausstellungsflyer"
     },
     "imageId": "1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM"
   },
@@ -298,7 +328,8 @@
       "ko": "하코보 보르헤스 미술관, 카라카스",
       "ja": "ハコボ・ボルヘス美術館、カラカス",
       "zh": "雅各布·博尔赫斯博物馆，加拉加斯",
-      "hi": "हाकोबो बोर्खेस संग्रहालय, कराकास"
+      "hi": "हाकोबो बोर्खेस संग्रहालय, कराकास",
+      "de": "Jacobo-Borges-Museum, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -306,7 +337,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -314,7 +346,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV"
   },
@@ -327,7 +360,8 @@
       "ko": "베네수엘라",
       "ja": "ベネズエラ",
       "zh": "委内瑞拉",
-      "hi": "वेनेज़ुएला"
+      "hi": "वेनेज़ुएला",
+      "de": "Venezuela"
     },
     "kind": {
       "es": "Colectiva",
@@ -335,7 +369,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -343,7 +378,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr"
   },
@@ -356,7 +392,8 @@
       "ko": "마드리드, 스페인",
       "ja": "マドリード、スペイン",
       "zh": "马德里，西班牙",
-      "hi": "मैड्रिड, स्पेन"
+      "hi": "मैड्रिड, स्पेन",
+      "de": "Madrid, Spanien"
     },
     "kind": {
       "es": "Colectiva",
@@ -364,7 +401,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -372,7 +410,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH"
   },
@@ -385,7 +424,8 @@
       "ko": "카라카스 현대미술관",
       "ja": "カラカス現代美術館",
       "zh": "加拉加斯当代艺术博物馆",
-      "hi": "कराकास समकालीन कला संग्रहालय"
+      "hi": "कराकास समकालीन कला संग्रहालय",
+      "de": "Museum für zeitgenössische Kunst von Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -393,7 +433,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -401,7 +442,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1i8ruLA7brUUXEqhXT8rY3XPTd5Nm9I-N"
   },
@@ -414,7 +456,8 @@
       "ko": "하코보 보르헤스 미술관 & 괴테 인스티투트, 카라카스",
       "ja": "ハコボ・ボルヘス美術館＆ゲーテ・インスティトゥート、カラカス",
       "zh": "雅各布·博尔赫斯博物馆 & 歌德学院，加拉加斯",
-      "hi": "हाकोबो बोर्खेस संग्रहालय एवं गोएठे-इंस्टिट्यूट, कराकास"
+      "hi": "हाकोबो बोर्खेस संग्रहालय एवं गोएठे-इंस्टिट्यूट, कराकास",
+      "de": "Jacobo-Borges-Museum & Goethe-Institut, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -422,7 +465,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -430,7 +474,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "16281z47hmWGZ5Re5VC__hrsXZ_RkKA27"
   },
@@ -443,7 +488,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -451,7 +497,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Invitado especial",
@@ -459,7 +506,8 @@
       "ko": "특별 초청",
       "ja": "特別ゲスト",
       "zh": "特邀嘉宾",
-      "hi": "विशेष अतिथि"
+      "hi": "विशेष अतिथि",
+      "de": "Sondergast"
     },
     "imageId": "1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX"
   },
@@ -472,7 +520,8 @@
       "ko": "국립미술관, 산티아고, 칠레",
       "ja": "国立美術館、サンティアゴ、チリ",
       "zh": "国立美术馆，智利圣地亚哥",
-      "hi": "राष्ट्रीय ललित कला संग्रहालय, सैंटियागो, चिली"
+      "hi": "राष्ट्रीय ललित कला संग्रहालय, सैंटियागो, चिली",
+      "de": "Nationalmuseum der Schönen Künste, Santiago de Chile"
     },
     "kind": {
       "es": "Colectiva",
@@ -480,7 +529,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -488,7 +538,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt"
   },
@@ -501,7 +552,8 @@
       "ko": "베네수엘라 / 미국",
       "ja": "ベネズエラ／米国",
       "zh": "委内瑞拉 / 美国",
-      "hi": "वेनेज़ुएला / संयुक्त राज्य अमेरिका"
+      "hi": "वेनेज़ुएला / संयुक्त राज्य अमेरिका",
+      "de": "Venezuela / Vereinigte Staaten"
     },
     "kind": {
       "es": "Colectiva",
@@ -509,7 +561,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -517,7 +570,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu"
   },
@@ -530,7 +584,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -538,7 +593,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Libro, 4 páginas",
@@ -546,7 +602,8 @@
       "ko": "도서, 4페이지",
       "ja": "書籍、4ページ",
       "zh": "图书，4页",
-      "hi": "पुस्तक, 4 पृष्ठ"
+      "hi": "पुस्तक, 4 पृष्ठ",
+      "de": "Buch, 4 Seiten"
     },
     "imageId": "1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP"
   },
@@ -559,7 +616,8 @@
       "ko": "UCLA, 미국",
       "ja": "UCLA、米国",
       "zh": "加州大学洛杉矶分校，美国",
-      "hi": "UCLA, संयुक्त राज्य अमेरिका"
+      "hi": "UCLA, संयुक्त राज्य अमेरिका",
+      "de": "UCLA, Vereinigte Staaten"
     },
     "kind": {
       "es": "Colectiva",
@@ -567,7 +625,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -575,7 +634,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n"
   },
@@ -588,7 +648,8 @@
       "ko": "HACS 갤러리, 카라카스",
       "ja": "HACSギャラリー、カラカス",
       "zh": "HACS画廊，加拉加斯",
-      "hi": "गैलरी HACS, कराकास"
+      "hi": "गैलरी HACS, कराकास",
+      "de": "HACS Gallery, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -596,7 +657,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -604,7 +666,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1mgblT9KqPYIPQerQwv8Miu8oYPuAW2UF"
   },
@@ -617,7 +680,8 @@
       "ko": "포르투알레그리, 브라질",
       "ja": "ポルト・アレグレ、ブラジル",
       "zh": "阿雷格里港，巴西",
-      "hi": "पोर्टो अलेग्रे, ब्राज़ील"
+      "hi": "पोर्टो अलेग्रे, ब्राज़ील",
+      "de": "Porto Alegre, Brasilien"
     },
     "kind": {
       "es": "Colectiva",
@@ -625,7 +689,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -633,7 +698,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l"
   },
@@ -646,7 +712,8 @@
       "ko": "사라고사 미술관, 스페인",
       "ja": "サラゴサ美術館、スペイン",
       "zh": "萨拉戈萨艺术博物馆，西班牙",
-      "hi": "सारागोसा कला संग्रहालय, स्पेन"
+      "hi": "सारागोसा कला संग्रहालय, स्पेन",
+      "de": "Kunstmuseum Zaragoza, Spanien"
     },
     "kind": {
       "es": "Colectiva",
@@ -654,7 +721,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Exposición Mixmedia · Hoja de sala",
@@ -662,7 +730,8 @@
       "ko": "믹스미디어 전시 · 안내지",
       "ja": "ミクストメディア展・解説シート",
       "zh": "混合媒介展 · 展厅说明单",
-      "hi": "मिक्समीडिया प्रदर्शनी · सूचना पत्र"
+      "hi": "मिक्समीडिया प्रदर्शनी · सूचना पत्र",
+      "de": "Mixed-Media-Ausstellung · Flyer"
     },
     "imageId": "1PItXx059gOYPCWRh9zhHVbeRvbtOXuge"
   },
@@ -675,7 +744,8 @@
       "ko": "살라 멘도사, 카라카스",
       "ja": "サラ・メンドーサ、カラカス",
       "zh": "门多萨厅，加拉加斯",
-      "hi": "साला मेंदोसा, कराकास"
+      "hi": "साला मेंदोसा, कराकास",
+      "de": "Sala Mendoza, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -683,7 +753,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Catálogo sonoro en CD",
@@ -691,7 +762,8 @@
       "ko": "CD 사운드 카탈로그",
       "ja": "サウンドカタログ（CD）",
       "zh": "CD声音画册",
-      "hi": "CD साउंड कैटलॉग"
+      "hi": "CD साउंड कैटलॉग",
+      "de": "Klangkatalog auf CD"
     },
     "imageId": "1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd"
   },
@@ -704,7 +776,8 @@
       "ko": "워싱턴 D.C., 미국",
       "ja": "ワシントンD.C.、米国",
       "zh": "华盛顿特区，美国",
-      "hi": "वाशिंगटन डी.सी., संयुक्त राज्य अमेरिका"
+      "hi": "वाशिंगटन डी.सी., संयुक्त राज्य अमेरिका",
+      "de": "Washington D.C., Vereinigte Staaten"
     },
     "kind": {
       "es": "Colectiva",
@@ -712,7 +785,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -720,7 +794,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1jyqbhTnt-o3inE2qT1J0FdMN5Ysk17TF"
   },
@@ -733,7 +808,8 @@
       "ko": "브라질리아, 브라질",
       "ja": "ブラジリア、ブラジル",
       "zh": "巴西利亚，巴西",
-      "hi": "ब्रासीलिया, ब्राज़ील"
+      "hi": "ब्रासीलिया, ब्राज़ील",
+      "de": "Brasília, Brasilien"
     },
     "kind": {
       "es": "Colectiva",
@@ -741,7 +817,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Exposición internacional sobre fútbol",
@@ -749,7 +826,8 @@
       "ko": "축구를 주제로 한 국제 전시",
       "ja": "サッカーをテーマにした国際展",
       "zh": "关于足球的国际展览",
-      "hi": "फुटबॉल पर अंतरराष्ट्रीय प्रदर्शनी"
+      "hi": "फुटबॉल पर अंतरराष्ट्रीय प्रदर्शनी",
+      "de": "Internationale Ausstellung zum Thema Fußball"
     },
     "imageId": "1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh"
   },
@@ -762,7 +840,8 @@
       "ko": "보고타, 콜롬비아",
       "ja": "ボゴタ、コロンビア",
       "zh": "波哥大，哥伦比亚",
-      "hi": "बोगोटा, कोलंबिया"
+      "hi": "बोगोटा, कोलंबिया",
+      "de": "Bogotá, Kolumbien"
     },
     "kind": {
       "es": "Colectiva",
@@ -770,7 +849,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -778,7 +858,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq"
   },
@@ -791,7 +872,8 @@
       "ko": "베네수엘라",
       "ja": "ベネズエラ",
       "zh": "委内瑞拉",
-      "hi": "वेनेज़ुएला"
+      "hi": "वेनेज़ुएला",
+      "de": "Venezuela"
     },
     "kind": {
       "es": "Colectiva",
@@ -799,7 +881,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -807,7 +890,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH"
   }

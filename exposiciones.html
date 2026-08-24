@@ -61,8 +61,8 @@
   const driveThumb = (id, w = 900) => `https://lh3.googleusercontent.com/d/${id}=w${w}`;
   const driveView = (id) => `https://drive.google.com/file/d/${id}/view`;
   const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
-  const emptyMsg = { es: "Aún no hay exposiciones publicadas.", en: "No exhibitions published yet.", ko: "아직 게시된 전시가 없습니다.", ja: "まだ公開された展覧会はありません。", zh: "暂无已发布的展览。", hi: "अभी तक कोई प्रदर्शनी प्रकाशित नहीं हुई है।" };
-  const errMsg = { es: "No se pudieron cargar las exposiciones.", en: "Could not load the exhibitions.", ko: "전시를 불러올 수 없습니다.", ja: "展覧会を読み込めませんでした。", zh: "无法加载展览。", hi: "प्रदर्शनियां लोड नहीं की जा सकीं।" };
+  const emptyMsg = { es: "Aún no hay exposiciones publicadas.", en: "No exhibitions published yet.", de: "Es sind noch keine Ausstellungen veröffentlicht.", ko: "아직 게시된 전시가 없습니다.", ja: "まだ公開された展覧会はありません。", zh: "暂无已发布的展览。", hi: "अभी तक कोई प्रदर्शनी प्रकाशित नहीं हुई है।" };
+  const errMsg = { es: "No se pudieron cargar las exposiciones.", en: "Could not load the exhibitions.", de: "Die Ausstellungen konnten nicht geladen werden.", ko: "전시를 불러올 수 없습니다.", ja: "展覧会を読み込めませんでした。", zh: "无法加载展览。", hi: "प्रदर्शनियां लोड नहीं की जा सकीं।" };
 
   let ENTRIES = null;
 

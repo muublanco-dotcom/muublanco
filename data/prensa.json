@@ -8,7 +8,8 @@
       "ko": "멕시코시티 / 뉴욕",
       "ja": "メキシコシティ / ニューヨーク",
       "zh": "墨西哥城 / 纽约",
-      "hi": "मेक्सिको सिटी / न्यूयॉर्क"
+      "hi": "मेक्सिको सिटी / न्यूयॉर्क",
+      "de": "Mexiko-Stadt / New York"
     },
     "kind": {
       "es": "Colectiva",
@@ -16,7 +17,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -24,7 +26,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL"
   },
@@ -37,7 +40,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -45,7 +49,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Mixmedia",
@@ -53,7 +58,8 @@
       "ko": "믹스미디어",
       "ja": "ミックスメディア",
       "zh": "混合媒介",
-      "hi": "मिक्समीडिया"
+      "hi": "मिक्समीडिया",
+      "de": "Mixmedia"
     },
     "imageId": "1gq3GXFMmwYFi8gXT0bqN2fxIgf1dwtPq"
   },
@@ -66,7 +72,8 @@
       "ko": "알레한드로 오테로 미술관, 카라카스",
       "ja": "アレハンドロ・オテロ美術館、カラカス",
       "zh": "亚历杭德罗·奥特罗博物馆，加拉加斯",
-      "hi": "अलेहांद्रो ओतेरो संग्रहालय, कराकास"
+      "hi": "अलेहांद्रो ओतेरो संग्रहालय, कराकास",
+      "de": "Alejandro-Otero-Museum, Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -74,7 +81,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Reseña de la exposición \"Longitud de Onda\"",
@@ -82,7 +90,8 @@
       "ko": "전시 《Longitud de Onda》 리뷰",
       "ja": "展覧会「Longitud de Onda」のレビュー",
       "zh": "展览《Longitud de Onda》评论",
-      "hi": "प्रदर्शनी \"Longitud de Onda\" की समीक्षा"
+      "hi": "प्रदर्शनी \"Longitud de Onda\" की समीक्षा",
+      "de": "Rezension der Ausstellung „Longitud de Onda“"
     },
     "imageId": "1yYMHIgLd0g57D7vjlsInWieKFBi4iCdm"
   },
@@ -95,7 +104,8 @@
       "ko": "미국",
       "ja": "アメリカ合衆国",
       "zh": "美国",
-      "hi": "संयुक्त राज्य अमेरिका"
+      "hi": "संयुक्त राज्य अमेरिका",
+      "de": "Vereinigte Staaten"
     },
     "kind": {
       "es": "Colectiva",
@@ -103,7 +113,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Mixmedia",
@@ -111,7 +122,8 @@
       "ko": "믹스미디어",
       "ja": "ミックスメディア",
       "zh": "混合媒介",
-      "hi": "मिक्समीडिया"
+      "hi": "मिक्समीडिया",
+      "de": "Mixmedia"
     },
     "imageId": "1WUd-KzlI57ignNWephlgi5rOzsNm5JrT"
   },
@@ -124,7 +136,8 @@
       "ko": "폰다시온 폴라르, 카라카스",
       "ja": "フンダシオン・ポラール、カラカス",
       "zh": "Polar基金会，加拉加斯",
-      "hi": "फंडासिओन पोलार, कराकास"
+      "hi": "फंडासिओन पोलार, कराकास",
+      "de": "Fundación Polar, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -132,7 +145,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "MixMedia",
@@ -140,7 +154,8 @@
       "ko": "믹스미디어",
       "ja": "ミックスメディア",
       "zh": "混合媒介",
-      "hi": "मिक्समीडिया"
+      "hi": "मिक्समीडिया",
+      "de": "MixMedia"
     },
     "imageId": "1i4JdBi0wJWfxrO747hQeUGtkYHqIGmh2"
   },
@@ -153,7 +168,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -161,7 +177,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Fotografía",
@@ -169,7 +186,8 @@
       "ko": "사진",
       "ja": "写真",
       "zh": "摄影",
-      "hi": "फोटोग्राफी"
+      "hi": "फोटोग्राफी",
+      "de": "Fotografie"
     },
     "imageId": "1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG"
   },
@@ -182,7 +200,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -190,7 +209,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Fotografía",
@@ -198,7 +218,8 @@
       "ko": "사진",
       "ja": "写真",
       "zh": "摄影",
-      "hi": "फोटोग्राफी"
+      "hi": "फोटोग्राफी",
+      "de": "Fotografie"
     },
     "imageId": "1MG_7aaCt9ZaFyJ96nL9vjOQWdpO7YEei"
   },
@@ -211,7 +232,8 @@
       "ko": "빈",
       "ja": "ウィーン",
       "zh": "维也纳",
-      "hi": "वियना"
+      "hi": "वियना",
+      "de": "Wien"
     },
     "kind": {
       "es": "Colectiva",
@@ -219,7 +241,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -227,7 +250,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1lnn564N86_Pt6t9RH8JVxoghsxVPqBED"
   },
@@ -240,7 +264,8 @@
       "ko": "PINTA 아트페어 — Latin American Contemporary Art, 맨해튼, 뉴욕",
       "ja": "PINTAアートフェア — Latin American Contemporary Art、マンハッタン、ニューヨーク",
       "zh": "PINTA艺术博览会——拉丁美洲当代艺术，曼哈顿，纽约",
-      "hi": "PINTA फेयर — लैटिन अमेरिकी समकालीन कला, मैनहट्टन, न्यूयॉर्क"
+      "hi": "PINTA फेयर — लैटिन अमेरिकी समकालीन कला, मैनहट्टन, न्यूयॉर्क",
+      "de": "PINTA Art Fair — Latin American Contemporary Art, Manhattan, New York"
     },
     "kind": {
       "es": "Individual",
@@ -248,7 +273,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Reseña de la exposición individual \"AAA AP\"",
@@ -256,7 +282,8 @@
       "ko": "개인전 《AAA AP》 리뷰",
       "ja": "個展「AAA AP」のレビュー",
       "zh": "个展《AAA AP》评论",
-      "hi": "एकल प्रदर्शनी \"AAA AP\" की समीक्षा"
+      "hi": "एकल प्रदर्शनी \"AAA AP\" की समीक्षा",
+      "de": "Rezension der Einzelausstellung „AAA AP“"
     },
     "imageId": "1BDorI8vgFhAS3FKNy2fbe5ozU9zLVE_K"
   },
@@ -269,7 +296,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -277,7 +305,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Fotografía",
@@ -285,7 +314,8 @@
       "ko": "사진",
       "ja": "写真",
       "zh": "摄影",
-      "hi": "फोटोग्राफी"
+      "hi": "फोटोग्राफी",
+      "de": "Fotografie"
     },
     "imageId": "1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-"
   },
@@ -298,7 +328,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -306,7 +337,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Mixmedia",
@@ -314,7 +346,8 @@
       "ko": "믹스미디어",
       "ja": "ミックスメディア",
       "zh": "混合媒介",
-      "hi": "मिक्समीडिया"
+      "hi": "मिक्समीडिया",
+      "de": "Mixmedia"
     },
     "imageId": "1sMx4eM0Xb1oFoHaAFALguh94dqNFix_T"
   },
@@ -327,7 +360,8 @@
       "ko": "칠레 / 미국",
       "ja": "チリ / アメリカ合衆国",
       "zh": "智利 / 美国",
-      "hi": "चिली / संयुक्त राज्य अमेरिका"
+      "hi": "चिली / संयुक्त राज्य अमेरिका",
+      "de": "Chile / Vereinigte Staaten"
     },
     "kind": {
       "es": "Colectiva",
@@ -335,7 +369,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "Fotografía",
@@ -343,7 +378,8 @@
       "ko": "사진",
       "ja": "写真",
       "zh": "摄影",
-      "hi": "फोटोग्राफी"
+      "hi": "फोटोग्राफी",
+      "de": "Fotografie"
     },
     "imageId": "1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ"
   },
@@ -356,7 +392,8 @@
       "ko": "F+F 갤러리, 카라카스",
       "ja": "F+Fギャラリー、カラカス",
       "zh": "F+F画廊，加拉加斯",
-      "hi": "गैलरी F+F, कराकास"
+      "hi": "गैलरी F+F, कराकास",
+      "de": "Galerie F+F, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -364,7 +401,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Reseña de exposición individual",
@@ -372,7 +410,8 @@
       "ko": "개인전 리뷰",
       "ja": "個展のレビュー",
       "zh": "个展评论",
-      "hi": "एकल प्रदर्शनी की समीक्षा"
+      "hi": "एकल प्रदर्शनी की समीक्षा",
+      "de": "Rezension der Einzelausstellung"
     },
     "imageId": "1LJ7gI8tqhbk1V48UIWrM8QAte9nx-p4V"
   },
@@ -385,7 +424,8 @@
       "ko": "파리아스+파브레가스 갤러리, 카라카스",
       "ja": "ファリアス+ファブレガス・ギャラリー、カラカス",
       "zh": "Farías + Fábregas画廊，加拉加斯",
-      "hi": "गैलरी फारियास + फाब्रेगास, कराकास"
+      "hi": "गैलरी फारियास + फाब्रेगास, कराकास",
+      "de": "Galerie Farías + Fábregas, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -393,7 +433,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Entrevista, exposición individual \"AAA AP\"",
@@ -401,7 +442,8 @@
       "ko": "인터뷰, 개인전 《AAA AP》",
       "ja": "インタビュー、個展「AAA AP」",
       "zh": "专访，个展《AAA AP》",
-      "hi": "साक्षात्कार, एकल प्रदर्शनी \"AAA AP\""
+      "hi": "साक्षात्कार, एकल प्रदर्शनी \"AAA AP\"",
+      "de": "Interview, Einzelausstellung „AAA AP“"
     },
     "imageId": "18_MgAmVT4_CQv_77e59iHjlTl-cFE4LK"
   },
@@ -414,7 +456,8 @@
       "ko": "페르난도 수비야가 갤러리, 카라카스",
       "ja": "フェルナンド・スビジャガ・ギャラリー、カラカス",
       "zh": "Fernando Zubillaga画廊，加拉加斯",
-      "hi": "गैलरी फर्नांडो सुबियागा, कराकास"
+      "hi": "गैलरी फर्नांडो सुबियागा, कराकास",
+      "de": "Galerie Fernando Zubillaga, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -422,7 +465,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Entrevista, exposición individual \"Fósiles Analíticos\"",
@@ -430,7 +474,8 @@
       "ko": "인터뷰, 개인전 《Fósiles Analíticos》",
       "ja": "インタビュー、個展「Fósiles Analíticos」",
       "zh": "专访，个展《Fósiles Analíticos》",
-      "hi": "साक्षात्कार, एकल प्रदर्शनी \"Fósiles Analíticos\""
+      "hi": "साक्षात्कार, एकल प्रदर्शनी \"Fósiles Analíticos\"",
+      "de": "Interview, Einzelausstellung „Fósiles Analíticos“"
     },
     "imageId": "1bjZD3lmPZD5m2DRwx8Obf-rDhaPko07d"
   },
@@ -443,7 +488,8 @@
       "ko": "엘 아넥소 갤러리, 카라카스",
       "ja": "エル・アネクソ・ギャラリー、カラカス",
       "zh": "El Anexo画廊，加拉加斯",
-      "hi": "गैलरी एल अनेक्सो, कराकास"
+      "hi": "गैलरी एल अनेक्सो, कराकास",
+      "de": "Galerie El Anexo, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -451,7 +497,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Exposición editorial",
@@ -459,7 +506,8 @@
       "ko": "에디토리얼 전시",
       "ja": "エディトリアル展",
       "zh": "编辑类展览",
-      "hi": "संपादकीय प्रदर्शनी"
+      "hi": "संपादकीय प्रदर्शनी",
+      "de": "Redaktionelle Ausstellung"
     },
     "imageId": "1EjO3Y-cMQ7uc35DkFaYssEhjwk7cX1Hl"
   },
@@ -472,7 +520,8 @@
       "ko": "F+F 갤러리, 카라카스",
       "ja": "F+Fギャラリー、カラカス",
       "zh": "F+F画廊，加拉加斯",
-      "hi": "गैलरी F+F, कराकास"
+      "hi": "गैलरी F+F, कराकास",
+      "de": "Galerie F+F, Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -480,7 +529,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Reseña de la exposición \"Geometrías Alteradas\"",
@@ -488,7 +538,8 @@
       "ko": "전시 《Geometrías Alteradas》 리뷰",
       "ja": "展覧会「Geometrías Alteradas」のレビュー",
       "zh": "展览《Geometrías Alteradas》评论",
-      "hi": "प्रदर्शनी \"Geometrías Alteradas\" की समीक्षा"
+      "hi": "प्रदर्शनी \"Geometrías Alteradas\" की समीक्षा",
+      "de": "Rezension der Ausstellung „Geometrías Alteradas“"
     },
     "imageId": "10GJaeWQCudVv7PAUvdvJKbZnRz0l1Bty"
   },
@@ -501,7 +552,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -509,7 +561,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "",
@@ -517,7 +570,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1NPvGIlif2ImQy1NpbL0JMOr6PVn_OoL6"
   },
@@ -530,7 +584,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Colectiva",
@@ -538,7 +593,8 @@
       "ko": "단체전",
       "ja": "グループ展",
       "zh": "联展",
-      "hi": "सामूहिक"
+      "hi": "सामूहिक",
+      "de": "Gruppenausstellung"
     },
     "note": {
       "es": "",
@@ -546,7 +602,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1-X3_VDalmkPay8-IDZXPZV8DOXKkWDNp"
   },
@@ -559,7 +616,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -567,7 +625,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Fotografía",
@@ -575,7 +634,8 @@
       "ko": "사진",
       "ja": "写真",
       "zh": "摄影",
-      "hi": "फोटोग्राफी"
+      "hi": "फोटोग्राफी",
+      "de": "Fotografie"
     },
     "imageId": "1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu"
   },
@@ -588,7 +648,8 @@
       "ko": "카라카스",
       "ja": "カラカス",
       "zh": "加拉加斯",
-      "hi": "कराकास"
+      "hi": "कराकास",
+      "de": "Caracas"
     },
     "kind": {
       "es": "Individual",
@@ -596,7 +657,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "",
@@ -604,7 +666,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "1hxV3UwKMTM8G5_AOboIuS5Nih5bTBO-F"
   },
@@ -617,7 +680,8 @@
       "ko": "보고타 / 마이애미",
       "ja": "ボゴタ / マイアミ",
       "zh": "波哥大 / 迈阿密",
-      "hi": "बोगोटा / मियामी"
+      "hi": "बोगोटा / मियामी",
+      "de": "Bogotá / Miami"
     },
     "kind": {
       "es": "Individual",
@@ -625,7 +689,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "",
@@ -633,7 +698,8 @@
       "ko": "",
       "ja": "",
       "zh": "",
-      "hi": ""
+      "hi": "",
+      "de": ""
     },
     "imageId": "18mcE5xANS8u9LkyThMa50--lDRafojWg"
   },
@@ -646,7 +712,8 @@
       "ko": "MAAS, 뉴욕",
       "ja": "MAAS、ニューヨーク",
       "zh": "MAAS，纽约",
-      "hi": "MAAS, न्यूयॉर्क"
+      "hi": "MAAS, न्यूयॉर्क",
+      "de": "MAAS, New York"
     },
     "kind": {
       "es": "Individual",
@@ -654,7 +721,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "Reseña de la exposición individual \"BlackPoint\" (9 de agosto)",
@@ -662,7 +730,8 @@
       "ko": "개인전 《BlackPoint》 리뷰 (8월 9일)",
       "ja": "個展「BlackPoint」のレビュー（8月9日）",
       "zh": "个展《BlackPoint》评论（8月9日）",
-      "hi": "एकल प्रदर्शनी \"BlackPoint\" की समीक्षा (9 अगस्त)"
+      "hi": "एकल प्रदर्शनी \"BlackPoint\" की समीक्षा (9 अगस्त)",
+      "de": "Rezension der Einzelausstellung „BlackPoint“ (9. August)"
     },
     "imageId": "1Xcm8LVnDBHEcDi7XHOWT8GMr119lssnO"
   },
@@ -675,7 +744,8 @@
       "ko": "2019년 12월 12일",
       "ja": "2019年12月12日",
       "zh": "2019年12月12日",
-      "hi": "12 दिसंबर 2019"
+      "hi": "12 दिसंबर 2019",
+      "de": "12. Dezember 2019"
     },
     "note": {
       "es": "\"Muu Blanco — Lumínico Sonoro 2019\" (reseña)",
@@ -683,7 +753,8 @@
       "ko": "\"Muu Blanco — Lumínico Sonoro 2019\" (리뷰)",
       "ja": "\"Muu Blanco — Lumínico Sonoro 2019\"（レビュー）",
       "zh": "\"Muu Blanco — Lumínico Sonoro 2019\"（评论）",
-      "hi": "\"Muu Blanco — Lumínico Sonoro 2019\" (समीक्षा)"
+      "hi": "\"Muu Blanco — Lumínico Sonoro 2019\" (समीक्षा)",
+      "de": "„Muu Blanco — Lumínico Sonoro 2019“ (Rezension)"
     },
     "url": "https://traficovisual.com/2019/12/12/muu-blanco-luminico-sonoro-2019/"
   },
@@ -696,7 +767,8 @@
       "ko": "2024년 11월 20일",
       "ja": "2024年11月20日",
       "zh": "2024年11月20日",
-      "hi": "20 नवंबर 2024"
+      "hi": "20 नवंबर 2024",
+      "de": "20. November 2024"
     },
     "note": {
       "es": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
@@ -704,7 +776,8 @@
       "ko": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
       "ja": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
       "zh": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
-      "hi": "\"NatuUrban Symphony por Muu Blanco en Miami\""
+      "hi": "\"NatuUrban Symphony por Muu Blanco en Miami\"",
+      "de": "\"NatuUrban Symphony por Muu Blanco en Miami\""
     },
     "url": "https://revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami"
   },
@@ -717,7 +790,8 @@
       "ko": "마이애미",
       "ja": "マイアミ",
       "zh": "迈阿密",
-      "hi": "मियामी"
+      "hi": "मियामी",
+      "de": "Miami"
     },
     "note": {
       "es": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
@@ -725,7 +799,8 @@
       "ko": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
       "ja": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
       "zh": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
-      "hi": "\"NatuUrban — Una sinfonía subnatural de Miami\""
+      "hi": "\"NatuUrban — Una sinfonía subnatural de Miami\"",
+      "de": "\"NatuUrban — Una sinfonía subnatural de Miami\""
     },
     "url": "https://thewynwoodtimes.com/muu-blanco-natuurban-miami"
   },
@@ -738,7 +813,8 @@
       "ko": "2024년 11월 17일",
       "ja": "2024年11月17日",
       "zh": "2024年11月17日",
-      "hi": "17 नवंबर 2024"
+      "hi": "17 नवंबर 2024",
+      "de": "17. November 2024"
     },
     "kind": {
       "es": "Individual",
@@ -746,7 +822,8 @@
       "ko": "개인전",
       "ja": "個展",
       "zh": "个展",
-      "hi": "एकल"
+      "hi": "एकल",
+      "de": "Einzelausstellung"
     },
     "note": {
       "es": "\"Apuntes para una poética del silencio\" — reseña de la exposición NatuUrban Symphony",
@@ -754,7 +831,8 @@
       "ko": "\"Apuntes para una poética del silencio\" — NatuUrban Symphony 전시 리뷰",
       "ja": "「Apuntes para una poética del silencio」— NatuUrban Symphony展のレビュー",
       "zh": "《寂静诗学笔记》——NatuUrban Symphony展评论",
-      "hi": "\"Apuntes para una poética del silencio\" — NatuUrban Symphony प्रदर्शनी की समीक्षा"
+      "hi": "\"Apuntes para una poética del silencio\" — NatuUrban Symphony प्रदर्शनी की समीक्षा",
+      "de": "„Apuntes para una poética del silencio“ — Rezension der Ausstellung NatuUrban Symphony"
     },
     "url": "https://www.elnacional.com/papel-literario/apuntes-para-una-poetica-del-silencio/",
     "imageId": "134CRNwGNKQzxqrMnt0eMT9vh-fpnjzZC"
@@ -768,7 +846,8 @@
       "ko": "마이애미 — 2025년 8월 20일",
       "ja": "マイアミ — 2025年8月20日",
       "zh": "迈阿密 — 2025年8月20日",
-      "hi": "मियामी — 20 अगस्त 2025"
+      "hi": "मियामी — 20 अगस्त 2025",
+      "de": "Miami — 20. August 2025"
     },
     "note": {
       "es": "\"Meet Muu Blanco\" — entrevista sobre su práctica transdisciplinaria",
@@ -776,7 +855,8 @@
       "ko": "\"Meet Muu Blanco\" — 그의 초학제적 실천에 관한 인터뷰",
       "ja": "「Meet Muu Blanco」— 彼の学際的な実践についてのインタビュー",
       "zh": "《Meet Muu Blanco》——关于其跨学科实践的访谈",
-      "hi": "\"Meet Muu Blanco\" — उनके अंतःविषय अभ्यास पर साक्षात्कार"
+      "hi": "\"Meet Muu Blanco\" — उनके अंतःविषय अभ्यास पर साक्षात्कार",
+      "de": "„Meet Muu Blanco“ — Interview über seine transdisziplinäre Praxis"
     },
     "url": "https://shoutoutmiami.com/meet-muu-blanco-mixmedia-artists-music-producer-dj-vj/"
   }
