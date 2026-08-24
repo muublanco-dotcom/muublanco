@@ -44,6 +44,12 @@
       "workwithmuu": "Sound performance, commissions, artist talks, and vinyl listening sessions.",
       "archiveTitle": "Archive 1986–2026",
       "archiveDesc": "The complete trajectory — photography, performance, video, installation, sound, and publications."
+    },
+    "now": {
+      "title": "Latest Music & Video",
+      "lead": "Sound and moving image, in real time.",
+      "videoLabel": "Latest Video",
+      "cta": "Explore DR.MUU Records →"
     }
   },
   "about": {

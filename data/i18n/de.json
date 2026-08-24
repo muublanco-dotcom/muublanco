@@ -44,6 +44,12 @@
       "workwithmuu": "Klangperformance, Auftragsarbeiten, Künstlergespräche und Vinyl-Hörsitzungen.",
       "archiveTitle": "Archiv 1986–2026",
       "archiveDesc": "Die vollständige Laufbahn — Fotografie, Performance, Video, Installation, Klang und Publikationen."
+    },
+    "now": {
+      "title": "Neueste Musik & Video",
+      "lead": "Klang und bewegtes Bild, in Echtzeit.",
+      "videoLabel": "Neuestes Video",
+      "cta": "DR.MUU Records entdecken →"
     }
   },
   "about": {
