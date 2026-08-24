@@ -117,7 +117,7 @@
       "p3": "Meine Arbeit war nie an ein einziges Medium gebunden. Jedes Projekt bestimmt die Sprache, die es zum Existieren braucht. Über vier Jahrzehnte hinweg habe ich mich zwischen Fotografie, Collage, musikalischer Komposition, Klangkunst, Performance, dokumentarischer Forschung und immersiven Installationen bewegt und verstehe all diese Disziplinen als Teil desselben kreativen Prozesses.",
       "p4": "Natur und Landschaft waren die dauerhafte Achse meiner Forschung. Ich begreife sie nicht als darzustellende Kulisse, sondern als lebendige Archive, in denen Geschichte, Ökologie, Kultur und menschliche Erfahrung zusammenlaufen. Aus dieser Erkundung entstehen Projekte wie Abstraciones Paisajísticas, Modernismo Anacrónico, NatuUrban: A SubTropical Symphony of Miami und Archipiélago Sonoro — Werke, die die Beziehung zwischen Territorium, Erinnerung, Biodiversität und Klang untersuchen.",
       "p5": "Die Migration nach Miami im Jahr 2014 eröffnete ein neues Kapitel meiner Praxis. Die Begegnung mit den subtropischen Ökosystemen Südfloridas erweiterte mein Interesse an akustischer Ökologie und an den Möglichkeiten, immersive Erfahrungen zu schaffen, in denen Feldaufnahmen, elektroakustische Komposition, künstliche Intelligenz, Fotografie, Video und interaktive Technologien koexistieren. In dieser Zeit hörte der Klang auf, das Bild zu begleiten, und wurde zu einem skulpturalen Material, das in der Lage ist, Räume der Kontemplation zu errichten.",
-      "p6": "In diesen Jahren habe ich auch intensiv als Forscher, Komponist, DJ, Herausgeber und Kulturproduzent gearbeitet und Publikationen, Archive, Schallplatten, Konzerte, Labore und Vermittlungsplattformen für Klangkunst und die musikalischen Kulturen der Karibik und Lateinamerikas geschaffen. Ich verstehe diese Aktivitäten als natürliche Erweiterungen meiner künstlerischen Praxis und als Möglichkeiten, Gemeinschaften rund um das Zuhören zu aktivieren.",
+      "p6": "In diesen Jahren habe ich auch intensiv als Forscher, Komponist, Selector, Herausgeber und Kulturproduzent gearbeitet und Publikationen, Archive, Schallplatten, Konzerte, Labore und Vermittlungsplattformen für Klangkunst und die musikalischen Kulturen der Karibik und Lateinamerikas geschaffen. Ich verstehe diese Aktivitäten als natürliche Erweiterungen meiner künstlerischen Praxis und als Möglichkeiten, Gemeinschaften rund um das Zuhören zu aktivieren.",
       "p7": "Meine Arbeit schlägt eine Verlangsamung des Sehens und Hörens vor. Mich interessiert es, das sichtbar zu machen, was normalerweise unsichtbar bleibt: die Resonanzen der Landschaft, die in einem Territorium enthaltenen Erinnerungen, die alltäglichen Klänge, die unbemerkt bleiben, und die verborgenen Beziehungen zwischen Natur, Stadt und Kultur. Statt einen Ort darzustellen, versuche ich, Bedingungen zu schaffen, um ihn aus einer erweiterten Wahrnehmung heraus zu erfahren.",
       "p8": "Im Jahr 2026, zum vierzigsten Jahrestag meiner künstlerischen Laufbahn, erkenne ich, dass meine Arbeit weiterhin eine offene Forschung ist. Jedes Projekt ist eine Einladung, anders zuzuhören, aufmerksamer zu beobachten und zu verstehen, dass die Landschaft kein äußeres Objekt ist, sondern ein lebendiger Organismus, dessen Teil auch wir sind. Meine Praxis entwickelt sich weiter zwischen technologischem Experiment und poetischer Sensibilität, in der Überzeugung, dass Kunst neue Formen der Beziehung zur Welt und zum kollektiven Gedächtnis schaffen kann."
     }
@@ -288,7 +288,7 @@
       "label": "Musik / Booking"
     },
     "note": "Weiteres Material: <a href=\"cv.html\">CV</a> für die vollständige Laufbahn, <a href=\"prensa.html\">Presse</a> für Rezensionen und Berichterstattung, <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a> für soziale Medien, <a href=\"store.html\">Galerie</a> für erhältliche Werke.",
-    "categories": "Ausstellungen · Performances · Klangauftragsarbeiten · Künstlergespräche · Vinyl-Programme · DJ-Buchungen · Presse · Kollaborationen"
+    "categories": "Ausstellungen · Performances · Klangauftragsarbeiten · Künstlergespräche · Vinyl-Programme · Selector-Buchungen · Presse · Kollaborationen"
   },
   "proyectos": {
     "eyebrow": "02 — Forschungsprojekte",
@@ -482,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "Fanzine · DJ-Residency 2024–2026 · Tripping Animals Brewery, Doral",
-        "desc": "Ein monatliches gedrucktes Fanzine in limitierter Auflage, herausgegeben und produziert von Muu Blanco / Dr.Muusica, veröffentlicht in Doral City, Miami. Von 2024 bis 2026 lief das Projekt parallel zu einer wöchentlichen DJ-Residency als Klangforscher bei Tripping Animals Brewery, wo Dr.Muusica Vinyl-Sessions unter dem Namen DR.Muusica Selector präsentierte. Afro Latin Culture Flavor verbindet redaktionelle Praxis mit Live-Musikauswahl und erkundet afrolateinamerikanische Wurzeln, Rhythmus und Populärkultur als klingendes Echtzeitarchiv."
+        "meta": "Fanzine · Selector-Residency 2024–2026 · Tripping Animals Brewery, Doral",
+        "desc": "Ein monatliches gedrucktes Fanzine in limitierter Auflage, herausgegeben und produziert von Muu Blanco / Dr.Muusica, veröffentlicht in Doral City, Miami. Von 2024 bis 2026 lief das Projekt parallel zu einer wöchentlichen Selector-Residency als Klangforscher bei Tripping Animals Brewery, wo Dr.Muusica Vinyl-Sessions unter dem Namen DR.Muusica Selector präsentierte. Afro Latin Culture Flavor verbindet redaktionelle Praxis mit Live-Musikauswahl und erkundet afrolateinamerikanische Wurzeln, Rhythmus und Populärkultur als klingendes Echtzeitarchiv."
       }
     }
   },
@@ -505,11 +505,11 @@
       },
       "vinyl": {
         "title": "Vinyl-Hörerlebnisse",
-        "desc": "Kuratierte Vinyl-Hörsitzungen und DJ-Sets, die afrolateinamerikanischen, experimentellen und archivarischen Klang erkunden — von intimen Zusammenkünften bis zu öffentlichen Veranstaltungen."
+        "desc": "Kuratierte Vinyl-Hörsitzungen und Selector-Sets, die afrolateinamerikanischen, experimentellen und archivarischen Klang erkunden — von intimen Zusammenkünften bis zu öffentlichen Veranstaltungen."
       },
       "dj": {
-        "title": "DR.Muusica / DJ",
-        "desc": "DJ-Sets und Originalproduktionen unter dem Alias Dr.Muusica, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae und Ska; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba und World Music reichen."
+        "title": "DR.Muusica / Selector",
+        "desc": "Selector-Sets und Originalproduktionen unter dem Alias Dr.Muusica, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae und Ska; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba und World Music reichen."
       }
     },
     "closing": "Ausstellungen · Performances · Klangauftragsarbeiten · Kollaborationen",

@@ -117,7 +117,7 @@
       "p3": "我的创作从未局限于单一媒介。每个项目都决定了它得以存在所需的语言。四十年来，我穿梭于摄影、拼贴、音乐创作、声音艺术、行为表演、文献研究与沉浸式装置之间，将所有这些学科理解为同一创作过程的组成部分。",
       "p4": "自然与景观一直是我研究的恒定轴心。我并不将它们视为被再现的场景，而是历史、生态、文化与人类经验交汇的活档案。从这种探索中诞生了诸如《Abstraciones Paisajísticas》、《Modernismo Anacrónico》、《NatuUrban：迈阿密亚热带交响曲》以及《Archipiélago Sonoro》等作品，它们研究领土、记忆、生物多样性与声音之间的关系。",
       "p5": "2014年迁居迈阿密，为我的创作实践开启了新篇章。与南佛罗里达亚热带生态系统的相遇，拓展了我对声景生态学的兴趣，也拓展了创造沉浸式体验的可能性——在其中，实地录音、电声作曲、人工智能、摄影、录像与互动技术共存。在这一时期，声音不再只是影像的伴随，而成为一种能够构筑沉思空间的雕塑性材料。",
-      "p6": "这些年间，我也作为研究者、作曲家、DJ、编辑与文化制作人展开了密集的工作，产出了致力于声音艺术以及加勒比与拉丁美洲音乐文化的出版物、档案、黑胶唱片、音乐会、实验室与传播平台。我将这些活动理解为我艺术实践的自然延伸，也是围绕聆听激活社群的方式。",
+      "p6": "这些年间，我也作为研究者、作曲家、Selector、编辑与文化制作人展开了密集的工作，产出了致力于声音艺术以及加勒比与拉丁美洲音乐文化的出版物、档案、黑胶唱片、音乐会、实验室与传播平台。我将这些活动理解为我艺术实践的自然延伸，也是围绕聆听激活社群的方式。",
       "p7": "我的作品提出一种目光与聆听的减速。我关注揭示那些通常保持不可见的东西：景观的回响、一片领土所承载的记忆、被忽略的日常声音，以及自然、城市与文化之间隐藏的关系。与其说是再现一个地方，我更希望创造条件，让人们从一种扩展的感知出发去体验它。",
       "p8": "2026年，正值艺术生涯四十周年之际，我意识到自己的创作仍是一场开放的探索。每个项目都是一次邀请——以不同的方式聆听，以更专注的态度观察，并理解景观并非外在的客体，而是一个我们同为其组成部分的活体。我的实践持续在技术实验与诗意感性之间演进，我坚信艺术能够构建人与世界、人与集体记忆之间新的关系形式。"
     }
@@ -288,7 +288,7 @@
       "label": "音乐 / 预订"
     },
     "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。",
-    "categories": "展览 · 表演 · 声音委托创作 · 艺术家对谈 · 黑胶活动 · DJ预约 · 媒体 · 合作"
+    "categories": "展览 · 表演 · 声音委托创作 · 艺术家对谈 · 黑胶活动 · Selector预约 · 媒体 · 合作"
   },
   "proyectos": {
     "eyebrow": "02 — 研究项目",
@@ -482,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "同人志 · DJ驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
-        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周DJ驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
+        "meta": "同人志 · Selector驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
+        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周Selector驻场活动,在那里Dr.Muusica以“DR.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
       }
     }
   },
@@ -505,11 +505,11 @@
       },
       "vinyl": {
         "title": "黑胶聆听体验",
-        "desc": "精心策划的黑胶聆听会与DJ场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
+        "desc": "精心策划的黑胶聆听会与Selector场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
       },
       "dj": {
-        "title": "DR.Muusica / DJ",
-        "desc": "以Dr.Muusica之名呈现的DJ场次与原创制作,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae与ska；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba与world music。"
+        "title": "DR.Muusica / Selector",
+        "desc": "以Dr.Muusica之名呈现的Selector场次与原创制作,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae与ska；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba与world music。"
       }
     },
     "closing": "展览 · 表演 · 声音委托创作 · 合作",

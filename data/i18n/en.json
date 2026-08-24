@@ -117,7 +117,7 @@
       "p3": "My work has never answered to a single medium. Each project determines the language it needs in order to exist. Over four decades I have moved between photography, collage, musical composition, sound art, performance, documentary research, and immersive installations, understanding all of these disciplines as part of the same creative process.",
       "p4": "Nature and landscape have been the permanent axis of my research. I do not conceive of them as scenery to be represented, but as living archives where history, ecology, culture, and human experience converge. From that exploration come projects such as Abstraciones Paisajísticas, Modernismo Anacrónico, NatuUrban: A SubTropical Symphony of Miami, and Archipiélago Sonoro, works that investigate the relationship between territory, memory, biodiversity, and sound.",
       "p5": "Migrating to Miami in 2014 opened a new chapter in my practice. Encountering the subtropical ecosystems of South Florida broadened my interest in acoustic ecology and in the possibilities of creating immersive experiences where field recordings, electroacoustic composition, artificial intelligence, photography, video, and interactive technologies coexist. In this period, sound stopped accompanying the image and became a sculptural material capable of building spaces for contemplation.",
-      "p6": "During these years I have also developed intense work as a researcher, composer, DJ, editor, and cultural producer, generating publications, archives, vinyl records, concerts, labs, and outreach platforms dedicated to sound art and the musical cultures of the Caribbean and Latin America. I understand these activities as natural extensions of my artistic practice and as ways of activating communities around listening.",
+      "p6": "During these years I have also developed intense work as a researcher, composer, Selector, editor, and cultural producer, generating publications, archives, vinyl records, concerts, labs, and outreach platforms dedicated to sound art and the musical cultures of the Caribbean and Latin America. I understand these activities as natural extensions of my artistic practice and as ways of activating communities around listening.",
       "p7": "My work proposes a slowing down of looking and listening. I am interested in revealing what normally remains invisible: the resonances of landscape, the memories held within a territory, the everyday sounds that go unnoticed, and the hidden relationships between nature, city, and culture. Rather than represent a place, I seek to generate conditions to experience it from an expanded perception.",
       "p8": "In 2026, marking forty years of artistic trajectory, I recognize that my work continues to be an open investigation. Each project is an invitation to listen differently, to observe more attentively, and to understand that landscape is not an external object, but a living organism of which we are also part. My practice continues to evolve between technological experimentation and poetic sensibility, convinced that art can build new forms of relationship with the world and with collective memory."
     }
@@ -288,7 +288,7 @@
       "label": "Music / Booking"
     },
     "note": "More material: <a href=\"cv.html\">CV</a> for full career history, <a href=\"prensa.html\">Press</a> for reviews and coverage, <a href=\"practicas-publicas.html\">Public Practices</a> for social media, <a href=\"store.html\">Gallery</a> for available works.",
-    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · DJ bookings · Press · Collaborations"
+    "categories": "Exhibitions · Performances · Sound commissions · Artist talks · Vinyl programs · Selector bookings · Press · Collaborations"
   },
   "proyectos": {
     "eyebrow": "02 — Research Projects",
@@ -482,8 +482,8 @@
       },
       "afrolatin": {
         "title": "Afro Latin Culture Flavor",
-        "meta": "Fanzine · DJ residency 2024–2026 · Tripping Animals Brewery, Doral",
-        "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. From 2024 to 2026, the project ran alongside a weekly DJ residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presented vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
+        "meta": "Fanzine · Selector residency 2024–2026 · Tripping Animals Brewery, Doral",
+        "desc": "A monthly printed fanzine, limited edition, edited and produced by Muu Blanco / Dr.Muusica, published in Doral City, Miami. From 2024 to 2026, the project ran alongside a weekly Selector residency as sound researcher at Tripping Animals Brewery, where Dr.Muusica presented vinyl sessions under the name DR.Muusica Selector. Afro Latin Culture Flavor connects editorial practice with live music selection, exploring Afro-Latin roots, rhythm, and popular culture as a real-time sonic archive."
       }
     }
   },
@@ -505,11 +505,11 @@
       },
       "vinyl": {
         "title": "Vinyl Listening Experiences",
-        "desc": "Curated vinyl listening sessions and DJ sets exploring Afro-Latin, experimental, and archival sound — from intimate gatherings to public events."
+        "desc": "Curated vinyl listening sessions and Selector sets exploring Afro-Latin, experimental, and archival sound — from intimate gatherings to public events."
       },
       "dj": {
-        "title": "DR.Muusica / DJ",
-        "desc": "DJ sets and original productions under the Dr.Muusica alias, ranging from house and techno; funk, boogie, and disco; new wave, post-punk, punk, and rock; reggae and ska; salsa, boogaloo, bolero, mambo, plena, guaguancó, and cumbia; jazz; hip-hop, trip-hop, and drum & bass; to afrobeat, bossa nova, samba, and world music."
+        "title": "DR.Muusica / Selector",
+        "desc": "Selector sets and original productions under the Dr.Muusica alias, ranging from house and techno; funk, boogie, and disco; new wave, post-punk, punk, and rock; reggae and ska; salsa, boogaloo, bolero, mambo, plena, guaguancó, and cumbia; jazz; hip-hop, trip-hop, and drum & bass; to afrobeat, bossa nova, samba, and world music."
       }
     },
     "closing": "Exhibitions · Performances · Sound commissions · Collaborations",
