@@ -82,24 +82,30 @@
 <!-- ===== NOW ===== -->
 <section style="max-width:var(--wrap); margin:clamp(3rem,8vw,6rem) auto 0; padding:0 var(--gutter);">
 <h2 class="display" style="font-size:clamp(1.4rem,3.5vw,2rem); margin-bottom:.3rem;" data-i18n="index.now.title">Video y Música Recientes</h2>
-<p class="muted" style="margin-bottom:1.6rem;" data-i18n="index.now.lead">Sonido e imagen en movimiento, en tiempo real.</p>
+<p class="muted" style="margin-bottom:1.6rem;" data-i18n="index.now.lead">Imagen en movimiento y música, en tiempo real.</p>
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:clamp(1.4rem,3vw,2.4rem);">
 <div>
-<p class="biblio-entry__date" data-i18n="index.now.mixmediaLabel">Última Obra MixMedia</p>
+<p class="biblio-entry__date video-toggle" data-i18n="index.now.mixmediaLabel">Última Obra MixMedia</p>
+<div class="video-toggle-content">
 <div class="video-embed" style="margin-top:.6rem;">
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLCBSsFi_NhXk" title="Muu Blanco — Latest MixMedia Art" loading="lazy" allowfullscreen></iframe>
 </div>
 </div>
+</div>
 <div>
-<p class="biblio-entry__date" data-i18n="drmusica.h2.noticias">Último Lanzamiento</p>
+<p class="biblio-entry__date video-toggle" data-i18n="drmusica.h2.noticias">Último Lanzamiento</p>
+<div class="video-toggle-content">
 <div style="margin-top:.6rem; border:1px solid var(--line-soft); border-radius:12px; overflow:hidden;">
 <iframe src="https://open.spotify.com/embed/playlist/6BK30R7kkJAXvrd6No7TPg?utm_source=generator" title="Muu Blanco — Latest Releases" width="100%" height="352" style="display:block;" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 </div>
+</div>
 <div>
-<p class="biblio-entry__date" data-i18n="index.now.videoLabel">Últimos Videoclips</p>
+<p class="biblio-entry__date video-toggle" data-i18n="index.now.videoLabel">Últimos Videoclips</p>
+<div class="video-toggle-content">
 <div class="video-embed" style="margin-top:.6rem;">
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLfZaJDAksGfM" title="Muu Blanco — Latest Video Clips" loading="lazy" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 </div>
@@ -191,6 +197,41 @@
 
 <script src="js/i18n.js"></script>
 <script src="js/main.js"></script>
+<script>
+(function () {
+  function initVideoToggles() {
+    document.querySelectorAll(".video-toggle").forEach(function (h) {
+      var content = h.nextElementSibling;
+      if (!content || !content.classList.contains("video-toggle-content")) return;
+
+      h.querySelectorAll(".gallery-toggle__caret").forEach(function (el) { el.remove(); });
+      var caret = document.createElement("span");
+      caret.className = "gallery-toggle__caret";
+      caret.textContent = "▸";
+      h.appendChild(caret);
+
+      if (h.dataset.toggleBound) return;
+      h.dataset.toggleBound = "true";
+      content.classList.add("is-collapsed");
+      h.setAttribute("role", "button");
+      h.setAttribute("tabindex", "0");
+      h.setAttribute("aria-expanded", "false");
+      function toggle() {
+        var willOpen = content.classList.contains("is-collapsed");
+        content.classList.toggle("is-collapsed");
+        h.classList.toggle("is-open", willOpen);
+        h.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      h.addEventListener("click", toggle);
+      h.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+    });
+  }
+  initVideoToggles();
+  document.addEventListener("langchange", initVideoToggles);
+})();
+</script>
 <script data-goatcounter="https://muublanco.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
