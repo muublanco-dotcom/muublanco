@@ -48,8 +48,9 @@
     "now": {
       "title": "최신 음악 & 영상",
       "lead": "실시간으로 만나는 사운드와 무빙 이미지.",
-      "videoLabel": "최신 영상",
-      "cta": "DR.MUU Records 살펴보기 →"
+      "videoLabel": "최신 비디오클립",
+      "cta": "DR.MUU Records 살펴보기 →",
+      "mixmediaLabel": "최신 믹스미디어 아트"
     }
   },
   "about": {

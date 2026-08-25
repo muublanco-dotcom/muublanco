@@ -48,8 +48,9 @@
     "now": {
       "title": "Música y Video Recientes",
       "lead": "Sonido e imagen en movimiento, en tiempo real.",
-      "videoLabel": "Último Video",
-      "cta": "Explorar DR.MUU Records →"
+      "videoLabel": "Últimos Videoclips",
+      "cta": "Explorar DR.MUU Records →",
+      "mixmediaLabel": "Última Obra MixMedia"
     }
   },
   "about": {

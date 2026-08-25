@@ -48,8 +48,9 @@
     "now": {
       "title": "最新の音楽＆映像",
       "lead": "サウンドと動く映像を、リアルタイムで。",
-      "videoLabel": "最新の映像",
-      "cta": "DR.MUU Recordsを見る →"
+      "videoLabel": "最新のビデオクリップ",
+      "cta": "DR.MUU Recordsを見る →",
+      "mixmediaLabel": "最新のミックスメディア・アート"
     }
   },
   "about": {

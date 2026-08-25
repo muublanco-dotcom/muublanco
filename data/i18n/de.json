@@ -48,8 +48,9 @@
     "now": {
       "title": "Neueste Musik & Video",
       "lead": "Klang und bewegtes Bild, in Echtzeit.",
-      "videoLabel": "Neuestes Video",
-      "cta": "DR.MUU Records entdecken →"
+      "videoLabel": "Neueste Videoclips",
+      "cta": "DR.MUU Records entdecken →",
+      "mixmediaLabel": "Neueste MixMedia-Arbeit"
     }
   },
   "about": {

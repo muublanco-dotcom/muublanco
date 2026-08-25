@@ -48,8 +48,9 @@
     "now": {
       "title": "Latest Music & Video",
       "lead": "Sound and moving image, in real time.",
-      "videoLabel": "Latest Video",
-      "cta": "Explore DR.MUU Records →"
+      "videoLabel": "Latest Video Clips",
+      "cta": "Explore DR.MUU Records →",
+      "mixmediaLabel": "Latest MixMedia Art"
     }
   },
   "about": {
