@@ -317,7 +317,7 @@
       "videoDesc": "Ein Dokumentarkurzfilm unter der Regie von Jacopo Fantastichini und produziert von PlantPop, kuratiert von Gerardo Zavarce. Er begleitet Muu Blancos Laufbahn und den Entstehungsprozess seiner Klangkunstinstallation NatuUrban Symphony, die die natürlichen und urbanen Klänge von Nationalparks am Rande großer Städte Südfloridas erkundet — eine Installation, die durch die Förderung der Arts Connection Foundation ermöglicht wurde, mit der Muu Blanco seit 2014 in Miami zusammenarbeitet. Der Film enthält Bildmaterial von Camera Creature SVC und Originalmusik von Dr.Muusica und dokumentiert das zentrale Konzept des Werks: lebende Pflanzen, die Mini-Lautsprecher tragen, die Klanglandschaften abspielen, die das Natürliche mit dem Urbanen verbinden. Er feierte am 30. Juli 2025 im SilverSpot Cinemas, Downtown Miami, im Rahmen des FilmGate Festivals Premiere — Muu Blancos erster in den USA produzierter Dokumentarkurzfilm, ein Meilenstein innerhalb seiner vierzig Jahre ununterbrochener künstlerischer Laufbahn."
     },
     "soundart": {
-      "p1": "Ein persönliches Forschungsprojekt zur Geschichte der Klangkunst, von ihren Wurzeln im Futurismus bis ins 21. Jahrhundert — laufend."
+      "p1": "Eine virtuelle Installation, präsentiert als Web-App im Jahr 2024, im Jahr nach dem Abschluss der Ausstellung Exploring the Roots and Evolution of Sound Art (2023). Sie vereint Muu Blancos Forschung zur Geschichte der Klangkunst, von ihren Wurzeln im Futurismus bis ins 21. Jahrhundert."
     },
     "abstracciones": {
       "medium": "Fotografie",
@@ -362,7 +362,7 @@
         "desc": "Eine Klangkunstinstallation, präsentiert in der Sala Mendoza, Caracas, und veröffentlicht als Klangkatalog auf CD-ROM."
       },
       "hundredyears": {
-        "meta": "Laufendes Forschungsprojekt · 100yearsofsound.webflow.io",
+        "meta": "Virtuelle Installation · Web-App, 2024 · 100yearsofsound.webflow.io",
         "visit": "Projekt besuchen ↗"
       }
     },

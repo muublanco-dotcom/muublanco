@@ -317,7 +317,7 @@
       "videoDesc": "Jacopo Fantastichini가 감독하고 PlantPop이 제작한 다큐멘터리 단편으로, Gerardo Zavarce가 큐레이팅했다. 무 블랑코의 경력과 그의 사운드 아트 설치작 NatuUrban Symphony의 제작 과정을 다루며, 이 작품은 남플로리다 주요 도시 외곽 국립공원의 자연과 도시의 소리를 탐구한다 — 이 설치작은 무 블랑코가 2014년부터 마이애미에서 협업해온 Arts Connection Foundation의 후원으로 실현되었다. 영화에는 Camera Creature SVC의 영상과 Dr.Muusica의 오리지널 음악이 담겨 있으며, 작품의 핵심 개념인 미니 스피커를 든 살아있는 식물들이 자연과 도시를 잇는 사운드스케이프를 재생하는 모습을 기록한다. 2025년 7월 30일 다운타운 마이애미의 SilverSpot Cinemas에서 FilmGate Festival의 일환으로 초연되었다 — 무 블랑코가 미국에서 제작한 첫 다큐멘터리 단편으로, 40년간 이어온 그의 예술 경력의 이정표다."
     },
     "soundart": {
-      "p1": "미래주의에 뿌리를 둔 사운드 아트의 역사부터 21세기까지를 다루는 개인 연구 프로젝트 — 진행 중."
+      "p1": "2023년 전시 Exploring the Roots and Evolution of Sound Art가 종료된 다음 해인 2024년, 웹 애플리케이션 형태로 선보인 가상 설치작. 미래주의에 뿌리를 둔 사운드 아트의 역사부터 21세기까지를 아우르는 무 블랑코의 연구를 담고 있다."
     },
     "abstracciones": {
       "medium": "사진",
@@ -362,7 +362,7 @@
         "desc": "카라카스 살라 멘도사에서 발표된 사운드 아트 설치로, CD-ROM 사운드 카탈로그로 발매되었다."
       },
       "hundredyears": {
-        "meta": "진행 중인 연구 프로젝트 · 100yearsofsound.webflow.io",
+        "meta": "가상 설치 · 웹 애플리케이션, 2024 · 100yearsofsound.webflow.io",
         "visit": "프로젝트 방문하기 ↗"
       }
     },
