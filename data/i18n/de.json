@@ -359,6 +359,10 @@
       "v6": {
         "meta": "Klanginstallation · Sala Mendoza, Caracas",
         "desc": "Eine Klangkunstinstallation, präsentiert in der Sala Mendoza, Caracas, und veröffentlicht als Klangkatalog auf CD-ROM."
+      },
+      "hundredyears": {
+        "meta": "Laufendes Forschungsprojekt · 100yearsofsound.webflow.io",
+        "visit": "Projekt besuchen ↗"
       }
     },
     "instalaciones": {

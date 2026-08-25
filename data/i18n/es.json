@@ -359,6 +359,10 @@
       "v6": {
         "meta": "Instalación sonora · Sala Mendoza, Caracas",
         "desc": "Instalación de arte sonoro presentada en la Sala Mendoza, Caracas, y publicada como catálogo sonoro en un CD ROM."
+      },
+      "hundredyears": {
+        "meta": "Proyecto de investigación en curso · 100yearsofsound.webflow.io",
+        "visit": "Visitar el proyecto ↗"
       }
     },
     "instalaciones": {

@@ -359,6 +359,10 @@
       "v6": {
         "meta": "声音装置 · Sala Mendoza，加拉加斯",
         "desc": "在加拉加斯Sala Mendoza展出的声音艺术装置，并以CD-ROM形式发行了声音画册。"
+      },
+      "hundredyears": {
+        "meta": "持续进行中的研究项目 · 100yearsofsound.webflow.io",
+        "visit": "访问项目 ↗"
       }
     },
     "instalaciones": {

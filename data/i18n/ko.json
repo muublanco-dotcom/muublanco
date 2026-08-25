@@ -359,6 +359,10 @@
       "v6": {
         "meta": "사운드 설치 · Sala Mendoza, 카라카스",
         "desc": "카라카스 살라 멘도사에서 발표된 사운드 아트 설치로, CD-ROM 사운드 카탈로그로 발매되었다."
+      },
+      "hundredyears": {
+        "meta": "진행 중인 연구 프로젝트 · 100yearsofsound.webflow.io",
+        "visit": "프로젝트 방문하기 ↗"
       }
     },
     "instalaciones": {
