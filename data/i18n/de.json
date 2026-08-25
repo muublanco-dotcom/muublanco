@@ -40,7 +40,7 @@
     },
     "featured": {
       "eyebrow": "Muu Blanco — Jetzt",
-      "selectedworks": "Sechs kuratierte Projekte aus vierzig Jahren klanglicher, performativer und visueller Praxis.",
+      "selectedworks": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis.",
       "workwithmuu": "Klangperformance, Auftragsarbeiten, Künstlergespräche und Vinyl-Hörsitzungen.",
       "archiveTitle": "Archiv 1986–2026",
       "archiveDesc": "Die vollständige Laufbahn — Fotografie, Performance, Video, Installation, Klang und Publikationen."
@@ -458,7 +458,7 @@
   },
   "selectedworks": {
     "eyebrow": "Ausgewählte Werke",
-    "lead": "Sechs kuratierte Projekte aus vierzig Jahren klanglicher, performativer und visueller Praxis. Jedes verlinkt zur vollständigen Dokumentation im Archiv.",
+    "lead": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis. Jedes verlinkt zur vollständigen Dokumentation im Archiv.",
     "cta": "Vollständige Dokumentation ansehen →",
     "works": {
       "natuurban": {
