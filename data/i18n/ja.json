@@ -320,7 +320,7 @@
       "p1": "2023年の展覧会Exploring the Roots and Evolution of Sound Artの終了翌年、2024年にウェブアプリとして発表されたヴァーチャル・インスタレーション。未来派にそのルーツを持つサウンドアートの歴史から21世紀までを扱うムー・ブランコの研究をまとめている。"
     },
     "abstracciones": {
-      "medium": "デジタルアートとビデオ",
+      "medium": "写真",
       "p1": "カラカスから世界各地に及ぶAbstracciones Paisajísticasの15年間。",
       "animadas": {
         "title": "アニメーション版 Abstracciones Paisajísticas（AAOA）",
@@ -337,7 +337,8 @@
     },
     "abstraccion": {
       "title": "抽象",
-      "p1": "《Violencia Abstracta》（2013年）——抽象をめぐる新たな研究シリーズ。"
+      "p1": "《Violencia Abstracta》（2013年）——抽象をめぐる新たな研究シリーズ。",
+      "medium": "デジタルアートとビデオ"
     },
     "artesonoro": {
       "title": "サウンドアート",

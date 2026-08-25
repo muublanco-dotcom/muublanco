@@ -320,7 +320,7 @@
       "p1": "Eine virtuelle Installation, präsentiert als Web-App im Jahr 2024, im Jahr nach dem Abschluss der Ausstellung Exploring the Roots and Evolution of Sound Art (2023). Sie vereint Muu Blancos Forschung zur Geschichte der Klangkunst, von ihren Wurzeln im Futurismus bis ins 21. Jahrhundert."
     },
     "abstracciones": {
-      "medium": "Digitale Kunst und Video",
+      "medium": "Fotografie",
       "p1": "Fünfzehn Jahre Abstracciones Paisajísticas, von Caracas bis in die ganze Welt.",
       "animadas": {
         "title": "Animierte Abstracciones Paisajísticas (AAOA)",
@@ -337,7 +337,8 @@
     },
     "abstraccion": {
       "title": "Abstraktion",
-      "p1": "Violencia Abstracta (2013), eine neue Forschungsserie zur Abstraktion."
+      "p1": "Violencia Abstracta (2013), eine neue Forschungsserie zur Abstraktion.",
+      "medium": "Digitale Kunst und Video"
     },
     "artesonoro": {
       "title": "Klangkunst",

@@ -320,7 +320,7 @@
       "p1": "2023 की प्रदर्शनी Exploring the Roots and Evolution of Sound Art के समाप्त होने के अगले वर्ष, 2024 में एक वेब ऐप के रूप में प्रस्तुत की गई वर्चुअल इंस्टॉलेशन। यह ध्वनि कला के इतिहास पर मू ब्लैंको के शोध को समेटती है, भविष्यवाद में इसकी जड़ों से लेकर इक्कीसवीं सदी तक।"
     },
     "abstracciones": {
-      "medium": "डिजिटल कला और वीडियो",
+      "medium": "फोटोग्राफी",
       "p1": "कराकास से लेकर दुनिया भर तक फैली Abstracciones Paisajísticas की पंद्रह वर्षों की यात्रा।",
       "animadas": {
         "title": "एनिमेटेड Abstracciones Paisajísticas (AAOA)",
@@ -337,7 +337,8 @@
     },
     "abstraccion": {
       "title": "अमूर्तन",
-      "p1": "Violencia Abstracta (2013), अमूर्तन में नई शोध शृंखला।"
+      "p1": "Violencia Abstracta (2013), अमूर्तन में नई शोध शृंखला।",
+      "medium": "डिजिटल कला और वीडियो"
     },
     "artesonoro": {
       "title": "ध्वनि कला",

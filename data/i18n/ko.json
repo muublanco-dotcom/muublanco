@@ -320,7 +320,7 @@
       "p1": "2023년 전시 Exploring the Roots and Evolution of Sound Art가 종료된 다음 해인 2024년, 웹 애플리케이션 형태로 선보인 가상 설치작. 미래주의에 뿌리를 둔 사운드 아트의 역사부터 21세기까지를 아우르는 무 블랑코의 연구를 담고 있다."
     },
     "abstracciones": {
-      "medium": "디지털 아트와 비디오",
+      "medium": "사진",
       "p1": "카라카스에서 전 세계에 이르는 Abstracciones Paisajísticas의 15년.",
       "animadas": {
         "title": "애니메이션 Abstracciones Paisajísticas (AAOA)",
@@ -337,7 +337,8 @@
     },
     "abstraccion": {
       "title": "추상",
-      "p1": "비올렌시아 압스트락타(Violencia Abstracta, 2013) — 추상에 관한 새로운 연구 시리즈."
+      "p1": "비올렌시아 압스트락타(Violencia Abstracta, 2013) — 추상에 관한 새로운 연구 시리즈.",
+      "medium": "디지털 아트와 비디오"
     },
     "artesonoro": {
       "title": "사운드 아트",

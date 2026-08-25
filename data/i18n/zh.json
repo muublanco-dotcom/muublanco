@@ -320,7 +320,7 @@
       "p1": "2023年展览Exploring the Roots and Evolution of Sound Art结束后的次年，即2024年，以网页应用形式呈现的虚拟装置。汇集了穆·布兰科关于声音艺术历史的研究，从未来主义的根源到二十一世纪。"
     },
     "abstracciones": {
-      "medium": "数字艺术与录像",
+      "medium": "摄影",
       "p1": "十五年间，从加拉加斯到世界各地的Abstracciones Paisajísticas创作。",
       "animadas": {
         "title": "动画版《风景抽象》(AAOA)",
@@ -337,7 +337,8 @@
     },
     "abstraccion": {
       "title": "抽象",
-      "p1": "《Violencia Abstracta》（2013年），抽象领域的新研究系列。"
+      "p1": "《Violencia Abstracta》（2013年），抽象领域的新研究系列。",
+      "medium": "数字艺术与录像"
     },
     "artesonoro": {
       "title": "声音艺术",
