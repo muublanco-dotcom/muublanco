@@ -51,6 +51,16 @@ function parseCSV(text) {
 
   enter.addEventListener("click", dismiss);
   enter.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") dismiss(e); });
+
+  const slides = $$("#introCarousel img");
+  if (slides.length > 1) {
+    let i = 0;
+    setInterval(() => {
+      slides[i].classList.remove("is-active");
+      i = (i + 1) % slides.length;
+      slides[i].classList.add("is-active");
+    }, 4000);
+  }
 })();
 
 /* ---------- Mobile menu ---------- */
