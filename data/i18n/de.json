@@ -60,7 +60,6 @@
       "summary": "Zusammenfassung",
       "full": "Videokunst-Biografie",
       "recent": "Aktuelle Arbeit",
-      "selfportrait": "Selbstporträt durch die Zeit",
       "contact": "Kontakt",
       "morelinks": "Weitere Links",
       "projects": "Projekte und Räume",
@@ -92,12 +91,6 @@
     },
     "recent": {
       "p1": "<strong>Latencias</strong> (2026), eine 40-minütige multimediale sensorische Performance, wurde am 19. Februar 2026 beim Ignite Broward Festival, MAD Arts, Dania Beach, FL, uraufgeführt. Sie wird in den Bereichen <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> und <a href=\"proyectos.html\">Projekte</a> dieser Website dokumentiert."
-    },
-    "selfportrait": {
-      "li1": "AutoCopia — erstes im Archiv des Künstlers dokumentiertes Selbstporträt.",
-      "li2": "Dr.Muusica-Porträts — von Andrés Manner.",
-      "li3": "Selbstporträt — Muu Blanco.",
-      "li4": "Latencias — multimediale sensorische Performance, 40 Min."
     },
     "contact": {
       "p1": "Aktive Praktiken und Netzwerke unter <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a>. Werke zum Erwerb erhältlich in der <a href=\"store.html\">Galerie</a>."

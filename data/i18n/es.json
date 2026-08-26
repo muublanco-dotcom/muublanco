@@ -60,7 +60,6 @@
       "summary": "Resumen",
       "full": "Bio Video Arte",
       "recent": "Trabajo reciente",
-      "selfportrait": "Autorretrato en el tiempo",
       "contact": "Contacto",
       "morelinks": "Más enlaces",
       "projects": "Proyectos y espacios",
@@ -92,12 +91,6 @@
     },
     "recent": {
       "p1": "<strong>Latencias</strong> (2026), performance sensorial multimedia de 40 minutos, se estrenó el 19 de febrero de 2026 en el festival Ignite Broward, MAD Arts, Dania Beach, FL. Se documenta en las secciones <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> y <a href=\"proyectos.html\">Proyectos</a> de este sitio."
-    },
-    "selfportrait": {
-      "li1": "AutoCopia — primer autorretrato registrado en el archivo del artista.",
-      "li2": "Retratos Dr.Muusica — por Andrés Manner.",
-      "li3": "Autorretrato — Muu Blanco.",
-      "li4": "Latencias — performance sensorial multimedia, 40 min."
     },
     "contact": {
       "p1": "Prácticas y redes activas en <a href=\"practicas-publicas.html\">Prácticas Públicas</a>. Obra disponible para adquisición en la <a href=\"store.html\">Galería</a>."

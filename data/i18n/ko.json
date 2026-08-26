@@ -60,7 +60,6 @@
       "summary": "요약",
       "full": "비디오 아트 바이오",
       "recent": "최근 작업",
-      "selfportrait": "시간 속의 자화상",
       "contact": "연락처",
       "morelinks": "추가 링크",
       "projects": "프로젝트 및 공간",
@@ -92,12 +91,6 @@
     },
     "recent": {
       "p1": "<strong>Latencias</strong>(2026)는 40분 분량의 멀티미디어 감각 퍼포먼스로, 2026년 2월 19일 Ignite Broward Festival, MAD Arts, 데이니아 비치, 플로리다에서 초연되었다. 이 사이트의 <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> 및 <a href=\"proyectos.html\">프로젝트</a> 섹션에 기록되어 있다."
-    },
-    "selfportrait": {
-      "li1": "AutoCopia — 작가 아카이브에 기록된 첫 자화상.",
-      "li2": "Retratos Dr.Muusica — 안드레스 마네르 촬영.",
-      "li3": "자화상 — 무 블랑코.",
-      "li4": "Latencias — 멀티미디어 감각 퍼포먼스, 40분."
     },
     "contact": {
       "p1": "활동 중인 실천과 네트워크는 <a href=\"practicas-publicas.html\">Prácticas Públicas</a>에서 확인할 수 있다. 작품 구매 문의는 <a href=\"store.html\">Galería</a>에서 가능하다."

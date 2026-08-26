@@ -60,7 +60,6 @@
       "summary": "概要",
       "full": "ビデオアート・バイオ",
       "recent": "最近の活動",
-      "selfportrait": "時間の中の自画像",
       "contact": "連絡先",
       "morelinks": "その他のリンク",
       "projects": "プロジェクトと拠点",
@@ -92,12 +91,6 @@
     },
     "recent": {
       "p1": "<strong>Latencias</strong>（2026年）は、40分間のマルチメディア感覚パフォーマンスで、2026年2月19日にIgnite Broward Festival、MAD Arts（ダニアビーチ、フロリダ）にて初演された。このサイトの<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">Conceptual</a>、<a href=\"proyectos.html\">プロジェクト</a>のセクションで記録されている。"
-    },
-    "selfportrait": {
-      "li1": "AutoCopia — 作家アーカイブに記録された最初の自画像。",
-      "li2": "Retratos Dr.Muusica — アンドレス・マネール撮影。",
-      "li3": "自画像 — ムー・ブランコ。",
-      "li4": "Latencias — マルチメディア感覚パフォーマンス、40分。"
     },
     "contact": {
       "p1": "現在活動中の実践とネットワークは<a href=\"practicas-publicas.html\">Prácticas Públicas</a>をご覧ください。作品のご購入に関するお問い合わせは<a href=\"store.html\">Galería</a>まで。"

@@ -60,7 +60,6 @@
       "summary": "सारांश",
       "full": "वीडियो आर्ट बायो",
       "recent": "हाल का कार्य",
-      "selfportrait": "समय में आत्म-चित्र",
       "contact": "संपर्क",
       "morelinks": "और लिंक",
       "projects": "परियोजनाएं और स्थान",
@@ -92,12 +91,6 @@
     },
     "recent": {
       "p1": "<strong>Latencias</strong> (2026), एक 40 मिनट की मल्टीमीडिया संवेदी परफॉर्मेंस, 19 फ़रवरी 2026 को Ignite Broward Festival, MAD Arts, डेनिया बीच, FL में प्रस्तुत हुई। इसका दस्तावेज़ीकरण इस साइट के <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">कॉन्सेप्चुअल</a> और <a href=\"proyectos.html\">परियोजनाएं</a> अनुभागों में मिलता है।"
-    },
-    "selfportrait": {
-      "li1": "AutoCopia — कलाकार के संग्रह में दर्ज पहला आत्म-चित्र।",
-      "li2": "Dr.Muusica पोर्ट्रेट्स — Andrés Manner द्वारा।",
-      "li3": "आत्म-चित्र — Muu Blanco।",
-      "li4": "Latencias — मल्टीमीडिया संवेदी परफॉर्मेंस, 40 मिनट।"
     },
     "contact": {
       "p1": "सक्रिय अभ्यास और नेटवर्क <a href=\"practicas-publicas.html\">सार्वजनिक अभ्यास</a> में देखें। उपलब्ध कृतियाँ <a href=\"store.html\">गैलरी</a> में खरीद हेतु उपलब्ध हैं।"

@@ -39,6 +39,14 @@ function parseCSV(text) {
     setTimeout(() => intro.remove(), 700);
   }
 
+  // A link into a specific section (e.g. the "Ahora" menu item) means the
+  // visitor already chose where to land — skip the splash so the anchor
+  // scroll isn't hidden behind it.
+  if (window.location.hash) {
+    intro.remove();
+    return;
+  }
+
   document.body.style.overflow = "hidden";
 
   enter.addEventListener("click", dismiss);
