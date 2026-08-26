@@ -62,6 +62,15 @@ function parseCSV(text) {
     const open = nav.classList.toggle("is-open");
     toggle.setAttribute("aria-expanded", String(open));
   });
+  // Same-page anchor links (e.g. "index.html#ahora" clicked while already
+  // on index.html) don't trigger a full reload, so the open menu would
+  // otherwise stay on screen after the visitor picks a link.
+  $$("a", nav).forEach((link) => {
+    link.addEventListener("click", () => {
+      nav.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+    });
+  });
 })();
 
 /* ---------- Store / Galería (Store page only) ---------- */
