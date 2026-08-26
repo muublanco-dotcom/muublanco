@@ -47,6 +47,9 @@
       "lead": "動く映像と音楽を、リアルタイムで。",
       "videoLabel": "最新のビデオクリップ",
       "mixmediaLabel": "最新のミックスメディア・アート"
+    },
+    "sections": {
+      "eyebrow": "アーカイブ全体を見る"
     }
   },
   "about": {

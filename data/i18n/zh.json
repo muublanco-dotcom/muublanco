@@ -47,6 +47,9 @@
       "lead": "动态影像与音乐，实时呈现。",
       "videoLabel": "最新音乐视频",
       "mixmediaLabel": "最新混合媒体作品"
+    },
+    "sections": {
+      "eyebrow": "浏览完整档案"
     }
   },
   "about": {

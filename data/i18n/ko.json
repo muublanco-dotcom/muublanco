@@ -47,6 +47,9 @@
       "lead": "실시간으로 만나는 무빙 이미지와 음악.",
       "videoLabel": "최신 비디오클립",
       "mixmediaLabel": "최신 믹스미디어 아트"
+    },
+    "sections": {
+      "eyebrow": "전체 아카이브 둘러보기"
     }
   },
   "about": {

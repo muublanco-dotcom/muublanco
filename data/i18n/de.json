@@ -47,6 +47,9 @@
       "lead": "Bewegtes Bild und Musik, in Echtzeit.",
       "videoLabel": "Neueste Videoclips",
       "mixmediaLabel": "Neueste MixMedia-Arbeit"
+    },
+    "sections": {
+      "eyebrow": "Das vollständige Archiv erkunden"
     }
   },
   "about": {

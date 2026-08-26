@@ -47,6 +47,9 @@
       "lead": "Imagen en movimiento y música, en tiempo real.",
       "videoLabel": "Últimos Videoclips",
       "mixmediaLabel": "Última Obra MixMedia"
+    },
+    "sections": {
+      "eyebrow": "Explorar el archivo completo"
     }
   },
   "about": {

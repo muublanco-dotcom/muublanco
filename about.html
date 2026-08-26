@@ -50,7 +50,8 @@
 
         <p data-i18n="about.summary.p3">Since relocating to Miami in 2014, Blanco has continued developing multimedia installations integrating video mapping, sound art, and performance, including his recent project NatuUrban Symphony (2024–2025).</p>
 
-        <h2 id="bio-full" data-i18n="about.h2.full">Bio Video Arte</h2>
+        <h2 id="bio-full" class="video-toggle" data-i18n="about.h2.full">Bio Video Arte</h2>
+        <div class="video-toggle-content">
         <p data-i18n="about.full.p1">Muu Blanco (Caracas, Venezuela, 1966) is a multidisciplinary artist, video artist, and creator of multimedia installations based in Miami. His artistic practice encompasses experimental video art, sound art, performance, photography, assemblage, installation, electronic music, and video mapping, developing since the early 1990s an ongoing investigation into the relationship between image, sound, and the urban landscape.</p>
 
         <p data-i18n="about.full.p2">Blanco began working with experimental video art in the early 1990s, initially using the Video8 format as a tool for aesthetic exploration. His first participation in a collective exhibition with video took place in 1992, when one of his pieces was acquired by the collector Jimmy Belilty. From that moment, he began a continuous exploration of experimental audiovisual language.</p>
@@ -84,6 +85,7 @@
         <p data-i18n="about.full.p16">Since 2017, Blanco has maintained the Instagram account <a href="https://www.instagram.com/muublancovideoart/" target="_blank" rel="noopener">@muublancovideoart</a> as a living archive of his audiovisual production, documenting installations, performances, and video experiments developed during his last decade of work in Miami.</p>
 
         <p data-i18n="about.full.p17">With more than four decades of artistic trajectory, Muu Blanco has developed a hybrid practice in which video, sound, technology, and performance function as devices to investigate urban culture, memory, and contemporary social tensions. His work is part of various international public and private collections.</p>
+        </div>
 
         <h2 data-i18n="about.h2.recent">Trabajo reciente</h2>
         <p data-i18n="about.recent.p1"><strong>Latencias</strong> (2026), performance sensorial multimedia de 40 minutos, se estrenó el 19 de febrero de 2026 en el festival Ignite Broward, MAD Arts, Dania Beach, FL. Se documenta en las secciones <a href="selected-works.html">Selected Works</a>, <a href="conceptual.html">Conceptual</a> y <a href="proyectos.html">Proyectos</a> de este sitio.</p>
@@ -115,6 +117,58 @@
   </footer>
   <script src="js/i18n.js"></script>
   <script src="js/main.js"></script>
+<script>
+(function () {
+  function initVideoToggles() {
+    document.querySelectorAll(".video-toggle").forEach(function (h) {
+      var content = h.nextElementSibling;
+      while (content && content.tagName === "P") content = content.nextElementSibling;
+      if (!content || !content.classList.contains("video-toggle-content")) return;
+
+      h.querySelectorAll(".gallery-toggle__caret").forEach(function (el) { el.remove(); });
+      var caret = document.createElement("span");
+      caret.className = "gallery-toggle__caret";
+      caret.textContent = "▸";
+      h.appendChild(caret);
+
+      if (h.dataset.toggleBound) return;
+      h.dataset.toggleBound = "true";
+      content.classList.add("is-collapsed");
+      h.setAttribute("role", "button");
+      h.setAttribute("tabindex", "0");
+      h.setAttribute("aria-expanded", "false");
+      function open() {
+        content.classList.remove("is-collapsed");
+        h.classList.add("is-open");
+        h.setAttribute("aria-expanded", "true");
+      }
+      function toggle() {
+        var willOpen = content.classList.contains("is-collapsed");
+        if (willOpen) { open(); } else {
+          content.classList.add("is-collapsed");
+          h.classList.remove("is-open");
+          h.setAttribute("aria-expanded", "false");
+        }
+      }
+      h.addEventListener("click", toggle);
+      h.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+      });
+      h._openToggle = open;
+    });
+  }
+  initVideoToggles();
+  document.addEventListener("langchange", initVideoToggles);
+
+  var readmore = document.querySelector('a[href="#bio-full"]');
+  var bioFull = document.getElementById("bio-full");
+  if (readmore && bioFull) {
+    readmore.addEventListener("click", function () {
+      if (bioFull._openToggle) bioFull._openToggle();
+    });
+  }
+})();
+</script>
 <script data-goatcounter="https://muublanco.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

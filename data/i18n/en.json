@@ -47,6 +47,9 @@
       "lead": "Moving image and music, in real time.",
       "videoLabel": "Latest Video Clips",
       "mixmediaLabel": "Latest MixMedia Art"
+    },
+    "sections": {
+      "eyebrow": "Explore the full archive"
     }
   },
   "about": {
