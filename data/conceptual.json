@@ -29,5 +29,967 @@
       "de": "Ein konzeptueller Essay, geschrieben 2026 anlässlich des 60. Geburtstags und des 40. Jahrestags seiner künstlerischen Laufbahn. In neun Abschnitten formuliert Muu Blanco seine Praxis über die Idee eines „Humanismus der Persistenz“: das Archiv, die venezolanische Diaspora, Musik als migrantische Erinnerung, die Landschaft zwischen Caracas und Miami sowie Technologie, ohne das Menschliche aufzugeben — als Wege, Geschichtlichkeit gegen das Vergessen zu erzeugen."
     },
     "pdfId": "1U4rLnkBCIFoRpTzX0sqws8BSRyigX44R"
+  },
+  {
+    "title": {
+      "es": "Modernismo Anacrónico: arqueología, desplazamiento y memoria de la imagen",
+      "en": "Modernismo Anacrónico: Archaeology, Displacement, and the Memory of the Image",
+      "de": "Modernismo Anacrónico: Archäologie, Verschiebung und das Gedächtnis des Bildes",
+      "ko": "Modernismo Anacrónico: 고고학, 전위, 그리고 이미지의 기억",
+      "ja": "Modernismo Anacrónico：考古学、転位、そしてイメージの記憶",
+      "zh": "Modernismo Anacrónico：考古学、位移与图像的记忆",
+      "hi": "Modernismo Anacrónico: पुरातत्व, विस्थापन और छवि की स्मृति"
+    },
+    "date": "2026-08-28",
+    "medium": {
+      "es": "Ensayo crítico · Collage, arqueología de la imagen y memoria",
+      "en": "Critical essay · Collage, image archaeology, and memory",
+      "de": "Kritischer Essay · Collage, Bildarchäologie und Gedächtnis",
+      "ko": "비평 에세이 · 콜라주, 이미지 고고학과 기억",
+      "ja": "批評エッセイ・コラージュ、イメージの考古学と記憶",
+      "zh": "评论随笔·拼贴、图像考古学与记忆",
+      "hi": "आलोचनात्मक निबंध · कोलाज, छवि पुरातत्व और स्मृति"
+    },
+    "summary": {
+      "es": "Un ensayo sobre Modernismo Anacrónico, la serie de collages en la que Muu Blanco trabaja la imagen como resto arqueológico: cortando, desplazando y yuxtaponiendo fragmentos de distintas épocas para volver visibles la memoria, el montaje y las costuras de la historia.",
+      "en": "An essay on Modernismo Anacrónico, the collage series in which Muu Blanco treats the image as an archaeological remnant — cutting, displacing, and juxtaposing fragments from different eras to make visible memory, montage, and the seams of history.",
+      "de": "Ein Essay über Modernismo Anacrónico, die Collage-Serie, in der Muu Blanco das Bild als archäologisches Fundstück behandelt — schneidet, verschiebt und stellt Fragmente aus verschiedenen Epochen nebeneinander, um Erinnerung, Montage und die Nähte der Geschichte sichtbar zu machen.",
+      "ko": "무 블랑코가 이미지를 고고학적 잔해로 다루는 콜라주 연작 「Modernismo Anacrónico」에 관한 에세이. 서로 다른 시대의 조각들을 자르고 전위시키고 병치함으로써 기억과 몽타주, 그리고 역사의 이음매를 가시화한다.",
+      "ja": "ムー・ブランコがイメージを考古学的遺物として扱うコラージュ連作「Modernismo Anacrónico」についてのエッセイ。異なる時代の断片を切り取り、転位させ、並置することで、記憶とモンタージュ、そして歴史の縫い目を可視化する。",
+      "zh": "一篇关于《Modernismo Anacrónico》的随笔——在这组拼贴系列中，穆·布兰科将图像视为考古遗物，通过剪切、位移与并置不同时代的碎片，使记忆、蒙太奇与历史的缝隙变得可见。",
+      "hi": "Modernismo Anacrónico पर एक निबंध, वह कोलाज श्रृंखला जिसमें मू ब्लैंको छवि को एक पुरातात्विक अवशेष की तरह बरतते हैं — विभिन्न युगों के टुकड़ों को काटकर, विस्थापित कर और साथ रखकर स्मृति, मोंताज और इतिहास की सिलाइयों को दृश्यमान बनाते हैं।"
+    },
+    "body": [
+      {
+        "es": "En Modernismo Anacrónico, Muu Blanco trabaja con la imagen como si se tratara de un resto arqueológico. Cada fragmento recortado, cada página intervenida, cada superposición y cada desplazamiento contiene la huella de un contexto anterior y, al mismo tiempo, la posibilidad de otro significado.",
+        "en": "In Modernismo Anacrónico, Muu Blanco works with the image as though it were an archaeological remnant. Every cut fragment, every intervened page, every superimposition and every displacement carries the trace of an earlier context and, at the same time, the possibility of another meaning.",
+        "de": "In Modernismo Anacrónico behandelt Muu Blanco das Bild, als wäre es ein archäologisches Fundstück. Jedes ausgeschnittene Fragment, jede bearbeitete Seite, jede Überlagerung und jede Verschiebung trägt die Spur eines früheren Kontexts und zugleich die Möglichkeit einer anderen Bedeutung.",
+        "ko": "「Modernismo Anacrónico」에서 무 블랑코는 이미지를 마치 고고학적 잔해처럼 다룬다. 잘려나간 조각 하나하나, 개입된 페이지 하나하나, 겹쳐진 층과 전위 하나하나가 이전 맥락의 흔적을 담고 있으며, 동시에 또 다른 의미의 가능성을 품고 있다.",
+        "ja": "「Modernismo Anacrónico」において、ムー・ブランコはイメージをあたかも考古学的な遺物であるかのように扱う。切り取られた断片一つひとつ、手が加えられたページ一つひとつ、重ね合わせと転位の一つひとつが、以前の文脈の痕跡を宿すと同時に、別の意味の可能性をはらんでいる。",
+        "zh": "在《Modernismo Anacrónico》中，穆·布兰科将图像当作一件考古遗物来处理。每一个剪切的碎片、每一页被介入的纸张、每一次叠加与每一次位移，都携带着先前语境的痕迹，同时也蕴含着另一种意义的可能。",
+        "hi": "\"Modernismo Anacrónico\" में, मू ब्लैंको छवि के साथ ऐसे काम करते हैं मानो वह एक पुरातात्विक अवशेष हो। हर कटा हुआ टुकड़ा, हर संशोधित पृष्ठ, हर अध्यारोपण और हर विस्थापन एक पूर्व संदर्भ की छाप के साथ-साथ किसी अन्य अर्थ की संभावना भी समेटे होता है।"
+      },
+      {
+        "es": "El collage deja de ser aquí una técnica destinada exclusivamente a producir una composición visual. Se convierte en una forma de pensamiento. Cortar una imagen implica interrumpir una continuidad; desplazarla significa alterar su función; yuxtaponerla con otra supone construir una relación que antes no existía.",
+        "en": "Here, collage ceases to be a technique intended solely to produce a visual composition. It becomes a form of thought. To cut an image is to interrupt a continuity; to displace it is to alter its function; to juxtapose it with another is to build a relationship that did not previously exist.",
+        "de": "Die Collage ist hier nicht mehr nur eine Technik, die ausschließlich der Erzeugung einer visuellen Komposition dient. Sie wird zu einer Form des Denkens. Ein Bild zu schneiden bedeutet, eine Kontinuität zu unterbrechen; es zu verschieben bedeutet, seine Funktion zu verändern; es einem anderen gegenüberzustellen bedeutet, eine Beziehung herzustellen, die zuvor nicht existierte.",
+        "ko": "여기서 콜라주는 시각적 구성을 만들어내기 위한 기법에 그치지 않는다. 그것은 하나의 사유 방식이 된다. 이미지를 자르는 것은 연속성을 끊는 일이며, 그것을 옮기는 것은 기능을 바꾸는 일이고, 다른 것과 병치하는 것은 이전에 존재하지 않던 관계를 구축하는 일이다.",
+        "ja": "ここでコラージュは、視覚的構成を生み出すことだけを目的とした技法ではなくなる。それは一つの思考の形式となる。イメージを切ることは連続性を断つことであり、それを移すことはその機能を変えることであり、それを別のものと並置することは、以前には存在しなかった関係を築くことである。",
+        "zh": "在这里，拼贴不再仅仅是一种用来生成视觉构成的技法，而成为一种思维方式。剪切一幅图像意味着中断一种连续性；位移它意味着改变其功能；将它与另一图像并置，则意味着建立一种此前并不存在的关系。",
+        "hi": "यहाँ कोलाज केवल एक दृश्य रचना उत्पन्न करने के लिए बनाई गई तकनीक भर नहीं रह जाता। यह एक प्रकार का विचार बन जाता है। किसी छवि को काटना एक निरंतरता को बाधित करना है; उसे विस्थापित करना उसके कार्य को बदलना है; उसे किसी अन्य के साथ जोड़ना एक ऐसे संबंध का निर्माण करना है जो पहले नहीं था।"
+      },
+      {
+        "es": "La operación recuerda una de las transformaciones centrales introducidas por Marcel Duchamp: comprender que el significado de un objeto no pertenece únicamente a su forma o a su origen, sino también al contexto desde el cual es observado y presentado. En Modernismo Anacrónico, esa lógica del desplazamiento se traslada al territorio de la imagen impresa. Una fotografía, una arquitectura, una escultura, un cuerpo o una página de catálogo pierden momentáneamente la estabilidad de su identidad para convertirse en material disponible para otra construcción.",
+        "en": "The operation recalls one of the central transformations introduced by Marcel Duchamp: understanding that an object's meaning belongs not only to its form or its origin, but also to the context from which it is observed and presented. In Modernismo Anacrónico, that logic of displacement is transposed into the territory of the printed image. A photograph, a building, a sculpture, a body, or a catalog page momentarily loses the stability of its identity to become material available for another construction.",
+        "de": "Der Vorgang erinnert an eine der zentralen Transformationen, die Marcel Duchamp eingeführt hat: das Verständnis, dass die Bedeutung eines Objekts nicht nur seiner Form oder seinem Ursprung zugehört, sondern auch dem Kontext, aus dem heraus es betrachtet und präsentiert wird. In Modernismo Anacrónico wird diese Logik der Verschiebung in das Terrain des gedruckten Bildes übertragen. Eine Fotografie, eine Architektur, eine Skulptur, ein Körper oder eine Katalogseite verlieren momentan die Stabilität ihrer Identität, um zu verfügbarem Material für eine andere Konstruktion zu werden.",
+        "ko": "이 조작은 마르셀 뒤샹이 도입한 핵심적인 전환 중 하나를 떠올리게 한다. 즉, 사물의 의미가 그 형태나 기원에만 속하는 것이 아니라 그것이 관찰되고 제시되는 맥락에도 속한다는 이해다. 「Modernismo Anacrónico」에서 이 전위의 논리는 인쇄된 이미지의 영역으로 옮겨진다. 사진, 건축, 조각, 신체, 혹은 카탈로그의 한 페이지는 순간적으로 그 정체성의 안정성을 잃고 또 다른 구축을 위해 사용 가능한 재료가 된다.",
+        "ja": "この操作は、マルセル・デュシャンが導入した中心的な転換の一つを想起させる。すなわち、ある対象の意味はその形態や起源だけに属するのではなく、それが観察され提示される文脈にも属するという理解である。「Modernismo Anacrónico」において、この転位の論理は印刷されたイメージの領域へと移し替えられる。写真、建築、彫刻、身体、あるいはカタログの一頁は、その同一性の安定を一時的に失い、別の構築のために利用可能な素材となる。",
+        "zh": "这一操作让人想起马塞尔·杜尚所引入的核心转变之一：理解一个物体的意义不仅属于其形式或起源，也属于观看与呈现它的语境。在《Modernismo Anacrónico》中，这种位移的逻辑被转移到印刷图像的领域。一张照片、一座建筑、一尊雕塑、一具身体或画册的一页，暂时失去了其身份的稳定性，成为可供另一种构造使用的材料。",
+        "hi": "यह क्रिया मार्सेल दुशाँ द्वारा प्रस्तुत किए गए केंद्रीय रूपांतरणों में से एक की याद दिलाती है: यह समझना कि किसी वस्तु का अर्थ केवल उसके रूप या उद्गम का नहीं होता, बल्कि उस संदर्भ का भी होता है जिससे उसे देखा और प्रस्तुत किया जाता है। 'Modernismo Anacrónico' में, विस्थापन का यह तर्क मुद्रित छवि के क्षेत्र में स्थानांतरित हो जाता है। एक तस्वीर, एक वास्तुकला, एक मूर्ति, एक देह या कैटलॉग का एक पृष्ठ क्षण भर के लिए अपनी पहचान की स्थिरता खो देता है और किसी अन्य निर्माण के लिए उपलब्ध सामग्री बन जाता है।"
+      },
+      {
+        "es": "La apropiación no pretende borrar el origen de la imagen. Por el contrario, trabaja precisamente con su memoria.",
+        "en": "Appropriation does not seek to erase the image's origin. On the contrary, it works precisely with its memory.",
+        "de": "Die Aneignung will nicht den Ursprung des Bildes auslöschen. Im Gegenteil, sie arbeitet gerade mit seinem Gedächtnis.",
+        "ko": "전유는 이미지의 기원을 지우려 하지 않는다. 오히려 그 기억과 정확히 함께 작업한다.",
+        "ja": "流用はイメージの起源を消し去ろうとするものではない。むしろ、まさにその記憶とともに作業する。",
+        "zh": "挪用并不试图抹去图像的起源，相反，它恰恰是与图像的记忆一起工作。",
+        "hi": "विनियोजन छवि के उद्गम को मिटाने का प्रयास नहीं करता। इसके विपरीत, यह ठीक उसकी स्मृति के साथ काम करता है।"
+      },
+      {
+        "es": "Cada fragmento conserva algo del mundo del cual procede.",
+        "en": "Each fragment retains something of the world it came from.",
+        "de": "Jedes Fragment bewahrt etwas von der Welt, aus der es stammt.",
+        "ko": "모든 조각은 자신이 유래한 세계의 무언가를 간직하고 있다.",
+        "ja": "断片はそれぞれ、その由来する世界の何かを保持している。",
+        "zh": "每一个碎片都保留着它所来自的那个世界的某种东西。",
+        "hi": "हर टुकड़ा उस दुनिया की कोई चीज़ अपने भीतर सहेजे रहता है जहाँ से वह आया है।"
+      },
+      {
+        "es": "La obra comienza entonces en la fricción entre aquello que la imagen fue y aquello que puede llegar a ser.",
+        "en": "The work thus begins in the friction between what the image was and what it may come to be.",
+        "de": "Das Werk beginnt somit in der Reibung zwischen dem, was das Bild war, und dem, was es werden kann.",
+        "ko": "그리하여 작품은 이미지가 무엇이었는지와 무엇이 될 수 있는지 사이의 마찰에서 시작된다.",
+        "ja": "こうして作品は、そのイメージがかつて何であったかと、これから何になりうるかとの間の摩擦から始まる。",
+        "zh": "作品便由此开始于图像曾经是什么与它可能成为什么之间的摩擦。",
+        "hi": "इस प्रकार कृति उस घर्षण में शुरू होती है जो छवि जो कभी थी और जो बन सकती है, उनके बीच उत्पन्न होता है।"
+      },
+      {
+        "es": "El término anacrónico resulta fundamental para comprender esta práctica. El anacronismo suele entenderse como un error temporal: algo que aparece fuera del período histórico al que debería pertenecer. Aquí ocurre exactamente lo contrario. El desfase temporal se convierte en procedimiento consciente. Imágenes pertenecientes a momentos diferentes son obligadas a convivir dentro de un mismo presente.",
+        "en": "The term anachronic is fundamental to understanding this practice. Anachronism is usually understood as a temporal error: something that appears outside the historical period to which it should belong. Here, exactly the opposite occurs. The temporal gap becomes a conscious procedure. Images belonging to different moments are forced to coexist within a single present.",
+        "de": "Der Begriff anachronistisch ist grundlegend für das Verständnis dieser Praxis. Anachronismus wird gewöhnlich als zeitlicher Fehler verstanden: etwas, das außerhalb der historischen Periode erscheint, der es angehören sollte. Hier geschieht genau das Gegenteil. Die zeitliche Verschiebung wird zu einem bewussten Verfahren. Bilder, die verschiedenen Momenten angehören, werden gezwungen, innerhalb ein und derselben Gegenwart zu koexistieren.",
+        "ko": "'아나크로닉(시대착오적)'이라는 용어는 이 실천을 이해하는 데 근본적이다. 시대착오는 보통 시간적 오류로 이해된다. 즉, 마땅히 속해야 할 역사적 시기 바깥에 나타나는 무언가로 여겨진다. 그러나 여기서는 정확히 그 반대의 일이 일어난다. 시간적 어긋남이 의식적인 절차가 된다. 서로 다른 순간에 속한 이미지들이 하나의 동일한 현재 안에서 공존하도록 강제된다.",
+        "ja": "「アナクロニック（時代錯誤的）」という用語は、この実践を理解するうえで根本的なものである。時代錯誤とは通常、時間的な誤りとして理解される――本来属すべき歴史的時期の外に現れる何か、というように。しかしここでは、まさにその逆のことが起こる。時間的なずれが意識的な手続きとなる。異なる瞬間に属するイメージたちが、一つの同じ現在の中で共存することを強いられるのである。",
+        "zh": "「时代错位」（anacrónico）一词对理解这一实践至关重要。时代错位通常被理解为一种时间上的错误：某物出现在它本应属于的历史时期之外。而在这里，情况恰恰相反。时间上的错位成为一种自觉的程序。属于不同时刻的图像被迫在同一个当下中共存。",
+        "hi": "'अनाक्रोनिक' (कालातीत/समयविपर्यित) शब्द इस अभ्यास को समझने के लिए बुनियादी है। कालविपर्यय को सामान्यतः एक कालिक त्रुटि के रूप में समझा जाता है: कुछ ऐसा जो उस ऐतिहासिक काल से बाहर प्रकट होता है जिससे उसे संबंधित होना चाहिए था। यहाँ ठीक इसके विपरीत होता है। कालिक अंतराल एक सचेत प्रक्रिया बन जाता है। अलग-अलग क्षणों से संबंधित छवियाँ एक ही वर्तमान में सहअस्तित्व के लिए बाध्य की जाती हैं।"
+      },
+      {
+        "es": "Esta coexistencia produce una temporalidad extraña.",
+        "en": "This coexistence produces a strange temporality.",
+        "de": "Diese Koexistenz erzeugt eine seltsame Zeitlichkeit.",
+        "ko": "이 공존은 낯선 시간성을 만들어낸다.",
+        "ja": "この共存は奇妙な時間性を生み出す。",
+        "zh": "这种共存产生了一种奇异的时间性。",
+        "hi": "यह सहअस्तित्व एक अजीब कालिकता उत्पन्न करता है।"
+      },
+      {
+        "es": "El pasado deja de estar completamente atrás. El presente deja de sentirse autosuficiente.",
+        "en": "The past ceases to be entirely behind us. The present ceases to feel self-sufficient.",
+        "de": "Die Vergangenheit hört auf, vollständig hinter uns zu liegen. Die Gegenwart hört auf, sich selbstgenügsam zu fühlen.",
+        "ko": "과거는 더 이상 완전히 뒤에 있지 않게 된다. 현재는 더 이상 자족적으로 느껴지지 않게 된다.",
+        "ja": "過去は完全に過ぎ去ったものではなくなる。現在は自足したものとは感じられなくなる。",
+        "zh": "过去不再完全在身后。当下不再感到自足。",
+        "hi": "अतीत पूरी तरह पीछे रह जाना बंद कर देता है। वर्तमान स्वयं-पर्याप्त महसूस होना बंद कर देता है।"
+      },
+      {
+        "es": "Y la historia comienza a aparecer como una acumulación de retornos, interrupciones y supervivencias.",
+        "en": "And history begins to appear as an accumulation of returns, interruptions, and survivals.",
+        "de": "Und die Geschichte beginnt als eine Anhäufung von Wiederkehren, Unterbrechungen und Überlebensformen zu erscheinen.",
+        "ko": "그리고 역사는 회귀와 단절과 생존의 축적으로 나타나기 시작한다.",
+        "ja": "そして歴史は、回帰と中断と生存の集積として現れ始める。",
+        "zh": "而历史开始显现为一种归返、中断与幸存的积累。",
+        "hi": "और इतिहास वापसियों, बाधाओं और उत्तरजीविताओं के एक संचय के रूप में प्रकट होने लगता है।"
+      },
+      {
+        "es": "En este sentido, Modernismo Anacrónico puede aproximarse a las ideas de Aby Warburg sobre la persistencia de las imágenes. Para Warburg, determinadas formas, gestos y energías visuales atraviesan las épocas, reapareciendo en contextos históricos diferentes. Las imágenes sobreviven a su tiempo.",
+        "en": "In this sense, Modernismo Anacrónico can be brought close to Aby Warburg's ideas on the persistence of images. For Warburg, certain forms, gestures, and visual energies cross through the ages, reappearing in different historical contexts. Images survive their time.",
+        "de": "In diesem Sinne kann Modernismo Anacrónico den Ideen Aby Warburgs über das Nachleben der Bilder nahegebracht werden. Für Warburg durchqueren bestimmte Formen, Gesten und visuelle Energien die Epochen und tauchen in unterschiedlichen historischen Kontexten wieder auf. Die Bilder überleben ihre Zeit.",
+        "ko": "이런 의미에서 「Modernismo Anacrónico」는 이미지의 지속에 관한 아비 바르부르크의 사유에 가까이 다가갈 수 있다. 바르부르크에게 특정한 형태와 몸짓, 시각적 에너지는 시대를 가로질러 흐르며 서로 다른 역사적 맥락에서 다시 나타난다. 이미지는 자신의 시대를 넘어 살아남는다.",
+        "ja": "この意味で、「Modernismo Anacrónico」はアビ・ヴァールブルクのイメージの残存についての思想に近づけて考えることができる。ヴァールブルクにとって、特定の形態、身振り、視覚的エネルギーは時代を横断し、異なる歴史的文脈の中で再び現れる。イメージはその時代を生き延びるのだ。",
+        "zh": "在这个意义上，《Modernismo Anacrónico》可以与阿比·瓦尔堡关于图像持存的思想相接近。对瓦尔堡而言，某些形式、姿态与视觉能量穿越时代，在不同的历史语境中反复出现。图像存活于其自身的时代之后。",
+        "hi": "इस अर्थ में, 'Modernismo Anacrónico' को छवियों की निरंतरता पर एबी वारबुर्ग के विचारों के निकट रखा जा सकता है। वारबुर्ग के लिए, कुछ रूप, भाव-भंगिमाएँ और दृश्य ऊर्जाएँ युगों को पार करती हैं, विभिन्न ऐतिहासिक संदर्भों में पुनः प्रकट होती हैं। छवियाँ अपने समय से आगे जीवित रहती हैं।"
+      },
+      {
+        "es": "Algo semejante ocurre en estos collages.",
+        "en": "Something similar happens in these collages.",
+        "de": "Etwas Ähnliches geschieht in diesen Collagen.",
+        "ko": "이와 비슷한 일이 이 콜라주들에서도 일어난다.",
+        "ja": "これらのコラージュにおいても、それに似たことが起こる。",
+        "zh": "在这些拼贴中，也发生着类似的事情。",
+        "hi": "इन कोलाजों में भी कुछ ऐसा ही घटित होता है।"
+      },
+      {
+        "es": "Una forma modernista, una arquitectura, un rostro, una geometría o un objeto pueden reaparecer décadas después dentro de una composición que altera completamente su lectura original. La imagen regresa, pero nunca regresa intacta.",
+        "en": "A modernist form, a building, a face, a geometry, or an object may reappear decades later within a composition that completely alters its original reading. The image returns, but it never returns intact.",
+        "de": "Eine modernistische Form, eine Architektur, ein Gesicht, eine Geometrie oder ein Objekt können Jahrzehnte später innerhalb einer Komposition wieder auftauchen, die ihre ursprüngliche Lesart vollständig verändert. Das Bild kehrt zurück, aber es kehrt nie unversehrt zurück.",
+        "ko": "모더니즘적 형태, 건축, 얼굴, 기하학적 구조, 혹은 사물은 수십 년 뒤 원래의 독해를 완전히 바꾸어놓는 구성 안에서 다시 나타날 수 있다. 이미지는 돌아오지만, 결코 손상되지 않은 채로 돌아오지 않는다.",
+        "ja": "モダニズムの形態、建築、顔、幾何学、あるいは物体は、数十年後、その本来の読み方を完全に変えてしまう構成の中に再び現れることがある。イメージは戻ってくるが、決して無傷のままでは戻ってこない。",
+        "zh": "一种现代主义的形式、一座建筑、一张面孔、一种几何形态或一个物件，可能在几十年后重新出现在一个彻底改变其原初解读的构图之中。图像回归了，但它从未完好无损地回归。",
+        "hi": "एक आधुनिकतावादी रूप, एक वास्तुकला, एक चेहरा, एक ज्यामिति या एक वस्तु दशकों बाद ऐसी रचना के भीतर पुनः प्रकट हो सकती है जो उसके मूल पाठ को पूरी तरह बदल देती है। छवि लौटती है, पर कभी अक्षुण्ण होकर नहीं लौटती।"
+      },
+      {
+        "es": "Cada reaparición modifica aquello que creíamos saber sobre ella.",
+        "en": "Each reappearance modifies what we thought we knew about it.",
+        "de": "Jedes Wiedererscheinen verändert das, was wir über es zu wissen glaubten.",
+        "ko": "다시 나타날 때마다 우리가 그것에 대해 안다고 믿었던 것이 수정된다.",
+        "ja": "再び現れるたびに、そのイメージについて知っていると思っていたことが変容する。",
+        "zh": "每一次重新出现，都在修改我们自以为对它的了解。",
+        "hi": "हर पुनरावृत्ति उस चीज़ को बदल देती है जो हम उसके बारे में जानते समझते थे।"
+      },
+      {
+        "es": "También existe una cercanía con Walter Benjamin y su manera de pensar la historia a través de fragmentos. Frente a una concepción lineal del tiempo, Benjamin propone una historia construida mediante constelaciones: momentos alejados que entran repentinamente en contacto y producen una nueva legibilidad.",
+        "en": "There is also a closeness to Walter Benjamin and his way of thinking history through fragments. Against a linear conception of time, Benjamin proposes a history built through constellations: distant moments that suddenly come into contact and produce a new legibility.",
+        "de": "Es besteht auch eine Nähe zu Walter Benjamin und seiner Art, Geschichte durch Fragmente zu denken. Gegen eine lineare Zeitauffassung schlägt Benjamin eine durch Konstellationen konstruierte Geschichte vor: entfernte Momente, die plötzlich in Berührung kommen und eine neue Lesbarkeit erzeugen.",
+        "ko": "발터 벤야민, 그리고 파편을 통해 역사를 사유하는 그의 방식과도 가까운 지점이 있다. 선형적인 시간 개념에 맞서 벤야민은 성좌를 통해 구축되는 역사를 제안한다. 서로 멀리 떨어진 순간들이 갑자기 접촉하며 새로운 가독성을 만들어내는 것이다.",
+        "ja": "また、断片を通して歴史を思考するヴァルター・ベンヤミンの方法とも近しさがある。時間の線的な把握に対して、ベンヤミンは星座（コンステレーション）によって構築される歴史を提唱する――遠く離れた瞬間同士が不意に接触し、新たな読解可能性を生み出すのである。",
+        "zh": "这也与瓦尔特·本雅明通过碎片思考历史的方式相近。相对于线性的时间观念，本雅明提出了一种通过星丛（constellation）建构的历史：相距遥远的时刻突然发生接触，产生出一种新的可读性。",
+        "hi": "वाल्टर बेंजामिन और टुकड़ों के माध्यम से इतिहास को सोचने के उनके तरीके से भी एक निकटता है। समय की रैखिक धारणा के विरुद्ध, बेंजामिन नक्षत्रों (constellations) के माध्यम से निर्मित इतिहास प्रस्तावित करते हैं: दूर-दूर के क्षण जो अचानक संपर्क में आते हैं और एक नई पठनीयता उत्पन्न करते हैं।"
+      },
+      {
+        "es": "El collage opera de manera semejante.",
+        "en": "Collage operates in a similar way.",
+        "de": "Die Collage funktioniert auf ähnliche Weise.",
+        "ko": "콜라주도 비슷한 방식으로 작동한다.",
+        "ja": "コラージュも同様の仕方で作動する。",
+        "zh": "拼贴以类似的方式运作。",
+        "hi": "कोलाज भी इसी तरह काम करता है।"
+      },
+      {
+        "es": "Dos imágenes que históricamente nunca estuvieron relacionadas pueden encontrarse sobre una misma página y generar una tensión capaz de producir conocimiento. No se trata necesariamente de explicar una relación, sino de provocar su aparición.",
+        "en": "Two images that were never historically related can meet on the same page and generate a tension capable of producing knowledge. It is not necessarily about explaining a relationship, but about provoking its appearance.",
+        "de": "Zwei Bilder, die historisch nie miteinander in Beziehung standen, können sich auf derselben Seite begegnen und eine Spannung erzeugen, die fähig ist, Erkenntnis hervorzubringen. Es geht nicht notwendigerweise darum, eine Beziehung zu erklären, sondern ihr Erscheinen zu provozieren.",
+        "ko": "역사적으로 전혀 관련이 없던 두 이미지가 같은 페이지 위에서 만나 지식을 생산할 수 있는 긴장을 만들어낼 수 있다. 그것은 반드시 관계를 설명하는 일이 아니라, 그 관계의 출현을 유발하는 일이다.",
+        "ja": "歴史的に一度も関係を持たなかった二つのイメージが、同じページの上で出会い、知を生み出しうる緊張を生成することがある。それは必ずしも関係を説明することではなく、その出現を誘発することである。",
+        "zh": "两张历史上从未有过关联的图像，可能在同一页上相遇，产生出一种能够生成知识的张力。这并不一定是要解释一种关系，而是要促使这种关系的显现。",
+        "hi": "दो ऐसी छवियाँ जो ऐतिहासिक रूप से कभी संबंधित नहीं रहीं, एक ही पृष्ठ पर मिल सकती हैं और एक ऐसा तनाव उत्पन्न कर सकती हैं जो ज्ञान उत्पन्न करने में सक्षम हो। यह ज़रूरी नहीं कि किसी संबंध की व्याख्या करना हो, बल्कि उसके प्रकट होने को उकसाना हो।"
+      },
+      {
+        "es": "La página se convierte así en una constelación.",
+        "en": "The page thus becomes a constellation.",
+        "de": "Die Seite wird so zu einer Konstellation.",
+        "ko": "이렇게 페이지는 하나의 성좌가 된다.",
+        "ja": "こうしてページは一つの星座となる。",
+        "zh": "页面就这样成为一个星丛。",
+        "hi": "इस तरह पृष्ठ एक नक्षत्र बन जाता है।"
+      },
+      {
+        "es": "Cada fragmento funciona como un punto dentro de un sistema de relaciones provisional.",
+        "en": "Each fragment functions as a point within a provisional system of relations.",
+        "de": "Jedes Fragment fungiert als Punkt innerhalb eines vorläufigen Beziehungssystems.",
+        "ko": "각각의 조각은 잠정적인 관계 체계 안의 한 점으로 기능한다.",
+        "ja": "断片はそれぞれ、暫定的な関係のシステムの中の一点として機能する。",
+        "zh": "每一个碎片都作为一个临时关系系统中的一个点在起作用。",
+        "hi": "हर टुकड़ा एक अस्थायी संबंध-तंत्र के भीतर एक बिंदु की तरह कार्य करता है।"
+      },
+      {
+        "es": "Nada está definitivamente cerrado.",
+        "en": "Nothing is definitively closed.",
+        "de": "Nichts ist endgültig abgeschlossen.",
+        "ko": "그 무엇도 결정적으로 닫혀 있지 않다.",
+        "ja": "何ものも決定的に閉じられてはいない。",
+        "zh": "没有什么是最终封闭的。",
+        "hi": "कुछ भी निश्चित रूप से बंद नहीं है।"
+      },
+      {
+        "es": "Por eso, los cuadernos de Modernismo Anacrónico pueden entenderse como archivos activos. No son simplemente lugares donde se conservan imágenes, sino espacios donde las imágenes son sometidas continuamente a nuevas asociaciones.",
+        "en": "This is why the notebooks of Modernismo Anacrónico can be understood as active archives. They are not simply places where images are kept, but spaces where images are continually subjected to new associations.",
+        "de": "Deshalb können die Hefte von Modernismo Anacrónico als aktive Archive verstanden werden. Sie sind nicht einfach Orte, an denen Bilder aufbewahrt werden, sondern Räume, in denen Bilder fortwährend neuen Assoziationen unterzogen werden.",
+        "ko": "그래서 「Modernismo Anacrónico」의 노트들은 활성화된 아카이브로 이해될 수 있다. 그것은 단순히 이미지를 보관하는 장소가 아니라, 이미지가 끊임없이 새로운 연상에 노출되는 공간이다.",
+        "ja": "だからこそ、「Modernismo Anacrónico」のノートは、能動的なアーカイブとして理解することができる。それは単にイメージが保存される場所ではなく、イメージが絶えず新たな連想にさらされる空間なのである。",
+        "zh": "正因如此，《Modernismo Anacrónico》的手稿本可以被理解为一种活跃的档案。它们不只是保存图像的地方，而是图像不断经受新联想的空间。",
+        "hi": "इसीलिए, Modernismo Anacrónico की नोटबुकों को सक्रिय पुरालेखों के रूप में समझा जा सकता है। ये केवल वे जगहें नहीं हैं जहाँ छवियाँ संरक्षित की जाती हैं, बल्कि वे स्थान हैं जहाँ छवियाँ निरंतर नए जुड़ावों के अधीन रहती हैं।"
+      },
+      {
+        "es": "El archivo tradicional busca clasificar.",
+        "en": "The traditional archive seeks to classify.",
+        "de": "Das traditionelle Archiv strebt nach Klassifizierung.",
+        "ko": "전통적인 아카이브는 분류를 추구한다.",
+        "ja": "伝統的なアーカイブは分類を求める。",
+        "zh": "传统档案追求分类。",
+        "hi": "पारंपरिक पुरालेख वर्गीकरण करना चाहता है।"
+      },
+      {
+        "es": "El collage desclasifica.",
+        "en": "Collage declassifies.",
+        "de": "Die Collage entklassifiziert.",
+        "ko": "콜라주는 그 분류를 해체한다.",
+        "ja": "コラージュは分類を解く。",
+        "zh": "拼贴则去分类。",
+        "hi": "कोलाज उस वर्गीकरण को तोड़ता है।"
+      },
+      {
+        "es": "El archivo intenta preservar un orden.",
+        "en": "The archive tries to preserve an order.",
+        "de": "Das Archiv versucht, eine Ordnung zu bewahren.",
+        "ko": "아카이브는 질서를 보존하려 한다.",
+        "ja": "アーカイブは秩序を保とうとする。",
+        "zh": "档案试图保持一种秩序。",
+        "hi": "पुरालेख एक व्यवस्था को बनाए रखने का प्रयास करता है।"
+      },
+      {
+        "es": "El collage introduce accidentes dentro de ese orden.",
+        "en": "Collage introduces accidents within that order.",
+        "de": "Die Collage bringt Zufälle in diese Ordnung ein.",
+        "ko": "콜라주는 그 질서 안에 우연을 끌어들인다.",
+        "ja": "コラージュはその秩序の中に偶発性を持ち込む。",
+        "zh": "拼贴则在这种秩序中引入意外。",
+        "hi": "कोलाज उस व्यवस्था के भीतर दुर्घटनाएँ पेश करता है।"
+      },
+      {
+        "es": "Pero esa desorganización no implica ausencia de pensamiento. Existe una lógica intuitiva, visual y conceptual que articula las asociaciones. El artista reconoce correspondencias entre formas, escalas, gestos, vacíos, arquitecturas, cuerpos, paisajes y objetos que pertenecían originalmente a universos distintos.",
+        "en": "But this disorganization does not imply an absence of thought. There is an intuitive, visual, and conceptual logic that articulates the associations. The artist recognizes correspondences between forms, scales, gestures, voids, buildings, bodies, landscapes, and objects that originally belonged to distinct universes.",
+        "de": "Doch diese Desorganisation bedeutet keine Abwesenheit von Denken. Es gibt eine intuitive, visuelle und konzeptuelle Logik, die die Assoziationen artikuliert. Der Künstler erkennt Entsprechungen zwischen Formen, Maßstäben, Gesten, Leerstellen, Architekturen, Körpern, Landschaften und Objekten, die ursprünglich verschiedenen Universen angehörten.",
+        "ko": "그러나 이러한 무질서가 사유의 부재를 뜻하지는 않는다. 연상들을 조율하는 직관적이고 시각적이며 개념적인 논리가 존재한다. 작가는 원래 서로 다른 세계에 속해 있던 형태, 규모, 몸짓, 공백, 건축, 신체, 풍경, 사물들 사이의 상응을 알아본다.",
+        "ja": "しかしこの無秩序は思考の不在を意味しない。連想を組み立てる直感的で視覚的、かつ概念的な論理が存在する。作家は、もともと異なる宇宙に属していた形態、スケール、身振り、空白、建築、身体、風景、物体の間の対応関係を見出す。",
+        "zh": "但这种无序并不意味着思想的缺席。存在着一种直觉的、视觉的、概念性的逻辑，将这些联想组织起来。艺术家辨识出形式、尺度、姿态、空白、建筑、身体、风景与物件之间的对应关系——它们原本分属于不同的世界。",
+        "hi": "लेकिन यह अव्यवस्था विचार की अनुपस्थिति नहीं दर्शाती। एक सहज, दृश्य और वैचारिक तर्क है जो इन जुड़ावों को व्यवस्थित करता है। कलाकार रूपों, पैमानों, भाव-भंगिमाओं, रिक्तताओं, वास्तुकलाओं, देहों, परिदृश्यों और वस्तुओं के बीच पत्राचार को पहचानता है, जो मूलतः भिन्न-भिन्न लोकों से संबंधित थे।"
+      },
+      {
+        "es": "La mirada funciona entonces como un dispositivo de montaje.",
+        "en": "The gaze then functions as a device of montage.",
+        "de": "Der Blick funktioniert dann als ein Montage-Dispositiv.",
+        "ko": "그리하여 시선은 몽타주의 장치로 기능한다.",
+        "ja": "こうして眼差しは、モンタージュの装置として機能する。",
+        "zh": "目光由此成为一种蒙太奇装置。",
+        "hi": "इस तरह दृष्टि मोंताज के एक उपकरण की तरह काम करती है।"
+      },
+      {
+        "es": "Y es precisamente el montaje el que permite producir una realidad alternativa.",
+        "en": "And it is precisely montage that allows an alternative reality to be produced.",
+        "de": "Und es ist genau die Montage, die es ermöglicht, eine alternative Realität zu erzeugen.",
+        "ko": "그리고 바로 이 몽타주야말로 대안적 현실을 생산할 수 있게 해준다.",
+        "ja": "そして、まさにこのモンタージュこそが、もう一つの現実を生み出すことを可能にする。",
+        "zh": "而正是蒙太奇，使得生产一种另类现实成为可能。",
+        "hi": "और यह ठीक मोंताज ही है जो एक वैकल्पिक यथार्थ को उत्पन्न करने की अनुमति देता है।"
+      },
+      {
+        "es": "Una imagen junto a otra puede establecer una relación política.",
+        "en": "One image next to another can establish a political relationship.",
+        "de": "Ein Bild neben einem anderen kann eine politische Beziehung herstellen.",
+        "ko": "나란히 놓인 두 이미지는 정치적 관계를 형성할 수 있다.",
+        "ja": "あるイメージが別のイメージと並ぶことで、政治的な関係が成立しうる。",
+        "zh": "一幅图像与另一幅并置，可以建立一种政治关系。",
+        "hi": "एक छवि दूसरी के साथ रखे जाने पर एक राजनीतिक संबंध स्थापित कर सकती है।"
+      },
+      {
+        "es": "Una escala alterada puede transformar una arquitectura en organismo.",
+        "en": "An altered scale can transform a building into an organism.",
+        "de": "Ein veränderter Maßstab kann eine Architektur in einen Organismus verwandeln.",
+        "ko": "규모가 바뀌면 건축은 유기체로 변할 수 있다.",
+        "ja": "スケールが変えられることで、建築が有機体へと変容することがある。",
+        "zh": "被改变的尺度可以把一座建筑变成一个有机体。",
+        "hi": "बदला हुआ पैमाना किसी वास्तुकला को एक जीव में बदल सकता है।"
+      },
+      {
+        "es": "Un cuerpo puede convertirse en paisaje.",
+        "en": "A body can become a landscape.",
+        "de": "Ein Körper kann zur Landschaft werden.",
+        "ko": "신체는 풍경이 될 수 있다.",
+        "ja": "身体が風景となることもある。",
+        "zh": "一具身体可以变成一片风景。",
+        "hi": "एक देह एक परिदृश्य बन सकती है।"
+      },
+      {
+        "es": "Una obra de arte puede abandonar el museo y comenzar a relacionarse con una fotografía doméstica.",
+        "en": "A work of art can leave the museum and begin to relate to a domestic photograph.",
+        "de": "Ein Kunstwerk kann das Museum verlassen und beginnen, sich zu einer häuslichen Fotografie in Beziehung zu setzen.",
+        "ko": "예술 작품은 미술관을 떠나 가정의 사진과 관계를 맺기 시작할 수 있다.",
+        "ja": "芸術作品が美術館を離れ、家庭内の写真と関係を結び始めることもある。",
+        "zh": "一件艺术品可以离开美术馆，开始与一张家庭照片建立关系。",
+        "hi": "एक कलाकृति संग्रहालय को छोड़कर एक घरेलू तस्वीर से संबंध बनाना शुरू कर सकती है।"
+      },
+      {
+        "es": "Una geometría modernista puede aparecer como ruina de una promesa histórica.",
+        "en": "A modernist geometry can appear as the ruin of a historical promise.",
+        "de": "Eine modernistische Geometrie kann als Ruine eines historischen Versprechens erscheinen.",
+        "ko": "모더니즘적 기하학은 역사적 약속의 폐허로 나타날 수 있다.",
+        "ja": "モダニズムの幾何学が、歴史的な約束の廃墟として現れることもある。",
+        "zh": "一种现代主义的几何形式，可能作为一种历史承诺的废墟出现。",
+        "hi": "एक आधुनिकतावादी ज्यामिति किसी ऐतिहासिक वादे के खंडहर के रूप में प्रकट हो सकती है।"
+      },
+      {
+        "es": "De esta manera, Modernismo Anacrónico también establece una conversación crítica con la propia modernidad.",
+        "en": "In this way, Modernismo Anacrónico also establishes a critical conversation with modernity itself.",
+        "de": "Auf diese Weise führt Modernismo Anacrónico auch ein kritisches Gespräch mit der Moderne selbst.",
+        "ko": "이렇게 「Modernismo Anacrónico」는 모더니티 그 자체와도 비판적인 대화를 나눈다.",
+        "ja": "このようにして「Modernismo Anacrónico」は、モダニティそのものとの批評的な対話をも打ち立てる。",
+        "zh": "通过这种方式，《Modernismo Anacrónico》也与现代性本身建立起一场批判性的对话。",
+        "hi": "इस तरह, Modernismo Anacrónico स्वयं आधुनिकता के साथ भी एक आलोचनात्मक संवाद स्थापित करता है।"
+      },
+      {
+        "es": "El modernismo construyó numerosos relatos alrededor de la idea de progreso, transformación, ruptura y futuro. Sin embargo, muchas de aquellas utopías aparecen hoy convertidas en patrimonio, mercancía cultural, objeto de colección o imagen reproducida dentro de catálogos.",
+        "en": "Modernism built numerous narratives around the idea of progress, transformation, rupture, and the future. However, many of those utopias now appear turned into heritage, cultural merchandise, collectible objects, or images reproduced within catalogs.",
+        "de": "Die Moderne errichtete zahlreiche Erzählungen um die Idee von Fortschritt, Transformation, Bruch und Zukunft. Viele jener Utopien erscheinen heute jedoch verwandelt in Erbe, Kulturware, Sammlerobjekt oder in Katalogen reproduziertes Bild.",
+        "ko": "모더니즘은 진보, 변혁, 단절, 미래라는 관념을 중심으로 수많은 서사를 구축했다. 그러나 그 유토피아들 중 많은 것들이 오늘날 문화유산, 문화 상품, 수집품, 혹은 카탈로그 안에 복제된 이미지로 바뀌어 있다.",
+        "ja": "モダニズムは進歩、変革、断絶、そして未来という観念をめぐって数多くの物語を築いた。しかし、そうしたユートピアの多くは今日、遺産、文化商品、コレクションの対象、あるいはカタログの中に複製されたイメージへと変わってしまっている。",
+        "zh": "现代主义围绕进步、变革、断裂与未来的观念，构筑了众多叙事。然而，如今许多那样的乌托邦已然变成了遗产、文化商品、收藏品，或是被复制在画册中的图像。",
+        "hi": "आधुनिकतावाद ने प्रगति, रूपांतरण, विच्छेद और भविष्य के विचार के इर्द-गिर्द अनेक कथाएँ रचीं। फिर भी, उन यूटोपियाओं में से कई आज विरासत, सांस्कृतिक वस्तु, संग्रहणीय वस्तु या कैटलॉगों में पुनरुत्पादित छवि बनकर सामने आती हैं।"
+      },
+      {
+        "es": "El collage vuelve a intervenirlas.",
+        "en": "Collage intervenes upon them once again.",
+        "de": "Die Collage greift erneut in sie ein.",
+        "ko": "콜라주는 그것들에 다시 개입한다.",
+        "ja": "コラージュはそれらに再び介入する。",
+        "zh": "拼贴再次介入它们。",
+        "hi": "कोलाज एक बार फिर उनमें हस्तक्षेप करता है।"
+      },
+      {
+        "es": "Las libera momentáneamente del sistema que las clasifica y las coloca nuevamente en circulación.",
+        "en": "It momentarily frees them from the system that classifies them and puts them back into circulation.",
+        "de": "Sie befreit sie momentan von dem System, das sie klassifiziert, und bringt sie erneut in Umlauf.",
+        "ko": "그것들을 분류하는 체계로부터 순간적으로 해방시켜 다시 유통 속으로 되돌려놓는다.",
+        "ja": "それらを分類する体系から一時的に解き放ち、再び流通の中に戻す。",
+        "zh": "它暂时将它们从分类系统中解放出来，重新使其流通。",
+        "hi": "यह उन्हें उस प्रणाली से क्षण भर के लिए मुक्त कर देता है जो उन्हें वर्गीकृत करती है, और उन्हें फिर से प्रचलन में डाल देता है।"
+      },
+      {
+        "es": "Pero ahora aparecen contaminadas por otras épocas.",
+        "en": "But now they appear contaminated by other eras.",
+        "de": "Aber jetzt erscheinen sie kontaminiert von anderen Epochen.",
+        "ko": "그러나 이제 그것들은 다른 시대들에 오염된 채로 나타난다.",
+        "ja": "しかし今や、それらは他の時代によって汚染されて現れる。",
+        "zh": "但如今，它们已被其他时代所污染。",
+        "hi": "पर अब वे अन्य युगों से संदूषित होकर सामने आती हैं।"
+      },
+      {
+        "es": "El modernismo ya no pertenece exclusivamente a la modernidad.",
+        "en": "Modernism no longer belongs exclusively to modernity.",
+        "de": "Der Modernismus gehört nicht mehr ausschließlich der Moderne an.",
+        "ko": "모더니즘은 더 이상 모더니티에만 속하지 않는다.",
+        "ja": "モダニズムはもはやモダニティにのみ属するものではない。",
+        "zh": "现代主义不再仅仅属于现代性。",
+        "hi": "आधुनिकतावाद अब पूरी तरह आधुनिकता से संबंधित नहीं रह जाता।"
+      },
+      {
+        "es": "Se transforma en material contemporáneo.",
+        "en": "It transforms into contemporary material.",
+        "de": "Er verwandelt sich in zeitgenössisches Material.",
+        "ko": "그것은 동시대적 재료로 변형된다.",
+        "ja": "それは現代の素材へと変容する。",
+        "zh": "它转化为当代的材料。",
+        "hi": "यह समकालीन सामग्री में रूपांतरित हो जाता है।"
+      },
+      {
+        "es": "De allí surge la paradoja contenida en el título: un modernismo que sobrevive a su propio tiempo.",
+        "en": "From this arises the paradox contained in the title: a modernism that survives its own time.",
+        "de": "Daraus entsteht das im Titel enthaltene Paradox: ein Modernismus, der seine eigene Zeit überlebt.",
+        "ko": "여기서 제목에 담긴 역설이 발생한다. 자신의 시대를 넘어 살아남는 모더니즘이라는 역설이다.",
+        "ja": "そこから、タイトルに込められたパラドックスが生まれる。すなわち、自らの時代を生き延びるモダニズムという逆説である。",
+        "zh": "由此产生了标题中蕴含的悖论：一种存活于自身时代之后的现代主义。",
+        "hi": "यहीं से शीर्षक में निहित विरोधाभास उत्पन्न होता है: एक ऐसा आधुनिकतावाद जो अपने ही समय से आगे जीवित रहता है।"
+      },
+      {
+        "es": "Hay, además, una dimensión física importante en esta práctica.",
+        "en": "There is, moreover, an important physical dimension to this practice.",
+        "de": "Zudem gibt es eine wichtige physische Dimension in dieser Praxis.",
+        "ko": "게다가 이 실천에는 중요한 물리적 차원이 존재한다.",
+        "ja": "さらに、この実践には重要な物理的次元がある。",
+        "zh": "此外，这一实践还有一个重要的物理维度。",
+        "hi": "इसके अलावा, इस अभ्यास में एक महत्वपूर्ण भौतिक आयाम भी है।"
+      },
+      {
+        "es": "En una época dominada por imágenes digitales, desplazamientos instantáneos y archivos aparentemente infinitos, el acto de trabajar con papel introduce otra relación con el tiempo.",
+        "en": "In an era dominated by digital images, instantaneous displacements, and seemingly infinite archives, the act of working with paper introduces another relationship with time.",
+        "de": "In einer Zeit, die von digitalen Bildern, sofortigen Verschiebungen und scheinbar unendlichen Archiven beherrscht wird, führt die Arbeit mit Papier eine andere Beziehung zur Zeit ein.",
+        "ko": "디지털 이미지와 즉각적인 이동, 그리고 무한해 보이는 아카이브가 지배하는 시대에, 종이로 작업하는 행위는 시간과의 또 다른 관계를 도입한다.",
+        "ja": "デジタル・イメージと瞬時の移動、そして見かけ上無限のアーカイブに支配された時代において、紙で作業するという行為は、時間との別の関係をもたらす。",
+        "zh": "在一个由数字图像、瞬时位移与看似无穷的档案所主导的时代，用纸张工作的行为，引入了与时间的另一种关系。",
+        "hi": "डिजिटल छवियों, तात्कालिक विस्थापनों और प्रतीत होने वाले अनंत पुरालेखों के प्रभुत्व वाले युग में, कागज़ के साथ काम करने की क्रिया समय के साथ एक अलग संबंध स्थापित करती है।"
+      },
+      {
+        "es": "Buscar. Seleccionar. Cortar. Separar. Mover. Probar. Superponer. Pegar.",
+        "en": "To search. To select. To cut. To separate. To move. To try. To superimpose. To paste.",
+        "de": "Suchen. Auswählen. Schneiden. Trennen. Bewegen. Ausprobieren. Überlagern. Kleben.",
+        "ko": "찾는다. 고른다. 자른다. 분리한다. 옮긴다. 시도한다. 겹친다. 붙인다.",
+        "ja": "探す。選ぶ。切る。分ける。動かす。試す。重ねる。貼る。",
+        "zh": "寻找。挑选。剪切。分离。移动。尝试。叠加。粘贴。",
+        "hi": "खोजना। चुनना। काटना। अलग करना। हिलाना। आज़माना। अध्यारोपित करना। चिपकाना।"
+      },
+      {
+        "es": "Volver a mirar.",
+        "en": "To look again.",
+        "de": "Erneut hinsehen.",
+        "ko": "다시 바라본다.",
+        "ja": "再び見る。",
+        "zh": "重新观看。",
+        "hi": "फिर से देखना।"
+      },
+      {
+        "es": "La construcción del collage obliga a una desaceleración.",
+        "en": "The construction of collage compels a slowing down.",
+        "de": "Der Aufbau der Collage erzwingt eine Verlangsamung.",
+        "ko": "콜라주의 구축은 감속을 강제한다.",
+        "ja": "コラージュを構築するという行為は、減速を強いる。",
+        "zh": "拼贴的构建迫使人放慢速度。",
+        "hi": "कोलाज का निर्माण एक मंदन को बाध्य करता है।"
+      },
+      {
+        "es": "La imagen deja de ser únicamente algo observado sobre una pantalla para convertirse nuevamente en materia.",
+        "en": "The image ceases to be merely something observed on a screen and becomes matter once again.",
+        "de": "Das Bild hört auf, nur etwas zu sein, das auf einem Bildschirm betrachtet wird, und wird erneut zu Materie.",
+        "ko": "이미지는 더 이상 화면 위에서 관찰되기만 하는 것이 아니라, 다시금 물질이 된다.",
+        "ja": "イメージは、単に画面上で見られるものであることをやめ、再び物質となる。",
+        "zh": "图像不再仅仅是屏幕上被观看的东西，它重新变回了物质。",
+        "hi": "छवि केवल एक स्क्रीन पर देखी जाने वाली चीज़ होना छोड़कर पुनः पदार्थ बन जाती है।"
+      },
+      {
+        "es": "Tiene peso.",
+        "en": "It has weight.",
+        "de": "Sie hat Gewicht.",
+        "ko": "무게를 지닌다.",
+        "ja": "重さを持つ。",
+        "zh": "它有重量。",
+        "hi": "उसका भार है।"
+      },
+      {
+        "es": "Tiene borde.",
+        "en": "It has an edge.",
+        "de": "Sie hat einen Rand.",
+        "ko": "가장자리를 지닌다.",
+        "ja": "縁を持つ。",
+        "zh": "它有边缘。",
+        "hi": "उसका किनारा है।"
+      },
+      {
+        "es": "Tiene textura.",
+        "en": "It has texture.",
+        "de": "Sie hat Textur.",
+        "ko": "질감을 지닌다.",
+        "ja": "質感を持つ。",
+        "zh": "它有质感。",
+        "hi": "उसकी बनावट है।"
+      },
+      {
+        "es": "Puede romperse.",
+        "en": "It can break.",
+        "de": "Sie kann zerbrechen.",
+        "ko": "찢어질 수 있다.",
+        "ja": "破れることがある。",
+        "zh": "它可能破碎。",
+        "hi": "वह टूट सकता है।"
+      },
+      {
+        "es": "Puede desaparecer.",
+        "en": "It can disappear.",
+        "de": "Sie kann verschwinden.",
+        "ko": "사라질 수 있다.",
+        "ja": "消え去ることがある。",
+        "zh": "它可能消失。",
+        "hi": "वह लुप्त हो सकता है।"
+      },
+      {
+        "es": "Puede ser transformada de manera irreversible.",
+        "en": "It can be transformed irreversibly.",
+        "de": "Sie kann unumkehrbar verändert werden.",
+        "ko": "돌이킬 수 없이 변형될 수 있다.",
+        "ja": "不可逆的に変容させられることがある。",
+        "zh": "它可能被不可逆转地改变。",
+        "hi": "वह अपरिवर्तनीय रूप से रूपांतरित किया जा सकता है।"
+      },
+      {
+        "es": "Esa dimensión manual convierte al collage en una especie de resistencia frente a la velocidad contemporánea de circulación visual.",
+        "en": "This manual dimension turns collage into a kind of resistance against the contemporary speed of visual circulation.",
+        "de": "Diese manuelle Dimension macht die Collage zu einer Art Widerstand gegen die zeitgenössische Geschwindigkeit der visuellen Zirkulation.",
+        "ko": "이 수작업적 차원은 콜라주를 시각적 순환의 동시대적 속도에 맞서는 일종의 저항으로 만든다.",
+        "ja": "この手作業的な次元こそが、コラージュを、視覚的循環の現代的な速度に対する一種の抵抗たらしめる。",
+        "zh": "这种手工的维度，使拼贴成为对抗当代视觉流通速度的一种抵抗形式。",
+        "hi": "यह हस्तचालित आयाम कोलाज को दृश्य संचरण की समकालीन गति के विरुद्ध एक प्रकार का प्रतिरोध बना देता है।"
+      },
+      {
+        "es": "La imagen encontrada deja de ser consumida inmediatamente. Es detenida.",
+        "en": "The found image ceases to be consumed immediately. It is stopped.",
+        "de": "Das gefundene Bild wird nicht mehr sofort konsumiert. Es wird angehalten.",
+        "ko": "발견된 이미지는 더 이상 즉각적으로 소비되지 않는다. 그것은 멈춰 세워진다.",
+        "ja": "見出されたイメージは、もはや即座に消費されることをやめる。それは立ち止まらせられる。",
+        "zh": "被发现的图像不再被立即消费。它被停下来了。",
+        "hi": "पाई गई छवि तत्काल उपभोग की जानी बंद हो जाती है। उसे रोक दिया जाता है।"
+      },
+      {
+        "es": "Interrogada.",
+        "en": "Interrogated.",
+        "de": "Befragt.",
+        "ko": "질문받는다.",
+        "ja": "問い質される。",
+        "zh": "被质询。",
+        "hi": "प्रश्नांकित।"
+      },
+      {
+        "es": "Fragmentada.",
+        "en": "Fragmented.",
+        "de": "Fragmentiert.",
+        "ko": "파편화된다.",
+        "ja": "断片化される。",
+        "zh": "被碎片化。",
+        "hi": "खंडित।"
+      },
+      {
+        "es": "Y finalmente reincorporada al mundo bajo otra condición.",
+        "en": "And finally reincorporated into the world under another condition.",
+        "de": "Und schließlich unter einer anderen Bedingung wieder in die Welt eingegliedert.",
+        "ko": "그리고 마침내 다른 조건 아래 세계 속으로 다시 편입된다.",
+        "ja": "そして最終的に、別の条件のもとで世界へと再び組み込まれる。",
+        "zh": "并最终以另一种状态重新融入世界。",
+        "hi": "और अंततः एक अन्य शर्त के तहत संसार में पुनः शामिल कर दी जाती है।"
+      },
+      {
+        "es": "Por eso, Modernismo Anacrónico no puede entenderse solamente como una investigación formal.",
+        "en": "This is why Modernismo Anacrónico cannot be understood solely as a formal investigation.",
+        "de": "Deshalb kann Modernismo Anacrónico nicht allein als formale Untersuchung verstanden werden.",
+        "ko": "그렇기에 「Modernismo Anacrónico」는 단지 형식적 탐구로만 이해될 수 없다.",
+        "ja": "だからこそ、「Modernismo Anacrónico」は単なる形式的探求としてのみ理解することはできない。",
+        "zh": "正因如此，《Modernismo Anacrónico》不能仅仅被理解为一种形式上的研究。",
+        "hi": "इसीलिए, Modernismo Anacrónico को केवल एक औपचारिक शोध के रूप में नहीं समझा जा सकता।"
+      },
+      {
+        "es": "Existe también una pregunta sobre la memoria.",
+        "en": "There is also a question about memory.",
+        "de": "Es gibt auch eine Frage nach dem Gedächtnis.",
+        "ko": "거기에는 기억에 관한 질문도 존재한다.",
+        "ja": "そこには記憶についての問いも存在する。",
+        "zh": "其中也存在一个关于记忆的问题。",
+        "hi": "इसमें स्मृति को लेकर भी एक प्रश्न है।"
+      },
+      {
+        "es": "¿Qué sucede con todas las imágenes que hemos visto? ¿Dónde permanecen?",
+        "en": "What happens to all the images we have seen? Where do they remain?",
+        "de": "Was geschieht mit all den Bildern, die wir gesehen haben? Wo bleiben sie?",
+        "ko": "우리가 보아온 모든 이미지들에는 무슨 일이 일어나는가? 그것들은 어디에 남아 있는가?",
+        "ja": "私たちが見てきたすべてのイメージには何が起こるのか。それらはどこに留まっているのか。",
+        "zh": "我们所看过的所有图像都发生了什么？它们留存在哪里？",
+        "hi": "हमने जितनी भी छवियाँ देखी हैं, उन सबका क्या होता है? वे कहाँ बनी रहती हैं?"
+      },
+      {
+        "es": "¿De qué manera participan en nuestra comprensión del presente?",
+        "en": "In what way do they take part in our understanding of the present?",
+        "de": "In welcher Weise wirken sie an unserem Verständnis der Gegenwart mit?",
+        "ko": "그것들은 우리의 현재에 대한 이해에 어떤 방식으로 관여하는가?",
+        "ja": "それらは、私たちが現在を理解するうえで、どのように関わっているのか。",
+        "zh": "它们又以何种方式参与了我们对当下的理解？",
+        "hi": "वे किस तरह हमारी वर्तमान की समझ में भाग लेती हैं?"
+      },
+      {
+        "es": "Probablemente nuestra memoria funcione de forma semejante a estos collages. No recordamos la realidad como una película continua. Recordamos fragmentos: un espacio, un rostro, una conversación, una textura, un sonido, una arquitectura, una pérdida.",
+        "en": "Our memory probably functions in a way similar to these collages. We do not remember reality as a continuous film. We remember fragments: a space, a face, a conversation, a texture, a sound, a building, a loss.",
+        "de": "Vermutlich funktioniert unser Gedächtnis ähnlich wie diese Collagen. Wir erinnern uns an die Wirklichkeit nicht als durchgehenden Film. Wir erinnern uns an Fragmente: einen Raum, ein Gesicht, ein Gespräch, eine Textur, einen Klang, eine Architektur, einen Verlust.",
+        "ko": "아마도 우리의 기억은 이 콜라주들과 비슷한 방식으로 작동할 것이다. 우리는 현실을 연속된 필름처럼 기억하지 않는다. 우리는 파편들을 기억한다. 하나의 공간, 하나의 얼굴, 하나의 대화, 하나의 질감, 하나의 소리, 하나의 건축, 하나의 상실.",
+        "ja": "おそらく私たちの記憶は、これらのコラージュと似た形で機能している。私たちは現実を連続したフィルムとして記憶しているのではない。私たちが記憶するのは断片である。ある空間、ある顔、ある会話、ある質感、ある音、ある建築、ある喪失。",
+        "zh": "我们的记忆或许正以类似这些拼贴的方式运作。我们并非将现实作为一部连续的影片来记忆。我们记住的是碎片：一个空间、一张面孔、一段对话、一种质感、一种声音、一座建筑、一场失去。",
+        "hi": "संभवतः हमारी स्मृति इन कोलाजों की तरह ही काम करती है। हम यथार्थ को एक निरंतर चलती फ़िल्म की तरह याद नहीं रखते। हम टुकड़े याद रखते हैं: एक स्थान, एक चेहरा, एक बातचीत, एक बनावट, एक ध्वनि, एक वास्तुकला, एक क्षति।"
+      },
+      {
+        "es": "La memoria también edita.",
+        "en": "Memory also edits.",
+        "de": "Auch das Gedächtnis schneidet.",
+        "ko": "기억 또한 편집한다.",
+        "ja": "記憶もまた編集する。",
+        "zh": "记忆也在编辑。",
+        "hi": "स्मृति भी संपादन करती है।"
+      },
+      {
+        "es": "La memoria también recorta.",
+        "en": "Memory also cuts.",
+        "de": "Auch das Gedächtnis schneidet aus.",
+        "ko": "기억 또한 잘라낸다.",
+        "ja": "記憶もまた切り取る。",
+        "zh": "记忆也在剪切。",
+        "hi": "स्मृति भी काटती है।"
+      },
+      {
+        "es": "La memoria también superpone.",
+        "en": "Memory also superimposes.",
+        "de": "Auch das Gedächtnis überlagert.",
+        "ko": "기억 또한 겹쳐놓는다.",
+        "ja": "記憶もまた重ね合わせる。",
+        "zh": "记忆也在叠加。",
+        "hi": "स्मृति भी अध्यारोपित करती है।"
+      },
+      {
+        "es": "Y, sobre todo, la memoria también inventa relaciones entre tiempos diferentes.",
+        "en": "And, above all, memory also invents relations between different times.",
+        "de": "Und vor allem erfindet auch das Gedächtnis Beziehungen zwischen unterschiedlichen Zeiten.",
+        "ko": "그리고 무엇보다도, 기억 또한 서로 다른 시간들 사이의 관계를 만들어낸다.",
+        "ja": "そして何より、記憶もまた異なる時間の間の関係を発明する。",
+        "zh": "而最重要的是，记忆也在发明不同时间之间的关系。",
+        "hi": "और सबसे बढ़कर, स्मृति भी भिन्न समयों के बीच संबंधों का आविष्कार करती है।"
+      },
+      {
+        "es": "Desde esa perspectiva, los cuadernos de Modernismo Anacrónico pueden ser entendidos como mapas de una conciencia visual.",
+        "en": "From that perspective, the notebooks of Modernismo Anacrónico can be understood as maps of a visual consciousness.",
+        "de": "Aus dieser Perspektive können die Hefte von Modernismo Anacrónico als Karten eines visuellen Bewusstseins verstanden werden.",
+        "ko": "이러한 관점에서 「Modernismo Anacrónico」의 노트들은 시각적 의식의 지도로 이해될 수 있다.",
+        "ja": "この観点から見れば、「Modernismo Anacrónico」のノートは、視覚的意識の地図として理解することができる。",
+        "zh": "从这个角度看，《Modernismo Anacrónico》的手稿本可以被理解为一种视觉意识的地图。",
+        "hi": "इस दृष्टिकोण से, Modernismo Anacrónico की नोटबुकों को एक दृश्य चेतना के मानचित्रों के रूप में समझा जा सकता है।"
+      },
+      {
+        "es": "Cada página registra simultáneamente un momento de observación y una decisión.",
+        "en": "Each page simultaneously records a moment of observation and a decision.",
+        "de": "Jede Seite hält gleichzeitig einen Moment der Beobachtung und eine Entscheidung fest.",
+        "ko": "각 페이지는 관찰의 순간과 결정을 동시에 기록한다.",
+        "ja": "各ページは、観察の瞬間と決断とを同時に記録する。",
+        "zh": "每一页都同时记录了一个观察的瞬间和一个决定。",
+        "hi": "हर पृष्ठ एक साथ अवलोकन के एक क्षण और एक निर्णय को दर्ज करता है।"
+      },
+      {
+        "es": "Pero la suma de esas decisiones construye algo mayor: una especie de cartografía del modo en que el artista ha atravesado la cultura visual de su tiempo.",
+        "en": "But the sum of those decisions builds something greater: a kind of cartography of the way the artist has moved through the visual culture of his time.",
+        "de": "Aber die Summe dieser Entscheidungen baut etwas Größeres auf: eine Art Kartografie der Art und Weise, wie der Künstler die visuelle Kultur seiner Zeit durchquert hat.",
+        "ko": "그러나 그러한 결정들의 총합은 더 큰 무언가를 구축한다. 작가가 자기 시대의 시각 문화를 통과해온 방식에 대한 일종의 지도 제작이다.",
+        "ja": "しかし、それらの決断の総和は、より大きな何かを築き上げる。それは、作家が自らの時代の視覚文化をどのように横断してきたかについての、一種の地図作成なのである。",
+        "zh": "但这些决定的总和构筑出更宏大的东西：一种关于艺术家如何穿越其时代视觉文化的绘图学。",
+        "hi": "लेकिन उन निर्णयों का योग कुछ बड़ा रच देता है: एक प्रकार का मानचित्रण, जो दिखाता है कि कलाकार ने अपने समय की दृश्य संस्कृति से किस तरह होकर यात्रा की है।"
+      },
+      {
+        "es": "No existe aquí una separación definitiva entre historia personal e historia del arte.",
+        "en": "There is no definitive separation here between personal history and art history.",
+        "de": "Es gibt hier keine endgültige Trennung zwischen persönlicher Geschichte und Kunstgeschichte.",
+        "ko": "여기에는 개인사와 미술사 사이의 결정적인 구분이 존재하지 않는다.",
+        "ja": "ここには、個人史と美術史との間の決定的な分離は存在しない。",
+        "zh": "在这里，个人历史与艺术史之间并没有一条明确的分界线。",
+        "hi": "यहाँ व्यक्तिगत इतिहास और कला के इतिहास के बीच कोई निश्चायक विभाजन नहीं है।"
+      },
+      {
+        "es": "Ambas se contaminan.",
+        "en": "Both contaminate one another.",
+        "de": "Beide kontaminieren sich gegenseitig.",
+        "ko": "둘은 서로를 오염시킨다.",
+        "ja": "両者は互いを汚染し合う。",
+        "zh": "两者相互污染。",
+        "hi": "दोनों एक-दूसरे को संदूषित करते हैं।"
+      },
+      {
+        "es": "Las imágenes procedentes de catálogos, libros, fotografías y publicaciones dejan de ser documentos externos para incorporarse a una biografía visual.",
+        "en": "Images taken from catalogs, books, photographs, and publications cease to be external documents and become incorporated into a visual biography.",
+        "de": "Die Bilder aus Katalogen, Büchern, Fotografien und Publikationen hören auf, externe Dokumente zu sein, und werden Teil einer visuellen Biografie.",
+        "ko": "카탈로그, 책, 사진, 출판물에서 가져온 이미지들은 더 이상 외부의 문서가 아니라 시각적 전기의 일부가 된다.",
+        "ja": "カタログ、書籍、写真、出版物から取られたイメージは、もはや外部の文書ではなくなり、視覚的な伝記の一部として組み込まれる。",
+        "zh": "取自画册、书籍、照片与出版物的图像，不再是外部的文献，而被纳入一部视觉传记之中。",
+        "hi": "कैटलॉग, किताबों, तस्वीरों और प्रकाशनों से आई छवियाँ बाहरी दस्तावेज़ होना छोड़कर एक दृश्य जीवनी में समाहित हो जाती हैं।"
+      },
+      {
+        "es": "El archivo colectivo entra en contacto con la experiencia individual.",
+        "en": "The collective archive comes into contact with individual experience.",
+        "de": "Das kollektive Archiv tritt in Kontakt mit der individuellen Erfahrung.",
+        "ko": "집단적 아카이브는 개인적 경험과 접촉한다.",
+        "ja": "集合的なアーカイブが、個人の経験と接触する。",
+        "zh": "集体档案与个体经验发生了接触。",
+        "hi": "सामूहिक पुरालेख व्यक्तिगत अनुभव के संपर्क में आता है।"
+      },
+      {
+        "es": "En esa intersección aparece una de las dimensiones más profundas del proyecto.",
+        "en": "At that intersection appears one of the deepest dimensions of the project.",
+        "de": "An diesem Schnittpunkt zeigt sich eine der tiefsten Dimensionen des Projekts.",
+        "ko": "그 교차점에서 이 프로젝트의 가장 깊은 차원 중 하나가 나타난다.",
+        "ja": "その交差点において、このプロジェクトの最も深い次元の一つが現れる。",
+        "zh": "在这个交汇点上，浮现出这个项目最深层的维度之一。",
+        "hi": "उसी संगम पर इस परियोजना के सबसे गहन आयामों में से एक प्रकट होता है।"
+      },
+      {
+        "es": "Modernismo Anacrónico propone pensar que nuestra relación con la historia nunca es completamente objetiva. Cada generación vuelve a mirar el pasado desde sus propias urgencias, contradicciones y experiencias.",
+        "en": "Modernismo Anacrónico proposes thinking that our relationship with history is never completely objective. Each generation looks back at the past from its own urgencies, contradictions, and experiences.",
+        "de": "Modernismo Anacrónico schlägt den Gedanken vor, dass unsere Beziehung zur Geschichte nie vollständig objektiv ist. Jede Generation blickt erneut auf die Vergangenheit, ausgehend von ihren eigenen Dringlichkeiten, Widersprüchen und Erfahrungen.",
+        "ko": "「Modernismo Anacrónico」는 역사와 우리의 관계가 결코 완전히 객관적일 수 없다는 사유를 제안한다. 모든 세대는 자신의 절박함과 모순과 경험으로부터 다시금 과거를 바라본다.",
+        "ja": "「Modernismo Anacrónico」は、私たちの歴史との関係が決して完全に客観的ではありえないという思考を提起する。どの世代も、自らの切迫、矛盾、経験から改めて過去を見つめ直すのである。",
+        "zh": "《Modernismo Anacrónico》提出这样一种思考：我们与历史的关系从来都不是完全客观的。每一代人都从自身的紧迫、矛盾与经验出发，重新审视过去。",
+        "hi": "Modernismo Anacrónico यह सोचने का प्रस्ताव रखता है कि इतिहास के साथ हमारा संबंध कभी पूर्णतः वस्तुनिष्ठ नहीं होता। हर पीढ़ी अपनी ही अनिवार्यताओं, अंतर्विरोधों और अनुभवों से अतीत की ओर फिर से देखती है।"
+      },
+      {
+        "es": "Por eso toda lectura histórica contiene algo de montaje. Seleccionamos.",
+        "en": "That is why every historical reading contains something of montage. We select.",
+        "de": "Deshalb enthält jede historische Lesart etwas von Montage. Wir wählen aus.",
+        "ko": "그렇기에 모든 역사적 독해는 몽타주의 요소를 지닌다. 우리는 선택한다.",
+        "ja": "だからこそ、あらゆる歴史的読解にはモンタージュ的な要素が含まれている。私たちは選び取る。",
+        "zh": "正因如此，一切历史性的阅读都带有某种蒙太奇的成分。我们进行选择。",
+        "hi": "इसीलिए हर ऐतिहासिक पठन में मोंताज का कुछ अंश निहित होता है। हम चुनते हैं।"
+      },
+      {
+        "es": "Descartamos.",
+        "en": "We discard.",
+        "de": "Wir verwerfen.",
+        "ko": "버린다.",
+        "ja": "捨てる。",
+        "zh": "我们舍弃。",
+        "hi": "हम त्याग देते हैं।"
+      },
+      {
+        "es": "Relacionamos.",
+        "en": "We relate.",
+        "de": "Wir verknüpfen.",
+        "ko": "관계 짓는다.",
+        "ja": "関係づける。",
+        "zh": "我们建立联系。",
+        "hi": "हम जोड़ते हैं।"
+      },
+      {
+        "es": "Olvidamos.",
+        "en": "We forget.",
+        "de": "Wir vergessen.",
+        "ko": "잊는다.",
+        "ja": "忘れる。",
+        "zh": "我们遗忘。",
+        "hi": "हम भूल जाते हैं।"
+      },
+      {
+        "es": "Reinterpretamos.",
+        "en": "We reinterpret.",
+        "de": "Wir deuten neu.",
+        "ko": "재해석한다.",
+        "ja": "再解釈する。",
+        "zh": "我们重新诠释。",
+        "hi": "हम पुनर्व्याख्या करते हैं।"
+      },
+      {
+        "es": "El collage simplemente hace visible ese mecanismo. Y quizá allí resida su potencia crítica.",
+        "en": "Collage simply makes that mechanism visible. And perhaps that is where its critical power resides.",
+        "de": "Die Collage macht diesen Mechanismus einfach sichtbar. Und vielleicht liegt genau darin ihre kritische Kraft.",
+        "ko": "콜라주는 단지 그 메커니즘을 가시화할 뿐이다. 그리고 아마도 바로 거기에 그것의 비판적 힘이 있을 것이다.",
+        "ja": "コラージュは、単にその機構を可視化するだけである。そしておそらく、そこにこそ、その批評的な力が宿っている。",
+        "zh": "拼贴不过是让这一机制变得可见。而或许，正是在此处，蕴藏着它的批判力量。",
+        "hi": "कोलाज बस उस तंत्र को दृश्यमान बना देता है। और शायद उसी में उसकी आलोचनात्मक शक्ति निहित है।"
+      },
+      {
+        "es": "Al mostrar las costuras, las interrupciones y las incompatibilidades entre las imágenes, Muu Blanco evita construir la ilusión de una historia perfectamente continua.",
+        "en": "By showing the seams, the interruptions, and the incompatibilities between images, Muu Blanco avoids building the illusion of a perfectly continuous history.",
+        "de": "Indem er die Nähte, die Unterbrechungen und die Unvereinbarkeiten zwischen den Bildern sichtbar macht, vermeidet Muu Blanco es, die Illusion einer perfekt durchgehenden Geschichte zu konstruieren.",
+        "ko": "이미지들 사이의 이음매와 단절, 그리고 비양립성을 드러냄으로써, 무 블랑코는 완벽하게 연속된 역사라는 환상을 구축하는 일을 피한다.",
+        "ja": "イメージとイメージの間の縫い目、中断、そして非両立性を示すことによって、ムー・ブランコは完璧に連続した歴史という幻想を築くことを避ける。",
+        "zh": "通过展现图像之间的接缝、断裂与不兼容，穆·布兰科避免了构筑一种完美连续的历史幻象。",
+        "hi": "छवियों के बीच की सिलाइयों, बाधाओं और असंगतियों को दिखाकर, मू ब्लैंको एक पूर्णतः निरंतर इतिहास का भ्रम रचने से बचते हैं।"
+      },
+      {
+        "es": "Lo que aparece es otra cosa:",
+        "en": "What appears is something else:",
+        "de": "Was erscheint, ist etwas anderes:",
+        "ko": "여기서 드러나는 것은 다른 무엇이다.",
+        "ja": "そこに現れるのは、別のものである。",
+        "zh": "所显现的是另一种东西：",
+        "hi": "जो प्रकट होता है वह कुछ और है:"
+      },
+      {
+        "es": "una historia hecha de fragmentos;",
+        "en": "a history made of fragments;",
+        "de": "eine Geschichte aus Fragmenten;",
+        "ko": "파편들로 이루어진 역사;",
+        "ja": "断片からなる歴史;",
+        "zh": "一段由碎片构成的历史；",
+        "hi": "टुकड़ों से बना एक इतिहास;"
+      },
+      {
+        "es": "una modernidad convertida en ruina y posibilidad;",
+        "en": "a modernity turned into ruin and possibility;",
+        "de": "eine in Ruine und Möglichkeit verwandelte Moderne;",
+        "ko": "폐허이자 가능성으로 변모한 모더니티;",
+        "ja": "廃墟であると同時に可能性へと変わったモダニティ;",
+        "zh": "一种化为废墟与可能性的现代性；",
+        "hi": "एक आधुनिकता जो खंडहर और संभावना में बदल गई है;"
+      },
+      {
+        "es": "un archivo que se niega a permanecer quieto;",
+        "en": "an archive that refuses to remain still;",
+        "de": "ein Archiv, das sich weigert, still zu bleiben;",
+        "ko": "가만히 머물기를 거부하는 아카이브;",
+        "ja": "静止したままであることを拒む一つのアーカイブ;",
+        "zh": "一份拒绝保持静止的档案；",
+        "hi": "एक पुरालेख जो स्थिर बने रहने से इनकार करता है;"
+      },
+      {
+        "es": "un conjunto de imágenes que sobreviven a sus contextos originales;",
+        "en": "a set of images that survive their original contexts;",
+        "de": "eine Reihe von Bildern, die ihre ursprünglichen Kontexte überleben;",
+        "ko": "자신의 원래 맥락보다 오래 살아남는 이미지들의 집합;",
+        "ja": "その本来の文脈を生き延びる、イメージの集積;",
+        "zh": "一组存活于其原初语境之后的图像；",
+        "hi": "छवियों का एक समुच्चय जो अपने मूल संदर्भों से आगे जीवित रहता है;"
+      },
+      {
+        "es": "y un presente que, para poder comprenderse, necesita reorganizar permanentemente los restos del pasado.",
+        "en": "and a present that, in order to understand itself, needs to permanently reorganize the remains of the past.",
+        "de": "und eine Gegenwart, die, um sich selbst zu verstehen, die Überreste der Vergangenheit fortwährend neu ordnen muss.",
+        "ko": "그리고 스스로를 이해하기 위해 과거의 잔해를 끊임없이 재조직해야만 하는 현재.",
+        "ja": "そして、自らを理解するために、過去の残骸を絶えず再編成し続けなければならない現在である。",
+        "zh": "以及一个为了理解自身，而必须不断重新组织过去遗骸的当下。",
+        "hi": "और एक ऐसा वर्तमान जिसे स्वयं को समझने के लिए अतीत के अवशेषों को निरंतर पुनर्व्यवस्थित करना पड़ता है।"
+      },
+      {
+        "es": "Modernismo Anacrónico habita justamente ese territorio.",
+        "en": "Modernismo Anacrónico dwells precisely in that territory.",
+        "de": "Modernismo Anacrónico bewohnt genau dieses Territorium.",
+        "ko": "「Modernismo Anacrónico」는 바로 그 영토에 거주한다.",
+        "ja": "「Modernismo Anacrónico」は、まさにその領域に住まう。",
+        "zh": "《Modernismo Anacrónico》正栖居于这一领域之中。",
+        "hi": "Modernismo Anacrónico ठीक उसी क्षेत्र में निवास करता है।"
+      },
+      {
+        "es": "No intenta resolver la contradicción entre pasado y presente.",
+        "en": "It does not attempt to resolve the contradiction between past and present.",
+        "de": "Es versucht nicht, den Widerspruch zwischen Vergangenheit und Gegenwart aufzulösen.",
+        "ko": "그것은 과거와 현재 사이의 모순을 해소하려 하지 않는다.",
+        "ja": "それは過去と現在の間の矛盾を解消しようとはしない。",
+        "zh": "它并不试图解决过去与当下之间的矛盾。",
+        "hi": "यह अतीत और वर्तमान के बीच के अंतर्विरोध को सुलझाने का प्रयास नहीं करता।"
+      },
+      {
+        "es": "La utiliza.",
+        "en": "It uses it.",
+        "de": "Es nutzt ihn.",
+        "ko": "그것을 사용한다.",
+        "ja": "それを用いる。",
+        "zh": "而是利用它。",
+        "hi": "यह उसका उपयोग करता है।"
+      },
+      {
+        "es": "No pretende restaurar un orden perdido.",
+        "en": "It does not claim to restore a lost order.",
+        "de": "Es beansprucht nicht, eine verlorene Ordnung wiederherzustellen.",
+        "ko": "그것은 잃어버린 질서를 복원하려 하지 않는다.",
+        "ja": "それは失われた秩序を回復しようとするものではない。",
+        "zh": "它并不企图恢复某种失落的秩序。",
+        "hi": "यह किसी खोई हुई व्यवस्था को बहाल करने का दावा नहीं करता।"
+      },
+      {
+        "es": "Construye nuevos órdenes provisionales.",
+        "en": "It builds new, provisional orders.",
+        "de": "Es baut neue, vorläufige Ordnungen auf.",
+        "ko": "새롭고 잠정적인 질서들을 구축한다.",
+        "ja": "新たな、暫定的な秩序を築く。",
+        "zh": "而是构建新的、临时性的秩序。",
+        "hi": "यह नई, अस्थायी व्यवस्थाएँ रचता है।"
+      },
+      {
+        "es": "No busca responder definitivamente qué significa una imagen.",
+        "en": "It does not seek to definitively answer what an image means.",
+        "de": "Es sucht nicht danach, endgültig zu beantworten, was ein Bild bedeutet.",
+        "ko": "그것은 이미지가 무엇을 의미하는지에 대해 결정적인 답을 구하지 않는다.",
+        "ja": "それは、あるイメージが何を意味するかを決定的に答えようとするものではない。",
+        "zh": "它并不寻求最终回答一幅图像意味着什么。",
+        "hi": "यह इस बात का निश्चायक उत्तर देने का प्रयास नहीं करता कि किसी छवि का क्या अर्थ है।"
+      },
+      {
+        "es": "La coloca nuevamente en circulación para que pueda volver a significar.",
+        "en": "It puts it back into circulation so that it may signify once again.",
+        "de": "Es bringt es erneut in Umlauf, damit es wieder Bedeutung erlangen kann.",
+        "ko": "그것을 다시 유통 속으로 되돌려놓아 다시금 의미할 수 있게 한다.",
+        "ja": "それを再び流通の中に戻し、再び意味を持ちうるようにする。",
+        "zh": "它让图像重新进入流通，使其得以再次生成意义。",
+        "hi": "यह उसे फिर से प्रचलन में डाल देता है ताकि वह पुनः अर्थवान हो सके।"
+      },
+      {
+        "es": "En ese gesto, el collage aparece finalmente como una forma de conocimiento.",
+        "en": "In that gesture, collage finally appears as a form of knowledge.",
+        "de": "In dieser Geste erscheint die Collage schließlich als eine Form der Erkenntnis.",
+        "ko": "그 몸짓 속에서 콜라주는 마침내 하나의 지식의 형식으로 나타난다.",
+        "ja": "その身振りの中で、コラージュはついに、知の一形式として現れる。",
+        "zh": "在这一姿态中，拼贴最终显现为一种知识的形式。",
+        "hi": "उसी भाव-भंगिमा में, कोलाज अंततः ज्ञान के एक रूप के रूप में प्रकट होता है।"
+      },
+      {
+        "es": "Una arqueología subjetiva de la cultura visual.",
+        "en": "A subjective archaeology of visual culture.",
+        "de": "Eine subjektive Archäologie der visuellen Kultur.",
+        "ko": "시각 문화에 대한 주관적 고고학.",
+        "ja": "視覚文化についての主観的な考古学。",
+        "zh": "一种关于视觉文化的主观考古学。",
+        "hi": "दृश्य संस्कृति का एक व्यक्तिपरक पुरातत्व।"
+      },
+      {
+        "es": "Una máquina de producir relaciones.",
+        "en": "A machine for producing relations.",
+        "de": "Eine Maschine zur Erzeugung von Beziehungen.",
+        "ko": "관계를 생산하는 기계.",
+        "ja": "関係を生み出す機械。",
+        "zh": "一台生产关系的机器。",
+        "hi": "संबंध उत्पन्न करने वाली एक मशीन।"
+      },
+      {
+        "es": "Una práctica de memoria.",
+        "en": "A practice of memory.",
+        "de": "Eine Praxis des Gedächtnisses.",
+        "ko": "기억의 실천.",
+        "ja": "記憶の実践。",
+        "zh": "一种记忆的实践。",
+        "hi": "स्मृति का एक अभ्यास।"
+      },
+      {
+        "es": "Y, sobre todo, una manera de enfrentarse al devenir constante en el que estamos.",
+        "en": "And, above all, a way of confronting the constant becoming in which we exist.",
+        "de": "Und vor allem eine Weise, sich dem beständigen Werden zu stellen, in dem wir uns befinden.",
+        "ko": "그리고 무엇보다도, 우리가 그 안에 놓여 있는 끊임없는 생성에 맞서는 하나의 방식이다.",
+        "ja": "そして何よりも、私たちがその中に置かれている絶え間ない生成に向き合うための、一つの方法である。",
+        "zh": "而最重要的是，一种直面我们身处其中的、持续不断的生成的方式。",
+        "hi": "और सबसे बढ़कर, उस निरंतर बनते जाने का सामना करने का एक तरीका, जिसमें हम स्थित हैं।"
+      }
+    ],
+    "signature": {
+      "es": "Muu Blanco, 2014-2026",
+      "en": "Muu Blanco, 2014-2026",
+      "de": "Muu Blanco, 2014-2026",
+      "ko": "무 블랑코, 2014-2026",
+      "ja": "ムー・ブランコ、2014-2026",
+      "zh": "穆·布兰科，2014-2026",
+      "hi": "मू ब्लैंको, 2014-2026"
+    },
+    "link": {
+      "url": "https://www.blurb.es/b/6384346-modernismo-anacronico",
+      "label": {
+        "es": "Ver el libro de artista en Blurb ↗",
+        "en": "View the artist book on Blurb ↗",
+        "de": "Künstlerbuch auf Blurb ansehen ↗",
+        "ko": "Blurb에서 아티스트 북 보기 ↗",
+        "ja": "Blurbでアーティストブックを見る ↗",
+        "zh": "在Blurb查看艺术家书籍 ↗",
+        "hi": "Blurb पर आर्टिस्ट बुक देखें ↗"
+      }
+    }
   }
 ]

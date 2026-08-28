@@ -78,6 +78,7 @@
     hi: ["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्टूबर","नवंबर","दिसंबर"]
   };
   const readLink = { es: "Leer documento completo ↗", en: "Read full document ↗", de: "Vollständiges Dokument lesen ↗", ko: "전체 문서 읽기 ↗", ja: "全文を読む ↗", zh: "阅读完整文档 ↗", hi: "पूरा दस्तावेज़ पढ़ें ↗" };
+  const readEssay = { es: "Leer ensayo completo", en: "Read full essay", de: "Vollständigen Essay lesen", ko: "전체 에세이 읽기", ja: "エッセイ全文を読む", zh: "阅读全文", hi: "पूरा निबंध पढ़ें" };
   const emptyMsg = { es: "Aún no hay textos publicados.", en: "No texts published yet.", de: "Es sind noch keine Texte veröffentlicht.", ko: "아직 게시된 텍스트가 없습니다.", ja: "まだ公開されたテキストはありません。", zh: "暂无已发布的文本。", hi: "अभी तक कोई पाठ प्रकाशित नहीं हुआ है।" };
   const errMsg = { es: "No se pudo cargar la bibliografía.", en: "Could not load the bibliography.", de: "Die Bibliografie konnte nicht geladen werden.", ko: "참고 문헌을 불러올 수 없습니다.", ja: "参考文献を読み込めませんでした。", zh: "无法加载文献。", hi: "ग्रंथ सूची लोड नहीं की जा सकी।" };
 
@@ -108,10 +109,42 @@
           <h2 class="display">${esc(pick(e.title, lang))}</h2>
           ${e.medium ? `<p class="biblio-entry__medium">${esc(pick(e.medium, lang))}</p>` : ""}
           <p>${esc(pick(e.summary, lang))}</p>
+          ${e.body ? `
+          <p class="video-toggle">${esc(readEssay[lang])}</p>
+          <div class="video-toggle-content">
+            ${e.body.map((p) => `<p>${esc(pick(p, lang))}</p>`).join("")}
+            ${e.signature ? `<p class="biblio-entry__medium">${esc(pick(e.signature, lang))}</p>` : ""}
+          </div>` : ""}
           ${e.pdfId ? `<p class="detail__link"><a href="${driveView(e.pdfId)}" target="_blank" rel="noopener">${readLink[lang]}</a></p>` : ""}
+          ${e.link ? `<p class="detail__link"><a href="${e.link.url}" target="_blank" rel="noopener">${esc(pick(e.link.label, lang))}</a></p>` : ""}
         </div>
       </article>
     `).join("");
+    initVideoToggles();
+  }
+
+  function initVideoToggles() {
+    document.querySelectorAll(".video-toggle").forEach((h) => {
+      const content = h.nextElementSibling;
+      if (!content || !content.classList.contains("video-toggle-content")) return;
+      h.querySelectorAll(".gallery-toggle__caret").forEach((el) => el.remove());
+      const caret = document.createElement("span");
+      caret.className = "gallery-toggle__caret";
+      caret.textContent = "▸";
+      h.appendChild(caret);
+      content.classList.add("is-collapsed");
+      h.setAttribute("role", "button");
+      h.setAttribute("tabindex", "0");
+      h.setAttribute("aria-expanded", "false");
+      function toggle() {
+        const willOpen = content.classList.contains("is-collapsed");
+        content.classList.toggle("is-collapsed");
+        h.classList.toggle("is-open", willOpen);
+        h.setAttribute("aria-expanded", willOpen ? "true" : "false");
+      }
+      h.addEventListener("click", toggle);
+      h.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+    });
   }
 
   fetch("data/conceptual.json", { cache: "no-store" })
