@@ -564,8 +564,8 @@
     "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
     "viewPdfSicart": "2010年シカルトカタログ（PDF）↗",
     "viewPdfBook": "AAA 2002–2012 フォトブック（PDF）↗",
-    "viewPdfPhotos": "写真（PDF）↗",
-    "viewPdfDossier": "資料集（PDF）↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. 写真（PDF）↗",
+    "viewPdfDossier": "Carmen Araujo Arte — ドシエ、Abstracciones Paisajísticas（PDF）↗",
     "natuurban": {
       "medium": "サウンドインスタレーション、ダンス、ビデオマッピング",
       "p1": "マイアミのArts Connection Foundationで発表されたインスタレーション＆サウンドアートのプログラム。実験音楽、ダンス、ビデオマッピングの投影、同名のドキュメンタリーを統合した — サウンドスケープと都市の自然環境をめぐるMuu Blancoの最新の研究。",
@@ -582,7 +582,9 @@
       "animadas": {
         "title": "アニメーション版 Abstracciones Paisajísticas（AAOA）",
         "meta": "アニメーション：Benky Chang · サラゴサ、スペイン"
-      }
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Blurbで見る ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
     },
     "modernismo": {
       "medium": "アナログコラージュ／ミックスメディア",

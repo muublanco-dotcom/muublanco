@@ -564,8 +564,8 @@
     "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
     "viewPdfSicart": "2010年Sicart画册（PDF）↗",
     "viewPdfBook": "AAA 2002–2012摄影书（PDF）↗",
-    "viewPdfPhotos": "照片（PDF）↗",
-    "viewPdfDossier": "档案（PDF）↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. 摄影（PDF）↗",
+    "viewPdfDossier": "Carmen Araujo Arte——档案，Abstracciones Paisajísticas（PDF）↗",
     "natuurban": {
       "medium": "声音装置、舞蹈与视频投影",
       "p1": "在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。融合实验音乐、舞蹈、视频投影，以及一部同名纪录片——Muu Blanco关于声景与城市自然环境的最新研究。",
@@ -582,7 +582,9 @@
       "animadas": {
         "title": "动画版《风景抽象》(AAOA)",
         "meta": "动画：Benky Chang · 萨拉戈萨，西班牙"
-      }
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — 在Blurb查看 ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
     },
     "modernismo": {
       "medium": "模拟拼贴 / 混合媒介",

@@ -564,8 +564,8 @@
     "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories (PDF) ↗",
     "viewPdfSicart": "Sicart-Katalog 2010 (PDF) ↗",
     "viewPdfBook": "AAA 2002–2012 Fotobuch (PDF) ↗",
-    "viewPdfPhotos": "Fotografien (PDF) ↗",
-    "viewPdfDossier": "Dossier (PDF) ↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. Fotografien (PDF) ↗",
+    "viewPdfDossier": "Carmen Araujo Arte — Dossier, Abstracciones Paisajísticas (PDF) ↗",
     "natuurban": {
       "medium": "Klanginstallation, Tanz und Videomapping",
       "p1": "Ein Installations- und Klangkunstprogramm, präsentiert bei der Arts Connection Foundation, Miami. Es vereint experimentelle Musik, Tanz, Videomapping-Projektionen und einen begleitenden Dokumentarfilm — Muu Blancos jüngste Forschung zur Klanglandschaft und zur natürlichen urbanen Umgebung.",
@@ -582,7 +582,9 @@
       "animadas": {
         "title": "Animierte Abstracciones Paisajísticas (AAOA)",
         "meta": "Animation: Benky Chang · Saragossa, Spanien"
-      }
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Buch auf Blurb ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
     },
     "modernismo": {
       "medium": "Analoge Collage / Mixed Media",

@@ -564,8 +564,8 @@
     "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories (PDF) ↗",
     "viewPdfSicart": "कैटलॉग Sicart 2010 (PDF) ↗",
     "viewPdfBook": "फोटोबुक AAA 2002–2012 (PDF) ↗",
-    "viewPdfPhotos": "तस्वीरें (PDF) ↗",
-    "viewPdfDossier": "डॉजियर (PDF) ↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. फोटोग्राफ्स (PDF) ↗",
+    "viewPdfDossier": "Carmen Araujo Arte — डॉज़ियर, Abstracciones Paisajísticas (PDF) ↗",
     "natuurban": {
       "medium": "ध्वनि इंस्टॉलेशन, नृत्य और वीडियो मैपिंग",
       "p1": "मियामी के Arts Connection Foundation में प्रस्तुत इंस्टॉलेशन और ध्वनि कला कार्यक्रम। इसमें प्रयोगात्मक संगीत, नृत्य, वीडियो मैपिंग प्रक्षेपण और एक समनाम वृत्तचित्र शामिल है — साउंडस्केप और शहरी प्राकृतिक परिवेश पर Muu Blanco का सबसे हालिया शोध।",
@@ -582,7 +582,9 @@
       "animadas": {
         "title": "एनिमेटेड Abstracciones Paisajísticas (AAOA)",
         "meta": "एनिमेशन: Benky Chang · सारागोसा, स्पेन"
-      }
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Blurb पर पुस्तक ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
     },
     "modernismo": {
       "medium": "एनालॉग कोलाज / मिक्समीडिया",

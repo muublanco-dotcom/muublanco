@@ -564,8 +564,8 @@
     "viewPdfMA": "Muu Blanco. Hybrid Stories (PDF) ↗",
     "viewPdfSicart": "2010 Sicart Catalog (PDF) ↗",
     "viewPdfBook": "AAA 2002–2012 Photobook (PDF) ↗",
-    "viewPdfPhotos": "Photographs (PDF) ↗",
-    "viewPdfDossier": "Dossier (PDF) ↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. Photographs (PDF) ↗",
+    "viewPdfDossier": "Carmen Araujo Arte — Dossier, Abstracciones Paisajísticas (PDF) ↗",
     "natuurban": {
       "medium": "Sound installation, dance, and video mapping",
       "p1": "An installation and sound art program presented at Arts Connection Foundation, Miami. It integrates experimental music, dance, video mapping projections, and a companion documentary — Muu Blanco's most recent research into soundscape and the urban natural environment.",
@@ -582,7 +582,9 @@
       "animadas": {
         "title": "Animated Abstracciones Paisajísticas (AAOA)",
         "meta": "Animation: Benky Chang · Zaragoza, Spain"
-      }
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — book on Blurb ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
     },
     "modernismo": {
       "medium": "Analog collage / mixed media",
