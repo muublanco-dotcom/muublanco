@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "Vollständigen CV ansehen ↓"
+    },
+    "awards": {
+      "y1995i1": "Erster Preis bei der Kurzfilm-Biennale von São Paulo für den Film „Perra Chillona“. Monolog von Muu Blanco, Regie: Sabrina Montiel Soto.",
+      "y1994i1": "Sonderauszeichnung bei der V. Nationalen Kunstbiennale von Guayana, Venezuela."
+    },
+    "education": {
+      "i1": "Master in Praxis und Kritik zeitgenössischer Repräsentationssysteme. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.",
+      "i2": "5. Kurs für Projektmanagement in den bildenden Künsten. Fundación Polar, Caracas. 1996.",
+      "i3": "Geschichte der venezolanischen Kunst. Instituto Federico Brandt, Caracas. Zeichnen und Malerei II. Instituto Federico Brandt, Caracas. 1990.",
+      "i4": "Kurs zur Geschichte der zeitgenössischen Kunst. Museo de Bellas Artes, Caracas. 1989."
+    },
+    "residencies": {
+      "y20242026i1": "„Musikalische Kuration und monatliche Herausgabe des Fanzines Afro Latin Culture Flavor“ — Wöchentliche Residency als Selector und Klangforscher bei Tripping Animals Brewery, Doral City, Miami, USA.",
+      "y2023i1": "„Artist in Residence für klangliche Bildungsinstallation“ — Stadt Doral City, USA.",
+      "y20142016i1": "Multimedia-Künstler und Kurator bei Arts Connection Foundation, Miami, USA.",
+      "y2007i1": "Eingeladener Artist in Residence, Art Center South Florida, Miami Beach, USA."
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros, Caracas – New York.",
+      "i2": "Fundación NOA NOA, Caracas, Venezuela.",
+      "i3": "Archivo Fotografía Urbana, Caracas, Venezuela.",
+      "i4": "Colección Mercantil, Caracas, Venezuela.",
+      "i5": "Colección Arte Al Límite, Santiago de Chile, Chile.",
+      "note1": "Private Sammlungen in Caracas und Maracaibo (Venezuela); New York, Los Angeles, Houston, Miami und San Francisco (USA); Mailand (Italien); Madrid und Barcelona (Spanien); Porto Alegre (Brasilien); Lissabon (Portugal); Santiago de Chile (Chile)."
     }
   },
   "contacto": {

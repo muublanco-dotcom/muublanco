@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "View full CV ↓"
+    },
+    "awards": {
+      "y1995i1": "First Prize at the São Paulo Short Film Biennial for the film \"Perra Chillona.\" Monologue by Muu Blanco, Direction: Sabrina Montiel Soto.",
+      "y1994i1": "Special Mention at the V National Art Biennial of Guayana, Venezuela."
+    },
+    "education": {
+      "i1": "Master's Degree in Practice and Criticism of Contemporary Representation Systems. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.",
+      "i2": "5th Course on Project Management in Visual Arts. Fundación Polar, Caracas. 1996.",
+      "i3": "History of Venezuelan Art. Instituto Federico Brandt, Caracas. Drawing and Painting II. Instituto Federico Brandt, Caracas. 1990.",
+      "i4": "Course on the History of Contemporary Art. Museo de Bellas Artes, Caracas. 1989."
+    },
+    "residencies": {
+      "y20242026i1": "\"Music Curation and Monthly Editing of the Afro Latin Culture Flavor Fanzine\" — Weekly residency as Selector and sound researcher at Tripping Animals Brewery, Doral City, Miami, USA.",
+      "y2023i1": "\"Resident Artist of Sound Educational Installation\" — City of Doral City, USA.",
+      "y20142016i1": "Multimedia artist and curator at Arts Connection Foundation, Miami, USA.",
+      "y2007i1": "Invited resident artist, Art Center South Florida, Miami Beach, USA."
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros, Caracas – New York.",
+      "i2": "Fundación NOA NOA, Caracas, Venezuela.",
+      "i3": "Archivo Fotografía Urbana, Caracas, Venezuela.",
+      "i4": "Colección Mercantil, Caracas, Venezuela.",
+      "i5": "Colección Arte Al Límite, Santiago, Chile.",
+      "note1": "Private collections in Caracas and Maracaibo (Venezuela); New York, Los Angeles, Houston, Miami, and San Francisco (USA); Milan (Italy); Madrid and Barcelona (Spain); Porto Alegre (Brazil); Lisbon (Portugal); Santiago, Chile (Chile)."
     }
   },
   "contacto": {

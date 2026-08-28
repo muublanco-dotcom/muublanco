@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "전체 CV 보기 ↓"
+    },
+    "awards": {
+      "y1995i1": "영화 「Perra Chillona」로 상파울루 단편영화 비엔날레 대상 수상. 무 블랑코의 모놀로그, 연출: Sabrina Montiel Soto.",
+      "y1994i1": "제5회 과야나 국립 미술 비엔날레(베네수엘라) 특별상."
+    },
+    "education": {
+      "i1": "현대 재현 체계의 실천과 비평 석사 과정. Instituto Universitario de Estudios Avanzados Armando Reverón, 카라카스. 2002년.",
+      "i2": "제5기 시각예술 프로젝트 매니지먼트 과정. Fundación Polar, 카라카스. 1996년.",
+      "i3": "베네수엘라 미술사 과정. Instituto Federico Brandt, 카라카스. 드로잉과 회화 II 과정. Instituto Federico Brandt, 카라카스. 1990년.",
+      "i4": "현대미술사 과정. Museo de Bellas Artes, 카라카스. 1989년."
+    },
+    "residencies": {
+      "y20242026i1": "\"음악 큐레이션 및 Afro Latin Culture Flavor 팬진 월간 편집\" — Tripping Animals Brewery(마이애미 도럴 시티, 미국)에서 셀렉터 겸 사운드 연구자로 진행한 주간 레지던시.",
+      "y2023i1": "\"사운드 교육 설치 레지던시 작가\" — 도럴 시티, 미국.",
+      "y20142016i1": "Arts Connection Foundation(마이애미, 미국)의 멀티미디어 아티스트 겸 큐레이터.",
+      "y2007i1": "초청 레지던시 작가, Art Center South Florida, 마이애미 비치, 미국."
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros, 카라카스 – 뉴욕.",
+      "i2": "Fundación NOA NOA, 카라카스, 베네수엘라.",
+      "i3": "Archivo Fotografía Urbana, 카라카스, 베네수엘라.",
+      "i4": "Colección Mercantil, 카라카스, 베네수엘라.",
+      "i5": "Colección Arte Al Límite, 산티아고, 칠레.",
+      "note1": "카라카스와 마라카이보(베네수엘라); 뉴욕, 로스앤젤레스, 휴스턴, 마이애미, 샌프란시스코(미국); 밀라노(이탈리아); 마드리드와 바르셀로나(스페인); 포르투알레그리(브라질); 리스본(포르투갈); 산티아고(칠레)의 개인 소장."
     }
   },
   "contacto": {

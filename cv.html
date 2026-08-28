@@ -81,10 +81,10 @@
 <section class="cv-section" id="cv-education">
 <h2 class="cv-section__title" data-i18n="cv.h2.education">Educación</h2>
 <ul class="cv-items">
-<li>Maestría en Práctica y Crítica de los Sistemas de Representación Contemporáneos. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.</li>
-<li>V Curso de Gestión de Proyectos en Artes Visuales. Fundación Polar, Caracas. 1996.</li>
-<li>Historia del Arte Venezolano. Instituto Federico Brandt, Caracas. Dibujo y Pintura II. Instituto Federico Brandt, Caracas. 1990.</li>
-<li>Curso de Historia del Arte Contemporáneo. Museo de Bellas Artes, Caracas. 1989.</li>
+<li data-i18n="cv.education.i1">Maestría en Práctica y Crítica de los Sistemas de Representación Contemporáneos. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.</li>
+<li data-i18n="cv.education.i2">V Curso de Gestión de Proyectos en Artes Visuales. Fundación Polar, Caracas. 1996.</li>
+<li data-i18n="cv.education.i3">Historia del Arte Venezolano. Instituto Federico Brandt, Caracas. Dibujo y Pintura II. Instituto Federico Brandt, Caracas. 1990.</li>
+<li data-i18n="cv.education.i4">Curso de Historia del Arte Contemporáneo. Museo de Bellas Artes, Caracas. 1989.</li>
 </ul>
 </section>
 
@@ -93,13 +93,13 @@
 <div class="cv-year-group">
 <p class="cv-year">1995</p>
 <ul class="cv-items">
-<li>Primer premio en la Bienal de Cortometrajes de São Paulo con la película "Perra Chillona". Monólogo de Muu Blanco, Dirección: Sabrina Montiel Soto.</li>
+<li data-i18n="cv.awards.y1995i1">Primer premio en la Bienal de Cortometrajes de São Paulo con la película "Perra Chillona". Monólogo de Muu Blanco, Dirección: Sabrina Montiel Soto.</li>
 </ul>
 </div>
 <div class="cv-year-group">
 <p class="cv-year">1994</p>
 <ul class="cv-items">
-<li>Mención Especial en la V Bienal Nacional de Arte de Guyana, Venezuela.</li>
+<li data-i18n="cv.awards.y1994i1">Mención Especial en la V Bienal Nacional de Arte de Guyana, Venezuela.</li>
 </ul>
 </div>
 </section>
@@ -546,13 +546,13 @@
 <section class="cv-section">
 <h2 class="cv-section__title" data-i18n="cv.h2.collections">Colecciones Públicas</h2>
 <ul class="cv-items">
-<li>Fundación Patricia Phelps de Cisneros, Caracas – Nueva York.</li>
-<li>Fundación NOA NOA, Caracas, Venezuela.</li>
-<li>Archivo Fotografía Urbana, Caracas, Venezuela.</li>
-<li>Colección Mercantil, Caracas, Venezuela.</li>
-<li>Colección Arte Al Límite, Santiago de Chile, Chile.</li>
+<li data-i18n="cv.collections.i1">Fundación Patricia Phelps de Cisneros, Caracas – Nueva York.</li>
+<li data-i18n="cv.collections.i2">Fundación NOA NOA, Caracas, Venezuela.</li>
+<li data-i18n="cv.collections.i3">Archivo Fotografía Urbana, Caracas, Venezuela.</li>
+<li data-i18n="cv.collections.i4">Colección Mercantil, Caracas, Venezuela.</li>
+<li data-i18n="cv.collections.i5">Colección Arte Al Límite, Santiago de Chile, Chile.</li>
 </ul>
-<p class="cv-note" style="margin-top:1rem;">Colecciones privadas en Caracas y Maracaibo (Venezuela); Nueva York, Los Ángeles, Houston, Miami y San Francisco (USA); Milán (Italia); Madrid y Barcelona (España); Porto Alegre (Brasil); Lisboa (Portugal); Santiago de Chile (Chile).</p>
+<p class="cv-note" style="margin-top:1rem;" data-i18n="cv.collections.note1">Colecciones privadas en Caracas y Maracaibo (Venezuela); Nueva York, Los Ángeles, Houston, Miami y San Francisco (USA); Milán (Italia); Madrid y Barcelona (España); Porto Alegre (Brasil); Lisboa (Portugal); Santiago de Chile (Chile).</p>
 </section>
 
 <section class="cv-section">
@@ -625,25 +625,25 @@
 <div class="cv-year-group">
 <p class="cv-year">2024–2026</p>
 <ul class="cv-items">
-<li>"Curaduría musical y edición mensual del fanzine Afro Latin Culture Flavor" — Residencia semanal como Selector e investigador sonoro en Tripping Animals Brewery, Doral City, Miami, USA.</li>
+<li data-i18n="cv.residencies.y20242026i1">"Curaduría musical y edición mensual del fanzine Afro Latin Culture Flavor" — Residencia semanal como Selector e investigador sonoro en Tripping Animals Brewery, Doral City, Miami, USA.</li>
 </ul>
 </div>
 <div class="cv-year-group">
 <p class="cv-year">2023</p>
 <ul class="cv-items">
-<li>"Artista Residente de Instalación Educativa Sonora" — Ciudad de Doral City, USA.</li>
+<li data-i18n="cv.residencies.y2023i1">"Artista Residente de Instalación Educativa Sonora" — Ciudad de Doral City, USA.</li>
 </ul>
 </div>
 <div class="cv-year-group">
 <p class="cv-year">2014–2016</p>
 <ul class="cv-items">
-<li>Artista multimedia y curador en Arts Connection Foundation, Miami, USA.</li>
+<li data-i18n="cv.residencies.y20142016i1">Artista multimedia y curador en Arts Connection Foundation, Miami, USA.</li>
 </ul>
 </div>
 <div class="cv-year-group">
 <p class="cv-year">2007</p>
 <ul class="cv-items">
-<li>Artista residente invitado, Art Center South Florida, Miami Beach, USA.</li>
+<li data-i18n="cv.residencies.y2007i1">Artista residente invitado, Art Center South Florida, Miami Beach, USA.</li>
 </ul>
 </div>
 </section>
@@ -882,7 +882,7 @@
 
   function applyCvTranslation() {
     const lang = (window.i18n && window.i18n.getLang()) || "es";
-    document.querySelectorAll(".cv-items li, .cv-note").forEach((el) => {
+    document.querySelectorAll(".cv-items li:not([data-i18n]), .cv-note:not([data-i18n])").forEach((el) => {
       if (!el.dataset.orig) el.dataset.orig = el.textContent;
       el.textContent = lang === "es" ? el.dataset.orig : translateLine(el.dataset.orig, lang);
     });

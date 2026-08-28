@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "Ver CV completo ↓"
+    },
+    "awards": {
+      "y1995i1": "Primer premio en la Bienal de Cortometrajes de São Paulo con la película \"Perra Chillona\". Monólogo de Muu Blanco, Dirección: Sabrina Montiel Soto.",
+      "y1994i1": "Mención Especial en la V Bienal Nacional de Arte de Guyana, Venezuela."
+    },
+    "education": {
+      "i1": "Maestría en Práctica y Crítica de los Sistemas de Representación Contemporáneos. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.",
+      "i2": "V Curso de Gestión de Proyectos en Artes Visuales. Fundación Polar, Caracas. 1996.",
+      "i3": "Historia del Arte Venezolano. Instituto Federico Brandt, Caracas. Dibujo y Pintura II. Instituto Federico Brandt, Caracas. 1990.",
+      "i4": "Curso de Historia del Arte Contemporáneo. Museo de Bellas Artes, Caracas. 1989."
+    },
+    "residencies": {
+      "y20242026i1": "\"Curaduría musical y edición mensual del fanzine Afro Latin Culture Flavor\" — Residencia semanal como Selector e investigador sonoro en Tripping Animals Brewery, Doral City, Miami, USA.",
+      "y2023i1": "\"Artista Residente de Instalación Educativa Sonora\" — Ciudad de Doral City, USA.",
+      "y20142016i1": "Artista multimedia y curador en Arts Connection Foundation, Miami, USA.",
+      "y2007i1": "Artista residente invitado, Art Center South Florida, Miami Beach, USA."
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros, Caracas – Nueva York.",
+      "i2": "Fundación NOA NOA, Caracas, Venezuela.",
+      "i3": "Archivo Fotografía Urbana, Caracas, Venezuela.",
+      "i4": "Colección Mercantil, Caracas, Venezuela.",
+      "i5": "Colección Arte Al Límite, Santiago de Chile, Chile.",
+      "note1": "Colecciones privadas en Caracas y Maracaibo (Venezuela); Nueva York, Los Ángeles, Houston, Miami y San Francisco (USA); Milán (Italia); Madrid y Barcelona (España); Porto Alegre (Brasil); Lisboa (Portugal); Santiago de Chile (Chile)."
     }
   },
   "contacto": {

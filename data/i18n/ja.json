@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "全CVを見る ↓"
+    },
+    "awards": {
+      "y1995i1": "映画『Perra Chillona』でサンパウロ短編映画ビエンナーレ最優秀賞受賞。ムー・ブランコによるモノローグ、演出:Sabrina Montiel Soto。",
+      "y1994i1": "第5回グアヤナ国立美術ビエンナーレ（ベネズエラ）特別賞。"
+    },
+    "education": {
+      "i1": "現代表象システムの実践と批評 修士課程。Instituto Universitario de Estudios Avanzados Armando Reverón、カラカス。2002年。",
+      "i2": "第5期 視覚芸術プロジェクトマネジメント講座。Fundación Polar、カラカス。1996年。",
+      "i3": "ベネズエラ美術史講座。Instituto Federico Brandt、カラカス。素描と絵画II。Instituto Federico Brandt、カラカス。1990年。",
+      "i4": "現代美術史講座。Museo de Bellas Artes、カラカス。1989年。"
+    },
+    "residencies": {
+      "y20242026i1": "「音楽キュレーションおよびAfro Latin Culture Flavorファンジン月刊編集」— Tripping Animals Brewery（マイアミ、ドラルシティ、米国）にてセレクター兼サウンドリサーチャーとして行った週次レジデンシー。",
+      "y2023i1": "「サウンド教育インスタレーション レジデンスアーティスト」— ドラルシティ、米国。",
+      "y20142016i1": "Arts Connection Foundation（マイアミ、米国）のマルチメディアアーティスト兼キュレーター。",
+      "y2007i1": "招待レジデンスアーティスト、Art Center South Florida、マイアミビーチ、米国。"
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros、カラカス－ニューヨーク。",
+      "i2": "Fundación NOA NOA、カラカス、ベネズエラ。",
+      "i3": "Archivo Fotografía Urbana、カラカス、ベネズエラ。",
+      "i4": "Colección Mercantil、カラカス、ベネズエラ。",
+      "i5": "Colección Arte Al Límite、サンティアゴ、チリ。",
+      "note1": "カラカスおよびマラカイボ（ベネズエラ）；ニューヨーク、ロサンゼルス、ヒューストン、マイアミ、サンフランシスコ（米国）；ミラノ（イタリア）；マドリードおよびバルセロナ（スペイン）；ポルトアレグレ（ブラジル）；リスボン（ポルトガル）；サンティアゴ（チリ）の個人コレクション。"
     }
   },
   "contacto": {

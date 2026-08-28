@@ -281,6 +281,30 @@
     },
     "selected": {
       "readmore": "查看完整简历 ↓"
+    },
+    "awards": {
+      "y1995i1": "凭借影片《Perra Chillona》获圣保罗短片双年展一等奖。穆·布兰科独白，导演：Sabrina Montiel Soto。",
+      "y1994i1": "第五届圭亚那国家艺术双年展（委内瑞拉）特别提名奖。"
+    },
+    "education": {
+      "i1": "当代再现体系的实践与批评硕士学位。Instituto Universitario de Estudios Avanzados Armando Reverón，加拉加斯。2002年。",
+      "i2": "第五期视觉艺术项目管理课程。Fundación Polar，加拉加斯。1996年。",
+      "i3": "委内瑞拉艺术史课程。Instituto Federico Brandt，加拉加斯。素描与绘画II课程。Instituto Federico Brandt，加拉加斯。1990年。",
+      "i4": "当代艺术史课程。Museo de Bellas Artes，加拉加斯。1989年。"
+    },
+    "residencies": {
+      "y20242026i1": "\"音乐策展与Afro Latin Culture Flavor月刊编辑\"——在Tripping Animals Brewery（美国迈阿密多拉尔市）担任选曲人兼声音研究员的每周驻留。",
+      "y2023i1": "\"声音教育装置驻留艺术家\"——美国多拉尔市。",
+      "y20142016i1": "Arts Connection Foundation（美国迈阿密）多媒体艺术家兼策展人。",
+      "y2007i1": "受邀驻留艺术家，Art Center South Florida，美国迈阿密海滩。"
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros，加拉加斯－纽约。",
+      "i2": "Fundación NOA NOA，加拉加斯，委内瑞拉。",
+      "i3": "Archivo Fotografía Urbana，加拉加斯，委内瑞拉。",
+      "i4": "Colección Mercantil，加拉加斯，委内瑞拉。",
+      "i5": "Colección Arte Al Límite，圣地亚哥，智利。",
+      "note1": "私人收藏分布于加拉加斯与马拉开波（委内瑞拉）；纽约、洛杉矶、休斯顿、迈阿密与旧金山（美国）；米兰（意大利）；马德里与巴塞罗那（西班牙）；阿雷格里港（巴西）；里斯本（葡萄牙）；圣地亚哥（智利）。"
     }
   },
   "contacto": {
