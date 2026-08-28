@@ -63,7 +63,8 @@
       "contact": "연락처",
       "morelinks": "추가 링크",
       "projects": "프로젝트 및 공간",
-      "shortbio": "짧은 소개"
+      "shortbio": "짧은 소개",
+      "cronicas": "크로니클"
     },
     "summary": {
       "p1": "무 블랑코(Muu Blanco, 1966년 베네수엘라 카라카스 출생)는 마이애미를 기반으로 활동하는 다학제적 아티스트이자 비디오 아티스트, 멀티미디어 설치 작가이다. 1990년대 초부터 그의 작업은 실험적 비디오, 사운드 아트, 퍼포먼스, 사진, 비디오 매핑을 통해 이미지, 소리, 도시 풍경 사이의 관계를 탐구해왔다.",
@@ -97,9 +98,7 @@
       "p1": "활동 중인 실천과 네트워크는 <a href=\"practicas-publicas.html\">Prácticas Públicas</a>에서 확인할 수 있다. 작품 구매 문의는 <a href=\"store.html\">Galería</a>에서 가능하다."
     },
     "morelinks": {
-      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">위키백과 ↗</a> — 전기와 활동 이력. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — 작가의 모든 링크를 한곳에서 확인.",
-      "p2": "2018년, 작가 Lieska는 마이애미의 작가 스튜디오에서 진행한 인터뷰를 바탕으로 Bitácora 29(잭슨빌)에 이 글을 발표했다. 이 글은 그의 형성 과정, 그의 작업에서 유머와 불경함의 관계, 그리고 Abstracciones Paisajísticas 시리즈의 전개를 다룬다. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">전체 기사 읽기 (PDF) ↗</a>",
-      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia"
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">위키백과 ↗</a> — 전기와 활동 이력. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — 작가의 모든 링크를 한곳에서 확인."
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — 마이애미 전시 공간의 작가 프로필. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — 사운드 아트의 역사를 다루는 연구 프로젝트."
@@ -107,6 +106,10 @@
     "shortbio": {
       "p1": "무 블랑코(카라카스, 1966년생)는 Dr.Muusica라는 별칭으로 활동하는 다학제적 아티스트이자 뮤지션으로, 마이애미를 기반으로 활동한다. 그의 작업은 비디오 아트, 사운드 아트, 퍼포먼스, 설치를 아우르며, 40년에 걸쳐 이미지, 소리, 도시 풍경의 관계를 탐구해왔다.",
       "readmore": "전체 약력 읽기 ↓"
+    },
+    "cronicas": {
+      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+      "p1": "2018년, 작가 Lieska는 마이애미의 작가 스튜디오에서 진행한 인터뷰를 바탕으로 Bitácora 29(잭슨빌)에 이 글을 발표했다. 이 글은 그의 형성 과정, 그의 작업에서 유머와 불경함의 관계, 그리고 Abstracciones Paisajísticas 시리즈의 전개를 다룬다. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">전체 기사 읽기 (PDF) ↗</a>"
     }
   },
   "conceptual": {

@@ -63,7 +63,8 @@
       "contact": "联系方式",
       "morelinks": "更多链接",
       "projects": "项目与空间",
-      "shortbio": "简短简介"
+      "shortbio": "简短简介",
+      "cronicas": "纪事"
     },
     "summary": {
       "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
@@ -97,9 +98,7 @@
       "p1": "活跃的实践与社交网络请见<a href=\"practicas-publicas.html\">公共实践</a>。可购作品请见<a href=\"store.html\">画廊</a>。"
     },
     "morelinks": {
-      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">维基百科 ↗</a>——传记与创作历程。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a>——艺术家所有链接汇总于一处。",
-      "p2": "2018年,作家Lieska根据在艺术家迈阿密工作室进行的采访,在Bitácora 29(杰克逊维尔)发表了这篇专访。文章回顾了他的成长历程、其创作中幽默与不敬之间的联系,以及Abstracciones Paisajísticas系列的发展。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">阅读全文(PDF)↗</a>",
-      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia"
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">维基百科 ↗</a>——传记与创作历程。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a>——艺术家所有链接汇总于一处。"
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a>——迈阿密展览空间的艺术家档案。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a>——关于声音艺术历史的研究项目。"
@@ -107,6 +106,10 @@
     "shortbio": {
       "p1": "穆·布兰科(1966年生于加拉加斯)是一位跨学科艺术家兼音乐人,以Dr.Muusica之名活动,现居迈阿密。他的创作横跨影像艺术、声音艺术、表演与装置,四十年来持续探索图像、声音与城市景观之间的关系。",
       "readmore": "阅读完整简介 ↓"
+    },
+    "cronicas": {
+      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+      "p1": "2018年,作家Lieska根据在艺术家迈阿密工作室进行的采访,在Bitácora 29(杰克逊维尔)发表了这篇专访。文章回顾了他的成长历程、其创作中幽默与不敬之间的联系,以及Abstracciones Paisajísticas系列的发展。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">阅读全文(PDF)↗</a>"
     }
   },
   "conceptual": {

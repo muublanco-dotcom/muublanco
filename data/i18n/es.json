@@ -63,7 +63,8 @@
       "contact": "Contacto",
       "morelinks": "Más enlaces",
       "projects": "Proyectos y espacios",
-      "shortbio": "Bio corta"
+      "shortbio": "Bio corta",
+      "cronicas": "Crónicas"
     },
     "summary": {
       "p1": "Muu Blanco (Caracas, Venezuela, 1966) es un artista multidisciplinario, videoartista y creador de instalaciones multimedia radicado en Miami. Desde principios de los años 90, su práctica ha explorado la relación entre la imagen, el sonido y el paisaje urbano a través del video experimental, el arte sonoro, la performance, la fotografía y el video mapping.",
@@ -97,9 +98,7 @@
       "p1": "Prácticas y redes activas en <a href=\"practicas-publicas.html\">Prácticas Públicas</a>. Obra disponible para adquisición en la <a href=\"store.html\">Galería</a>."
     },
     "morelinks": {
-      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — biografía y trayectoria. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — todos los enlaces del artista en un solo lugar.",
-      "p2": "En 2018, la escritora Lieska publicó en Bitácora 29 (Jacksonville) este perfil, a partir de una entrevista en el estudio del artista en Miami. El texto recorre su formación, el vínculo entre humor e irreverencia en su práctica, y el desarrollo de la serie Abstracciones Paisajísticas. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Leer artículo completo (PDF) ↗</a>",
-      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia"
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — biografía y trayectoria. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — todos los enlaces del artista en un solo lugar."
     },
     "projects": {
       "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — perfil de artista en el espacio expositivo de Miami. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — proyecto de investigación sobre la historia del arte sonoro."
@@ -107,6 +106,10 @@
     "shortbio": {
       "p1": "Muu Blanco (Caracas, 1966) es artista multidisciplinario y músico bajo el alias Dr.Muusica, radicado en Miami. Su práctica cruza video arte, arte sonoro, performance e instalación, explorando la relación entre imagen, sonido y paisaje urbano a lo largo de cuatro décadas.",
       "readmore": "Leer biografía completa ↓"
+    },
+    "cronicas": {
+      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+      "p1": "En 2018, la escritora Lieska publicó en Bitácora 29 (Jacksonville) este perfil, a partir de una entrevista en el estudio del artista en Miami. El texto recorre su formación, el vínculo entre humor e irreverencia en su práctica, y el desarrollo de la serie Abstracciones Paisajísticas. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Leer artículo completo (PDF) ↗</a>"
     }
   },
   "conceptual": {
