@@ -560,8 +560,8 @@
     "ongoing": "進行中",
     "seeInPress": "音楽プレスで見る",
     "seeInPress2": "プレスで見る",
-    "viewPdfCatalog": "カタログ（PDF）↗",
-    "viewPdfMA": "MA資料集（PDF）↗",
+    "viewPdfCatalog": "Modernismo Anacrónico. Collage（PDF）↗",
+    "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
     "viewPdfSicart": "2010年シカルトカタログ（PDF）↗",
     "viewPdfBook": "AAA 2002–2012 フォトブック（PDF）↗",
     "viewPdfPhotos": "写真（PDF）↗",
@@ -586,7 +586,9 @@
     },
     "modernismo": {
       "medium": "アナログコラージュ／ミックスメディア",
-      "p1": "2002年に始まった、ベネズエラの建築的モダニズムを再解釈するアナログコラージュ＆ミックスメディアのシリーズ — Héroes y Basura（カラカス、2005年）、Espacio Hardcore Art Contemporary（マイアミ、2006年）、Bello Horizonte／チャカオ文化センター（カラカス、2007年）、ギャラリー・シカルト（バルセロナ、2008年）で展示され、カタログ／書籍として出版された。"
+      "p1": "2002年に始まった、ベネズエラの建築的モダニズムを再解釈するアナログコラージュ＆ミックスメディアのシリーズ — Héroes y Basura（カラカス、2005年）、Espacio Hardcore Art Contemporary（マイアミ、2006年）、Bello Horizonte／チャカオ文化センター（カラカス、2007年）、ギャラリー・シカルト（バルセロナ、2008年）で展示され、カタログ／書籍として出版された。",
+      "blurbLink": "Modernismo Anacrónico. Collage — Blurbで見る ↗",
+      "instagramLink": "Instagram @modernismo_anacronico ↗"
     },
     "fosiles": {
       "medium": "ドローイングとインスタレーション",

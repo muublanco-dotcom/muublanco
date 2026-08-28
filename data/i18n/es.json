@@ -560,8 +560,8 @@
     "ongoing": "En curso",
     "seeInPress": "Ver en Prensa musical",
     "seeInPress2": "Ver en Prensa",
-    "viewPdfCatalog": "Catálogo (PDF) ↗",
-    "viewPdfMA": "Dossier MA (PDF) ↗",
+    "viewPdfCatalog": "Modernismo Anacrónico. Collage (PDF) ↗",
+    "viewPdfMA": "Muu Blanco. Relatos Híbridos (PDF) ↗",
     "viewPdfSicart": "Catálogo Sicart 2010 (PDF) ↗",
     "viewPdfBook": "Fotolibro AAA 2002–2012 (PDF) ↗",
     "viewPdfPhotos": "Fotografías (PDF) ↗",
@@ -586,7 +586,9 @@
     },
     "modernismo": {
       "medium": "Collage análogo / mixmedia",
-      "p1": "Serie de collage análogo y mixmedia que reinterpreta la modernidad arquitectónica venezolana, iniciada en 2002 — expuesta en Héroes y Basura (Caracas, 2005), Espacio Hardcore Art Contemporary (Miami, 2006), Bello Horizonte / Centro Cultural Chacao (Caracas, 2007) y Galería Sicart (Barcelona, 2008), y publicada como catálogo/libro."
+      "p1": "Serie de collage análogo y mixmedia que reinterpreta la modernidad arquitectónica venezolana, iniciada en 2002 — expuesta en Héroes y Basura (Caracas, 2005), Espacio Hardcore Art Contemporary (Miami, 2006), Bello Horizonte / Centro Cultural Chacao (Caracas, 2007) y Galería Sicart (Barcelona, 2008), y publicada como catálogo/libro.",
+      "blurbLink": "Modernismo Anacrónico. Collage — libro en Blurb ↗",
+      "instagramLink": "Instagram @modernismo_anacronico ↗"
     },
     "fosiles": {
       "medium": "Dibujo e instalación",
