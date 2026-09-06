@@ -28,7 +28,738 @@
       "hi": "2026 में लिखा गया एक वैचारिक निबंध, जो जीवन के 60 वर्ष और कलात्मक अभ्यास के 40 वर्ष पूरे होने के अवसर पर लिखा गया। नौ खंडों में, मू ब्लैंको \"निरंतरता के मानवतावाद\" की अवधारणा के माध्यम से अपने अभ्यास को व्यक्त करते हैं — अभिलेखागार, वेनेज़ुएला प्रवासी अनुभव, प्रवासी स्मृति के रूप में संगीत, कराकस और मियामी के बीच का भूदृश्य, और मानवता को त्यागे बिना तकनीक — विस्मृति के विरुद्ध ऐतिहासिकता उत्पन्न करने के तरीकों के रूप में।",
       "de": "Ein konzeptueller Essay, geschrieben 2026 anlässlich des 60. Geburtstags und des 40. Jahrestags seiner künstlerischen Laufbahn. In neun Abschnitten formuliert Muu Blanco seine Praxis über die Idee eines „Humanismus der Persistenz“: das Archiv, die venezolanische Diaspora, Musik als migrantische Erinnerung, die Landschaft zwischen Caracas und Miami sowie Technologie, ohne das Menschliche aufzugeben — als Wege, Geschichtlichkeit gegen das Vergessen zu erzeugen."
     },
-    "pdfId": "1U4rLnkBCIFoRpTzX0sqws8BSRyigX44R"
+    "pdfId": "1U4rLnkBCIFoRpTzX0sqws8BSRyigX44R",
+    "body": [
+      {
+        "es": "<strong>60 años de Vida desde 1966, 40 años de investigaciones contemporáneas desde 1986.</strong>",
+        "en": "<strong>60 years of Life since 1966, 40 years of contemporary research since 1986.</strong>",
+        "de": "<strong>60 Jahre Leben seit 1966, 40 Jahre zeitgenössische Forschung seit 1986.</strong>",
+        "ko": "<strong>1966년부터의 삶 60년, 1986년부터의 동시대적 탐구 40년.</strong>",
+        "ja": "<strong>1966年からの人生60年、1986年からの同時代的探求40年。</strong>",
+        "zh": "<strong>自1966年起的60年人生，自1986年起的40年当代研究。</strong>",
+        "hi": "<strong>1966 से जीवन के 60 वर्ष, 1986 से समकालीन अन्वेषणों के 40 वर्ष।</strong>"
+      },
+      {
+        "es": "<strong>Muu Blanco: creación, memoria y diáspora como formas de historicidad</strong>",
+        "en": "<strong>Muu Blanco: creation, memory, and diaspora as forms of historicity</strong>",
+        "de": "<strong>Muu Blanco: Schöpfung, Erinnerung und Diaspora als Formen der Geschichtlichkeit</strong>",
+        "ko": "<strong>무 블랑코: 역사성의 형식으로서의 창작, 기억, 그리고 디아스포라</strong>",
+        "ja": "<strong>ムー・ブランコ:歴史性の形式としての創造、記憶、そしてディアスポラ</strong>",
+        "zh": "<strong>穆·布兰科：作为历史性形式的创作、记忆与离散</strong>",
+        "hi": "<strong>मू ब्लैंको: ऐतिहासिकता के रूपों के रूप में सृजन, स्मृति और प्रवासी अनुभव</strong>"
+      },
+      {
+        "es": "He vivido una época en la que la transformación dejó de ser una excepción para convertirse en condición permanente. Nací en Caracas en 1966 y mi vida ha atravesado cambios políticos, sociales, culturales y tecnológicos que han modificado radicalmente nuestra manera de producir imágenes, escuchar música, comunicarnos, desplazarnos y comprender nuestra propia identidad.",
+        "en": "I have lived through an era in which transformation ceased to be an exception and became a permanent condition. I was born in Caracas in 1966, and my life has crossed political, social, cultural, and technological changes that have radically altered the way we produce images, listen to music, communicate, move, and understand our own identity.",
+        "de": "Ich habe eine Epoche erlebt, in der die Verwandlung aufhörte, eine Ausnahme zu sein, und zu einem dauerhaften Zustand wurde. Ich wurde 1966 in Caracas geboren, und mein Leben hat politische, soziale, kulturelle und technologische Veränderungen durchlaufen, die radikal verändert haben, wie wir Bilder erzeugen, Musik hören, kommunizieren, uns bewegen und unsere eigene Identität verstehen.",
+        "ko": "나는 변화가 예외이기를 멈추고 항구적인 조건이 된 시대를 살아왔다. 나는 1966년 카라카스에서 태어났고, 나의 삶은 우리가 이미지를 만들고, 음악을 듣고, 소통하고, 이동하고, 우리 자신의 정체성을 이해하는 방식을 근본적으로 바꾸어놓은 정치적, 사회적, 문화적, 기술적 변화들을 관통해왔다.",
+        "ja": "私は、変容がもはや例外ではなく恒常的な条件となった時代を生きてきた。私は1966年にカラカスで生まれ、私の人生は、私たちがイメージを生み出し、音楽を聴き、コミュニケーションを取り、移動し、自らのアイデンティティを理解する方法を根本的に変えてきた政治的、社会的、文化的、そして技術的な変化を貫いてきた。",
+        "zh": "我经历了这样一个时代——转变不再是例外，而成为一种永久性的常态。我于1966年出生于加拉加斯，我的一生穿越了种种政治、社会、文化与技术的变迁，这些变迁彻底改变了我们生产影像、聆听音乐、彼此沟通、迁移移动，以及理解自身身份的方式。",
+        "hi": "मैंने एक ऐसा युग जिया है जिसमें रूपांतरण एक अपवाद होना छोड़कर एक स्थायी अवस्था बन गया। मेरा जन्म 1966 में कराकास में हुआ, और मेरे जीवन ने ऐसे राजनीतिक, सामाजिक, सांस्कृतिक और तकनीकी परिवर्तनों को पार किया है जिन्होंने हमारे छवियां बनाने, संगीत सुनने, संवाद करने, विस्थापित होने और अपनी ही पहचान को समझने के ढंग को मूलतः बदल दिया है।"
+      },
+      {
+        "es": "Mi práctica artística se ha construido dentro de esa inestabilidad.",
+        "en": "My artistic practice has been built within that instability.",
+        "de": "Meine künstlerische Praxis hat sich innerhalb dieser Instabilität herausgebildet.",
+        "ko": "나의 예술적 실천은 바로 그 불안정성 안에서 구축되어왔다.",
+        "ja": "私の芸術的実践は、その不安定さの内側で築かれてきた。",
+        "zh": "我的艺术实践正是在这种不稳定性之中构建起来的。",
+        "hi": "मेरी कलात्मक साधना इसी अस्थिरता के भीतर निर्मित हुई है।"
+      },
+      {
+        "es": "Por ello propongo pensar mi trabajo desde lo que denomino Humanismo de la Persistencia: una posición desde la cual crear significa defender la capacidad humana de producir memoria, sensibilidad, pensamiento y vínculos en medio de un mundo sometido a transformaciones constantes.",
+        "en": "That is why I propose thinking about my work through what I call the Humanism of Persistence: a position from which creating means defending the human capacity to produce memory, sensibility, thought, and bonds amid a world subjected to constant transformation.",
+        "de": "Deshalb schlage ich vor, meine Arbeit von dem aus zu denken, was ich Humanismus der Persistenz nenne: eine Haltung, aus der heraus Schaffen bedeutet, die menschliche Fähigkeit zu verteidigen, Erinnerung, Sensibilität, Denken und Bindungen inmitten einer Welt zu erzeugen, die ständigen Verwandlungen unterworfen ist.",
+        "ko": "그렇기에 나는 내가 '지속의 휴머니즘'이라 부르는 것으로부터 나의 작업을 사유할 것을 제안한다. 이는 창조한다는 것이 곧, 끊임없는 변화에 종속된 세계 한가운데서 기억, 감수성, 사유, 그리고 유대를 만들어낼 수 있는 인간의 능력을 지켜내는 것을 의미하는 하나의 입장이다.",
+        "ja": "だからこそ私は、私が「持続のヒューマニズム」と呼ぶものから、自らの仕事を考えることを提案する。それは、創造するということが、絶え間ない変容にさらされた世界のただ中で、記憶、感受性、思考、そして絆を生み出す人間の能力を守り抜くことを意味する、一つの立場である。",
+        "zh": "正因如此，我提出从我称之为“持存的人文主义”这一理念出发来思考我的创作：这是一种立场，在这种立场下，创作意味着在一个不断经历变迁的世界之中，捍卫人类生产记忆、感知、思想与联结的能力。",
+        "hi": "इसलिए मैं अपने कार्य को उस विचार से देखने का प्रस्ताव रखता हूँ जिसे मैं 'निरंतरता का मानवतावाद' कहता हूँ: एक ऐसी स्थिति जिसमें सृजन का अर्थ है निरंतर रूपांतरणों से गुज़रते इस संसार के बीच स्मृति, संवेदनशीलता, विचार और संबंध उत्पन्न करने की मानवीय क्षमता की रक्षा करना।"
+      },
+      {
+        "es": "Persistir no significa permanecer inmóvil. Significa transformarse sin desaparecer.",
+        "en": "To persist does not mean remaining motionless. It means transforming without disappearing.",
+        "de": "Persistieren bedeutet nicht, unbeweglich zu bleiben. Es bedeutet, sich zu verwandeln, ohne zu verschwinden.",
+        "ko": "지속한다는 것은 멈추어 있는 것을 의미하지 않는다. 그것은 사라지지 않은 채 변모하는 것을 의미한다.",
+        "ja": "持続するとは、動かずにいることを意味しない。それは、消え去ることなく変容することを意味する。",
+        "zh": "持存并不意味着静止不动，而意味着在不消失的前提下不断转变。",
+        "hi": "निरंतरता का अर्थ स्थिर बने रहना नहीं है। इसका अर्थ है बिना विलुप्त हुए रूपांतरित होना।"
+      },
+      {
+        "es": "<strong>I. Crear es dejar evidencia de haber estado aquí</strong>",
+        "en": "<strong>I. To create is to leave evidence of having been here</strong>",
+        "de": "<strong>I. Schaffen heißt, den Beweis zu hinterlassen, hier gewesen zu sein</strong>",
+        "ko": "<strong>I. 창조한다는 것은 이곳에 존재했다는 증거를 남기는 것</strong>",
+        "ja": "<strong>I. 創造するとは、ここに在ったことの証を残すこと</strong>",
+        "zh": "<strong>一、创作即是留下曾在此处存在过的证据</strong>",
+        "hi": "<strong>I. सृजन करना यहाँ उपस्थित रहे होने का प्रमाण छोड़ना है</strong>"
+      },
+      {
+        "es": "Entiendo el arte como una forma de historicidad. Cada fotografía, video, performance, collage, composición musical, grabación de campo, instalación o archivo que he producido constituye una evidencia de una experiencia determinada del tiempo.",
+        "en": "I understand art as a form of historicity. Every photograph, video, performance, collage, musical composition, field recording, installation, or archive I have produced constitutes evidence of a particular experience of time.",
+        "de": "Ich verstehe Kunst als eine Form der Geschichtlichkeit. Jede Fotografie, jedes Video, jede Performance, jede Collage, jede musikalische Komposition, jede Feldaufnahme, jede Installation oder jedes Archiv, das ich hervorgebracht habe, bildet den Beweis einer bestimmten Erfahrung der Zeit.",
+        "ko": "나는 예술을 역사성의 한 형식으로 이해한다. 내가 만들어낸 모든 사진, 영상, 퍼포먼스, 콜라주, 음악 작곡, 현장 녹음, 설치, 혹은 아카이브는 시간의 특정한 경험에 대한 증거를 이룬다.",
+        "ja": "私は芸術を歴史性の一形式として理解している。私が制作してきたあらゆる写真、映像、パフォーマンス、コラージュ、音楽作品、フィールドレコーディング、インスタレーション、あるいはアーカイブは、時間のある特定の経験の証となっている。",
+        "zh": "我将艺术理解为一种历史性的形式。我所创作的每一张照片、每一段影像、每一次表演、每一件拼贴、每一首音乐作品、每一段实地录音、每一件装置或每一份档案，都构成了对某种特定时间经验的证据。",
+        "hi": "मैं कला को ऐतिहासिकता के एक रूप के रूप में समझता हूँ। मेरे द्वारा निर्मित प्रत्येक तस्वीर, वीडियो, परफॉर्मेंस, कोलाज, संगीत रचना, फील्ड रिकॉर्डिंग, इंस्टॉलेशन या अभिलेख समय के एक निश्चित अनुभव का प्रमाण है।"
+      },
+      {
+        "es": "No pretendo narrar la Historia con mayúscula. Me interesa aquello que ocurre en sus márgenes: los sonidos que desaparecen, los paisajes que cambian, las imágenes descartadas, las tecnologías que envejecen, los cuerpos que migran, las músicas que sobreviven atravesando generaciones y territorios.",
+        "en": "I do not intend to narrate History with a capital H. I am interested in what happens at its margins: the sounds that disappear, the landscapes that change, the discarded images, the technologies that age, the bodies that migrate, the musics that survive across generations and territories.",
+        "de": "Ich beabsichtige nicht, die Geschichte mit großem G zu erzählen. Mich interessiert das, was an ihren Rändern geschieht: die Klänge, die verschwinden, die Landschaften, die sich verändern, die verworfenen Bilder, die alternden Technologien, die Körper, die migrieren, die Musiken, die Generationen und Territorien überdauern.",
+        "ko": "나는 대문자 역사를 서술하려는 것이 아니다. 나는 그 여백에서 일어나는 것들에 관심이 있다. 사라져가는 소리들, 변해가는 풍경들, 버려진 이미지들, 낡아가는 기술들, 이주하는 몸들, 세대와 영토를 가로질러 살아남는 음악들에.",
+        "ja": "私は大文字の「歴史」を語ろうとしているのではない。私が関心を寄せるのは、その余白で起こっていることである。消えゆく音、変わりゆく風景、捨てられた映像、老いてゆく技術、移動する身体、世代と地域を越えて生き延びる音楽たちに。",
+        "zh": "我并不打算讲述那个大写的“历史”。我所关心的，是发生在其边缘的一切：正在消失的声音、正在改变的风景、被丢弃的影像、日渐老去的技术、迁徙的身体，以及跨越世代与地域而幸存下来的音乐。",
+        "hi": "मेरा उद्देश्य बड़े इतिहास का वर्णन करना नहीं है। मुझे उसकी सीमाओं पर घटित होने वाली चीज़ों में रुचि है: वे ध्वनियां जो विलुप्त हो जाती हैं, वे भूदृश्य जो बदल जाते हैं, वे छवियां जो त्याग दी जाती हैं, वे तकनीकें जो पुरानी पड़ जाती हैं, वे देहें जो प्रवासित होती हैं, वह संगीत जो पीढ़ियों और भूभागों को पार करते हुए जीवित रहता है।"
+      },
+      {
+        "es": "El artista funciona entonces como un productor de memoria.",
+        "en": "The artist thus functions as a producer of memory.",
+        "de": "Der Künstler fungiert somit als Produzent von Erinnerung.",
+        "ko": "그리하여 작가는 기억의 생산자로서 기능한다.",
+        "ja": "こうして作家は、記憶の生産者として機能する。",
+        "zh": "由此，艺术家便成为一名记忆的生产者。",
+        "hi": "इस प्रकार कलाकार स्मृति के निर्माता के रूप में कार्य करता है।"
+      },
+      {
+        "es": "Crear es afirmar: esto existió, esto fue escuchado, esto pasó por mi cuerpo, esto formó parte de una ciudad, de una generación y de una manera particular de estar en el mundo.",
+        "en": "To create is to affirm: this existed, this was heard, this passed through my body, this was part of a city, of a generation, and of a particular way of being in the world.",
+        "de": "Schaffen heißt bekräftigen: Dies existierte, dies wurde gehört, dies ging durch meinen Körper, dies war Teil einer Stadt, einer Generation und einer besonderen Art, in der Welt zu sein.",
+        "ko": "창조한다는 것은 단언하는 것이다. 이것이 존재했다고, 이것이 들려졌다고, 이것이 내 몸을 통과했다고, 이것이 한 도시의, 한 세대의, 그리고 세상에 존재하는 하나의 특정한 방식의 일부였다고.",
+        "ja": "創造するとは、断言することである。これは存在した、これは聴かれた、これは私の身体を通過した、これはある都市の、ある世代の、そして世界に在る一つの particular な仕方の一部であった、と。",
+        "zh": "创作即是断言：这曾经存在过，这曾被聆听过，这曾穿过我的身体，这曾是某座城市、某个世代、以及某种特定的存在于世方式的一部分。",
+        "hi": "सृजन करना यह प्रतिपादित करना है: यह अस्तित्व में था, यह सुना गया था, यह मेरी देह से होकर गुज़रा, यह एक शहर का, एक पीढ़ी का, और संसार में होने के एक विशिष्ट ढंग का हिस्सा था।"
+      },
+      {
+        "es": "Mi obra constituye, en ese sentido, una acumulación de huellas.",
+        "en": "My work constitutes, in that sense, an accumulation of traces.",
+        "de": "Mein Werk bildet in diesem Sinne eine Anhäufung von Spuren.",
+        "ko": "그런 의미에서 나의 작업은 흔적들의 축적을 이룬다.",
+        "ja": "その意味において、私の作品は痕跡の集積を成している。",
+        "zh": "从这个意义上说，我的作品是一种痕迹的累积。",
+        "hi": "इस अर्थ में, मेरी कृति चिह्नों का एक संचयन है।"
+      },
+      {
+        "es": "<strong>II. La diáspora como condición creativa</strong>",
+        "en": "<strong>II. The diaspora as a creative condition</strong>",
+        "de": "<strong>II. Die Diaspora als kreative Bedingung</strong>",
+        "ko": "<strong>II. 창조적 조건으로서의 디아스포라</strong>",
+        "ja": "<strong>II. 創造的条件としてのディアスポラ</strong>",
+        "zh": "<strong>二、作为创作条件的离散经验</strong>",
+        "hi": "<strong>II. एक सृजनात्मक स्थिति के रूप में प्रवासी अनुभव</strong>"
+      },
+      {
+        "es": "Ser parte de la diáspora venezolana modificó profundamente mi relación con el territorio.",
+        "en": "Being part of the Venezuelan diaspora profoundly changed my relationship with territory.",
+        "de": "Teil der venezolanischen Diaspora zu sein, veränderte mein Verhältnis zum Territorium tiefgreifend.",
+        "ko": "베네수엘라 디아스포라의 일원이 된다는 것은 영토와의 관계를 근본적으로 바꾸어놓았다.",
+        "ja": "ベネズエラのディアスポラの一員であることは、領土との私の関係を深く変えた。",
+        "zh": "作为委内瑞拉离散群体的一员，深刻改变了我与领土之间的关系。",
+        "hi": "वेनेज़ुएला प्रवासी समुदाय का हिस्सा होना मेरे भूभाग के साथ संबंध को गहराई से बदल गया।"
+      },
+      {
+        "es": "Cuando se vive fuera del país de origen, Venezuela deja de ser únicamente un espacio geográfico. Se convierte también en memoria, sonido, lenguaje, comida, música, afectos, fotografías, archivos, conversaciones y recuerdos.",
+        "en": "When one lives outside one's country of origin, Venezuela ceases to be merely a geographic space. It also becomes memory, sound, language, food, music, affections, photographs, archives, conversations, and recollections.",
+        "de": "Wenn man außerhalb des Herkunftslandes lebt, hört Venezuela auf, nur ein geografischer Raum zu sein. Es wird auch zu Erinnerung, Klang, Sprache, Essen, Musik, Zuneigung, Fotografien, Archiven, Gesprächen und Erinnerungsstücken.",
+        "ko": "출신국 바깥에서 살아갈 때, 베네수엘라는 더 이상 단순한 지리적 공간에 머무르지 않는다. 그것은 또한 기억, 소리, 언어, 음식, 음악, 애정, 사진, 아카이브, 대화, 그리고 추억이 된다.",
+        "ja": "出身国の外で生きるとき、ベネズエラは単なる地理的空間であることをやめる。それはまた、記憶、音、言葉、食べ物、音楽、愛情、写真、アーカイブ、会話、そして思い出となる。",
+        "zh": "当一个人生活在祖国之外，委内瑞拉便不再仅仅是一处地理空间。它同时也变成了记忆、声音、语言、食物、音乐、情感、照片、档案、对话与回忆。",
+        "hi": "जब कोई अपने मूल देश से बाहर रहता है, तो वेनेज़ुएला मात्र एक भौगोलिक स्थान नहीं रह जाता। वह स्मृति, ध्वनि, भाषा, भोजन, संगीत, स्नेह, तस्वीरें, अभिलेख, बातचीत और यादें भी बन जाता है।"
+      },
+      {
+        "es": "La distancia produce otra geografía.",
+        "en": "Distance produces another geography.",
+        "de": "Die Distanz erzeugt eine andere Geografie.",
+        "ko": "거리는 또 다른 지리를 만들어낸다.",
+        "ja": "距離は、もう一つの地理を生み出す。",
+        "zh": "距离，生产出另一种地理。",
+        "hi": "दूरी एक और भूगोल उत्पन्न करती है।"
+      },
+      {
+        "es": "Mi práctica no intenta reconstruir nostálgicamente el país que dejé atrás. Me interesa algo más complejo: comprender qué permanece de un territorio dentro de nosotros cuando físicamente ya no estamos en él.",
+        "en": "My practice does not try to nostalgically reconstruct the country I left behind. I am interested in something more complex: understanding what remains of a territory within us when we are no longer physically in it.",
+        "de": "Meine Praxis versucht nicht, das Land, das ich zurückgelassen habe, nostalgisch zu rekonstruieren. Mich interessiert etwas Komplexeres: zu verstehen, was von einem Territorium in uns bleibt, wenn wir uns physisch nicht mehr darin befinden.",
+        "ko": "나의 실천은 내가 뒤로하고 온 나라를 향수적으로 재구성하려 시도하지 않는다. 나는 더 복잡한 무언가에 관심이 있다. 우리가 더 이상 물리적으로 그 안에 있지 않을 때, 하나의 영토가 우리 안에 무엇을 남기는지를 이해하는 일에.",
+        "ja": "私の実践は、私が後にしてきた国をノスタルジックに再構築しようとするものではない。私が関心を寄せるのは、より複雑な何かである。すなわち、私たちがもはや物理的にはその中にいないとき、一つの領土が私たちの内に何を残すのかを理解することである。",
+        "zh": "我的实践并不试图怀旧地重构我所离开的那个国家，我所关心的是更为复杂的事情：去理解，当我们身体上已不再置身于某片领土之中时，那片领土在我们内心究竟留下了什么。",
+        "hi": "मेरी साधना उस देश का पुरानी यादों में डूबकर पुनर्निर्माण करने का प्रयास नहीं करती जिसे मैंने पीछे छोड़ दिया। मुझे अधिक जटिल किसी चीज़ में रुचि है: यह समझना कि जब हम भौतिक रूप से किसी भूभाग में नहीं रहते, तब भी उसका क्या हिस्सा हमारे भीतर बचा रहता है।"
+      },
+      {
+        "es": "La diáspora me obligó a comprender que las raíces no son cadenas que nos atan a un lugar. Son sistemas vivos capaces de desplazarse.",
+        "en": "The diaspora forced me to understand that roots are not chains that bind us to a place. They are living systems capable of moving.",
+        "de": "Die Diaspora zwang mich zu verstehen, dass Wurzeln keine Ketten sind, die uns an einen Ort binden. Sie sind lebendige Systeme, die sich verlagern können.",
+        "ko": "디아스포라는 나로 하여금 뿌리란 우리를 한 장소에 묶어두는 사슬이 아니라는 것을 이해하도록 만들었다. 뿌리는 이동할 수 있는 살아있는 체계다.",
+        "ja": "ディアスポラは私に、ルーツとは私たちをある場所に縛りつける鎖ではないということを理解させた。それは移動しうる、生きたシステムなのだ。",
+        "zh": "离散经验迫使我明白：根，并非将我们锁在某地的锁链，而是能够迁移的活的系统。",
+        "hi": "प्रवासी अनुभव ने मुझे यह समझने पर विवश किया कि जड़ें वे जंजीरें नहीं हैं जो हमें किसी स्थान से बांधे रखती हैं। वे जीवंत तंत्र हैं जो विस्थापित होने में सक्षम हैं।"
+      },
+      {
+        "es": "Puedo vivir y producir desde Miami sin dejar de pensar desde Caracas. Puedo escuchar el Caribe desde los Estados Unidos. Puedo trabajar con tecnologías contemporáneas y continuar reconociendo dentro de ellas los ritmos, las contradicciones, el humor, la violencia, la improvisación y la extraordinaria complejidad cultural venezolana.",
+        "en": "I can live and produce from Miami without ceasing to think from Caracas. I can listen to the Caribbean from the United States. I can work with contemporary technologies and continue recognizing within them the rhythms, the contradictions, the humor, the violence, the improvisation, and the extraordinary cultural complexity of Venezuela.",
+        "de": "Ich kann von Miami aus leben und produzieren, ohne aufzuhören, von Caracas aus zu denken. Ich kann die Karibik von den Vereinigten Staaten aus hören. Ich kann mit zeitgenössischen Technologien arbeiten und in ihnen weiterhin die Rhythmen, die Widersprüche, den Humor, die Gewalt, die Improvisation und die außerordentliche kulturelle Komplexität Venezuelas erkennen.",
+        "ko": "나는 카라카스로부터 사유하기를 멈추지 않은 채 마이애미에서 살고 작업할 수 있다. 나는 미국에서 카리브해를 들을 수 있다. 나는 동시대 기술들을 다루면서도 그 안에서 리듬, 모순, 유머, 폭력, 즉흥성, 그리고 베네수엘라의 놀라운 문화적 복잡성을 계속 알아볼 수 있다.",
+        "ja": "私は、カラカスから思考することをやめることなく、マイアミから生き、制作することができる。私は、アメリカ合衆国からカリブ海を聴くことができる。私は、現代的なテクノロジーを扱いながらも、その中にリズム、矛盾、ユーモア、暴力、即興性、そしてベネズエラの並外れた文化的複雑さを見出し続けることができる。",
+        "zh": "我可以在迈阿密生活与创作，同时依然以加拉加斯的方式思考。我可以在美国聆听加勒比海的声音。我可以运用当代技术进行创作，同时在其中持续辨认出委内瑞拉的节奏、矛盾、幽默、暴力、即兴精神与非凡的文化复杂性。",
+        "hi": "मैं कराकास से सोचना बंद किए बिना मियामी से जीवन और सृजन कर सकता हूँ। मैं संयुक्त राज्य अमेरिका से कैरिबियन को सुन सकता हूँ। मैं समकालीन तकनीकों के साथ काम कर सकता हूँ और उनके भीतर वेनेज़ुएला की लय, अंतर्विरोध, हास्य, हिंसा, तात्कालिकता और असाधारण सांस्कृतिक जटिलता को पहचानना जारी रख सकता हूँ।"
+      },
+      {
+        "es": "Mi identidad no necesita escoger entre origen y presente.",
+        "en": "My identity does not need to choose between origin and present.",
+        "de": "Meine Identität muss nicht zwischen Herkunft und Gegenwart wählen.",
+        "ko": "나의 정체성은 기원과 현재 사이에서 선택할 필요가 없다.",
+        "ja": "私のアイデンティティは、出自と現在のあいだで選ぶ必要はない。",
+        "zh": "我的身份认同无需在起源与当下之间做出取舍。",
+        "hi": "मेरी पहचान को उद्गम और वर्तमान के बीच चुनाव करने की आवश्यकता नहीं है।"
+      },
+      {
+        "es": "Soy venezolano desde el desplazamiento y contemporáneo desde mis raíces.",
+        "en": "I am Venezuelan through displacement, and contemporary through my roots.",
+        "de": "Ich bin Venezolaner durch Verlagerung und zeitgenössisch durch meine Wurzeln.",
+        "ko": "나는 이동을 통해 베네수엘라인이며, 나의 뿌리를 통해 동시대적이다.",
+        "ja": "私は移動を通じてベネズエラ人であり、自らのルーツを通じて同時代的である。",
+        "zh": "我因迁移而成为委内瑞拉人，也因我的根源而成为当代人。",
+        "hi": "मैं विस्थापन के माध्यम से वेनेज़ुएलावासी हूँ और अपनी जड़ों के माध्यम से समकालीन हूँ।"
+      },
+      {
+        "es": "<strong>III. El archivo contra el olvido</strong>",
+        "en": "<strong>III. The archive against forgetting</strong>",
+        "de": "<strong>III. Das Archiv gegen das Vergessen</strong>",
+        "ko": "<strong>III. 망각에 맞서는 아카이브</strong>",
+        "ja": "<strong>III. 忘却に抗するアーカイブ</strong>",
+        "zh": "<strong>三、对抗遗忘的档案</strong>",
+        "hi": "<strong>III. विस्मृति के विरुद्ध अभिलेख</strong>"
+      },
+      {
+        "es": "Esta condición explica también mi interés constante por el archivo.",
+        "en": "This condition also explains my constant interest in the archive.",
+        "de": "Dieser Zustand erklärt auch mein beständiges Interesse am Archiv.",
+        "ko": "이 조건은 또한 아카이브에 대한 나의 끊임없는 관심을 설명해준다.",
+        "ja": "この状態はまた、アーカイブに対する私の絶え間ない関心を説明してもいる。",
+        "zh": "这一状态也解释了我对档案持续不断的关注。",
+        "hi": "यह स्थिति अभिलेख के प्रति मेरी निरंतर रुचि को भी स्पष्ट करती है।"
+      },
+      {
+        "es": "Colecciono imágenes, publicaciones, fotografías, grabaciones, discos de vinilo, sonidos, cintas VHS y objetos porque reconozco en ellos algo profundamente humano: nuestra necesidad de conservar rastros frente a la desaparición.",
+        "en": "I collect images, publications, photographs, recordings, vinyl records, sounds, VHS tapes, and objects because I recognize in them something profoundly human: our need to preserve traces in the face of disappearance.",
+        "de": "Ich sammle Bilder, Publikationen, Fotografien, Aufnahmen, Vinylschallplatten, Klänge, VHS-Kassetten und Objekte, weil ich in ihnen etwas zutiefst Menschliches erkenne: unser Bedürfnis, angesichts des Verschwindens Spuren zu bewahren.",
+        "ko": "나는 이미지, 출판물, 사진, 녹음, 바이닐 레코드, 소리, VHS 테이프, 그리고 사물들을 수집한다. 왜냐하면 그것들 안에서 깊이 인간적인 무언가를, 즉 소멸 앞에서 흔적을 보존하고자 하는 우리의 필요를 발견하기 때문이다.",
+        "ja": "私はイメージ、出版物、写真、録音、レコード、音、VHSテープ、そして物を収集する。なぜならそこに、深く人間的な何か——消滅を前にして痕跡を保存しようとする私たちの必要性——を見出すからである。",
+        "zh": "我收藏影像、出版物、照片、录音、黑胶唱片、声音、VHS录像带以及各种物件，因为我在它们身上认出了某种深切的人性：我们在消逝面前保存痕迹的需要。",
+        "hi": "मैं छवियां, प्रकाशन, तस्वीरें, रिकॉर्डिंग, विनाइल रिकॉर्ड, ध्वनियां, VHS टेप और वस्तुएं संग्रहित करता हूँ क्योंकि मैं उनमें कुछ गहराई से मानवीय पहचानता हूँ: विलोपन के सामने निशान सुरक्षित रखने की हमारी आवश्यकता।"
+      },
+      {
+        "es": "En Modernismo Anacrónico Collage, por ejemplo, materiales impresos destinados eventualmente al descarte son fragmentados y reorganizados. En mis investigaciones fotográficas de Abstracciones Paisajísticas, el paisaje se convierte en memoria visual y materia abstracta. En mis trabajos de videoarte, el tiempo registrado puede ser manipulado, repetido y confrontado con otro presente.",
+        "en": "In Modernismo Anacrónico Collage, for instance, printed materials eventually destined for disposal are fragmented and reorganized. In my photographic research for Abstracciones Paisajísticas, landscape becomes visual memory and abstract matter. In my video art works, recorded time can be manipulated, repeated, and confronted with another present.",
+        "de": "In Modernismo Anacrónico Collage etwa werden gedruckte Materialien, die letztlich zum Wegwerfen bestimmt sind, fragmentiert und neu geordnet. In meinen fotografischen Untersuchungen zu Abstracciones Paisajísticas wird die Landschaft zu visueller Erinnerung und abstrakter Materie. In meinen Videokunstarbeiten kann die aufgezeichnete Zeit manipuliert, wiederholt und mit einer anderen Gegenwart konfrontiert werden.",
+        "ko": "예를 들어 Modernismo Anacrónico Collage에서는 결국 폐기될 운명의 인쇄물들이 조각나고 재구성된다. Abstracciones Paisajísticas의 사진적 탐구에서는 풍경이 시각적 기억이자 추상적 물질이 된다. 나의 비디오 아트 작업들에서는 기록된 시간이 조작되고, 반복되고, 또 다른 현재와 대면할 수 있다.",
+        "ja": "例えば『Modernismo Anacrónico Collage』では、いずれ廃棄されることになる印刷物が断片化され、再構成される。『Abstracciones Paisajísticas』の写真的探求においては、風景は視覚的記憶であり抽象的な物質となる。私のビデオアート作品においては、記録された時間は操作され、反復され、また別の現在と対峙させられうる。",
+        "zh": "例如在《Modernismo Anacrónico Collage》中，那些最终注定被丢弃的印刷材料被剪切、被重新组织。在我为《Abstracciones Paisajísticas》所做的摄影研究中，风景转化为视觉记忆与抽象的物质。而在我的录像艺术作品中，被记录下来的时间可以被操控、被重复，并与另一个当下相对峙。",
+        "hi": "उदाहरण के लिए, Modernismo Anacrónico Collage में, अंततः त्याग दिए जाने वाले मुद्रित सामग्रियों को खंडित कर पुनर्गठित किया जाता है। Abstracciones Paisajísticas के मेरे फोटोग्राफिक अन्वेषणों में, भूदृश्य दृश्य स्मृति और अमूर्त द्रव्य बन जाता है। मेरे वीडियो आर्ट कार्यों में, दर्ज किया गया समय हेरफेर किया जा सकता है, दोहराया जा सकता है, और एक अन्य वर्तमान से टकराया जा सकता है।"
+      },
+      {
+        "es": "Mis instalaciones multimedia sensibles al sonido llevan esta investigación hacia otra dimensión: el archivo deja de ser algo inmóvil y puede convertirse en acontecimiento. Imagen, sonido, espacio, tecnología y presencia humana establecen relaciones que solamente existen durante el tiempo de la experiencia.",
+        "en": "My sound-responsive multimedia installations take this research toward another dimension: the archive stops being something static and can become an event. Image, sound, space, technology, and human presence establish relationships that exist only for the duration of the experience.",
+        "de": "Meine klangreaktiven Multimedia-Installationen führen diese Untersuchung in eine andere Dimension: Das Archiv hört auf, etwas Unbewegliches zu sein, und kann zum Ereignis werden. Bild, Klang, Raum, Technologie und menschliche Präsenz gehen Beziehungen ein, die nur für die Dauer der Erfahrung bestehen.",
+        "ko": "나의 소리 반응형 멀티미디어 설치작업들은 이 탐구를 또 다른 차원으로 이끈다. 아카이브는 더 이상 고정된 어떤 것이기를 멈추고 하나의 사건이 될 수 있다. 이미지, 소리, 공간, 기술, 그리고 인간의 현존은 오직 그 경험의 시간 동안에만 존재하는 관계들을 형성한다.",
+        "ja": "私の、音に反応するマルチメディア・インスタレーションは、この探求をもう一つの次元へと導く。アーカイブは、静止したものであることをやめ、出来事となりうる。イメージ、音、空間、テクノロジー、そして人間の現前は、その経験の持続する時間の間だけ存在する関係を築くのである。",
+        "zh": "我那些对声音有所回应的多媒体装置作品，将这一探索推向了另一个维度：档案不再是静止不动的东西，而可以转变为一场事件。影像、声音、空间、技术与人的在场，在此建立起一种仅在体验发生的那段时间之内才存在的关系。",
+        "hi": "मेरे ध्वनि-संवेदी मल्टीमीडिया इंस्टॉलेशन इस अन्वेषण को एक और आयाम की ओर ले जाते हैं: अभिलेख अब स्थिर कुछ नहीं रह जाता और एक घटना में परिवर्तित हो सकता है। छवि, ध्वनि, स्थान, प्रौद्योगिकी और मानवीय उपस्थिति ऐसे संबंध स्थापित करते हैं जो केवल अनुभव के समय के दौरान ही अस्तित्व में रहते हैं।"
+      },
+      {
+        "es": "Archivar no significa conservar intacto. Archivar también puede significar activar.",
+        "en": "To archive does not mean to preserve intact. To archive can also mean to activate.",
+        "de": "Archivieren bedeutet nicht, unversehrt zu bewahren. Archivieren kann auch bedeuten, zu aktivieren.",
+        "ko": "아카이빙한다는 것은 온전하게 보존한다는 것을 의미하지 않는다. 아카이빙한다는 것은 또한 활성화한다는 것을 의미할 수도 있다.",
+        "ja": "アーカイブするということは、無傷のまま保存することを意味しない。アーカイブするということはまた、活性化することを意味しうる。",
+        "zh": "存档并不意味着原封不动地保存，存档也可以意味着激活。",
+        "hi": "अभिलेखन का अर्थ अक्षुण्ण रूप से संरक्षित करना नहीं है। अभिलेखन का अर्थ सक्रिय करना भी हो सकता है।"
+      },
+      {
+        "es": "<strong>IV. La música como memoria migrante</strong>",
+        "en": "<strong>IV. Music as migrant memory</strong>",
+        "de": "<strong>IV. Musik als migrantische Erinnerung</strong>",
+        "ko": "<strong>IV. 이주하는 기억으로서의 음악</strong>",
+        "ja": "<strong>IV. 移動する記憶としての音楽</strong>",
+        "zh": "<strong>四、作为迁徙记忆的音乐</strong>",
+        "hi": "<strong>IV. प्रवासी स्मृति के रूप में संगीत</strong>"
+      },
+      {
+        "es": "Desde el año 2000, mi trabajo como productor musical amplió esta investigación hacia la composición, la computadora, el sampling, la edición y la manipulación sonora.",
+        "en": "Since the year 2000, my work as a music producer has expanded this research toward composition, the computer, sampling, editing, and sound manipulation.",
+        "de": "Seit dem Jahr 2000 hat meine Arbeit als Musikproduzent diese Untersuchung auf Komposition, Computer, Sampling, Editing und Klangmanipulation ausgeweitet.",
+        "ko": "2000년 이후, 음악 프로듀서로서의 나의 작업은 이 탐구를 작곡, 컴퓨터, 샘플링, 편집, 그리고 사운드 조작의 영역으로 확장시켰다.",
+        "ja": "2000年以降、音楽プロデューサーとしての私の仕事は、この探求を作曲、コンピュータ、サンプリング、編集、そして音の操作へと広げていった。",
+        "zh": "自2000年起，我作为音乐制作人的工作，将这一探索延伸至作曲、电脑、采样、剪辑与声音的操控之中。",
+        "hi": "वर्ष 2000 से, संगीत निर्माता के रूप में मेरे कार्य ने इस अन्वेषण को रचना, कंप्यूटर, सैंपलिंग, संपादन और ध्वनि-हेरफेर की ओर विस्तारित किया।"
+      },
+      {
+        "es": "Desde 2019, la publicación continua de mi producción musical ha convertido además ese proceso en una suerte de archivo sonoro autobiográfico y cultural.",
+        "en": "Since 2019, the continuous release of my musical production has also turned that process into a kind of autobiographical and cultural sound archive.",
+        "de": "Seit 2019 hat die fortlaufende Veröffentlichung meiner musikalischen Produktion diesen Prozess außerdem in eine Art autobiografisches und kulturelles Klangarchiv verwandelt.",
+        "ko": "2019년 이후, 나의 음악 작업의 지속적인 발표는 또한 그 과정을 일종의 자전적이고 문화적인 사운드 아카이브로 변모시켰다.",
+        "ja": "2019年以降、私の音楽制作の継続的な発表はまた、その過程を一種の自伝的かつ文化的なサウンドアーカイブへと変えてきた。",
+        "zh": "自2019年起，我音乐作品的持续发布，也将这一过程转变成了一种带有自传性质和文化意义的声音档案。",
+        "hi": "2019 से, मेरी संगीत रचना का निरंतर प्रकाशन इस प्रक्रिया को एक प्रकार के आत्मकथात्मक और सांस्कृतिक ध्वनि-अभिलेख में भी बदल चुका है।"
+      },
+      {
+        "es": "La música posee una característica extraordinaria para quien pertenece a una diáspora: puede viajar sin abandonar sus raíces.",
+        "en": "Music has an extraordinary quality for someone who belongs to a diaspora: it can travel without abandoning its roots.",
+        "de": "Musik besitzt für jemanden, der einer Diaspora angehört, eine außerordentliche Eigenschaft: Sie kann reisen, ohne ihre Wurzeln zu verlassen.",
+        "ko": "음악은 디아스포라에 속한 이에게 특별한 성질을 지닌다. 음악은 자신의 뿌리를 버리지 않은 채 여행할 수 있다.",
+        "ja": "音楽は、ディアスポラに属する者にとって、並外れた性質を持っている。それは、自らのルーツを捨てることなく旅することができるのだ。",
+        "zh": "对于身处离散之中的人而言，音乐拥有一种非凡的特质：它可以远行，却不必舍弃自己的根。",
+        "hi": "जो कोई प्रवासी समुदाय से संबंध रखता है, उसके लिए संगीत में एक असाधारण विशेषता है: यह अपनी जड़ों को त्यागे बिना यात्रा कर सकता है।"
+      },
+      {
+        "es": "Un ritmo puede sobrevivir a una frontera. Una grabación puede atravesar décadas. Un disco puede cambiar de país y continuar transportando consigo una memoria colectiva.",
+        "en": "A rhythm can outlive a border. A recording can cross decades. A record can change countries and continue carrying a collective memory with it.",
+        "de": "Ein Rhythmus kann eine Grenze überdauern. Eine Aufnahme kann Jahrzehnte überdauern. Eine Schallplatte kann das Land wechseln und weiterhin eine kollektive Erinnerung mit sich tragen.",
+        "ko": "하나의 리듬은 국경보다 오래 살아남을 수 있다. 하나의 녹음은 수십 년을 가로지를 수 있다. 하나의 음반은 나라를 옮겨가면서도 집단적 기억을 계속 실어나를 수 있다.",
+        "ja": "一つのリズムは、国境よりも長く生き延びることができる。一つの録音は、幾十年をも横断することができる。一枚のレコードは、国を変えながらも、集合的な記憶を運び続けることができる。",
+        "zh": "一段节奏，可以超越一道国界而存续。一段录音，可以穿越数十年的光阴。一张唱片，可以更换国度，却仍旧承载着一份集体记忆继续前行。",
+        "hi": "एक लय एक सीमा से आगे भी जीवित रह सकती है। एक रिकॉर्डिंग दशकों को पार कर सकती है। एक रिकॉर्ड देश बदल सकता है और फिर भी अपने साथ एक सामूहिक स्मृति को ढोता रह सकता है।"
+      },
+      {
+        "es": "Por eso mi trabajo como productor, y también mi práctica como DrMuusica, coleccionista y selector de vinilos, no están separados de mi trabajo como artista conceptual.",
+        "en": "That is why my work as a producer, and also my practice as DrMuusica, vinyl collector and selector, are not separate from my work as a conceptual artist.",
+        "de": "Deshalb sind meine Arbeit als Produzent sowie meine Praxis als DrMuusica, Vinylsammler und Selector nicht von meiner Arbeit als Konzeptkünstler getrennt.",
+        "ko": "그렇기에 프로듀서로서의 나의 작업, 그리고 DrMuusica, 바이닐 수집가이자 셀렉터로서의 나의 실천은 개념미술가로서의 나의 작업과 분리되어 있지 않다.",
+        "ja": "だからこそ、プロデューサーとしての私の仕事、そしてDrMuusica、ヴァイナル・コレクター、そしてセレクターとしての私の実践は、コンセプチュアル・アーティストとしての私の仕事と切り離されてはいない。",
+        "zh": "正因如此，我作为制作人的工作，以及我作为Dr.Muusica、黑胶收藏者与选曲人（Selector）的实践，与我作为观念艺术家的工作，从来都不曾分离。",
+        "hi": "इसीलिए एक निर्माता के रूप में मेरा कार्य, और DrMuusica, विनाइल संग्रहकर्ता और सेलेक्टर के रूप में मेरी साधना, एक संकल्पनात्मक कलाकार के रूप में मेरे कार्य से पृथक नहीं है।"
+      },
+      {
+        "es": "Escuchar, seleccionar, mezclar, samplear y producir son maneras de pensar.",
+        "en": "Listening, selecting, mixing, sampling, and producing are ways of thinking.",
+        "de": "Hören, Auswählen, Mischen, Samplen und Produzieren sind Denkweisen.",
+        "ko": "듣는 것, 선별하는 것, 믹싱하는 것, 샘플링하는 것, 그리고 프로듀싱하는 것은 사유하는 방식들이다.",
+        "ja": "聴くこと、選ぶこと、ミックスすること、サンプリングすること、そしてプロデュースすることは、思考の様式である。",
+        "zh": "聆听、挑选、混音、采样与制作，都是思考的方式。",
+        "hi": "सुनना, चुनना, मिश्रित करना, सैंपल करना और निर्माण करना — ये सब सोचने के तरीके हैं।"
+      },
+      {
+        "es": "Cuando coloco en relación sonidos afrovenezolanos, caribeños, latinoamericanos, electrónicos, urbanos o experimentales, no intento producir una reconstrucción folclórica del pasado. Busco generar una conversación entre temporalidades.",
+        "en": "When I put Afro-Venezuelan, Caribbean, Latin American, electronic, urban, or experimental sounds into relation, I am not trying to produce a folkloric reconstruction of the past. I seek to generate a conversation between temporalities.",
+        "de": "Wenn ich afrovenezolanische, karibische, lateinamerikanische, elektronische, urbane oder experimentelle Klänge miteinander in Beziehung setze, versuche ich nicht, eine folkloristische Rekonstruktion der Vergangenheit zu erzeugen. Ich suche danach, ein Gespräch zwischen Zeitlichkeiten zu erzeugen.",
+        "ko": "내가 아프로-베네수엘라, 카리브, 라틴아메리카, 전자, 도시, 혹은 실험적 소리들을 서로 관계 맺게 할 때, 나는 과거의 민속적 재구성을 만들어내려는 것이 아니다. 나는 여러 시간성들 사이의 대화를 생성해내고자 한다.",
+        "ja": "私がアフロ・ベネズエラ的、カリブ的、ラテンアメリカ的、電子的、都市的、あるいは実験的な音を互いに関係づけるとき、私は過去の民俗学的な再構築を生み出そうとしているのではない。私が求めているのは、複数の時間性のあいだの対話を生み出すことである。",
+        "zh": "当我把非裔委内瑞拉、加勒比、拉丁美洲、电子、都市或实验性的声音相互并置时，我并不是要制造一种对过去的民俗式重构。我所寻求的，是在不同的时间性之间生成一场对话。",
+        "hi": "जब मैं अफ्रो-वेनेज़ुएला, कैरिबियन, लातिन अमेरिकी, इलेक्ट्रॉनिक, शहरी या प्रयोगात्मक ध्वनियों को परस्पर संबंधित करता हूँ, तो मैं अतीत का कोई लोकपरंपरागत पुनर्निर्माण उत्पन्न करने का प्रयास नहीं करता। मैं भिन्न कालावधियों के बीच एक संवाद उत्पन्न करना चाहता हूँ।"
+      },
+      {
+        "es": "El pasado no aparece como museo.",
+        "en": "The past does not appear as a museum.",
+        "de": "Die Vergangenheit erscheint nicht als Museum.",
+        "ko": "과거는 박물관으로 나타나지 않는다.",
+        "ja": "過去は、博物館として現れるのではない。",
+        "zh": "过去，并非以博物馆的姿态出现。",
+        "hi": "अतीत एक संग्रहालय के रूप में प्रकट नहीं होता।"
+      },
+      {
+        "es": "El pasado vuelve a sonar dentro del presente.",
+        "en": "The past sounds again within the present.",
+        "de": "Die Vergangenheit erklingt erneut innerhalb der Gegenwart.",
+        "ko": "과거는 현재 안에서 다시 울려 퍼진다.",
+        "ja": "過去は、現在の内でふたたび鳴り響く。",
+        "zh": "过去，在当下之中重新回响。",
+        "hi": "अतीत वर्तमान के भीतर पुनः बज उठता है।"
+      },
+      {
+        "es": "<strong>V. Del paisaje venezolano al paisaje de la diáspora</strong>",
+        "en": "<strong>V. From the Venezuelan landscape to the landscape of the diaspora</strong>",
+        "de": "<strong>V. Von der venezolanischen Landschaft zur Landschaft der Diaspora</strong>",
+        "ko": "<strong>V. 베네수엘라의 풍경에서 디아스포라의 풍경으로</strong>",
+        "ja": "<strong>V. ベネズエラの風景からディアスポラの風景へ</strong>",
+        "zh": "<strong>五、从委内瑞拉的风景到离散的风景</strong>",
+        "hi": "<strong>V. वेनेज़ुएला के भूदृश्य से प्रवासी अनुभव के भूदृश्य तक</strong>"
+      },
+      {
+        "es": "El paisaje ha sido otra constante de mi investigación.",
+        "en": "Landscape has been another constant of my research.",
+        "de": "Die Landschaft war eine weitere Konstante meiner Forschung.",
+        "ko": "풍경은 나의 탐구에서 또 하나의 상수였다.",
+        "ja": "風景は、私の探求におけるもう一つの定数であった。",
+        "zh": "风景，一直是我研究工作中的另一个常量。",
+        "hi": "भूदृश्य मेरे अन्वेषण का एक और स्थिरांक रहा है।"
+      },
+      {
+        "es": "En Abstracciones Paisajísticas, la cámara fragmenta el territorio hasta convertirlo en geometría, textura y percepción. Años después, viviendo en Florida, esa relación con el territorio reaparece desde el sonido.",
+        "en": "In Abstracciones Paisajísticas, the camera fragments the territory until it becomes geometry, texture, and perception. Years later, living in Florida, that relationship with territory reappears through sound.",
+        "de": "In Abstracciones Paisajísticas fragmentiert die Kamera das Territorium, bis es zu Geometrie, Textur und Wahrnehmung wird. Jahre später, im Leben in Florida, taucht dieses Verhältnis zum Territorium erneut auf, ausgehend vom Klang.",
+        "ko": "Abstracciones Paisajísticas에서 카메라는 영토를 기하학, 질감, 그리고 지각으로 변모할 때까지 조각낸다. 몇 년 후, 플로리다에서 살아가며, 영토와의 그 관계는 소리로부터 다시 나타난다.",
+        "ja": "『Abstracciones Paisajísticas』において、カメラは領土を、幾何学、質感、そして知覚となるまで断片化する。数年後、フロリダで暮らす中で、領土とのその関係は、音を通してふたたび現れる。",
+        "zh": "在《Abstracciones Paisajísticas》中，镜头将领土不断分割，直至其转化为几何形态、质感与知觉。多年之后，在佛罗里达生活时，这种与领土的关系又通过声音重新浮现。",
+        "hi": "Abstracciones Paisajísticas में, कैमरा भूभाग को तब तक खंडित करता है जब तक वह ज्यामिति, बनावट और बोध में परिवर्तित न हो जाए। वर्षों बाद, फ्लोरिडा में रहते हुए, भूभाग के साथ वह संबंध ध्वनि के माध्यम से पुनः प्रकट होता है।"
+      },
+      {
+        "es": "En NatuUrban Symphony, escuchar el paisaje subtropical de Miami significa también aprender a habitar un nuevo territorio.",
+        "en": "In NatuUrban Symphony, listening to Miami's subtropical landscape also means learning to inhabit a new territory.",
+        "de": "In NatuUrban Symphony bedeutet das Hören der subtropischen Landschaft Miamis auch, zu lernen, ein neues Territorium zu bewohnen.",
+        "ko": "NatuUrban Symphony에서, 마이애미의 아열대 풍경을 듣는다는 것은 또한 새로운 영토에 거주하는 법을 배운다는 것을 의미한다.",
+        "ja": "『NatuUrban Symphony』において、マイアミの亜熱帯の風景を聴くことは、新しい領土に住まうことを学ぶことをも意味している。",
+        "zh": "在《NatuUrban Symphony》中，聆听迈阿密的亚热带风景，同时也意味着学习如何栖居于一片新的领土之上。",
+        "hi": "NatuUrban Symphony में, मियामी के उपोष्णकटिबंधीय भूदृश्य को सुनने का अर्थ एक नए भूभाग में रहना सीखना भी है।"
+      },
+      {
+        "es": "Aquí aparece una dimensión fundamental de la experiencia migratoria: llega un momento en que el artista no solamente recuerda el paisaje perdido; comienza a escuchar el paisaje que ahora habita.",
+        "en": "Here a fundamental dimension of the migratory experience appears: a moment comes when the artist not only remembers the lost landscape, but begins to listen to the landscape he now inhabits.",
+        "de": "Hier zeigt sich eine grundlegende Dimension der Migrationserfahrung: Es kommt ein Moment, in dem der Künstler sich nicht nur an die verlorene Landschaft erinnert, sondern beginnt, die Landschaft zu hören, die er nun bewohnt.",
+        "ko": "여기서 이주 경험의 근본적인 차원이 나타난다. 작가가 잃어버린 풍경을 기억할 뿐 아니라, 이제 자신이 거주하는 풍경을 듣기 시작하는 순간이 찾아온다.",
+        "ja": "ここに、移住経験の根本的な次元が現れる。作家が失われた風景を記憶するだけでなく、今自らが住まう風景を聴き始める瞬間が訪れるのである。",
+        "zh": "在这里，迁移经验的一个根本维度显现出来：会有这样一个时刻，艺术家不再仅仅追忆那已失落的风景，而是开始聆听自己此刻所栖居的这片风景。",
+        "hi": "यहां प्रवासी अनुभव का एक बुनियादी आयाम प्रकट होता है: एक ऐसा क्षण आता है जब कलाकार न केवल खोए हुए भूदृश्य को स्मरण करता है; बल्कि उस भूदृश्य को सुनना शुरू करता है जिसमें वह अब निवास करता है।"
+      },
+      {
+        "es": "La diáspora deja entonces de ser exclusivamente pérdida.",
+        "en": "The diaspora then ceases to be exclusively loss.",
+        "de": "Die Diaspora hört dann auf, ausschließlich Verlust zu sein.",
+        "ko": "그리하여 디아스포라는 더 이상 오직 상실만은 아니게 된다.",
+        "ja": "こうしてディアスポラは、もはや喪失だけではなくなる。",
+        "zh": "由此，离散便不再仅仅是一种失去。",
+        "hi": "इस प्रकार प्रवासी अनुभव मात्र हानि नहीं रह जाता।"
+      },
+      {
+        "es": "Se convierte también en capacidad de generar pertenencia.",
+        "en": "It also becomes a capacity for generating belonging.",
+        "de": "Sie wird auch zur Fähigkeit, Zugehörigkeit zu erzeugen.",
+        "ko": "그것은 또한 소속감을 만들어내는 능력이 된다.",
+        "ja": "それはまた、帰属を生み出す能力ともなる。",
+        "zh": "它同时也成为一种生成归属感的能力。",
+        "hi": "यह अपनत्व उत्पन्न करने की क्षमता भी बन जाता है।"
+      },
+      {
+        "es": "Caracas permanece en mi memoria mientras Miami entra en mi archivo.",
+        "en": "Caracas remains in my memory while Miami enters my archive.",
+        "de": "Caracas bleibt in meiner Erinnerung, während Miami in mein Archiv eintritt.",
+        "ko": "카라카스는 나의 기억 속에 남아 있고, 마이애미는 나의 아카이브 안으로 들어온다.",
+        "ja": "カラカスは私の記憶の中に留まり、マイアミは私のアーカイブの中に入ってくる。",
+        "zh": "加拉加斯留存于我的记忆之中，而迈阿密则进入了我的档案之中。",
+        "hi": "कराकास मेरी स्मृति में बना रहता है जबकि मियामी मेरे अभिलेख में प्रवेश करता है।"
+      },
+      {
+        "es": "Ambas geografías pueden coexistir.",
+        "en": "Both geographies can coexist.",
+        "de": "Beide Geografien können koexistieren.",
+        "ko": "그 두 지리는 공존할 수 있다.",
+        "ja": "その二つの地理は、共存しうる。",
+        "zh": "这两种地理，可以共存。",
+        "hi": "दोनों भूगोल सहअस्तित्व में रह सकते हैं।"
+      },
+      {
+        "es": "<strong>VI. Tecnología sin renunciar a lo humano</strong>",
+        "en": "<strong>VI. Technology without renouncing the human</strong>",
+        "de": "<strong>VI. Technologie, ohne dem Menschlichen zu entsagen</strong>",
+        "ko": "<strong>VI. 인간성을 포기하지 않는 기술</strong>",
+        "ja": "<strong>VI. 人間性を手放さないテクノロジー</strong>",
+        "zh": "<strong>六、不放弃人性的科技</strong>",
+        "hi": "<strong>VI. मानवता को त्यागे बिना प्रौद्योगिकी</strong>"
+      },
+      {
+        "es": "Mi generación ha presenciado una transformación tecnológica extraordinaria: del mundo analógico al digital; de la fotografía química a la imagen computacional; del VHS al streaming; del estudio de grabación tradicional al estudio contenido dentro de una computadora; del correo y el teléfono fijo a una sociedad permanentemente conectada; y finalmente, la aparición de sistemas de inteligencia artificial capaces de participar en procesos culturales.",
+        "en": "My generation has witnessed an extraordinary technological transformation: from the analog world to the digital; from chemical photography to computational imagery; from VHS to streaming; from the traditional recording studio to the studio contained within a computer; from mail and the landline telephone to a permanently connected society; and finally, the emergence of artificial intelligence systems capable of taking part in cultural processes.",
+        "de": "Meine Generation hat eine außerordentliche technologische Verwandlung miterlebt: von der analogen zur digitalen Welt; von der chemischen Fotografie zum computergenerierten Bild; von VHS zum Streaming; vom traditionellen Aufnahmestudio zum Studio, das in einem Computer enthalten ist; von Post und Festnetztelefon zu einer dauerhaft vernetzten Gesellschaft; und schließlich das Auftauchen von Systemen künstlicher Intelligenz, die an kulturellen Prozessen teilhaben können.",
+        "ko": "나의 세대는 놀라운 기술적 변화를 목도해왔다. 아날로그 세계에서 디지털로. 화학적 사진술에서 컴퓨터 연산 이미지로. VHS에서 스트리밍으로. 전통적인 녹음 스튜디오에서 컴퓨터 안에 담긴 스튜디오로. 우편과 유선전화에서 항구적으로 연결된 사회로. 그리고 마침내, 문화적 과정에 참여할 수 있는 인공지능 시스템의 등장에 이르기까지.",
+        "ja": "私の世代は、並外れた技術的変容を目撃してきた。アナログの世界からデジタルへ。化学的な写真からコンピュータによる映像へ。VHSからストリーミングへ。伝統的な録音スタジオからコンピュータの中に収められたスタジオへ。郵便と固定電話から、常時接続された社会へ。そして最終的には、文化的なプロセスに参加しうる人工知能システムの登場へ。",
+        "zh": "我这一代人，见证了一场非凡的技术变革：从模拟世界到数字世界；从化学摄影到计算机影像；从VHS录像带到流媒体；从传统的录音室到内含于一台电脑之中的录音室；从书信与固定电话，到一个永久联网的社会；直至最终，人工智能系统的出现，使其得以参与到文化生产的进程之中。",
+        "hi": "मेरी पीढ़ी ने एक असाधारण तकनीकी रूपांतरण देखा है: एनालॉग संसार से डिजिटल तक; रासायनिक फोटोग्राफी से कम्प्यूटेशनल छवि तक; VHS से स्ट्रीमिंग तक; पारंपरिक रिकॉर्डिंग स्टूडियो से कंप्यूटर के भीतर समाहित स्टूडियो तक; डाक और लैंडलाइन टेलीफ़ोन से स्थायी रूप से जुड़े समाज तक; और अंततः, सांस्कृतिक प्रक्रियाओं में भाग लेने में सक्षम कृत्रिम बुद्धिमत्ता तंत्रों के उदय तक।"
+      },
+      {
+        "es": "He decidido atravesar esas transformaciones desde la curiosidad y no desde el miedo.",
+        "en": "I have chosen to move through these transformations from curiosity, not from fear.",
+        "de": "Ich habe mich entschieden, diese Verwandlungen aus Neugier zu durchqueren und nicht aus Angst.",
+        "ko": "나는 이러한 변화들을 두려움이 아닌 호기심으로부터 관통해 나가기로 결정했다.",
+        "ja": "私は、これらの変容を、恐れからではなく、好奇心から横断していくことを選んできた。",
+        "zh": "我选择带着好奇而非恐惧去穿越这些变革。",
+        "hi": "मैंने इन रूपांतरणों को भय से नहीं, बल्कि जिज्ञासा से पार करने का निर्णय लिया है।"
+      },
+      {
+        "es": "Pero mi relación con la tecnología no consiste en celebrarla por sí misma.",
+        "en": "But my relationship with technology does not consist of celebrating it for its own sake.",
+        "de": "Aber meine Beziehung zur Technologie besteht nicht darin, sie um ihrer selbst willen zu feiern.",
+        "ko": "그러나 기술과의 나의 관계는 그것 자체를 찬양하는 데 있지 않다.",
+        "ja": "しかし、テクノロジーとの私の関係は、それ自体を称揚することにあるのではない。",
+        "zh": "但我与技术之间的关系，并不在于为技术本身而歌颂它。",
+        "hi": "परंतु प्रौद्योगिकी के साथ मेरा संबंध उसे उसके अपने आप में महिमामंडित करने में नहीं है।"
+      },
+      {
+        "es": "La tecnología es una herramienta.",
+        "en": "Technology is a tool.",
+        "de": "Technologie ist ein Werkzeug.",
+        "ko": "기술은 하나의 도구다.",
+        "ja": "テクノロジーとは、道具である。",
+        "zh": "技术，是一种工具。",
+        "hi": "प्रौद्योगिकी एक उपकरण है।"
+      },
+      {
+        "es": "Lo verdaderamente importante continúa siendo la pregunta humana que colocamos dentro de ella.",
+        "en": "What truly matters continues to be the human question we place within it.",
+        "de": "Was wirklich wichtig ist, bleibt die menschliche Frage, die wir in sie hineinlegen.",
+        "ko": "진정으로 중요한 것은 여전히 우리가 그 안에 담아두는 인간적 물음이다.",
+        "ja": "本当に重要であり続けているのは、私たちがその中に据える人間的な問いである。",
+        "zh": "真正重要的，始终是我们置于其中的那个人性的问题。",
+        "hi": "जो वास्तव में महत्वपूर्ण है, वह वह मानवीय प्रश्न है जिसे हम उसके भीतर रखते हैं।"
+      },
+      {
+        "es": "Una computadora puede procesar millones de datos, pero somos nosotros quienes decidimos qué memoria merece ser activada, qué sonido queremos escuchar, qué historia queremos contar y qué relaciones queremos establecer entre las cosas.",
+        "en": "A computer can process millions of pieces of data, but it is we who decide which memory deserves to be activated, which sound we want to hear, which story we want to tell, and which relationships we want to establish between things.",
+        "de": "Ein Computer kann Millionen von Daten verarbeiten, aber wir sind es, die entscheiden, welche Erinnerung es verdient, aktiviert zu werden, welchen Klang wir hören wollen, welche Geschichte wir erzählen wollen und welche Beziehungen wir zwischen den Dingen herstellen wollen.",
+        "ko": "컴퓨터는 수백만 개의 데이터를 처리할 수 있지만, 어떤 기억이 활성화될 가치가 있는지, 어떤 소리를 듣고 싶은지, 어떤 이야기를 하고 싶은지, 그리고 사물들 사이에 어떤 관계를 맺고 싶은지를 결정하는 것은 바로 우리 자신이다.",
+        "ja": "コンピュータは何百万というデータを処理することができるが、どの記憶が活性化されるに値するのか、どの音を聴きたいのか、どの物語を語りたいのか、そして物と物のあいだにどのような関係を打ち立てたいのかを決めるのは、私たち自身なのである。",
+        "zh": "一台电脑可以处理数以百万计的数据，但决定哪种记忆值得被激活、我们想要聆听哪种声音、想要讲述哪个故事、以及想在事物之间建立怎样的关系的，仍然是我们自己。",
+        "hi": "एक कंप्यूटर लाखों आंकड़ों को संसाधित कर सकता है, परंतु यह हम ही हैं जो निर्णय लेते हैं कि कौन-सी स्मृति सक्रिय किए जाने योग्य है, हम कौन-सी ध्वनि सुनना चाहते हैं, हम कौन-सी कहानी सुनाना चाहते हैं, और हम चीज़ों के बीच कौन-से संबंध स्थापित करना चाहते हैं।"
+      },
+      {
+        "es": "Mi humanismo surge precisamente allí: en la defensa de la sensibilidad, la imaginación, la contradicción, el error, la memoria y la experiencia corporal dentro de una cultura progresivamente mediada por máquinas.",
+        "en": "My humanism arises precisely there: in the defense of sensibility, imagination, contradiction, error, memory, and bodily experience within a culture increasingly mediated by machines.",
+        "de": "Genau dort entsteht mein Humanismus: in der Verteidigung von Sensibilität, Vorstellungskraft, Widerspruch, Irrtum, Erinnerung und körperlicher Erfahrung innerhalb einer zunehmend maschinenvermittelten Kultur.",
+        "ko": "나의 휴머니즘은 바로 그 지점에서 발생한다. 점점 더 기계에 의해 매개되는 문화 안에서, 감수성, 상상력, 모순, 오류, 기억, 그리고 신체적 경험을 지켜내는 그 지점에서.",
+        "ja": "私のヒューマニズムは、まさにそこに生まれる。すなわち、機械によって次第に媒介されていく文化の内で、感受性、想像力、矛盾、誤り、記憶、そして身体的な経験を守り抜くことの中に。",
+        "zh": "我的人文主义，正是在那里生发出来的：在一个日益被机器所中介的文化之中，捍卫感知、想象、矛盾、错误、记忆与身体经验。",
+        "hi": "मेरा मानवतावाद ठीक वहीं उत्पन्न होता है: मशीनों द्वारा उत्तरोत्तर मध्यस्थित होती जा रही एक संस्कृति के भीतर संवेदनशीलता, कल्पना, अंतर्विरोध, त्रुटि, स्मृति और शारीरिक अनुभव की रक्षा में।"
+      },
+      {
+        "es": "<strong>VII. De Duchamp al archivo digital</strong>",
+        "en": "<strong>VII. From Duchamp to the digital archive</strong>",
+        "de": "<strong>VII. Von Duchamp zum digitalen Archiv</strong>",
+        "ko": "<strong>VII. 뒤샹에서 디지털 아카이브로</strong>",
+        "ja": "<strong>VII. デュシャンからデジタルアーカイブへ</strong>",
+        "zh": "<strong>七、从杜尚到数字档案</strong>",
+        "hi": "<strong>VII. दूशाँ से डिजिटल अभिलेख तक</strong>"
+      },
+      {
+        "es": "Si Marcel Duchamp abrió durante el siglo XX la posibilidad de comprender que el acto de elegir podía convertirse en una operación artística, nuestra época ha multiplicado esa condición hasta dimensiones inimaginables.",
+        "en": "If Marcel Duchamp opened up, during the 20th century, the possibility of understanding that the act of choosing could become an artistic operation, our era has multiplied that condition to unimaginable dimensions.",
+        "de": "Wenn Marcel Duchamp im 20. Jahrhundert die Möglichkeit eröffnete zu verstehen, dass der Akt des Wählens zu einer künstlerischen Operation werden konnte, so hat unsere Epoche diesen Zustand auf unvorstellbare Dimensionen vervielfacht.",
+        "ko": "마르셀 뒤샹이 20세기에 선택이라는 행위가 하나의 예술적 조작이 될 수 있다는 것을 이해할 가능성을 열어놓았다면, 우리 시대는 그 조건을 상상할 수 없는 차원으로 증폭시켜왔다.",
+        "ja": "もしマルセル・デュシャンが20世紀に、選ぶという行為が芸術的な操作となりうるということを理解する可能性を切り開いたのだとすれば、私たちの時代は、その条件を想像を絶する次元にまで増幅させてきた。",
+        "zh": "如果说马塞尔·杜尚在20世纪开启了这样一种可能性——理解到“选择”这一行为本身也可以成为一种艺术操作——那么我们这个时代，已将这一状况扩展到了难以想象的维度。",
+        "hi": "यदि मार्सेल दूशाँ ने बीसवीं सदी में यह समझने की संभावना खोली कि चुनाव की क्रिया एक कलात्मक क्रिया बन सकती है, तो हमारे युग ने उस स्थिति को अकल्पनीय आयामों तक बहुगुणित कर दिया है।"
+      },
+      {
+        "es": "Hoy vivimos rodeados por cantidades prácticamente infinitas de imágenes, sonidos y datos.",
+        "en": "Today we live surrounded by practically infinite quantities of images, sounds, and data.",
+        "de": "Heute leben wir umgeben von praktisch unendlichen Mengen an Bildern, Klängen und Daten.",
+        "ko": "오늘날 우리는 사실상 무한한 양의 이미지, 소리, 그리고 데이터에 둘러싸여 살아간다.",
+        "ja": "今日、私たちは実質的に無限とも言える量のイメージ、音、そしてデータに囲まれて生きている。",
+        "zh": "今天，我们生活在几乎无限量的影像、声音与数据的包围之中。",
+        "hi": "आज हम व्यावहारिक रूप से असीमित मात्रा में छवियों, ध्वनियों और आंकड़ों से घिरे रहते हैं।"
+      },
+      {
+        "es": "Por ello, seleccionar vuelve a ser un acto fundamental.",
+        "en": "That is why selecting becomes a fundamental act once again.",
+        "de": "Deshalb wird das Auswählen erneut zu einem grundlegenden Akt.",
+        "ko": "그렇기에 선별한다는 것은 다시금 근본적인 행위가 된다.",
+        "ja": "だからこそ、選ぶことは、ふたたび根源的な行為となる。",
+        "zh": "正因如此，挑选，再度成为一种根本性的行为。",
+        "hi": "इसीलिए, चुनना पुनः एक बुनियादी क्रिया बन जाता है।"
+      },
+      {
+        "es": "¿Qué conservamos?<br>¿Qué descartamos?<br>¿Qué volvemos a escuchar?<br>¿Qué imagen recuperamos?<br>¿Qué fragmento del pasado colocamos frente al presente?",
+        "en": "What do we preserve?<br>What do we discard?<br>What do we listen to again?<br>What image do we recover?<br>What fragment of the past do we place before the present?",
+        "de": "Was bewahren wir?<br>Was verwerfen wir?<br>Was hören wir wieder?<br>Welches Bild holen wir zurück?<br>Welches Fragment der Vergangenheit stellen wir der Gegenwart gegenüber?",
+        "ko": "우리는 무엇을 보존하는가?<br>우리는 무엇을 버리는가?<br>우리는 무엇을 다시 듣는가?<br>우리는 어떤 이미지를 되찾는가?<br>우리는 과거의 어떤 조각을 현재 앞에 가져다 놓는가?",
+        "ja": "私たちは何を保存するのか。<br>私たちは何を捨てるのか。<br>私たちは何をふたたび聴くのか。<br>私たちはどのイメージを取り戻すのか。<br>私たちは過去のどの断片を現在の前に置くのか。",
+        "zh": "我们保留什么？<br>我们舍弃什么？<br>我们重新聆听什么？<br>我们找回哪一幅影像？<br>我们将过去的哪一个碎片摆放在当下的面前？",
+        "hi": "हम क्या सुरक्षित रखते हैं?<br>हम क्या त्याग देते हैं?<br>हम पुनः क्या सुनते हैं?<br>हम कौन-सी छवि पुनः प्राप्त करते हैं?<br>हम अतीत का कौन-सा टुकड़ा वर्तमान के सामने रखते हैं?"
+      },
+      {
+        "es": "El readymade duchampiano adquiere así una nueva dimensión dentro de la cultura digital: el artista contemporáneo puede trabajar no solamente con objetos encontrados, sino con memorias encontradas.",
+        "en": "The Duchampian readymade thus acquires a new dimension within digital culture: the contemporary artist can work not only with found objects, but with found memories.",
+        "de": "Das duchampsche Readymade erlangt so innerhalb der digitalen Kultur eine neue Dimension: Der zeitgenössische Künstler kann nicht nur mit gefundenen Objekten arbeiten, sondern mit gefundenen Erinnerungen.",
+        "ko": "이렇게 뒤샹적인 레디메이드는 디지털 문화 안에서 새로운 차원을 획득한다. 동시대 작가는 발견된 사물만이 아니라, 발견된 기억들을 가지고도 작업할 수 있다.",
+        "ja": "こうしてデュシャン的なレディメイドは、デジタル文化の中で新たな次元を獲得する。すなわち、現代の作家は、見出されたオブジェだけでなく、見出された記憶とともに作業することができるのである。",
+        "zh": "杜尚式的现成品由此在数字文化中获得了一个新的维度：当代艺术家所能运用的，不仅是被发现的物件，更是被发现的记忆。",
+        "hi": "दूशाँ का रेडीमेड इस प्रकार डिजिटल संस्कृति के भीतर एक नया आयाम प्राप्त करता है: समकालीन कलाकार न केवल पाई गई वस्तुओं के साथ, बल्कि पाई गई स्मृतियों के साथ भी काम कर सकता है।"
+      },
+      {
+        "es": "Mi práctica se sitúa dentro de ese territorio.",
+        "en": "My practice is situated within that territory.",
+        "de": "Meine Praxis ist innerhalb dieses Territoriums angesiedelt.",
+        "ko": "나의 실천은 바로 그 영토 안에 자리한다.",
+        "ja": "私の実践は、その領土の内に位置している。",
+        "zh": "我的实践，正立足于这片领土之中。",
+        "hi": "मेरी साधना उसी भूभाग के भीतर स्थित है।"
+      },
+      {
+        "es": "No solamente produzco.<br>También recolecto, escucho, selecciono, reorganizo, mezclo, archivo y reactivo.",
+        "en": "I do not only produce.<br>I also collect, listen, select, reorganize, mix, archive, and reactivate.",
+        "de": "Ich produziere nicht nur.<br>Ich sammle auch, höre, wähle aus, ordne neu, mische, archiviere und reaktiviere.",
+        "ko": "나는 단지 생산하기만 하는 것이 아니다.<br>나는 또한 수집하고, 듣고, 선별하고, 재구성하고, 섞고, 아카이빙하고, 재활성화한다.",
+        "ja": "私はただ制作するだけではない。<br>私はまた、収集し、聴き、選び、再構成し、混ぜ合わせ、アーカイブし、再び活性化させる。",
+        "zh": "我不仅仅是在创作。<br>我同时也在收集、聆听、挑选、重组、混合、存档，并使其重新被激活。",
+        "hi": "मैं केवल निर्माण ही नहीं करता।<br>मैं संग्रहित भी करता हूँ, सुनता हूँ, चुनता हूँ, पुनर्गठित करता हूँ, मिश्रित करता हूँ, अभिलेखित करता हूँ और पुनः सक्रिय करता हूँ।"
+      },
+      {
+        "es": "<strong>VIII. Humanismo de la Persistencia</strong>",
+        "en": "<strong>VIII. Humanism of Persistence</strong>",
+        "de": "<strong>VIII. Humanismus der Persistenz</strong>",
+        "ko": "<strong>VIII. 지속의 휴머니즘</strong>",
+        "ja": "<strong>VIII. 持続のヒューマニズム</strong>",
+        "zh": "<strong>八、持存的人文主义</strong>",
+        "hi": "<strong>VIII. निरंतरता का मानवतावाद</strong>"
+      },
+      {
+        "es": "Después de cuatro décadas de trabajo comprendo que quizás exista una idea que atraviesa toda mi producción: persistir creando.",
+        "en": "After four decades of work, I understand that there may be one idea running through all my production: to persist by creating.",
+        "de": "Nach vier Jahrzehnten Arbeit verstehe ich, dass es vielleicht eine Idee gibt, die mein gesamtes Schaffen durchzieht: durch Schaffen zu persistieren.",
+        "ko": "사십 년의 작업 끝에, 나는 어쩌면 나의 모든 작업을 관통하는 하나의 생각이 있음을 깨닫는다. 창조함으로써 지속하는 것.",
+        "ja": "四十年の仕事の後、私は、おそらく私のすべての制作を貫く一つの考えがあることを理解する。すなわち、創造することによって持続すること。",
+        "zh": "在四十年的创作之后，我明白，或许有一个理念贯穿了我全部的作品：通过创作而持存下去。",
+        "hi": "चार दशकों के कार्य के बाद मैं समझता हूँ कि शायद एक ऐसा विचार है जो मेरे संपूर्ण उत्पादन में व्याप्त है: सृजन करते हुए निरंतर बने रहना।"
+      },
+      {
+        "es": "Persistir después de abandonar un territorio.<br>Persistir mientras una sociedad se transforma.<br>Persistir cuando las tecnologías que utilizábamos desaparecen.<br>Persistir conservando archivos que otros considerarían inútiles.<br>Persistir escuchando músicas que pertenecen a otras generaciones.<br>Persistir experimentando cuando sería más sencillo repetir una fórmula conocida.<br>Persistir siendo venezolano sin convertir la venezolanidad en una frontera.",
+        "en": "To persist after leaving a territory.<br>To persist while a society transforms.<br>To persist when the technologies we used disappear.<br>To persist by preserving archives others would consider useless.<br>To persist by listening to music belonging to other generations.<br>To persist by experimenting when it would be easier to repeat a known formula.<br>To persist in being Venezuelan without turning Venezuelanness into a border.",
+        "de": "Zu persistieren, nachdem man ein Territorium verlassen hat.<br>Zu persistieren, während sich eine Gesellschaft verwandelt.<br>Zu persistieren, wenn die Technologien, die wir nutzten, verschwinden.<br>Zu persistieren, indem man Archive bewahrt, die andere für nutzlos halten würden.<br>Zu persistieren, indem man Musik hört, die anderen Generationen gehört.<br>Zu persistieren, indem man experimentiert, wenn es einfacher wäre, eine bekannte Formel zu wiederholen.<br>Zu persistieren, indem man Venezolaner bleibt, ohne das Venezolanertum zu einer Grenze zu machen.",
+        "ko": "하나의 영토를 떠난 후에도 지속하는 것.<br>한 사회가 변모하는 동안에도 지속하는 것.<br>우리가 사용하던 기술들이 사라질 때에도 지속하는 것.<br>다른 이들은 쓸모없다고 여길 아카이브를 보존하며 지속하는 것.<br>다른 세대에 속한 음악을 들으며 지속하는 것.<br>알려진 공식을 반복하는 편이 더 쉬울 때에도 실험하며 지속하는 것.<br>베네수엘라성을 하나의 경계로 만들지 않은 채 베네수엘라인으로서 지속하는 것.",
+        "ja": "一つの領土を離れた後にも持続すること。<br>一つの社会が変容していく間にも持続すること。<br>私たちが用いていた技術が消え去るときにも持続すること。<br>他者が無用と見なすであろうアーカイブを保存しながら持続すること。<br>他の世代に属する音楽を聴きながら持続すること。<br>知られた型を繰り返すほうが容易であろうときにも実験しながら持続すること。<br>ベネズエラ人であることを一つの境界にすることなく、ベネズエラ人として持続すること。",
+        "zh": "在离开一片领土之后依然持存。<br>在一个社会经历转变之时依然持存。<br>在我们曾使用的技术逐渐消失之时依然持存。<br>在保存那些他人视为无用的档案之中依然持存。<br>在聆听属于其他世代的音乐之中依然持存。<br>在本可以更轻松地重复一个已知公式之时，依然选择实验，从而持存。<br>在不将委内瑞拉身份变成一道边界的前提下，作为委内瑞拉人依然持存。",
+        "hi": "एक भूभाग को त्यागने के बाद भी निरंतर बने रहना।<br>एक समाज के रूपांतरित होते समय भी निरंतर बने रहना।<br>जिन तकनीकों का हम उपयोग करते थे, उनके विलुप्त होने पर भी निरंतर बने रहना।<br>ऐसे अभिलेखों को सुरक्षित रखते हुए निरंतर बने रहना जिन्हें अन्य लोग निरर्थक समझेंगे।<br>अन्य पीढ़ियों से संबंधित संगीत सुनते हुए निरंतर बने रहना।<br>प्रयोग करते हुए निरंतर बने रहना जब एक ज्ञात सूत्र को दोहराना अधिक सरल होगा।<br>वेनेज़ुएलावासी होने को एक सीमा-रेखा बनाए बिना, वेनेज़ुएलावासी होकर निरंतर बने रहना।"
+      },
+      {
+        "es": "Por eso hablo de un Humanismo de la Persistencia.",
+        "en": "That is why I speak of a Humanism of Persistence.",
+        "de": "Deshalb spreche ich von einem Humanismus der Persistenz.",
+        "ko": "그렇기에 나는 지속의 휴머니즘을 이야기한다.",
+        "ja": "だからこそ、私は「持続のヒューマニズム」について語るのである。",
+        "zh": "正因如此，我谈论一种“持存的人文主义”。",
+        "hi": "इसीलिए मैं निरंतरता के मानवतावाद की बात करता हूँ।"
+      },
+      {
+        "es": "No es una teoría de la nostalgia.<br>Es una teoría de la continuidad mediante la transformación.",
+        "en": "It is not a theory of nostalgia.<br>It is a theory of continuity through transformation.",
+        "de": "Es ist keine Theorie der Nostalgie.<br>Es ist eine Theorie der Kontinuität durch Verwandlung.",
+        "ko": "그것은 향수의 이론이 아니다.<br>그것은 변모를 통한 연속성의 이론이다.",
+        "ja": "それは、ノスタルジアの理論ではない。<br>それは、変容を通じた連続性の理論である。",
+        "zh": "这不是一种关于怀旧的理论。<br>这是一种关于通过转变而实现延续的理论。",
+        "hi": "यह पुरानी यादों का सिद्धांत नहीं है।<br>यह रूपांतरण के माध्यम से निरंतरता का सिद्धांत है।"
+      },
+      {
+        "es": "El ser humano sobrevive culturalmente porque transmite, mezcla, recuerda, inventa y vuelve a interpretar aquello que recibió.",
+        "en": "Human beings survive culturally because they transmit, mix, remember, invent, and reinterpret what they received.",
+        "de": "Der Mensch überlebt kulturell, weil er weitergibt, mischt, sich erinnert, erfindet und das, was er empfangen hat, erneut deutet.",
+        "ko": "인간은 문화적으로 생존한다. 왜냐하면 인간은 전승하고, 혼합하고, 기억하고, 발명하고, 자신이 받은 것을 다시 해석하기 때문이다.",
+        "ja": "人間は文化的に生き延びる。なぜなら、人は伝え、混ぜ合わせ、記憶し、発明し、そして自らが受け取ったものを再び解釈するからである。",
+        "zh": "人类之所以能够在文化上延续下去，是因为他们传递、混合、记忆、发明，并不断重新诠释自己所承接的一切。",
+        "hi": "मनुष्य सांस्कृतिक रूप से जीवित रहता है क्योंकि वह जो प्राप्त हुआ है उसे प्रसारित करता है, मिश्रित करता है, स्मरण करता है, आविष्कार करता है और पुनः व्याख्यायित करता है।"
+      },
+      {
+        "es": "La diáspora, vista desde esta perspectiva, no representa necesariamente el final de una cultura. Puede convertirse en uno de sus mecanismos de expansión.",
+        "en": "Seen from this perspective, the diaspora does not necessarily represent the end of a culture. It can become one of its mechanisms of expansion.",
+        "de": "Aus dieser Perspektive betrachtet, stellt die Diaspora nicht notwendigerweise das Ende einer Kultur dar. Sie kann zu einem ihrer Mechanismen der Ausbreitung werden.",
+        "ko": "이러한 관점에서 볼 때, 디아스포라는 반드시 한 문화의 종말을 의미하지 않는다. 그것은 그 문화가 확장되는 하나의 메커니즘이 될 수 있다.",
+        "ja": "この観点から見れば、ディアスポラは必ずしも一つの文化の終焉を意味するものではない。それは、その文化の拡張のメカニズムの一つとなりうる。",
+        "zh": "从这个视角来看，离散未必意味着一种文化的终结。它可以成为这种文化得以扩展的机制之一。",
+        "hi": "इस दृष्टिकोण से देखने पर, प्रवासी अनुभव आवश्यक रूप से किसी संस्कृति के अंत का प्रतिनिधित्व नहीं करता। यह उसके विस्तार के तंत्रों में से एक बन सकता है।"
+      },
+      {
+        "es": "Cada venezolano que lleva consigo una palabra, una receta, una canción, una historia, una fotografía, una manera de hablar o una memoria está transportando pequeñas partículas de un territorio hacia otro.",
+        "en": "Every Venezuelan who carries with them a word, a recipe, a song, a story, a photograph, a way of speaking, or a memory is transporting small particles of one territory into another.",
+        "de": "Jeder Venezolaner, der ein Wort, ein Rezept, ein Lied, eine Geschichte, eine Fotografie, eine Art zu sprechen oder eine Erinnerung mit sich trägt, transportiert kleine Partikel eines Territoriums in ein anderes.",
+        "ko": "하나의 단어, 하나의 조리법, 하나의 노래, 하나의 이야기, 하나의 사진, 하나의 말투, 혹은 하나의 기억을 지니고 다니는 모든 베네수엘라인은 한 영토의 작은 입자들을 또 다른 영토로 실어나르고 있는 것이다.",
+        "ja": "一つの言葉、一つのレシピ、一つの歌、一つの物語、一枚の写真、一つの話し方、あるいは一つの記憶を携えて歩くすべてのベネズエラ人は、ある領土の小さな粒子を、別の領土へと運んでいるのである。",
+        "zh": "每一位随身携带着一个词语、一份食谱、一首歌曲、一个故事、一张照片、一种说话方式或一段记忆的委内瑞拉人，都在将一片领土的微小粒子，运送到另一片领土之上。",
+        "hi": "प्रत्येक वेनेज़ुएलावासी जो अपने साथ एक शब्द, एक व्यंजन-विधि, एक गीत, एक कहानी, एक तस्वीर, बोलने का एक ढंग या एक स्मृति ले जाता है, वह एक भूभाग के सूक्ष्म कणों को दूसरे भूभाग की ओर ढो रहा है।"
+      },
+      {
+        "es": "El artista hace consciente ese proceso.",
+        "en": "The artist makes that process conscious.",
+        "de": "Der Künstler macht diesen Prozess bewusst.",
+        "ko": "작가는 그 과정을 의식적으로 만든다.",
+        "ja": "作家は、その過程を意識化する。",
+        "zh": "艺术家，让这一过程变得可被意识到。",
+        "hi": "कलाकार इस प्रक्रिया को सचेत बनाता है।"
+      },
+      {
+        "es": "<strong>IX. Crear para producir historicidad</strong>",
+        "en": "<strong>IX. Creating to produce historicity</strong>",
+        "de": "<strong>IX. Schaffen, um Geschichtlichkeit zu erzeugen</strong>",
+        "ko": "<strong>IX. 역사성을 생산하기 위해 창조하기</strong>",
+        "ja": "<strong>IX. 歴史性を生み出すために創造すること</strong>",
+        "zh": "<strong>九、为生产历史性而创作</strong>",
+        "hi": "<strong>IX. ऐतिहासिकता उत्पन्न करने हेतु सृजन</strong>"
+      },
+      {
+        "es": "Mi responsabilidad como artista no consiste en explicar mi tiempo desde una supuesta objetividad.",
+        "en": "My responsibility as an artist does not consist in explaining my time from a supposed objectivity.",
+        "de": "Meine Verantwortung als Künstler besteht nicht darin, meine Zeit von einer vermeintlichen Objektivität aus zu erklären.",
+        "ko": "예술가로서 나의 책임은 어떤 가정된 객관성으로부터 나의 시대를 설명하는 데 있지 않다.",
+        "ja": "作家としての私の責任は、想定された客観性から自らの時代を説明することにあるのではない。",
+        "zh": "作为一名艺术家，我的责任并不在于以某种所谓的客观性去解释我所处的时代。",
+        "hi": "एक कलाकार के रूप में मेरा उत्तरदायित्व अपने समय को किसी कल्पित वस्तुनिष्ठता से समझाने में नहीं है।"
+      },
+      {
+        "es": "Consiste en dejar señales dentro de él.",
+        "en": "It consists in leaving signals within it.",
+        "de": "Sie besteht darin, Zeichen in ihr zu hinterlassen.",
+        "ko": "그것은 그 안에 신호들을 남기는 데 있다.",
+        "ja": "それは、その中に信号を残すことにある。",
+        "zh": "而在于在其中留下讯号。",
+        "hi": "यह उसके भीतर संकेत छोड़ने में है।"
+      },
+      {
+        "es": "He atravesado el final del siglo XX y las primeras décadas del XXI observando cómo ciudades, países, tecnologías, lenguajes y formas de comunicación se transformaban aceleradamente. También he vivido la experiencia de ver a millones de venezolanos dispersarse por el mundo mientras intentaban reconstruir sus vidas sin perder completamente aquello que los conectaba con su origen.",
+        "en": "I have lived through the end of the 20th century and the first decades of the 21st, watching how cities, countries, technologies, languages, and forms of communication transformed at an accelerated pace. I have also lived the experience of seeing millions of Venezuelans scatter across the world while trying to rebuild their lives without completely losing what connected them to their origin.",
+        "de": "Ich habe das Ende des 20. Jahrhunderts und die ersten Jahrzehnte des 21. durchlebt und beobachtet, wie sich Städte, Länder, Technologien, Sprachen und Kommunikationsformen beschleunigt verwandelten. Ich habe auch die Erfahrung gemacht, zu sehen, wie sich Millionen von Venezolanern über die Welt verstreuten, während sie versuchten, ihr Leben wieder aufzubauen, ohne das, was sie mit ihrer Herkunft verband, vollständig zu verlieren.",
+        "ko": "나는 20세기의 끝자락과 21세기의 초창기 몇십 년을 관통하며, 도시, 국가, 기술, 언어, 그리고 소통 방식들이 가속적으로 변모해가는 것을 지켜보았다. 나는 또한 수백만의 베네수엘라인들이 자신의 기원과 그들을 이어주던 것을 완전히 잃지 않으려 애쓰며 세계 곳곳으로 흩어지는 것을 지켜보는 경험을 살아왔다.",
+        "ja": "私は、20世紀の終わりと21世紀の最初の数十年を貫き、都市、国家、テクノロジー、言語、そしてコミュニケーションの形式が加速度的に変容していくさまを見つめてきた。私はまた、何百万というベネズエラ人たちが、自らの出自とつながっていたものを完全には失うまいとしながら、人生を再建しようと世界中に散らばっていくのを目にするという経験を生きてきた。",
+        "zh": "我经历了二十世纪的尾声与二十一世纪最初的这几十年，目睹了城市、国家、技术、语言与沟通方式如何以加速的节奏发生转变。我也亲历了这样的经验：目睹数以百万计的委内瑞拉人分散到世界各地，努力在不完全失去与自身根源之联系的前提下，重建自己的生活。",
+        "hi": "मैंने बीसवीं सदी के अंत और इक्कीसवीं सदी के आरंभिक दशकों को पार किया है, यह देखते हुए कि किस तरह शहर, देश, प्रौद्योगिकियां, भाषाएं और संचार के रूप तीव्र गति से रूपांतरित होते रहे। मैंने लाखों वेनेज़ुएलावासियों को संसार भर में बिखरते हुए भी देखा है, जबकि वे अपने उद्गम से जुड़ने वाली चीज़ को पूरी तरह खोए बिना अपने जीवन का पुनर्निर्माण करने का प्रयास कर रहे थे।"
+      },
+      {
+        "es": "Mi producción forma parte de esa historia.",
+        "en": "My body of work is part of that history.",
+        "de": "Mein Werk ist Teil dieser Geschichte.",
+        "ko": "나의 작업은 그 역사의 일부를 이룬다.",
+        "ja": "私の制作は、その歴史の一部を成している。",
+        "zh": "我的创作，是那段历史的一部分。",
+        "hi": "मेरा कार्य उस इतिहास का हिस्सा है।"
+      },
+      {
+        "es": "No porque pretenda representarla en su totalidad, sino porque cada obra contiene una pequeña coordenada de ese tránsito.",
+        "en": "Not because I claim to represent it in its entirety, but because each work contains a small coordinate of that transit.",
+        "de": "Nicht weil ich beanspruche, sie in ihrer Gesamtheit darzustellen, sondern weil jedes Werk eine kleine Koordinate dieses Übergangs enthält.",
+        "ko": "그것을 그 전체로서 재현하겠다고 주장해서가 아니라, 각각의 작업이 그 이행의 작은 좌표 하나를 담고 있기 때문이다.",
+        "ja": "それを全体として表象しようとするからではなく、それぞれの作品が、その移行の小さな座標を一つ含んでいるからである。",
+        "zh": "并非因为我妄图对其做出全面的再现，而是因为每一件作品，都包含着那一段迁徙历程中的一个微小坐标。",
+        "hi": "इसलिए नहीं कि मैं उसे उसकी संपूर्णता में प्रस्तुत करने का दावा करता हूँ, बल्कि इसलिए कि प्रत्येक कृति उस संक्रमण का एक छोटा-सा निर्देशांक धारण करती है।"
+      },
+      {
+        "es": "Caracas, el cuerpo, la fotografía, el video, el paisaje, el archivo, Miami, el vinilo, la música afrocaribeña, la computadora, la instalación, el sonido, la naturaleza y las nuevas tecnologías aparecen como fragmentos de una misma experiencia histórica.",
+        "en": "Caracas, the body, photography, video, landscape, the archive, Miami, vinyl, Afro-Caribbean music, the computer, installation, sound, nature, and new technologies appear as fragments of one and the same historical experience.",
+        "de": "Caracas, der Körper, die Fotografie, das Video, die Landschaft, das Archiv, Miami, das Vinyl, die afrokaribische Musik, der Computer, die Installation, der Klang, die Natur und die neuen Technologien erscheinen als Fragmente ein und derselben historischen Erfahrung.",
+        "ko": "카라카스, 몸, 사진, 비디오, 풍경, 아카이브, 마이애미, 바이닐, 아프로-카리브 음악, 컴퓨터, 설치, 소리, 자연, 그리고 새로운 기술들은 하나의 동일한 역사적 경험의 조각들로서 나타난다.",
+        "ja": "カラカス、身体、写真、映像、風景、アーカイブ、マイアミ、レコード、アフロ・カリビアン音楽、コンピュータ、インスタレーション、音、自然、そして新しいテクノロジー——それらは、一つの同じ歴史的経験の断片として現れる。",
+        "zh": "加拉加斯、身体、摄影、录像、风景、档案、迈阿密、黑胶唱片、非洲-加勒比音乐、电脑、装置、声音、自然，以及各种新兴技术——它们都作为同一段历史经验的碎片而显现出来。",
+        "hi": "कराकास, देह, फोटोग्राफी, वीडियो, भूदृश्य, अभिलेख, मियामी, विनाइल, अफ्रो-कैरिबियन संगीत, कंप्यूटर, इंस्टॉलेशन, ध्वनि, प्रकृति और नई प्रौद्योगिकियां एक ही ऐतिहासिक अनुभव के टुकड़ों के रूप में प्रकट होते हैं।"
+      },
+      {
+        "es": "Quizás allí se encuentre finalmente mi definición del humanismo: ser humano significa tener la capacidad de recordar de dónde venimos mientras imaginamos aquello que todavía no existe.",
+        "en": "Perhaps there, finally, lies my definition of humanism: to be human means having the capacity to remember where we come from while imagining what does not yet exist.",
+        "de": "Vielleicht liegt dort schließlich meine Definition des Humanismus: Menschsein bedeutet, die Fähigkeit zu besitzen, sich daran zu erinnern, woher wir kommen, während wir uns vorstellen, was noch nicht existiert.",
+        "ko": "어쩌면 바로 거기에, 인간주의에 대한 나의 정의가 마침내 자리하고 있을 것이다. 인간이라는 것은 우리가 아직 존재하지 않는 것을 상상하는 동안에도 우리가 어디에서 왔는지를 기억할 수 있는 능력을 지니는 것을 의미한다.",
+        "ja": "おそらくそこにこそ、私にとってのヒューマニズムの定義が、最終的に見出されるのだろう。人間であるということは、まだ存在しないものを想像しながらも、私たちがどこから来たのかを記憶する能力を持つことを意味する。",
+        "zh": "或许，我对人文主义的定义，最终就落脚于此：作为人，意味着拥有这样一种能力——在想象那尚不存在之物的同时，依然记得我们从何而来。",
+        "hi": "शायद वहीं अंततः मानवतावाद की मेरी परिभाषा निहित है: मनुष्य होने का अर्थ है यह क्षमता रखना कि हम यह स्मरण रख सकें कि हम कहाँ से आए हैं, जबकि हम उस चीज़ की कल्पना कर रहे हों जो अभी तक अस्तित्व में नहीं है।"
+      },
+      {
+        "es": "Y quizás esa sea también mi función como artista dentro del tiempo que me ha tocado vivir: crear para no olvidar, experimentar para no detenerme y producir memoria para que nuestro paso por este tiempo convulso no desaparezca sin dejar huella.",
+        "en": "And perhaps that is also my function as an artist within the time I have been given to live: to create so as not to forget, to experiment so as not to stop, and to produce memory so that our passage through this turbulent time does not disappear without leaving a trace.",
+        "de": "Und vielleicht ist das auch meine Funktion als Künstler innerhalb der Zeit, die mir zu leben vergönnt war: zu schaffen, um nicht zu vergessen, zu experimentieren, um nicht innezuhalten, und Erinnerung zu erzeugen, damit unser Durchgang durch diese aufgewühlte Zeit nicht spurlos verschwindet.",
+        "ko": "그리고 어쩌면 그것이 또한, 내가 살아가도록 주어진 이 시간 안에서 예술가로서의 나의 기능일 것이다. 잊지 않기 위해 창조하는 것, 멈추지 않기 위해 실험하는 것, 그리고 이 격동의 시대를 지나온 우리의 발자취가 흔적 없이 사라지지 않도록 기억을 생산하는 것.",
+        "ja": "そしておそらくそれもまた、私が生きることを許されたこの時間の中で、作家としての私の役割であろう。忘れないために創造すること、立ち止まらないために実験すること、そしてこの激動の時代を通り過ぎる私たちの足跡が、痕跡を残さずに消え去ってしまうことのないよう、記憶を生み出すこと。",
+        "zh": "而这，或许也正是我作为一名艺术家，在我所被赋予去经历的这段时间之中的职责所在：为了不遗忘而创作，为了不停下脚步而实验，并生产记忆，好让我们穿越这个动荡时代的足迹，不至于消失得无迹可寻。",
+        "hi": "और शायद यही मेरे जीने के लिए दिए गए इस समय के भीतर, एक कलाकार के रूप में मेरा कार्य भी है: न भूलने के लिए सृजन करना, न रुकने के लिए प्रयोग करना, और स्मृति उत्पन्न करना ताकि इस उथल-पुथल भरे समय से हमारा गुज़रना बिना कोई निशान छोड़े विलुप्त न हो जाए।"
+      }
+    ],
+    "signature": {
+      "es": "Muu Blanco",
+      "en": "Muu Blanco",
+      "de": "Muu Blanco",
+      "ko": "Muu Blanco",
+      "ja": "Muu Blanco",
+      "zh": "Muu Blanco",
+      "hi": "Muu Blanco"
+    }
   },
   {
     "title": {
