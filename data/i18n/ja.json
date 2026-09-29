@@ -1,833 +1,839 @@
 {
-  "common": {
-    "menu": "メニュー",
-    "enter": "入る →",
-    "nav": {
-      "conceptual": "コンセプチュアル",
-      "practicas": "パブリック・プラクティス",
-      "drmusica": "DR.MUU RECORDS",
-      "prensa": "プレス",
-      "cv": "CV",
-      "galeria": "ギャラリー",
-      "about": "プロフィール",
-      "contacto": "連絡先",
-      "proyectos": "プロジェクト",
-      "exposiciones": "展覧会カタログ",
-      "selectedworks": "厳選作品",
-      "workwithmuu": "ムーと仕事をする",
-      "ahora": "ムー・ブランコ — 現在"
-    }
-  },
-  "index": {
-    "hero": {
-      "needs": "マルチディシプリナリー・アーティスト、",
-      "accent": "サウンドアーティスト、パフォーマー、ヴァイナルセレクター。",
-      "sub": "カラカス生まれ(1966年)・マイアミ在住 — イメージ、記憶、風景、音、テクノロジー、文化的アーカイブを探求してきた40年。",
-      "alt": "ムー・ブランコ — ポートレート、マイアミ、2026年"
-    },
-    "tiles": {
-      "conceptual": "テキスト、制作ノート、作品記録 — 年代順。",
-      "practicas": "Instagram、YouTube、SoundCloud、Discogs — 現在進行中の活動。",
-      "drmusica": "サウンドのエイリアス — 制作、コラボレーション、リリース。",
-      "galeria": "購入可能なオリジナル作品 — オンラインストア、価格・在庫はお問い合わせください。",
-      "prensa": "新聞・雑誌に掲載されたレビュー — 年代順。",
-      "cv": "完全な年代記ガイド — 学歴、展覧会、ディスコグラフィー、プレス。",
-      "contacto": "キュレーター、ギャラリー、プレス、コレクター、音楽関連のお問い合わせ。",
-      "proyectos": "長期にわたる研究プロジェクト — NatuUrban Symphony、100 Years of Sound Artほか。",
-      "exposiciones": "1994年から2014年までの個展・グループ展カタログ。"
-    },
-    "featured": {
-      "eyebrow": "ムー・ブランコ — 現在",
-      "selectedworks": "40年に及ぶビジュアル、パフォーマンス、サウンド実践から厳選した6つのプロジェクト。",
-      "workwithmuu": "サウンドパフォーマンス、コミッション、アーティストトーク、ヴァイナル・リスニングセッション。",
-      "archiveTitle": "アーカイブ 1986–2026",
-      "archiveDesc": "写真、パフォーマンス、映像、インスタレーション、サウンド、出版物を網羅する軌跡の全貌。"
-    },
-    "now": {
-      "title": "最新の映像＆音楽",
-      "lead": "動く映像と音楽を、リアルタイムで。",
-      "videoLabel": "最新のビデオクリップ",
-      "mixmediaLabel": "最新のミックスメディア・アート"
-    },
-    "sections": {
-      "eyebrow": "アーカイブ全体を見る"
-    }
-  },
-  "about": {
-    "eyebrow": "About",
-    "lead": "マルチディシプリナリー・アーティスト。サウンドのエイリアス：<em>Dr.Muusica</em>。カラカス / マイアミ。",
-    "h2": {
-      "summary": "概要",
-      "full": "ビデオアート・バイオ",
-      "recent": "最近の活動",
-      "contact": "連絡先",
-      "morelinks": "その他のリンク",
-      "projects": "プロジェクトと拠点",
-      "shortbio": "ショートバイオ",
-      "cronicas": "クロニクル"
-    },
-    "summary": {
-      "p1": "ムー・ブランコ（Muu Blanco、1966年ベネズエラ・カラカス生まれ）は、マイアミを拠点に活動するマルチディシプリナリー・アーティスト、ビデオアーティスト、マルチメディア・インスタレーション作家である。1990年代初頭以来、実験的ビデオ、サウンドアート、パフォーマンス、写真、ビデオマッピングを通して、イメージと音、都市風景の関係を探求してきた。",
-      "p2": "初期のビデオ作品はVideo8フォーマットで制作され、後にカラカス現代美術館の「第2回ピレリ青年芸術家サロン」で発表され、シリーズ全体がノア・ノア・コレクションに収蔵された。彼の作品はカラカス・ソフィア・インベル現代美術館、サラ・メンドーサ、カラカス国立シネマテーク、ニューヨークのマンドラゴラス・アート・スペースなどで展示されている。",
-      "p3": "2014年にマイアミへ移住して以降、ブランコはビデオマッピング、サウンドアート、パフォーマンスを統合したマルチメディア・インスタレーションの制作を続けており、近作に《NatuUrban Symphony》（2024–2025）がある。"
-    },
-    "full": {
-      "p1": "ムー・ブランコ（カラカス、ベネズエラ、1966年生まれ）は、マイアミを拠点とするマルチディシプリナリー・アーティスト、ビデオアーティスト、マルチメディア・インスタレーション作家である。その芸術的実践は、実験的ビデオアート、サウンドアート、パフォーマンス、写真、アッサンブラージュ、インスタレーション、電子音楽、ビデオマッピングにまで及び、1990年代初頭から、イメージと音、都市風景の関係についての継続的な探求を展開している。",
-      "p2": "ブランコは1990年代初頭に実験的ビデオアートに取り組み始め、当初はVideo8フォーマットを美的探求の手段として用いた。ビデオ作品によるグループ展への初参加は1992年で、その際に作品の一つがコレクターのジミー・ベリルティに収蔵された。この時から、実験的な映像言語への継続的な探求が始まった。",
-      "p3": "1994年には、カラカスのオルタナティブ・ギャラリーで開催されたグループ展「混合技法」に参加した。これは現代美術の展示活動における彼の最初期の発表の一つである。",
-      "p4": "1995年までに30点以上の実験的ビデオ作品を制作しており、これらは後にカラカス現代美術館の「第2回ピレリ青年芸術家サロン」（1997年）で発表され、作品群全体がオベルト家の個人コレクションであるノア・ノア・コレクションに収蔵された。",
-      "p5": "1990年代末から2000年代初頭にかけて、映像・音響に関する研究をさらに発展させ、パフォーマンスの記録や実験的プロジェクトの制作を続けた。",
-      "p6": "2002年には、カラカス・ソフィア・インベル現代美術館で開催された展覧会「ホワイトキューブからブラックボックスへ：歴史的テープ、創造的ビデオ、デジタルアート、ベネズエラのビデオ」に参加した。同年、同館で発表されたプロジェクト「マルチメディア・アーティスト、芸術センター創設者」にも参加。この時期、美術館のビデオアート・コレクション形成にも貢献し、その10年間に制作したビデオ作品20点を寄贈・収蔵させた。",
-      "p7": "2003年には、カラカスのサラ・メンドーサで開催された「第11回エウヘニオ・メンドーサ賞」に参加した。",
-      "p8": "2004年には、カラカス国立シネマテークで作品「目の変奏。ビデオダンス – ムー・ブランコ」を発表。同年、その作品はサラ・メンドーサで開催された展覧会「エレクトリック・アース。英国とベネズエラの短編とビデオ」に含まれた。これは実験的ビデオと短編映画のための国際プログラムであった。",
-      "p9": "2006年には、ゲーテ・インスティトゥートとの協働により、ハコボ・ボルヘス美術館で実験的ビデオプロジェクトを発表。このプロジェクトはカラカスの路上の露天商とインフォーマル経済に焦点を当て、都市風景を社会的・政治的空間として捉えた。",
-      "p10": "2008年から、拡張投影とビデオマッピングを自身のマルチメディア・インスタレーションに取り入れ始めた。その後2013年には、スライドショーとアニメーション写真肖像に関するリサーチプロジェクトを展開し、同年、ベネズエラでの最後の個展となる「イン・タ・ハウス」をカルメン・アラウホ・アルテで発表して締めくくった。これはビデオ、絵画、彫刻、サウンドを組み合わせたマルチメディア・インスタレーションであった。",
-      "p11": "2014年、ニューヨークでの初個展を開催。ロングアイランドシティのマンドラゴラス・アート・スペースのパフォーマンス・プログラム内で発表されたマルチメディア・インスタレーション「ブラックポイント・ベネズエラ」である。同作品はサウンドアート、ビデオマッピング、彫刻、アナログコラージュを統合し、現代ベネズエラの社会的・政治的緊張を扱った。",
-      "p12": "同年マイアミへ移住し、以後も芸術制作の多くをこの地で展開している。2015年には、アーツ・コネクション・ファウンデーションのチル・コンセプト・スペースにて「新しい構成的思考 Vol.1」を発表。大判写真とビデオマッピング、サウンドアートを組み合わせたインスタレーションであった。",
-      "p13": "2017年から2019年にかけて、マイアミのアイアンサイド、特にエスパシオ・サンタマンティスにて、実験的な視聴覚イベントと体験の連作を展開し、ビデオマッピングとライブ実験音楽のための集いを組織した。",
-      "p14": "新型コロナウイルスのパンデミックによりこれらの創作空間が中断された後、2020年にはアラパタ地区でアート・コレクティブ「IDArt Lab」を共同設立し、2023年まで活動した。このコレクティブの中で、ビデオマッピング、実験的アニメーション、音に反応するライトパフォーマンスをライブのサウンドアート作品とともに発表するグループ展に複数参加した。",
-      "p15": "最新のプロジェクトは、インスタレーション＆サウンドアート・プログラム「NatuUrban Symphony」で、2024年11月から2025年1月にかけてアーツ・コネクション・ファウンデーションで発表され、実験音楽、ダンス、ビデオマッピング投影、そして自身のドキュメンタリー「NatuUrban Symphony」の上映を統合した。",
-      "p16": "2017年以降、ブランコはInstagramアカウント <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a> を、自身の視聴覚制作の生きたアーカイブとして維持し、マイアミでの直近10年間に手がけたインスタレーション、パフォーマンス、映像実験を記録している。",
-      "p17": "40年以上に及ぶ芸術活動を通じて、ムー・ブランコは、ビデオ、サウンド、テクノロジー、パフォーマンスを都市文化・記憶・現代の社会的緊張を探求する装置として機能させるハイブリッドな実践を発展させてきた。その作品は国内外の様々な公共・個人コレクションに収蔵されている。",
-      "readmore": "詳しい経歴を見る"
-    },
-    "recent": {
-      "p1": "<strong>Latencias</strong>（2026年）は、40分間のマルチメディア感覚パフォーマンスで、2026年2月19日にIgnite Broward Festival、MAD Arts（ダニアビーチ、フロリダ）にて初演された。このサイトの<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">Conceptual</a>、<a href=\"proyectos.html\">プロジェクト</a>のセクションで記録されている。"
-    },
-    "contact": {
-      "p1": "現在活動中の実践とネットワークは<a href=\"practicas-publicas.html\">Prácticas Públicas</a>をご覧ください。作品のご購入に関するお問い合わせは<a href=\"store.html\">Galería</a>まで。"
-    },
-    "morelinks": {
-      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — 経歴と活動歴。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — 作家の全リンクを一箇所に集約。"
-    },
-    "projects": {
-      "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — マイアミの展示スペースにおけるアーティストプロフィール。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — サウンドアートの歴史に関するリサーチプロジェクト。"
-    },
-    "shortbio": {
-      "p1": "ムー・ブランコ(カラカス、1966年生)は、Dr.Muusicaというエイリアスで活動するマルチディシプリナリー・アーティスト兼ミュージシャンで、マイアミを拠点にしている。彼の実践はビデオアート、サウンドアート、パフォーマンス、インスタレーションにまたがり、40年にわたってイメージ、音、都市風景の関係を探求してきた。",
-      "readmore": "詳しい経歴を読む ↓"
-    },
-    "cronicas": {
-      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
-      "p1": "2018年、作家Lieskaはマイアミのアーティストのスタジオで行ったインタビューをもとに、Bitácora 29(ジャクソンビル)にこのプロフィール記事を発表した。同記事は彼の形成過程、その実践におけるユーモアと不遜さの関係、そしてAbstracciones Paisajísticasシリーズの展開を辿る。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">記事全文を読む(PDF)↗</a>"
-    }
-  },
-  "conceptual": {
-    "eyebrow": "01 — コンセプチュアル",
-    "lead": "風景、抽象、音、記憶、自然、テクノロジーが収束し、現代世界に対する私たちの知覚を拡張する、四十年にわたる芸術的探求。",
-    "loading": "参考文献を読み込み中…",
-    "statementTitle": "アーティスト・ステートメント",
-    "statement": {
-      "p1": "私の芸術的実践は1986年、芸術を孤立した一分野としてではなく、イメージ、音、建築、風景、記憶が出会うことのできる領域として理解する直感的な探求として始まった。それ以来、私たちが世界をどのように知覚し、時間がその関係をどのように変えていくのかを探求する必要性に突き動かされながら、絶えず変容し続ける学際的な軌跡を築いてきた。",
-      "p2": "私は1966年、カラカスに生まれた。この都市の複雑な都市構造は、空間を理解する私のあり方に深い影響を与えた。初期には絵画、ドローイング、実験的な介入を中心とした探求を行い、それはやがてビデオアート、実験映画、インスタレーション、サウンド実践へと発展していった。1990年代にはこの方向性を裏付ける評価を受け、その中には『Perra Chillona』によるサンパウロ短編映画ビエンナーレ大賞と、第5回グアヤナ国立美術ビエンナーレ特別言及が含まれる。",
-      "p3": "私の作品はこれまで一つのメディアに限定されたことがない。それぞれのプロジェクトが、自らの存在に必要な言語を決定する。四十年にわたり、私は写真、コラージュ、音楽作曲、サウンドアート、パフォーマンス、ドキュメンタリー・リサーチ、没入型インスタレーションの間を行き来してきた。これらすべての分野を、同じ一つの創作プロセスの一部として理解している。",
-      "p4": "自然と風景は、私の研究における変わらぬ軸であり続けてきた。私はそれらを再現されるべき背景としてではなく、歴史、生態学、文化、人間の経験が収束する生きたアーカイブとして捉えている。この探求から、Abstraciones Paisajísticas、Modernismo Anacrónico、《NatuUrban：マイアミの亜熱帯交響曲》、そしてArchipiélago Sonoroといったプロジェクトが生まれた。これらの作品は、領土、記憶、生物多様性、音の間の関係を探求するものである。",
-      "p5": "2014年のマイアミへの移住は、私の実践における新たな章を開いた。南フロリダの亜熱帯生態系との出会いは、音響生態学への関心を広げ、フィールドレコーディング、電子音響作曲、人工知能、写真、映像、インタラクティブ技術が共存する没入型体験を生み出す可能性への関心につながった。この時期、音はもはやイメージに付随するものではなく、瞑想的な空間を構築しうる彫刻的な素材となった。",
-      "p6": "この期間、私は研究者、作曲家、Selector、編集者、文化プロデューサーとしても精力的に活動し、サウンドアートおよびカリブ海・ラテンアメリカの音楽文化に捧げられた出版物、アーカイブ、レコード、コンサート、ラボ、普及プラットフォームを生み出してきた。私はこれらの活動を、自らの芸術的実践の自然な延長であり、聴くことを中心にコミュニティを活性化させる方法であると理解している。",
-      "p7": "私の作品は、まなざしと聴取の減速を提案する。私が関心を持つのは、通常は見えないままにされているもの——風景の残響、ある領土に込められた記憶、気づかれずに過ぎ去る日常の音、そして自然、都市、文化の間に隠された関係——を明らかにすることである。ある場所を再現するというよりも、拡張された知覚を通してそれを経験する条件を生み出そうとしている。",
-      "p8": "2026年、芸術活動四十周年を迎え、私は自らの作品が今なお開かれた探求であり続けていることを認識する。それぞれのプロジェクトは、異なる仕方で耳を傾け、より注意深く観察し、風景が外部の対象ではなく、私たち自身もその一部である生きた有機体であることを理解するための招待である。私の実践は、技術的実験と詩的感性の間で進化し続けており、芸術が世界そして集合的記憶との新たな関係のあり方を築きうると確信している。"
-    }
-  },
-  "practicas": {
-    "eyebrow": "03 — パブリック・プラクティス",
-    "lead": "現在進行中の活動をネットワーク上に記録：7つのInstagramアカウント、YouTube、Vimeo、SoundCloud、Discogs。"
-  },
-  "drmusica": {
-    "eyebrow": "04 — DR.MUU RECORDS",
-    "lead": "Dr.Muurecordsが制作し、Dr.Muusicaが監督する音楽プロダクション。",
-    "h2": {
-      "listen": "全ディスコグラフィー",
-      "press": "プレス掲載",
-      "videoclips": "ビデオクリップ",
-      "selector": "Dr.Muusica セレクター — ヴァイナル & ライブセッション",
-      "noticias": "最新リリース",
-      "selectedreleases": "厳選リリース"
-    },
-    "press": {
-      "lead": "ミュージシャン兼音楽プロデューサーとしてのムー・ブランコに関する言及と報道 — 年代順。"
-    },
-    "videoclips": {
-      "lead": "ムー・ブランコが制作・監督したミュージックビデオ。オリジナル音楽はムー・ブランコによるもので、Dr.Muu Recordsスタジオにて Dr.Muusica がプロデュースしました。",
-      "v1": {
-        "meta": "エクトル・ラボエ参加 · 脚本：Dr.Muu Desing"
-      },
-      "v2": {
-        "meta": "JABALEE（LP）、トラック5 · Ditto Music Venezuela · 映像：MuuBlancoVideoArt &amp; SaltaMantis · 監督：ムー・ブランコ",
-        "date": "2019年6月"
-      },
-      "v3": {
-        "meta": "LP『New Wave BeatMaker CCS 66』からの最初のシングル · 映像・コンセプト・監督：ムー・ブランコ",
-        "date": "2019年3月"
-      },
-      "v4": {
-        "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 監督：ムー・ブランコ · Espacio SaltaMantis",
-        "date": "2019年3月"
-      },
-      "v5": {
-        "meta": "LP『New Wave BeatMaker CCS 66』から3枚目のビデオシングル"
-      },
-      "v6": {
-        "meta": "映像：Dr.Muu Desing",
-        "date": "2017年3月"
-      },
-      "v7": {
-        "meta": "セルフィー・ビデオクリップ · オリジナル音楽：Dr.Muusica",
-        "date": "2016年12月"
-      }
-    },
-    "youtube": {
-      "handle": "YouTubeのムー・ブランコ"
-    },
-    "listen": {
-      "original": "オリジナル音楽",
-      "mixtapes": "ライブ録音ミックステープ"
-    },
-    "selector": {
-      "lead": "house と techno；funk、boogie、disco；new wave、post-punk、punk、rock；reggae、ska、dub；salsa、boogaloo、bolero、mambo、plena、guaguancó、cumbia；jazz；hip-hop、trip-hop、drum & bass；そして afrobeat、bossa nova、samba、world music、+ まで幅広く網羅するライブ・ヴァイナル・リスニングセッション。Tripping Animals Brewery(ドーラルシティ、FL)での週次レジデンシー(2024–2026年)。",
-      "v1": {
-        "meta": "ライブ・ヴァイナル・リスニングセッション · Record Store Day 2026 · Lucky Records、マイアミ"
-      },
-      "v2": {
-        "date": "2025年2月9日",
-        "meta": "ライブ配信 · サウンド：Dr. Muusica · Tripping Animals Brewing、ドーラルシティ、FL"
-      },
-      "v3": {
-        "date": "2025年1月14日",
-        "meta": "ライブ配信 · Tripping Animals Brewing、ドーラルシティ、FL"
-      },
-      "v4": {
-        "date": "2025年1月",
-        "meta": "Uncle Jei と共に · Tripping Animals Brewing、ドーラルシティ、FL"
-      }
-    },
-    "noticias": {
-      "lead": "Dr.Muusicaがプロデュースする DR.MUU Records の新作リリース。",
-      "v1": {
-        "date": "2026年5月",
-        "meta": "レーベル：DrMuu Records · エグゼクティブ・プロデュース：Muu Blanco · アート、グラフィックデザイン：DrMuu Desing · 音楽プロデュース：Argenis Brito, Dr.Muusica · マイアミとベルリンで録音・制作、2025–2026年 · ポストプロダクション：Argenis Brito · 世界同時リリース：2026年5月24日",
-        "p1": "これは、構造がもはや封じ込めとして機能せず、破裂の表面として振る舞い始めるシステムの能動的な事例である。",
-        "p2": "この文脈において、音は作曲としてではなく圧力として機能する——限界を貫き、それを引き裂くまでの力である。",
-        "track1title": "トラック1 —（限界が引き裂かれる／誰も止まらない）",
-        "track1desc": "構造が崩れる瞬間を刻む。移行も警告もない——その開口は即座かつ全面的である。そこに現れるものは物語的な論理ではなく、制動も方向も認めない流れに従う。",
-        "track2title": "トラック2 —（空気のない場所で呼吸する）",
-        "track2desc": "その断裂の帰結の中に住まう。ここで異常は安定化する。不可能なものは崩壊しない——持続する。存在する条件を持たないはずのものが、内と外をもはや区別しない環境の中で、活動を続ける方法を見出す。",
-        "p3": "この作品は物語を提示するのではなく、ある状態を提示する——知覚が安定した参照点なしに機能することを強いられる領域である。",
-        "closing": "ARGMUUは意味を構築しない。それを干渉にさらすのだ。",
-        "listen": "YouTube Musicで聴く ↗",
-        "track1credit": "ビデオクリップ：MuuBlancoVideoArt"
-      }
-    },
-    "selectedreleases": {
-      "lead": "ムー・ブランコ/Dr.Muusicaのアルバムとサウンドリリースからの厳選。",
-      "natuurban": "2024年 · 12インチ・ヴァイナルLP、180g グリーン · Arts Connection Foundation",
-      "nwbm": "2019年"
-    }
-  },
-  "prensa": {
-    "eyebrow": "06 — プレス",
-    "lead": "新聞・雑誌に掲載されたムー・ブランコの作品に関するレビュー — 年代順。",
-    "loading": "レビューを読み込み中…"
-  },
-  "store": {
-    "eyebrow": "05 — ギャラリー",
-    "lead": "入手可能なアーティストブック4冊：AAA 2002–2012（Abstracciones Paisajísticas）、Modernismo Anacrónico、New Compositional Thinking 1・2。各表紙をタップするとBlurbで表示、または作品解説を開けます。",
-    "driveImage": "Google Drive の画像",
-    "books": {
-      "title": "販売中の書籍",
-      "withGerardo": "ジェラルド・サバルセとの共著",
-      "pdfNct1": "New Compositional Thinking 1（PDF）↗",
-      "pdfNct2": "New Compositional Thinking 2（PDF）↗",
-      "v1": {
-        "p1": "カラカス（ベネズエラ、1966年生）出身のムー・ブランコによる画像の総合であり、自然、建築、そしてベネズエラ美術に存在する幾何学的抽象の感覚的伝統を受け継ぐ他の形態との合流を中心に据えている。",
-        "p2": "本プロジェクトの起源は、Instituto de Estudios Superiores de Artes Plásticas Armando Reverón（IUESAPAR）が構想した実験的な学びの場——現代的な視覚表象システムの実践と批評——の出現に刻まれている。そこで研究者サンドラ・ピナルディ、キュレーターのルイス・エンリケ・ペレス・オラマス、建築家ウィリアム・ニーニョ・アラケとの重要な対話が行われ、この視覚的探求を進めるための創造的な状況が形作られた。",
-        "p3": "この特定のシリーズを構成する画像は、ベネズエラの視覚的近代性を開いた運動、いわゆる「カラカス派」を参照している。アビラ山の形態が持つ求心的な存在感は、都市を私たち自身を見つめる経験として見る様式に対位法を課す、視覚的な重心を表している。",
-        "p4": "同様に、建築との出会いは強い存在感を持つ特徴であり、芸術と建築の統合的な体験を活性化する感受性と結びついた新たな記念性の概念を体現し、いまやこの場所の激しく、生き生きとし、動的で複雑な次元を明確に参照している。光の出現と空の象徴的な優位性——おそらく植民地的記憶とのつながりとして、天の支店としてのカラカス？——もまた、このシリーズを構成する画像の構成の中で重要な参照点となっている。",
-        "details": "アートフォトグラフィー · インスピレーション · 標準縦型、20×25 cm · 40ページ · ISBN 9798880530731 · 2024年1月出版 · スペイン語"
-      },
-      "v2": {
-        "p1": "本書はムー・ブランコのコラージュ作品によるアートブックであり、テキストはなく、作品を撮影した画像のみで構成されている。作品、写真、グラフィックデザインはすべてムー・ブランコによるものである。",
-        "details": "アートフォトグラフィー · 15×23 cm · 120ページ · ISBN 9781320501064 · 2015年8月出版 · 言語未指定"
-      },
-      "v3": {
-        "p1": "今回、私は個人的に服用する薬の錠剤を用いて、1986年にベネズエラで出版されたパオロ・ガスパリーニの写真集『Retromundo』に介入した。",
-        "p2": "私はこの本との作業を概念的な行為として理解している。私が関心を持つのは、日常の世界を構成し形づくる要素と、それが私の人生経験とともに流れる様を反省的に探ることである。それを親密な視点からは行わない。むしろ自己の考古学という視点から行う（毎日服用する錠剤は、個人的な考古学的遺物へと変わりうる）。",
-        "p3": "この地点から、私の芸術的な作業はラテンアメリカの近代性、とりわけベネズエラの歴史の文脈に刻まれた言説との、越境的で偶発的な対話を求めている。『Retromundo』の断片の上に錠剤を配置した私の写真構成は、オリジナル写真の作者の視線に対する叙事的あるいは郷愁的なまなざしを示すものではない。それらはむしろ、美的な亀裂である。錠剤は誰の個人的世界とも結びつく連想の要素として機能する。それらは変質した近代性のサンプルである。",
-        "details": "アートフォトグラフィー · 13×20 cm · 30ページ · ISBN 9781367872233 · 2016年4月出版 · 英語"
-      },
-      "v4": {
-        "p1": "今や、ベネズエラの場合、コロンブスが新大陸への旅の年代記で述べたような「恵みの地」の話ではなくなっている。豊穣の自然という理想に根ざした近代のユートピアは、地下鉱物資源の突然かつ集中的な搾取によって、現実の個人的・集団的悲劇へと変貌した。ベネズエラの近年の歴史がそれを証している——世界最大の石油埋蔵量を有しながら、国民に経済成長も社会的公正も保証できなかった国家として。",
-        "p2": "この視点から、ムー・ブランコはシリーズ『New Compositional Thinking』（2014年）を通じて、ベネズエラの石油的想像界を反転させることを提案する。この作品においてブランコは、写真雑誌『Extra Cámara』に最初に掲載されたベネズエラの石油叙事詩に関する一連の画像に介入し、赤いバッタ（チャプリン・コロラド）の肖像を刻んだスカプラリオを挿入する。この挿入の意図は疑いなく、観客があの有名なテレビキャラクターの台詞「さあ、今度は誰が私たちを守ってくれるのか？」を思い出すことにある。同時にこの作品によって、ブランコが石油崇拝を告発していることは明らかであり、それは歴史家ヘルマン・カレラ・ダマスが数年前、ベネズエラ文化に深く根づいたボリバル崇拝を暴いたのと同じ手法である。",
-        "credits": "ムー・ブランコによるフォトブック · テキスト：Gerardo Zavarce · グラフィックデザイン：ムー・ブランコ",
-        "details": "アートフォトグラフィー · 教育 · スモールスクエア、18×18 cm · 20ページ · ISBN 9781320500975 · 2015年8月出版 · 英語"
-      },
-      "memoriaLabel": "作品解説"
-    }
-  },
-  "cv": {
-    "eyebrow": "08 — CV",
-    "lead": "ムー・ブランコ（1966年ベネズエラ・カラカス生まれ）の芸術活動の年代記ガイド。マイアミを拠点に活動。ベネズエラ系アメリカ人アーティスト。",
-    "h2": {
-      "education": "学歴",
-      "awards": "受賞歴",
-      "solo": "個展",
-      "group": "グループ展",
-      "collections": "パブリックコレクション",
-      "discography": "ディスコグラフィー（抜粋）",
-      "installations": "主要なサウンド＆パフォーマンス・インスタレーション",
-      "residencies": "アーティスト・レジデンシー",
-      "publications": "出版物／プレス／批評（抜粋）",
-      "media": "掲載メディア",
-      "selected": "主要展覧会・パフォーマンス"
-    },
-    "selected": {
-      "readmore": "全CVを見る ↓",
-      "y2026i1": "Latencias、Ignite Broward Festival、MAD Arts、デイニアビーチ、FL、米国。2026年2月19日。",
-      "y2026i2": "El Kiosko - El Consulado NYC、The Elizabeth Foundation for the Arts、ニューヨーク、米国。",
-      "y2025i1": "Technographies、New World School of Art Gallery、マイアミ、米国。",
-      "y2025i2": "Miami International Performance Festival「M/P '25」、Edge Zones Art Center、マイアミ、米国。",
-      "y20242025i1": "NatuUrban Symphony、Arts Connection Foundation、マイアミ、米国。",
-      "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival、20周年、Palazzo Bembo、ヴェネチア・ビエンナーレ、ヴェネチア、イタリア。",
-      "y2024i2": "アートと政治をつなぐ、Museo La Neomudéjar、マドリード、スペイン。",
-      "y2023i1": "サウンドアートのルーツと進化を探る：未来派から21世紀まで、Miami International Fine Art (MIFA)、ドラル、フロリダ、米国。"
-    },
-    "awards": {
-      "y1995i1": "映画『Perra Chillona』でサンパウロ短編映画ビエンナーレ最優秀賞受賞。ムー・ブランコによるモノローグ、演出:Sabrina Montiel Soto。",
-      "y1994i1": "第5回グアヤナ国立美術ビエンナーレ（ベネズエラ）特別賞。"
-    },
-    "education": {
-      "i1": "現代表象システムの実践と批評 修士課程。Instituto Universitario de Estudios Avanzados Armando Reverón、カラカス。2002年。",
-      "i2": "第5期 視覚芸術プロジェクトマネジメント講座。Fundación Polar、カラカス。1996年。",
-      "i3": "ベネズエラ美術史講座。Instituto Federico Brandt、カラカス。素描と絵画II。Instituto Federico Brandt、カラカス。1990年。",
-      "i4": "現代美術史講座。Museo de Bellas Artes、カラカス。1989年。"
-    },
-    "residencies": {
-      "y20242026i1": "「音楽キュレーションおよびAfro Latin Culture Flavorファンジン月刊編集」— Tripping Animals Brewery（マイアミ、ドラルシティ、米国）にてセレクター兼サウンドリサーチャーとして行った週次レジデンシー。",
-      "y2023i1": "「サウンド教育インスタレーション レジデンスアーティスト」— ドラルシティ、米国。",
-      "y20142016i1": "Arts Connection Foundation（マイアミ、米国）のマルチメディアアーティスト兼キュレーター。",
-      "y2007i1": "招待レジデンスアーティスト、Art Center South Florida、マイアミビーチ、米国。"
-    },
-    "collections": {
-      "i1": "Fundación Patricia Phelps de Cisneros、カラカス－ニューヨーク。",
-      "i2": "Fundación NOA NOA、カラカス、ベネズエラ。",
-      "i3": "Archivo Fotografía Urbana、カラカス、ベネズエラ。",
-      "i4": "Colección Mercantil、カラカス、ベネズエラ。",
-      "i5": "Colección Arte Al Límite、サンティアゴ、チリ。",
-      "note1": "カラカスおよびマラカイボ（ベネズエラ）；ニューヨーク、ロサンゼルス、ヒューストン、マイアミ、サンフランシスコ（米国）；ミラノ（イタリア）；マドリードおよびバルセロナ（スペイン）；ポルトアレグレ（ブラジル）；リスボン（ポルトガル）；サンティアゴ（チリ）の個人コレクション。"
-    },
-    "discography": {
-      "i1": "2024年 — NatuUrban: Una Sinfonía SubTropical de Miami [LP 12インチ・ヴァイナル、180g、グリーン]。Arts Connection Foundation、マイアミ、米国。",
-      "note1": "リリース済みアルバム：",
-      "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
-      "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
-      "i4": "\"JABALEE\" — Muu Blanco (2019).",
-      "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
-      "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
-      "note2": "リリース済みシングル18曲（2019–2026年）。"
-    },
-    "installations": {
-      "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
-      "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
-      "y2025i3": "NatuUrban Symphony、サウンド、ダンス、ライブパフォーマンスのインスタレーション、Arts Connection Foundation、マイアミ、米国。",
-      "y2024i1": "NatuUrban Symphony、自然環境と組み合わせたマルチチャンネル・サウンドインスタレーション、Arts Connection Foundation、マイアミ、米国。",
-      "y2024i2": "「Exploring the Roots and Evolution of Sound Art」、インタラクティブ教育インスタレーション。MIFA、米国。",
-      "y2023i1": "「Exploring the Roots and Evolution of Sound Art」、インタラクティブ教育インスタレーション。ドラルシティ国際アートフェア、米国。",
-      "y2017i1": "「Lumínico Sonoro I」、Espace Expressionでのオーディオビジュアル・インスタレーション、ウィンウッド、マイアミ、米国。",
-      "y2015i1": "「New Compositional Thinking Vol.1」、Arts Connectionでのミックスサウンド・インスタレーション、マイアミ、米国。",
-      "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
-      "y2007i1": "「Multimedia Landscape」、パフォーマティブ・インスタレーション、Art Center/South Florida、マイアミビーチ、米国。"
-    },
-    "publications": {
-      "y2025i1": "「Afro Latin Culture Flavor」— 月刊印刷ファンジン（限定版、100部）。編集キュレーションおよび制作：Muu Blanco / Dr.Muusica、ドラルシティ、米国。",
-      "y2024i1": "「NatuUrban Symphonyカタログ」— Gerardo Zavarceによるキュレーション・テキスト、グラフィックデザイン：Carlos González。マイアミ、米国。",
-      "y2023i1": "AAA「Abstracciones Paisajísticas」[フォトブック]— カラカスの都市写真的抽象10年、Muu Blanco、マイアミ、米国。",
-      "y2020i1": "「World of Art – Latin American Art Since 1900」（第3版）、Edward Lucie-Smith。",
-      "y2015i1": "「New Compositional Thinking Vol.1」— Arts Connection Foundationの編集カタログ、マイアミ、米国。",
-      "y2015i2": "Modernismo Anacrónico — アナログコラージュのカタログ/書籍、Muu Blanco、マイアミ、米国。",
-      "y2015i3": "「New Compositional Thinking Vol.2」— カタログ/フォトブック、Muu Blanco、マイアミ、米国。",
-      "y2009i1": "「Paisaje Sonoro Caracas–Berlín」— CDサウンドカタログ、Sala Mendoza、カラカス、ベネズエラ。"
-    },
-    "media": {
-      "note": "1998–2026年",
-      "i1": "Transit、ニューヨーク、米国。",
-      "i2": "Art America、ニューヨーク、米国。",
-      "i3": "ArtNexus、ボゴタ、コロンビア。",
-      "i4": "El Nacional、カラカス、ベネズエラ。",
-      "i5": "Papel Literario、カラカス、ベネズエラ。",
-      "i6": "Estilo、カラカス、ベネズエラ。",
-      "i7": "Miami Herald、マイアミ、米国。",
-      "i8": "El Nuevo Herald、マイアミ、米国。",
-      "i9": "Artishock、サンティアゴ、チリ。",
-      "i10": "Arte Al Límite、サンティアゴ、チリ。",
-      "i11": "Arte al Día、マイアミ、米国。",
-      "i12": "Shoutout Miami、マイアミ、米国。",
-      "i13": "その他。"
-    },
-    "solo": {
-      "y20252024i1": "NatuUrban Symphony、Art Connection Foundation、マイアミ、FL、米国。",
-      "y20252024i2": "サウンドアートのルーツと進化を探る：未来派から21世紀まで。Miami International Fine Art (MIFA)、マイアミ、米国。",
-      "y2023i1": "サウンドアートのルーツと進化を探る：未来派から21世紀まで、ドラル国際アートフェア特別教育インスタレーション。ドラルシティ、フロリダ、米国。",
-      "y2020i1": "Composiciones Ardientes、Miami Photo Institute、マイアミ、米国。",
-      "y2019i1": "Iluminación y Sonido II、MixMediaインスタレーション。Espace Expression。ウィンウッド、マイアミ、米国。",
-      "y2019i2": "Calle sin salida、GBG Arts Miami、Arts Palm Beach、ウェストパームビーチ、米国。",
-      "y2019i3": "Black Point, Venezuela、The Box Gallery、ウェストパームビーチ、米国。",
-      "y2017i1": "Iluminación y Sonido I、映像とサウンドのインスタレーション。Espace Expression。ウィンウッド、マイアミ、米国。",
-      "y2015i1": "New Compositional Thinking Vol. 1、Mixmedia。Arts Connection Foundation。マイアミ、米国。",
-      "y2015i2": "NCT X 13 Samples／写真と音楽。ウィンウッド、マイアミ、米国。",
-      "y2014i1": "Ejercicios CBT # 1、マイアミ、米国。",
-      "y2014i2": "Black Point。MixmediaArtインスタレーション。Mandragoras Art Space。ニューヨーク、米国。",
-      "y2013i1": "In Tha House。Carmen Araujo Arte。カラカス、ベネズエラ。",
-      "y2012i1": "Caja blanca atrapa moscas、Galería Sicart。バルセロナ、スペイン。",
-      "y2012i2": "Entorno、Espacio Fotográfico Cubo 7。カラカス、ベネズエラ。",
-      "y2010i1": "Fósiles Analíticos、Galería Fernando Zubillaga。Galpones del Centro de Arte。カラカス、ベネズエラ。",
-      "y2009i1": "Paisaje Sonoro Caracas-Berlín。Sala Mendoza、カラカス、ベネズエラ。",
-      "y2008i1": "A.P.（Paisaje de Abstracciones）。Galería Farías + Fábregas。カラカス、ベネズエラ。",
-      "y2008i2": "Modernismo Anacrónico、Galería Sicart。バルセロナ、スペイン。",
-      "y2007i1": "Paisaje Multimedia、Art Center／South Florida。眠れぬ夜。マイアミビーチ、フロリダ、米国。",
-      "y2007i2": "PAINTアートフェア。Hardcore Art Contemporary Space。ニューヨーク、米国。",
-      "y2007i3": "Bello Horizonte。Modernismo Anacrónico、Centro Cultural Chacaoシリーズ。カラカス、ベネズエラ。",
-      "y2006i1": "Fósil analítico、Galería Fernando Zubillaga、Periférico Caracas。カラカス、ベネズエラ。",
-      "y2006i2": "Modernismo anacrónico、Hardcore Art Contemporary Space。マイアミ、フロリダ、米国。",
-      "y2005i1": "Modernismo anacrónico、Heroes & Trash。カラカス、ベネズエラ。",
-      "y1993i1": "Cachiperro a mano。La Paninoteka。カラカス、ベネズエラ。",
-      "y1992i1": "グラフィック。La Paninoteka。カラカス、ベネズエラ。"
-    },
-    "group": {
-      "y2026i1": "El Kiosko - El Consulado NYC、The Elizabeth Foundation for the Arts、ニューヨーク、米国。",
-      "y2025i1": "Technographies、New World School of Art Gallery、マイアミ、米国。",
-      "y2025i2": "El Kiosko - El Consulado NYC、NADAアートフェア、マイアミ、米国。",
-      "y2025i3": "Miami International Performance Festival「M/P '25」、Edge Zones Art Center、マイアミ、米国。",
-      "y2024i1": "アートと政治をつなぐ。Museo La Neomudéjar、マドリード、スペイン。",
-      "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival、20周年、Palazzo Bembo、ヴェネチア・ビエンナーレ、ヴェネチア、イタリア。",
-      "y2022i1": "Espacio Especial、Pintaアートフェア、ココナッツグローブ、フロリダ、米国。",
-      "y2022i2": "Más allá del Sonido del Silencio、Lowe Art Museum、コーラルゲイブルズ、FL、米国。",
-      "y2022i3": "Serendipia #2 &gt; Post_Ready_Made、Espacio Monitor、カラカス、ベネズエラ。",
-      "y2022i4": "DGTL: IRL、POPKDM、Galería Weitenfeild Landaluce、ベルリン、ドイツ。",
-      "y2022i5": "MetaFluxus および Miami New Media Festival、ID Art Lab、ウィンウッド、マイアミ、FL、米国。",
-      "y2022i6": "Serendipity #1インスタレーション、Espacio Monitor、カラカス、ベネズエラ。",
-      "y2021i1": "DORCAM Museum ニューメディア・フェスティバル、ドラルシティ、フロリダ、米国。",
-      "y2021i2": "La Trayectoria Sin Precedentes、Centro Cultural La Trinidad、カラカス、ベネズエラ。",
-      "y2021i3": "ID、Id Art Lab、ウィンウッド、マイアミ、米国。",
-      "y2021i4": "マルチメディア・アートアクション、Id Art Lab、ウィンウッド、マイアミ、米国。",
-      "y2020i1": "DORCAM Museum ニューメディア・フェスティバル、ドラルシティ、フロリダ、米国。",
-      "y2020i2": "Base Art、Id Art Lab、ウィンウッド、マイアミ、米国。",
-      "y2020i3": "Focus、GBG Art、Art Palm Beach、米国。",
-      "y2019i1": "Miami New Media Festival、DORCAM Museum、ドラルシティ、フロリダ、米国。",
-      "y2019i2": "Border Line、Id Art Lab、ウィンウッド、マイアミ、米国。",
-      "y2019i3": "+58 Art、Canvas Gallery Miami、マイアミ、米国。",
-      "y2019i4": "Political Aesthetics、GBG Arts Miami、米国。",
-      "y2019i5": "My View、LFA Space、ウィンウッド、マイアミ、米国。",
-      "y2018i1": "Miami New Media Festival、マイアミ、米国。",
-      "y2018i2": "Miami International Performance Festival「M/P '18」、Edge Zone Arts Center、マイアミ、米国。",
-      "y2018i3": "Art and Football（パブリック・ビデオアート・インスタレーション）、Goethe-Institut、バクー、アゼルバイジャン。",
-      "y2018i4": "Miami Life Exhibition（ミックスメディア・インスタレーション）、Miami Photo Institute、米国。",
-      "y2018i5": "Par amour du jet、「ISimulación」（パブリック・ビデオアート・インスタレーション）、Les Magasins Generaux、パリ、フランス。",
-      "y2018i6": "Lenguas Indígenas（サウンドアート）、メルコスール・ビエンナーレ、ポルトアレグレ、ブラジル。",
-      "y2017i1": "マイアミ・ニューメディア・フェスティバル、米国。",
-      "y2017i2": "空間の概念、Colección Banco Mercantil、カラカス、ベネズエラ。",
-      "y2017i3": "Colección Arte Al Límite、Espacio Fundación Telefónica、サンティアゴ、チリ。",
-      "y2017i4": "AntiRedymate、Espacio Monitor、カラカス、ベネズエラ。",
-      "y2017i5": "「Onomatopías Visuales de Tiempos Difíciles」、Carmen Araujo Arte、カラカス、ベネズエラ。",
-      "y2017i6": "マイアミ国際パフォーマンス・フェスティバル「M/P '17」、Edge Zone Arts Centerギャラリー、マイアミ、米国。",
-      "y2017i7": "ベネズエラの子どもたちのための平和的共鳴、UNICEF、Galería Ascanio y EE、ウィンウッド、マイアミ、米国。",
-      "y2017i8": "様々な緯度からベネズエラを再考する、FundanaとBAC、ウィンウッド、マイアミ、米国。",
-      "y2016i1": "マイアミ・ニューメディア・フェスティバル、米国。",
-      "y2016i2": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、リマ、ペルー。",
-      "y2016i3": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、ブエノスアイレス、アルゼンチン。",
-      "y2016i4": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、ラパス、ボリビア。",
-      "y2016i5": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、Museo de Arte Contemporáneo、カラカス、ベネズエラ。",
-      "y2015i1": "マイアミ・ニューメディア・フェスティバル、米国。",
-      "y2015i2": "Visiones Digitales、Sala Pettit、Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
-      "y2015i3": "メディアアート：デジタルメディアにおける自然、Fundación Telefónica、CorpBanca、カラカス、ベネズエラ。",
-      "y2015i4": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Oca de São Paulo、サンパウロ、ブラジル。",
-      "y2015i5": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institutニューメディア・ビエンナーレ。サンティアゴ、チリ。",
-      "y2015i6": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut第1回アスンシオン・ビエンナーレ、Museo del Barro、パラグアイ。",
-      "y2015i7": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut第2回クリチバ・ビエンナーレ、ブラジル。",
-      "y2015i8": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Oi Futuro、リオデジャネイロ、ブラジル。",
-      "y2015i9": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Museo de Ushuaia、アルゼンチン。",
-      "y2015i10": "Wynwood Art、The Chill Concept、ウィンウッド、マイアミ、米国。",
-      "y2014i1": "Miami New Media Festival、マイアミ、米国。",
-      "y2014i2": "Art Fair Context Miami、The Chill Concept、ウィンウッド、マイアミ、米国。",
-      "y2014i3": "第2回モンテビデオ・ビエンナーレ、ウルグアイ中央銀行大ホール、モンテビデオ、ウルグアイ。",
-      "y2014i4": "Lenguas Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut／ICBA、リオデジャネイロ、ブラジル。",
-      "y2014i5": "Hacia el plano verde、第2版。Centro Integrado de Artes。カラカス、ベネズエラ。",
-      "y2014i6": "Só Jogo Futebol o Just When They Finished、Goethe-Institut／ICBA。巡回展：サンパウロ、ポルトアレグレ、ベロオリゾンテ、リマ、ボリビア、コルドバ（アルゼンチン）、ボゴタ（コロンビア）、カラカス（ベネズエラ）、サンティアゴ（チリ）、キト（エクアドル）。",
-      "y2014i7": "Soy punto de encuentro。Carmen Araujo Art。カラカス、ベネズエラ。",
-      "y2014i8": "Ccs-2014｜Flash Caracas：ビデオスペース。Centro de Arte Los Galpones。カラカス、ベネズエラ。",
-      "y2013i1": "ArtBo国際アートフェア、Arte Carmen Araujo、ボゴタ、コロンビア。",
-      "y2013i2": "Só Jogo Futebol o recién cuando terminaron、Goethe-Institut／ICBA。巡回展：ブラジリア、サルバドール、リオデジャネイロ、フォルタレザ（ブラジル）、サンタクルス・デ・ラ・シエラ（ボリビア）、モンテビデオ（ウルグアイ）、ブエノスアイレス（アルゼンチン）、ラパス（ボリビア）。",
-      "y2013i3": "ビデオと他の媒体。Al Borde Gallery、マラカイボ、ベネズエラ。",
-      "y2013i4": "建築記念碑。Sala Mendoza、カラカス、ベネズエラ。",
-      "y2013i5": "エレクトロニック・スペース、第5巻。Sala Mendoza。カラカス、ベネズエラ。",
-      "y2012i1": "Caracas Arte Contemporáneo（CACRI）。Carmen Araujo Arte。Parque Cultural Hacienda La Trinidad。カラカス、ベネズエラ。",
-      "y2011i1": "Galería Arqueología。Galería Sicart。ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
-      "y2011i2": "変形された幾何学：12の視覚的言説。Galería Farías + Fábregas。カラカス、ベネズエラ。",
-      "y2011i3": "サンタルシアの夕暮れ。マラカイボ、ベネズエラ。",
-      "y2010i1": "Didáctica、Centro de Arte Periférico de Caracas Los Galpones。カラカス、ベネズエラ。",
-      "y2009i1": "Paisaje Sonoro。Ccs - Brln。Sala Mendoza。カラカス、ベネズエラ。",
-      "y2009i2": "OPENART。サラゴサ美術史センター、スペイン。",
-      "y2008i1": "PhotoMiami '08。Galería Sicart。マイアミ、米国。",
-      "y2008i2": "Arte Lisboa。Galería Sicart。リスボン、ポルトガル。",
-      "y2008i3": "Arte Valencia。Galería Sicart。バレンシア、スペイン。",
-      "y2008i4": "Foto Buenos Aires。Galería Sicart。アルゼンチン。",
-      "y2008i5": "ArtBo。Galería Farías + Fábregas、ボゴタ、コロンビア。",
-      "y2008i6": "現代ベネズエラ・ビデオアート、Periférico CCS、La Otra、ボゴタ、コロンビア。",
-      "y2008i7": "Reflexión y Refracción。Galería Rich。ロンドン、イングランド。",
-      "y2008i8": "D'eros I Thanatos。Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
-      "y2008i9": "ArteSantander。Galería Sicart。サンタンデール、スペイン。",
-      "y2008i10": "ArteBa。Galería Sicart。ブエノスアイレス、アルゼンチン。",
-      "y2008i11": "ラテンアメリカ現代美術の（不）可視の地理学。Centro León、ドミニカ共和国。",
-      "y2008i12": "SWABアートフェア。Galería Sicart。バルセロナ、スペイン。",
-      "y2008i13": "MiArt、Galería Sicart。ミラノ、イタリア。",
-      "y2008i14": "Bridge Art Fair。Tracing Misfits、Galería Sicart。ニューヨーク、米国。",
-      "y2008i15": "ドローイング、Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
-      "y2007i1": "Pinta。NYC、Metropolitan Pavilion、ニューヨーク、米国。",
-      "y2007i2": "Foto Miami。Galería Sicart。マイアミ、米国。",
-      "y2007i3": "SCOPE Miamiアートフェア。Galería HACS。マイアミ、米国。",
-      "y2007i4": "Buenos Aires Photo。Galería Sicart。ブエノスアイレス、アルゼンチン。",
-      "y2007i5": "Buenos Aires Photo、Hardcore Art Contemporary Space、ブエノスアイレス、アルゼンチン。",
-      "y2007i6": "Valencia Art。Galería Sicart。バレンシア、スペイン。",
-      "y2007i7": "Lisbon Art。Galería Sicart。リスボン、ポルトガル。",
-      "y2007i8": "Vilafranca Contemporánea。Galería Sicart。ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
-      "y2007i9": "ArteBA。Galería Sicart。ブエノスアイレス、アルゼンチン。",
-      "y2007i10": "List Bärliner。Galería Sicart。ベルリン、ドイツ。",
-      "y2007i11": "イベロアメリカ・アートフェア（FIA）、Hotel Tamanaco Intercontinental、Hardcore Art Contemporary Space、カラカス、ベネズエラ。",
-      "y2007i12": "Balelatina。Hardcore Art Contemporary Space。バーゼル、スイス。",
-      "y2007i13": "Circa、Hardcore Art Contemporary Space、サンフアン、プエルトリコ。",
-      "y2007i14": "Arteaméricas。Hardcore Art Contemporary Space。マイアミ、米国。",
-      "y2007i15": "Art Los Angeles。Galería Sicart。ロサンゼルス、米国。",
-      "y2007i16": "AAA、モダニティとアナクロニズム、第6回メルコスール・ビエンナーレ、ポルトアレグレ、ブラジル。",
-      "y2007i17": "Blight and Celebration。Multimedia Fusion Festival、ブルックリン、米国。",
-      "y2006i1": "Photo Miami。Galería Sicart。マイアミ、米国。",
-      "y2006i2": "Diálogos。Museo de Arte Contemporáneo de Costa Rica、サンホセ、コスタリカ。",
-      "y2006i3": "Image of Caracas（Off loop）。Space Joaquín Costa（Gallery dels Angels）、バルセロナ、カタルーニャ、スペイン。",
-      "y2006i4": "インターベンション、Museo Jacobo Borges、カラカス、ベネズエラ。",
-      "y2006i5": "Do not Trust - White Biennial、Anxiety of Influence。UCLA New Wight Gallery、Eli and Edith Broad Art Center。ロサンゼルス、米国。",
-      "y2006i6": "Happy Ever After...。Hardcore Art Contemporary Space。マイアミ、フロリダ、米国。",
-      "y2005i1": "Diálogos：Colección Cisnerosによるラテンアメリカ現代美術。Museo Nacional de Bellas Artes、サンティアゴ、チリ。",
-      "y2005i2": "ベネズエラのColección Cisnerosにおける現代美術。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
-      "y2005i3": "カラカスの塔：沈黙させられたモダニティ。Sala Mendoza。カラカス、ベネズエラ。",
-      "y2004i1": "Variaciones del ojo。ビデオダンス - ムー・ブランコ。Cinemateca Nacional。カラカス、ベネズエラ。",
-      "y2004i2": "El Barril - Goethe-Institut Caracas、Museo Jacobo Borges。カラカス、ベネズエラ。",
-      "y2004i3": "VII Jóvenes con FIA、Sala CANTV、Ateneo de Caracas。Espacios Cálidos、カラカス、ベネズエラ。",
-      "y2004i4": "Tierra Eléctrica。英国とベネズエラの短編映画とビデオ、Sala Mendoza。カラカス、ベネズエラ。",
-      "y2004i5": "彫刻と写真。Galería Spazio Zero。カラカス、ベネズエラ。",
-      "y2003i1": "Contra/Sentido。新しいベネズエラ写真、Sala Mendoza。カラカス、ベネズエラ。",
-      "y2003i2": "2003年第1回写真月間、カラカス - Polaroid TM。Museo Alejandro Otero。カラカス、ベネズエラ。",
-      "y2003i3": "第28回アラグア国立美術展。Museo de Arte Contemporáneo de Maracay Mario Abreu、アラグア、ベネズエラ。",
-      "y2003i4": "第11回エウヘニオ・メンドーサ賞。Sala Mendoza。カラカス、ベネズエラ。",
-      "y2002i1": "ホワイトキューブからブラックボックスへ：歴史的テープ、クリエイティブ・ビデオ、デジタルアート、ベネズエラ・ビデオ、Museo de Arte Contemporáneo de Caracas Sofía Imber。カラカス、ベネズエラ。",
-      "y2002i2": "マルチメディアアーティスト、Centro para las Artes創設者。Museo de Arte Contemporáneo de Caracas Sofía Imber。カラカス、ベネズエラ。",
-      "y2001i1": "13時間。Sala Mendoza、カラカス、ベネズエラ。",
-      "y2001i2": "ENE Incidentes - RE Incidentes／千年紀の狭間で。Centro de Bellas Artes、マラカイボ、スリア、ベネズエラ。",
-      "y2000i1": "Demostrationraume／ケーススタディ。Galería Or。バンクーバー、カナダ。",
-      "y2000i2": "90 60 90。Goethe-Institut Caracas、Museo Jacobo Borges。カラカス、ベネズエラ。",
-      "y2000i3": "第58回アルトゥーロ・ミチェレナ・サロン、Ateneo de Valencia、カラボボ、ベネズエラ。",
-      "y1999i1": "第22回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、アラグア、ベネズエラ。",
-      "y1998i1": "Jóvenes con FIA CANTV。Ateneo de Caracas、カラカス、ベネズエラ。",
-      "y1998i2": "第3回バロ・デ・アメリカ・ビエンナーレ。ベネズエラ・ブラジル、中央交流展。Museo de Bellas Artes、カラカス、ベネズエラ。",
-      "y1998i3": "優美な死体の復活、Sala Mendoza、カラカス、ベネズエラ。",
-      "y1998i4": "Casco de Acero、Espacios Unión、カラカス、ベネズエラ。",
-      "y1998i5": "第5回グアヤナ・ビエンナーレ：セレクション。Museo Alejandro Otero、カラカス、ベネズエラ。",
-      "y1998i6": "波長、ビデオと写真、Museo Alejandro Otero。カラカス、ベネズエラ。",
-      "y1997i1": "第22回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、マラカイ、アラグア、ベネズエラ。",
-      "y1997i2": "第5回グアヤナ国立美術ビエンナーレ。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
-      "y1995i1": "第2回ピレリ青年芸術家サロン。Museo de Arte Contemporáneo de Caracas Sofía Imber、カラカス、ベネズエラ。",
-      "y1994i1": "ミックス・テクニック。Galería Alternativa。カラカス、ベネズエラ。",
-      "y1994i2": "第7回ミニアチュール・ビエンナーレ。TAGA。カラカス、ベネズエラ。",
-      "y1994i3": "第4回グアヤナ国立美術ビエンナーレ。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
-      "y1992i1": "第17回国立写真サロン。フォトジャーナリズムへのオマージュ。Foro Libertador。Instituto Autónomo Biblioteca Nacional。カラカス、ベネズエラ。",
-      "y1992i2": "第17回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、ベネズエラ。",
-      "y1991i1": "1, 2, 3, 4, 5。カラカス州庁展示ホール、DF、ベネズエラ。",
-      "y1990i1": "ドローイング展。Instituto Federico Brandt、カラカス、ベネズエラ。"
-    }
-  },
-  "contacto": {
-    "eyebrow": "09 — 連絡先",
-    "lead": "アートまたは音楽に関するお問い合わせは直接ご連絡ください。",
-    "arte": {
-      "label": "アート"
-    },
-    "music": {
-      "label": "音楽 / ブッキング"
-    },
-    "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。",
-    "categories": "展覧会 · パフォーマンス · サウンドコミッション · アーティストトーク · ヴァイナルプログラム · Selectorブッキング · プレス · コラボレーション"
-  },
-  "proyectos": {
-    "eyebrow": "02 — リサーチ・プロジェクト",
-    "h1": "リサーチ・プロジェクト",
-    "lead": "Muu Blancoの実践の中で長期にわたり続けられている研究のライン — それぞれ独自の作品群、出版物、発表を持つ。",
-    "ongoing": "進行中",
-    "seeInPress": "音楽プレスで見る",
-    "viewPdfCatalog": "Modernismo Anacrónico. Collage（PDF）↗",
-    "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
-    "viewPdfSicart": "2010年シカルトカタログ（PDF）↗",
-    "viewPdfBook": "AAA 2002–2012 フォトブック（PDF）↗",
-    "viewPdfPhotos": "Abstracciones Paisajísticas. 写真（PDF）↗",
-    "viewPdfDossier": "Carmen Araujo Arte — ドシエ、Abstracciones Paisajísticas（PDF）↗",
-    "natuurban": {
-      "medium": "サウンドインスタレーション、ダンス、ビデオマッピング",
-      "p1": "マイアミのArts Connection Foundationで発表されたインスタレーション＆サウンドアートのプログラム。実験音楽、ダンス、ビデオマッピングの投影、同名のドキュメンタリーを統合した — サウンドスケープと都市の自然環境をめぐるMuu Blancoの最新の研究。",
-      "videoTitle": "NatuUrban Symphony",
-      "videoMeta": "ドキュメンタリー短編 · 監督:Jacopo Fantastichini · 制作:PlantPop · FilmGate Festival、2025年7月30日",
-      "videoDesc": "Jacopo Fantastichini監督、PlantPop製作、Gerardo Zavarceキュレーションによるドキュメンタリー短編。ムー・ブランコのキャリアと、彼のサウンドアート・インスタレーションNatuUrban Symphonyの制作過程を追う。この作品は南フロリダの主要都市郊外にある国立公園の自然と都市の音を探求するもので、ムー・ブランコが2014年からマイアミで協働してきたArts Connection Foundationの支援により実現した。映画にはCamera Creature SVCによる映像とDr.Muusicaのオリジナル音楽が収められ、作品の中心的コンセプト——ミニスピーカーを持つ生きた植物が、自然と都市をつなぐサウンドスケープを再生する——を記録している。2025年7月30日、ダウンタウン・マイアミのSilverSpot Cinemasにて、FilmGate Festivalの一環としてプレミア上映された——ムー・ブランコが米国で制作した初のドキュメンタリー短編であり、40年にわたる途切れない芸術キャリアにおける節目となる作品。"
-    },
-    "soundart": {
-      "p1": "2023年の展覧会Exploring the Roots and Evolution of Sound Artの終了翌年、2024年にウェブアプリとして発表されたヴァーチャル・インスタレーション。未来派にそのルーツを持つサウンドアートの歴史から21世紀までを扱うムー・ブランコの研究をまとめている。"
-    },
-    "abstracciones": {
-      "medium": "写真",
-      "p1": "カラカスから世界各地に及ぶAbstracciones Paisajísticasの15年間。",
-      "animadas": {
-        "title": "アニメーション版 Abstracciones Paisajísticas（AAOA）",
-        "meta": "アニメーション：Benky Chang · サラゴサ、スペイン"
-      },
-      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Blurbで見る ↗",
-      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
-    },
-    "modernismo": {
-      "medium": "アナログコラージュ／ミックスメディア",
-      "p1": "2002年に始まったアナログコラージュ＆ミックスメディアのシリーズ — Heroes & Trash（カラカス、2005年）、Espacio Hardcore Art Contemporary（マイアミ、2006年）、Bello Horizonte／チャカオ文化センター（カラカス、2007年）、ギャラリー・シカルト（バルセロナ、2008年）で展示され、カタログ／書籍として出版された。",
-      "blurbLink": "Modernismo Anacrónico. Collage — Blurbで見る ↗",
-      "instagramLink": "Instagram @modernismo_anacronico ↗",
-      "belloHorizonteLink": "Bello Horizonte — カタログ、Centro Cultural Chacao（PDF）↗"
-    },
-    "fosiles": {
-      "medium": "ドローイングとインスタレーション",
-      "p1": "2002年に開始されたドローイングとそのインスタレーション的応用に関する研究。カラカスのギャラリー・フェルナンド・スビジャガにて個展として発表された(ペリフェリコ・カラカス、2006年/アルテセンター倉庫群、2010年)。"
-    },
-    "abstraccion": {
-      "title": "抽象",
-      "p1": "《Violencia Abstracta》（2013年）——抽象をめぐる新たな研究シリーズ。",
-      "tizon": {
-        "medium": "ビデオアート・03:33分・MiniDV/NTSC・監督:José Antonio Blanco Angulo・撮影、編集、オリジナル音楽:Muu Blanco",
-        "p1": "Torres de Parque Centralはカラカスを象徴する建造物のひとつであり、1970年代における都市の近代への開かれを象徴している。カラカスの人々にとって、これらのタワーは都市に性格を与えている。混沌として情熱的な性格、アビラ山の不滅の乙女である。この短編映画の作者ムー・ブランコにとって、パルケ・セントラルの東棟の火災を目撃した機会は、この都市的な主人公が持つ意味についての即座の省察を呼び起こした。",
-        "intro": "この短編映画のタイトルは、スペイン語の単語「tizón」に由来する。tizónとは次を意味する。1. 半分燃え尽きた棒切れ。2. 評判や自尊心に残る汚点。この二つの観念から、象徴的な意味に満ちたこの作品のタイトルが生まれる。",
-        "p2": "かつて、そこは彼の「遊び場」であった(彼の父はこの複合施設を建設した建築家チームの一員であり、それゆえこの作品への感情的な絆を彼に伝えた)。",
-        "p3": "作家はこの出来事を、当時ベネズエラの人々が生きていた社会政治的な瞬間のイメージとして、その社会の衰退を映す鏡として解釈する。市民の自尊心に残る汚点。彼らの政治と衰退というtizónに呑み込まれることへの拒絶。",
-        "p4": "この短編映画(上映時間03:33分)はMiniDVフォーマットで制作され、Mac PowerBook G4で編集された。音楽はMuu Blanco、別名Jaba Lee Projectによるオリジナル曲で、この作品のために«La Billo's Caracas Boys»(1950年代の著名なベネズエラの楽団)のオーケストラの一節が取り入れられている。この楽曲はリミックスされ、半分燃え尽きた«tizón»としてのカラカスのイメージと対話する、力強く反復的なリズムを生み出した。"
-      }
-    },
-    "artesonoro": {
-      "title": "サウンドアート",
-      "medium": "サウンドインスタレーション、パフォーマンス、映像記録",
-      "p1": "ムー・ブランコのサウンドアート実践に関する映像・写真記録のアーカイブ。初期のサウンドインスタレーションから、近年のパフォーマンスや短編映画までを収める。",
-      "v1": {
-        "meta": "マルチメディア感覚パフォーマンス・Mad Museum"
-      },
-      "v3": {
-        "meta": "コンセプト＆キュレーション：ムー・ブランコ・Doral Cultural Arts Center（DIAF 1）、2023年／Arts Connection Foundation、2023年11月",
-        "desc": "未来派から現代のサウンドアートに至るこの歴史的概観は、20世紀および21世紀を通じたサウンド実験の進化を浮き彫りにする。混沌としたダダイズムや、コンクリート音楽、フルクサスといった音楽的前衛を通して近代生活とテクノロジーを表現しようとした未来派の芸術家たちから始まる。続いてラジオアートは、聴覚的な語りにコラボレーションと観客との相互作用をもたらす。最後に、ブライアン・イーノに影響を受けたアンビエント・ミュージックは、くつろぎのサウンド空間を生み出すことに焦点を当てる。そして、R・マリー・シェーファーのサウンドスケープという概念は、文化と環境における音の重要性を強調し、都市デザインや環境意識に影響を与えている。この歴史的な旅は、長年にわたるサウンドの創造性の絶え間ない拡張を反映するものである。"
-      },
-      "v4": {
-        "meta": "シリーズ：Lumínico Sonoro #MuuBlanco・2021年1月5日",
-        "desc": "インタラクティブなマルチメディア・サウンド＆ライト・アクションの記録 — @muublancoartsound・@muublancovideoart &amp; @anarquia101 — @idartlabにて開催の「Multimedia Art Action 2021」。記録：Anarquía 101。"
-      },
-      "v5": {
-        "meta": "マルチメディア・インスタレーション（パフォーマンス、サウンド）・可変・.Wav・15分38秒・Mandragoras Art Space、クイーンズ、ニューヨーク"
-      },
-      "v6": {
-        "meta": "サウンドインスタレーション・サラ・メンドーサ、カラカス",
-        "desc": "カラカスのサラ・メンドーサで発表されたサウンドアート・インスタレーションで、CD-ROMのサウンドカタログとしてリリースされた。"
-      },
-      "hundredyears": {
-        "meta": "ヴァーチャル・インスタレーション · ウェブアプリ、2024年 · 100yearsofsound.webflow.io",
-        "visit": "プロジェクトを見る ↗"
-      }
-    },
-    "instalaciones": {
-      "title": "インスタレーション",
-      "medium": "インスタレーション",
-      "p1": "《Muuseo Blanco》（1998年）——アーティストの初期インスタレーション作品として記録されている一つ。",
-      "v1": {
-        "date": "2020年1月13日",
-        "meta": "マルチメディア・インスタレーション · LFA Space、ウィンウッド、マイアミ · 2019年11月～2020年3月",
-        "p1": "ムー・ブランコによるマルチメディア・インスタレーション「Lumínico Sonoro」の1分間の概観映像。2019年11月から2020年3月まで、アメリカ・フロリダ州マイアミ、ウィンウッドのLFA Spaceで展示された。"
-      }
-    },
-    "performances": {
-      "title": "パフォーマンス",
-      "medium": "ライブアクション、ビデオマッピング、マルチメディア・インスタレーション",
-      "v1": {
-        "meta": "ライブ・マルチメディアアクション · New World School of the Arts在校生・卒業生グループ展オープニング、Miami Dade Art District — マイアミ・アートウィーク2025",
-        "p1": "風景、身体、テクノロジーの交差を、絶え間ない音とイメージの流れを通して探求するライブ・マルチメディアアクションである。30分間、シンセサイザー、ビート、ライブラジオ、トロンボーン、そしてキー・ビスケーンの海岸で撮影した水の動きのループをMadMapperで万華鏡のようなパターンに変換したデジタルドローイングを組み合わせた映像装置との対話が展開される。",
-        "p2": "このヴィジュアル・カルトグラフィーには、リアルタイムで生成され、アクション中に作られる音響周波数に反応する動的で振動するラインが加わる。これらのラインはシンセサイザーやビート、トロンボーンだけに反応するのではない——観客の物音もまた視覚的な引き金となってシステムに統合され、あらゆる振動、ざわめき、環境的な乱入がプロジェクションを変化させる。こうして観客は作品の意図せぬ共著者となり、イメージの質感に刻まれる痕跡を残す。",
-        "p3": "この作品は自然とデジタルが互いに影響し合う感覚的生態系を構築する。音響的な振動が視覚性を貫き、海の風景は断片化され拡張され、集団的な存在感が体験を支える鼓動の一部となる。ラジオの伝送は偶然性と生きた現在性の要素を導入し、物理的であれ技術的であれ、あらゆる岸辺が交差点であることを強調する。",
-        "p4": "マイアミ・アートウィーク2025の一環として、Miami Dade Art DistrictにおけるNew World School of the Arts在校生・卒業生グループ展のオープニングで発表されたこのアクションは、音、イメージ、観客が持続的な振動状態の中で共存する没入的な領域を提案する。",
-        "date": "2025年12月"
-      },
-      "v2": {
-        "meta": "サウンドアクション · PINTAアートフェア、マイアミ・アートウィーク2025",
-        "p1": "私は顔を持たずに現れる、磁気テープの巣に覆われて——声の残骸、砕かれた記憶、もう誰も聴かない録音。私の楽器は緑色のトロンボーン、芽吹きと毒性の色、希望と錆の色である。それを吹いて、音楽ではなく亀裂を求める言語を奏でる。",
-        "p2": "このサウンドアクションは不服従の身振りである。無調で、反復的で、執拗——耳を飼いならす構造と、身体を秩序づける言説への拒絶。ここで起きているのはコンサートではなく、中断である。スペクタクルではなく、見られ、称賛され、消費されるべきとされる流れに開かれた亀裂である。",
-        "p3": "海への出港を待つボートに見守られたこのマリーナ・ガーデンで、私は干渉となる。散らばった南の振動を、移民の地理を、その周縁から自らを再考する都市の振動を携えて。招かれざる沈黙から、アーカイブされることに抗う記憶から、すべてが消し去ろうとしても持続するものの脆さから、私は吹く。",
-        "p4": "無限の反復は催眠ではなく、肯定を求める——存在するとは、こだわり続けることである。フェアの前で、市場の前で、ラベル付けし、価値づけ、流通させる論理の前で、私は捕獲されることを拒む存在を提示する。私の音はメロディーを提供しない、迂回を提供する。慰めを提供しない、可能性を提供する。",
-        "p5": "期待せずに聴くことを、理解せずにとどまることを、私は招く。自分に属さないが、それでも自分に触れる波に入る者のように、この行為に伴走することを。この振動が、不確定なものにも空間を占める権利があることを、私たちに思い出させますように。",
-        "date": "2025年12月",
-        "watchLink": "YouTubeで見る ↗"
-      },
-      "v3": {
-        "meta": "M/P'25 · Edge Zone Cultural Center、マイアミ",
-        "p1": "「Ceguera Ambiental y SocioCultural Vol.1 (Miami)」は、ムー・ブランコが20年以上にわたり展開してきた芸術的探求の系譜に属し、そこでは音、政治、視覚が絡み合い、現代性の緊張を問うアクションを生み出す。",
-        "p2": "このプロジェクトは作家の過去の経験と対話する——都市の騒音を造形的かつパフォーマティブな素材へと変容させたカラカスでの都市サウンドアクション、メディア言語が歪曲と抵抗の場となった暴力と権力に関する批評的な視聴覚インスタレーション、そしてヴァイナル、ループ、即興演奏がカリブ海とそのディアスポラの音響アーカイブを書き換えるDrMuusicaという別名義での探求。",
-        "p3": "これらすべてのアプローチにおいて、ブランコは同じ身振りを追求してきた——日常、政治、文化の記号を、記憶、緊張、そして私たちの時代の緊急性が活性化される感覚的な風景へと再構成することである。Ceguera Ambiental y SocioCulturalはこの批評的かつ実験的な道を継続しつつ、今度は知覚そのものに急進的な力点を置く——幾何学的な線と音響的振動が絡み合うことで、社会的な視線の硬直性と、即興と誤りの制御不能な力との間にある現代的な矛盾を露わにする。",
-        "date": "2025年12月"
-      },
-      "v4": {
-        "meta": "映像・サウンド：MadMapper &amp; Live Ableton · Coral Gables Museum（Gallery Night）· 映像：Raúl Blanco",
-        "date": "2022年5月"
-      },
-      "v5": {
-        "meta": "マルチメディア・インスタレーション — 4チャンネルビデオとステレオ音声（パフォーマンス、映像、写真、サウンド、テキスト、油彩画）· 所要時間：2時間 · 場所：ESM（Espacio SaltaMantis）、マイアミ · ドキュメンタリー映像：01:59分 · 共演ミュージシャン：Andrés Michelena、Diego Damas、Muu Blanco"
-      },
-      "v6": {
-        "meta": "コンセプト、演出、サウンド、ピアノ、ライブ・ビデオマッピング、ゲストアーティストAndrés Michelena（デジタルパーカッション）とDiego Damas（エレキギター）参加 · Miami New Media Festival、Miami Iron Side、Little River Art District · 撮影・編集：Raúl Blanco",
-        "date": "2019年2月"
-      },
-      "v7": {
-        "meta": "ライブ・マルチメディアアクションの27秒抜粋 — 絵画と壁面へのビデオマッピングと実験音楽 · Miami New Media Festival"
-      },
-      "v8": {
-        "meta": "ビデオマッピング・インスタレーションとオリジナル音楽 · Espace Expresions、ウィンウッド、マイアミ",
-        "p1": "抽象芸術の三人の巨匠——ヘスス・ラファエル・ソト、カルロス・クルス=ディエス、フリオ・ル・パルクに捧げるオマージュ作品。",
-        "date": "2017年9月15日"
-      },
-      "v9": {
-        "meta": "技法：ビデオ・パフォーマンス — ボディアクション、写真、シングルチャンネル映像 · フォーマット：.MOV 4K · 時間：03:13分",
-        "date": "2016年7月"
-      },
-      "v10": {
-        "meta": "場所：Mandrágoras Art Space、クイーンズ、ニューヨーク"
-      },
-      "v12": {
-        "meta": "主演：Muu Blanco · 監督：Andrés Manner · 編集：Murmullo",
-        "p1": "カラカスのロス・チョロス地区で、即興のスコアに従いたった一朝で撮影された——純粋な芸術的献身から、身体的リスクを厭わずに。"
-      },
-      "v13": {
-        "meta": "Eli BravoとMuu Blancoによるインタビュー · equilibrio.comが2013年に再放送"
-      },
-      "v14": {
-        "meta": "ムー・ブランコ：フォトノベルの俳優",
-        "p1": "小説／フォトノベル『El Secuestro de la Ministro de Cultura』（文化大臣誘拐事件）の予告編——何も隠さない、美術館世界の実話。あらゆる騒音と怒りをまとった文化。"
-      },
-      "v15": {
-        "meta": "Eli Bravoによるインタビュー · RCTV「Sonoclips」番組 · YouTube公開日：2009年9月17日",
-        "p1": "1990年、RCTVの番組「Sonoclips」でEli Bravoが行ったDesorden Públicoの最初のインタビュー。当時ムー・ブランコは、結成当初からのバンドの「RootBoy」であった。"
-      },
-      "v16": {
-        "meta": "監督：Vity Rodríguez Castillo · プロデューサー：Gabriela Vanzetti、Fito Páez · 楽曲：Alberto Cabello／Carlos Eduardo「Cayayo」Troconis †／Edgar Jiménez · ゲスト出演：Intensiti Moon、Muu Blanco、Marino · Sonorodven：Carlos Sánchez · 1989年ベネズエラ・メリダ国際映画祭 最優秀ミュージックビデオ賞 · アルバム：El Amor Ya No Existe",
-        "p1": "全クレジット付きでリマスターされたオリジナル版。1988年、カラカスでスーパー8フォーマットにより撮影。これはムー・ブランコにとって、ベネズエラのバンドのミュージックビデオに俳優として出演した、初のメディア出演であった。"
-      },
-      "v17": {
-        "meta": "サンパウロ短編映画ビエンナーレ 大賞 · モノローグ：Muu Blanco · 監督：Sabrina Montiel-Soto"
-      }
-    },
-    "calvo": {
-      "title": "CALVO",
-      "medium": "パフォーマンス・Estudio Mata de Coco、カラカス、ベネズエラ・1986年12月6日",
-      "p1": "CALVOは、ムー・ブランコの最初の公開パフォーマンスであり、1986年12月6日、カラカスのEstudio Mata de Cocoで行われたDesorden Públicoの最初の重要なコンサートの最中に上演された。",
-      "readpdf": "ドシエ全体を見る（PDF）↗",
-      "sub1": "CALVO：ゼロ地点、1986 / 2026",
-      "p2": "1986年:身体が作品の中に入る。<br>2026年:記憶がその身振りの射程を認識することを可能にする。",
-      "readEssay": "全文を読む",
-      "essay": {
-        "p1": "CALVOは1986年12月6日、カラカスのEstudio Mata de Cocoで行われたDesorden Públicoの最初の重要なコンサートの最中に起こる。曲「Calvo」を始める瞬間が来ると、ムー・ブランコは椅子を持って舞台に上がり、それを中央に置いて観客に向かって座る。音楽的な導入が始まる。Caplisが近づき、まるで何が起きているのかを理解しようとするかのように、戸惑いの表情で彼を見つめる。そのときDanel Sarmientoが「Calvo」を歌い始め、Horacio Blancoが観客の前でムーの髪を切るために近づく。完全に丸坊主になった後、ムー・ブランコは立ち上がり、舞台の上でスカパンクのダンスを踊り、最後に観客に向かって飛び込む。",
-        "p2": "時が経つにつれ、作家はこの出来事を自らの最初の公的行為、最初のパフォーマンスとして認識するようになる。それは、芸術との関係、そして創造の領土としての身体との関係を変えた根源的な経験であった。",
-        "p3": "現在の視点から見れば、CALVOは、登場、待機、変容、動き、そして舞台空間の断裂という、精密な連鎖から築かれた行為として現れる。その力は、複雑な演出や事前に説明された物語からではなく、一つの具体的な身振りが観客の前で展開され、コンサートの中で意味を獲得していくその仕方から生まれるのである。",
-        "p4": "椅子は音楽的エネルギーの只中に一つの休止をもたらす。ムー・ブランコは座り、動かないまま露わになっており、その状況は予期せぬ緊張を帯び始める。Caplisの眼差しはその戸惑いを際立たせ、コンサートとしても、演劇としても、パフォーマンスとしてもまだ完全には定義されない何かの侵入を可視化する。",
-        "p5": "歌が始まると、タイトル「Calvo」はもはや単なる言葉としてのみ機能することをやめ、物質的な行為となる。Danelが歌う間、Horacio Blancoは皆の前でムーの外見を物理的に変容させる。身体はその言葉を表象するのではない――それを体現するのである。",
-        "p6": "こうして音楽は構造的な機能を果たす。それは行為の時間を刻み、変容に伴走し、静止から動きへの移行を活性化する。カットが終わると、ムーは椅子を離れリズムに入る。スカパンクのダンスは当初の抑制を打ち破り、観客への跳躍へと導き、それによって舞台と観客との間の伝統的な分離が一瞬にして消え去る。",
-        "p7": "その移動——椅子から舞台へ、舞台から観客へ——は、この作品を理解するうえで中心的である。CALVOは、舞台の中央に孤立した身体から始まり、その同じ身体が集団の中に沈み込んだところで終わる。",
-        "p8": "この行為の最初のアイデアは、当時Desorden Públicoのアーティスティック・プロデューサーであり、ムー・ブランコが友人であり大切な師として記憶するRoberto Fuentes Anzolaから生まれた。この協働的な起源は、この作品の系譜を理解するうえで不可欠である。CALVOは創造的・音楽的な共謀のネットワークの中で生まれるが、その舞台的な次元を獲得するのは、ムー・ブランコがその提案を引き受け、身体的・舞台的な帰結にまで導いていくその仕方においてである。",
-        "p9": "2026年、四十年後の視点から見れば、CALVOは作家の軌跡における起源の一点として認識され得る。それは、後続のすべての制作を綱領的に予告しているからではなく、身体、音、時間、行為、そして公的な現前との関係を早くから打ち立てており、その関係が別のメディアを通じて、彼の仕事全体にわたって再び現れるからである。",
-        "p10": "それはまた、彼の実践において引き続き重要であり続ける問いを投げかける。芸術的経験が一つの物に閉じ込められることをやめ、リアルタイムで生きられる状況に依存するようになるとき、何が起こるのか。",
-        "p11": "1986年、その問いはまだ理論として定式化されてはいなかった。まず経験があった。まず椅子があり、音楽があり、カットがあり、ダンスがあり、跳躍があった。読解はその後にやって来た。",
-        "p12": "それゆえ、今日CALVOは、Desorden Públicoの初期の重要な瞬間の一つ、そして1980年代のカラカスの音楽シーンに結びついた一つの逸話以上のものとして理解され得る。それは、ムー・ブランコが自らの身体が物質となり、支持体となり、芸術的な出来事となり得ることを公に発見する瞬間である。",
-        "p13": "その意味で、CALVOはゼロ地点である。",
-        "p14": "1986年:身体が作品の中に入る。<br>2026年:記憶がその身振りの射程を認識することを可能にする。"
-      }
-    },
-    "videoarte": {
-      "title": "ビデオアート",
-      "tagline": "コンセプチュアルアート／ビデオ／サウンド"
-    },
-    "sintitulo": {
-      "title": "無題",
-      "medium": "ビデオアート／写真スライドショー／音響構成",
-      "intro": "「彼は沈黙の前の雑音を撮影した」",
-      "summary": "2002年から2005年にかけて、ビデオカメラを持たないまま、ムー・ブランコはカラカスのエル・パライソにある自身のスタジオから、テレビ画面を通してベネズエラの政治危機を体系的に撮影する。メディア、記憶、そしてイメージの力についてリアルタイムで築かれたアーカイブである。",
-      "viewVideo": "動画全編を見る ↗",
-      "readpdf": "ドシエ全文を見る (PDF) ↗"
-    }
-  },
-  "exposiciones": {
-    "eyebrow": "07 — 展覧会カタログ",
-    "lead": "個展およびグループ展のカタログと記録資料、年代順。",
-    "loading": "展覧会を読み込み中…"
-  },
-  "selectedworks": {
-    "eyebrow": "厳選作品",
-    "lead": "40年に及ぶビジュアル、パフォーマンス、サウンド実践から厳選した6つのプロジェクト。それぞれがアーカイブ内の完全な記録にリンクしています。",
-    "cta": "詳細な記録を見る →",
-    "works": {
-      "natuurban": {
-        "title": "NatuUrban Symphony",
-        "meta": "2024–2025 · サウンドインスタレーションとビデオマッピング · Arts Connection Foundation, マイアミ",
-        "desc": "2024年11月から2025年1月にかけてマイアミのArts Connection Foundationで発表されたインスタレーション/サウンドアートプログラム。NatuUrban Symphonyは実験音楽、ダンス、ビデオマッピング投影、同名ドキュメンタリーの上映を統合し、マイアミの亜熱帯的風景を音の領土として考察する。イメージ、音、都市環境の関係を探るムー・ブランコの研究を継続するこのプロジェクトは、Arts Connection Foundationを通じて180グラムのグリーンカラーヴァイナルLPとしてもリリースされた。"
-      },
-      "latencias": {
-        "title": "Latencias",
-        "meta": "2026年2月19日 19時 · マルチメディア感覚パフォーマンス · Ignite Broward Festival, MAD Arts, ダニアビーチ, フロリダ",
-        "desc": "2026年2月19日(木)19時、MAD Artsにて、Ignite Broward 2026 Festival(Broward Arts主催)の一環としてライブで披露された40分間のマルチメディア感覚パフォーマンス。キュレーションされた映像作品プログラムと共に上演され、入場無料・一般公開。身体、音、記憶の間の潜在性を探り、ライブサウンド構成、映像投影、パフォーマティブなジェスチャーを組み合わせ、知覚とテクノロジーに関するムー・ブランコの研究を継続する。Latenciasはアーカイブのコンセプチュアルおよびプロジェクトのセクションに記録されており、作家の最新作の一つである。"
-      },
-      "soundart": {
-        "title": "Exploring the Roots and Evolution of Sound Art",
-        "meta": "2023–2025 · 個展 · MIFA, マイアミ / ドーラル",
-        "desc": "未来派から21世紀までのサウンドアートの系譜をたどる個展で、2023年から2025年にかけてマイアミ・インターナショナル・ファインアート(MIFA)で発表された。サウンドインスタレーション作品、歴史的資料、ムー・ブランコの新作を組み合わせ、音・テクノロジー・空間を探求するより広い伝統の中に彼の実践を位置づける。ドーラルでも変形版として展示され、観客層を拡大し、サウンドアートの歴史に関する作家の最も持続的なキュレーション研究の一つとして確立された。"
-      },
-      "ceguera": {
-        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
-        "meta": "2025 · パフォーマンス · マイアミ",
-        "desc": "環境的・社会文化的な鈍感さを同時代的条件として扱うパフォーマンスで、2025年にマイアミで展開されたシリーズの第一弾。身体、音、批評的ジェスチャーを組み合わせ、知覚、環境、集団的責任の関係に問いを投げかける。マイアミのパフォーマンスアートシーンで活動するムー・ブランコの持続的なパフォーマンス実践の系譜に属し、サイトのプロジェクトアーカイブに映像として記録されている。"
-      },
-      "modernismo": {
-        "title": "Modernismo Anacrónico",
-        "meta": "2002年–現在 · コラージュ、アッサンブラージュ、インスタレーション",
-        "desc": "2002年に始まり今日まで続くコラージュ、アッサンブラージュ、インスタレーション作品のシリーズ。拾得物とミクストメディアの技法で制作された作品群の写真を収集し、同名のアートブックとして出版され、国際アートフェアSWAB(2008)でも発表された。Modernismo Anacrónicoはモダンの約束とその物質的残骸との間の皮肉な対話を提案し、ムー・ブランコのビジュアル実践の中で最も早くから続く系統の一つであり、プロジェクトギャラリーに完全に記録されている。"
-      },
-      "afrolatin": {
-        "title": "Afro Latin Culture Flavor",
-        "meta": "ファンジン · Selectorレジデンシー 2024–2026 · Tripping Animals Brewery, ドーラル",
-        "desc": "ムー・ブランコ/Dr.Muusicaが編集・制作する月刊印刷ファンジン(限定版)で、マイアミのドーラルシティで発行されている。2024年から2026年にかけて、このプロジェクトはTripping Animals Breweryでのサウンドリサーチャーとしての週次Selectorレジデンシーと並行して展開され、そこでDr.MuusicaはDr.Muusica Selectorという名でヴァイナルセッションを披露した。Afro Latin Culture Flavorは編集実践とライブでの選曲を結びつけ、アフロラテンのルーツ、リズム、大衆文化をリアルタイムのサウンドアーカイブとして探求する。"
-      }
-    }
-  },
-  "workwithmuu": {
-    "eyebrow": "ムーと仕事をする",
-    "lead": "展覧会、パフォーマンス、サイトスペシフィックなサウンドコミッション、アーティストトーク、ヴァイナル・リスニングセッションに対応可能です。カラカスとマイアミを往還する40年間の学際的実践。",
-    "cards": {
-      "soundart": {
-        "title": "サウンドアート＆パフォーマンス",
-        "desc": "ギャラリー、フェスティバル、公共空間のためのライブサウンドパフォーマンス、拡張されたサウンドインスタレーション、即興演奏。"
-      },
-      "commissions": {
-        "title": "サイトスペシフィック・サウンドコミッション",
-        "desc": "特定の空間、展覧会、サイトのために開発されたオリジナルのサウンド作品 — アンビエント作曲、ビデオマッピング、空間オーディオ。"
-      },
-      "talks": {
-        "title": "アーティストトーク",
-        "desc": "サウンドアート、ビデオアート、そして40年にわたる学際的実践についてのトークとプレゼンテーション。カラカスとマイアミからニューヨーク、マドリード、ヴェネツィア、サンパウロまで、南北アメリカとヨーロッパにまたがる展示歴を持つ。"
-      },
-      "vinyl": {
-        "title": "ヴァイナル・リスニング体験",
-        "desc": "アフロラテン、実験的、アーカイブ的なサウンドを探るキュレーションされたヴァイナル・リスニングセッションとSelectorセット — 親密な集まりから公開イベントまで。"
-      },
-      "dj": {
-        "title": "Dr.Muusica / Selector",
-        "desc": "Dr.MuusicaというエイリアスのもとでのSelectorセットとオリジナルプロダクション — house と techno；funk、boogie、disco；new wave、post-punk、punk、rock；reggae、ska、dub；salsa、boogaloo、bolero、mambo、plena、guaguancó、cumbia；jazz；hip-hop、trip-hop、drum & bass；そして afrobeat、bossa nova、samba、world music、+ まで幅広く横断する。"
-      }
-    },
-    "closing": "展覧会 · パフォーマンス · サウンドコミッション · コラボレーション",
-    "ctaButton": "ムー・ブランコに連絡する →"
+ "common": {
+  "menu": "メニュー",
+  "enter": "入る →",
+  "nav": {
+   "conceptual": "コンセプチュアル",
+   "practicas": "パブリック・プラクティス",
+   "drmusica": "DR.MUU RECORDS",
+   "prensa": "プレス",
+   "cv": "CV",
+   "galeria": "ギャラリー",
+   "about": "プロフィール",
+   "contacto": "連絡先",
+   "proyectos": "プロジェクト",
+   "exposiciones": "展覧会カタログ",
+   "selectedworks": "厳選作品",
+   "workwithmuu": "ムーと仕事をする",
+   "ahora": "ムー・ブランコ — 現在"
   }
+ },
+ "index": {
+  "hero": {
+   "needs": "マルチディシプリナリー・アーティスト、",
+   "accent": "サウンドアーティスト、パフォーマー、ヴァイナルセレクター。",
+   "sub": "カラカス生まれ(1966年)・マイアミ在住 — イメージ、記憶、風景、音、テクノロジー、文化的アーカイブを探求してきた40年。",
+   "alt": "ムー・ブランコ — ポートレート、マイアミ、2026年"
+  },
+  "tiles": {
+   "conceptual": "テキスト、制作ノート、作品記録 — 年代順。",
+   "practicas": "Instagram、YouTube、SoundCloud、Discogs — 現在進行中の活動。",
+   "drmusica": "サウンドのエイリアス — 制作、コラボレーション、リリース。",
+   "galeria": "購入可能なオリジナル作品 — オンラインストア、価格・在庫はお問い合わせください。",
+   "prensa": "新聞・雑誌に掲載されたレビュー — 年代順。",
+   "cv": "完全な年代記ガイド — 学歴、展覧会、ディスコグラフィー、プレス。",
+   "contacto": "キュレーター、ギャラリー、プレス、コレクター、音楽関連のお問い合わせ。",
+   "proyectos": "長期にわたる研究プロジェクト — NatuUrban Symphony、100 Years of Sound Artほか。",
+   "exposiciones": "1994年から2014年までの個展・グループ展カタログ。"
+  },
+  "featured": {
+   "eyebrow": "ムー・ブランコ — 現在",
+   "selectedworks": "40年に及ぶビジュアル、パフォーマンス、サウンド実践から厳選した6つのプロジェクト。",
+   "workwithmuu": "サウンドパフォーマンス、コミッション、アーティストトーク、ヴァイナル・リスニングセッション。",
+   "archiveTitle": "アーカイブ 1986–2026",
+   "archiveDesc": "写真、パフォーマンス、映像、インスタレーション、サウンド、出版物を網羅する軌跡の全貌。"
+  },
+  "now": {
+   "title": "最新の映像＆音楽",
+   "lead": "動く映像と音楽を、リアルタイムで。",
+   "videoLabel": "最新のビデオクリップ",
+   "mixmediaLabel": "最新のミックスメディア・アート"
+  },
+  "sections": {
+   "eyebrow": "アーカイブ全体を見る"
+  }
+ },
+ "about": {
+  "eyebrow": "About",
+  "lead": "マルチディシプリナリー・アーティスト。サウンドのエイリアス：<em>Dr.Muusica</em>。カラカス / マイアミ。",
+  "h2": {
+   "summary": "概要",
+   "full": "ビデオアート・バイオ",
+   "dossierbio": "伝記資料集 — DJ Muu / Dr. Muusica",
+   "recent": "最近の活動",
+   "contact": "連絡先",
+   "morelinks": "その他のリンク",
+   "projects": "プロジェクトと拠点",
+   "shortbio": "ショートバイオ",
+   "cronicas": "クロニクル"
+  },
+  "summary": {
+   "p1": "ムー・ブランコ（Muu Blanco、1966年ベネズエラ・カラカス生まれ）は、マイアミを拠点に活動するマルチディシプリナリー・アーティスト、ビデオアーティスト、マルチメディア・インスタレーション作家である。1990年代初頭以来、実験的ビデオ、サウンドアート、パフォーマンス、写真、ビデオマッピングを通して、イメージと音、都市風景の関係を探求してきた。",
+   "p2": "初期のビデオ作品はVideo8フォーマットで制作され、後にカラカス現代美術館の「第2回ピレリ青年芸術家サロン」で発表され、シリーズ全体がノア・ノア・コレクションに収蔵された。彼の作品はカラカス・ソフィア・インベル現代美術館、サラ・メンドーサ、カラカス国立シネマテーク、ニューヨークのマンドラゴラス・アート・スペースなどで展示されている。",
+   "p3": "2014年にマイアミへ移住して以降、ブランコはビデオマッピング、サウンドアート、パフォーマンスを統合したマルチメディア・インスタレーションの制作を続けており、近作に《NatuUrban Symphony》（2024–2025）がある。"
+  },
+  "full": {
+   "p1": "ムー・ブランコ（カラカス、ベネズエラ、1966年生まれ）は、マイアミを拠点とするマルチディシプリナリー・アーティスト、ビデオアーティスト、マルチメディア・インスタレーション作家である。その芸術的実践は、実験的ビデオアート、サウンドアート、パフォーマンス、写真、アッサンブラージュ、インスタレーション、電子音楽、ビデオマッピングにまで及び、1990年代初頭から、イメージと音、都市風景の関係についての継続的な探求を展開している。",
+   "p2": "ブランコは1990年代初頭に実験的ビデオアートに取り組み始め、当初はVideo8フォーマットを美的探求の手段として用いた。ビデオ作品によるグループ展への初参加は1992年で、その際に作品の一つがコレクターのジミー・ベリルティに収蔵された。この時から、実験的な映像言語への継続的な探求が始まった。",
+   "p3": "1994年には、カラカスのオルタナティブ・ギャラリーで開催されたグループ展「混合技法」に参加した。これは現代美術の展示活動における彼の最初期の発表の一つである。",
+   "p4": "1995年までに30点以上の実験的ビデオ作品を制作しており、これらは後にカラカス現代美術館の「第2回ピレリ青年芸術家サロン」（1997年）で発表され、作品群全体がオベルト家の個人コレクションであるノア・ノア・コレクションに収蔵された。",
+   "p5": "1990年代末から2000年代初頭にかけて、映像・音響に関する研究をさらに発展させ、パフォーマンスの記録や実験的プロジェクトの制作を続けた。",
+   "p6": "2002年には、カラカス・ソフィア・インベル現代美術館で開催された展覧会「ホワイトキューブからブラックボックスへ：歴史的テープ、創造的ビデオ、デジタルアート、ベネズエラのビデオ」に参加した。同年、同館で発表されたプロジェクト「マルチメディア・アーティスト、芸術センター創設者」にも参加。この時期、美術館のビデオアート・コレクション形成にも貢献し、その10年間に制作したビデオ作品20点を寄贈・収蔵させた。",
+   "p7": "2003年には、カラカスのサラ・メンドーサで開催された「第11回エウヘニオ・メンドーサ賞」に参加した。",
+   "p8": "2004年には、カラカス国立シネマテークで作品「目の変奏。ビデオダンス – ムー・ブランコ」を発表。同年、その作品はサラ・メンドーサで開催された展覧会「エレクトリック・アース。英国とベネズエラの短編とビデオ」に含まれた。これは実験的ビデオと短編映画のための国際プログラムであった。",
+   "p9": "2006年には、ゲーテ・インスティトゥートとの協働により、ハコボ・ボルヘス美術館で実験的ビデオプロジェクトを発表。このプロジェクトはカラカスの路上の露天商とインフォーマル経済に焦点を当て、都市風景を社会的・政治的空間として捉えた。",
+   "p10": "2008年から、拡張投影とビデオマッピングを自身のマルチメディア・インスタレーションに取り入れ始めた。その後2013年には、スライドショーとアニメーション写真肖像に関するリサーチプロジェクトを展開し、同年、ベネズエラでの最後の個展となる「イン・タ・ハウス」をカルメン・アラウホ・アルテで発表して締めくくった。これはビデオ、絵画、彫刻、サウンドを組み合わせたマルチメディア・インスタレーションであった。",
+   "p11": "2014年、ニューヨークでの初個展を開催。ロングアイランドシティのマンドラゴラス・アート・スペースのパフォーマンス・プログラム内で発表されたマルチメディア・インスタレーション「ブラックポイント・ベネズエラ」である。同作品はサウンドアート、ビデオマッピング、彫刻、アナログコラージュを統合し、現代ベネズエラの社会的・政治的緊張を扱った。",
+   "p12": "同年マイアミへ移住し、以後も芸術制作の多くをこの地で展開している。2015年には、アーツ・コネクション・ファウンデーションのチル・コンセプト・スペースにて「新しい構成的思考 Vol.1」を発表。大判写真とビデオマッピング、サウンドアートを組み合わせたインスタレーションであった。",
+   "p13": "2017年から2019年にかけて、マイアミのアイアンサイド、特にエスパシオ・サンタマンティスにて、実験的な視聴覚イベントと体験の連作を展開し、ビデオマッピングとライブ実験音楽のための集いを組織した。",
+   "p14": "新型コロナウイルスのパンデミックによりこれらの創作空間が中断された後、2020年にはアラパタ地区でアート・コレクティブ「IDArt Lab」を共同設立し、2023年まで活動した。このコレクティブの中で、ビデオマッピング、実験的アニメーション、音に反応するライトパフォーマンスをライブのサウンドアート作品とともに発表するグループ展に複数参加した。",
+   "p15": "最新のプロジェクトは、インスタレーション＆サウンドアート・プログラム「NatuUrban Symphony」で、2024年11月から2025年1月にかけてアーツ・コネクション・ファウンデーションで発表され、実験音楽、ダンス、ビデオマッピング投影、そして自身のドキュメンタリー「NatuUrban Symphony」の上映を統合した。",
+   "p16": "2017年以降、ブランコはInstagramアカウント <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a> を、自身の視聴覚制作の生きたアーカイブとして維持し、マイアミでの直近10年間に手がけたインスタレーション、パフォーマンス、映像実験を記録している。",
+   "p17": "40年以上に及ぶ芸術活動を通じて、ムー・ブランコは、ビデオ、サウンド、テクノロジー、パフォーマンスを都市文化・記憶・現代の社会的緊張を探求する装置として機能させるハイブリッドな実践を発展させてきた。その作品は国内外の様々な公共・個人コレクションに収蔵されている。",
+   "readmore": "詳しい経歴を見る"
+  },
+  "dossierbio": {
+   "p1": "アート、リスニング、都市、ラジオ、テレビ、DJ文化、音楽プロデュース、そしてマルチメディア実践 — カラカスのエル・パライソ地区ラ・クアドラ(1966年生まれ)からマイアミに至る、40年以上にわたる活動の軌跡。カラカス・ソフィア・イムベル現代美術館でのPARLAMENTO、92.9 FMおよびラ・メガ107.3 FMでのSHORT MUUとPARLAMENTO SONORO、アテネオ・ラジオでのDR. MUUSICA、BAR1と90 Gradosでのセレクターとしてのレジデンシー、テレビでのクリエイティブディレクション、そしてマルチメディア・コンセプチュアルアーティスト、サウンドアーティスト、音楽プロデューサー、セレクターとして続く実践を含む。",
+   "quote": "「見る、聴く、記録する、選ぶ、保存する、編集する、共有する。」",
+   "link": "伝記資料集全文を読む (PDF) ↗"
+  },
+  "recent": {
+   "p1": "<strong>Latencias</strong>（2026年）は、40分間のマルチメディア感覚パフォーマンスで、2026年2月19日にIgnite Broward Festival、MAD Arts（ダニアビーチ、フロリダ）にて初演された。このサイトの<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">Conceptual</a>、<a href=\"proyectos.html\">プロジェクト</a>のセクションで記録されている。"
+  },
+  "contact": {
+   "p1": "現在活動中の実践とネットワークは<a href=\"practicas-publicas.html\">Prácticas Públicas</a>をご覧ください。作品のご購入に関するお問い合わせは<a href=\"store.html\">Galería</a>まで。"
+  },
+  "morelinks": {
+   "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — 経歴と活動歴。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — 作家の全リンクを一箇所に集約。"
+  },
+  "projects": {
+   "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — マイアミの展示スペースにおけるアーティストプロフィール。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — サウンドアートの歴史に関するリサーチプロジェクト。"
+  },
+  "shortbio": {
+   "p1": "ムー・ブランコ(カラカス、1966年生)は、Dr.Muusicaというエイリアスで活動するマルチディシプリナリー・アーティスト兼ミュージシャンで、マイアミを拠点にしている。彼の実践はビデオアート、サウンドアート、パフォーマンス、インスタレーションにまたがり、40年にわたってイメージ、音、都市風景の関係を探求してきた。",
+   "readmore": "詳しい経歴を読む ↓"
+  },
+  "cronicas": {
+   "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+   "p1": "2018年、作家Lieskaはマイアミのアーティストのスタジオで行ったインタビューをもとに、Bitácora 29(ジャクソンビル)にこのプロフィール記事を発表した。同記事は彼の形成過程、その実践におけるユーモアと不遜さの関係、そしてAbstracciones Paisajísticasシリーズの展開を辿る。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">記事全文を読む(PDF)↗</a>"
+  }
+ },
+ "conceptual": {
+  "eyebrow": "01 — コンセプチュアル",
+  "lead": "風景、抽象、音、記憶、自然、テクノロジーが収束し、現代世界に対する私たちの知覚を拡張する、四十年にわたる芸術的探求。",
+  "loading": "参考文献を読み込み中…",
+  "statementTitle": "アーティスト・ステートメント",
+  "statement": {
+   "p1": "私の芸術的実践は1986年、芸術を孤立した一分野としてではなく、イメージ、音、建築、風景、記憶が出会うことのできる領域として理解する直感的な探求として始まった。それ以来、私たちが世界をどのように知覚し、時間がその関係をどのように変えていくのかを探求する必要性に突き動かされながら、絶えず変容し続ける学際的な軌跡を築いてきた。",
+   "p2": "私は1966年、カラカスに生まれた。この都市の複雑な都市構造は、空間を理解する私のあり方に深い影響を与えた。初期には絵画、ドローイング、実験的な介入を中心とした探求を行い、それはやがてビデオアート、実験映画、インスタレーション、サウンド実践へと発展していった。1990年代にはこの方向性を裏付ける評価を受け、その中には『Perra Chillona』によるサンパウロ短編映画ビエンナーレ大賞と、第5回グアヤナ国立美術ビエンナーレ特別言及が含まれる。",
+   "p3": "私の作品はこれまで一つのメディアに限定されたことがない。それぞれのプロジェクトが、自らの存在に必要な言語を決定する。四十年にわたり、私は写真、コラージュ、音楽作曲、サウンドアート、パフォーマンス、ドキュメンタリー・リサーチ、没入型インスタレーションの間を行き来してきた。これらすべての分野を、同じ一つの創作プロセスの一部として理解している。",
+   "p4": "自然と風景は、私の研究における変わらぬ軸であり続けてきた。私はそれらを再現されるべき背景としてではなく、歴史、生態学、文化、人間の経験が収束する生きたアーカイブとして捉えている。この探求から、Abstraciones Paisajísticas、Modernismo Anacrónico、《NatuUrban：マイアミの亜熱帯交響曲》、そしてArchipiélago Sonoroといったプロジェクトが生まれた。これらの作品は、領土、記憶、生物多様性、音の間の関係を探求するものである。",
+   "p5": "2014年のマイアミへの移住は、私の実践における新たな章を開いた。南フロリダの亜熱帯生態系との出会いは、音響生態学への関心を広げ、フィールドレコーディング、電子音響作曲、人工知能、写真、映像、インタラクティブ技術が共存する没入型体験を生み出す可能性への関心につながった。この時期、音はもはやイメージに付随するものではなく、瞑想的な空間を構築しうる彫刻的な素材となった。",
+   "p6": "この期間、私は研究者、作曲家、Selector、編集者、文化プロデューサーとしても精力的に活動し、サウンドアートおよびカリブ海・ラテンアメリカの音楽文化に捧げられた出版物、アーカイブ、レコード、コンサート、ラボ、普及プラットフォームを生み出してきた。私はこれらの活動を、自らの芸術的実践の自然な延長であり、聴くことを中心にコミュニティを活性化させる方法であると理解している。",
+   "p7": "私の作品は、まなざしと聴取の減速を提案する。私が関心を持つのは、通常は見えないままにされているもの——風景の残響、ある領土に込められた記憶、気づかれずに過ぎ去る日常の音、そして自然、都市、文化の間に隠された関係——を明らかにすることである。ある場所を再現するというよりも、拡張された知覚を通してそれを経験する条件を生み出そうとしている。",
+   "p8": "2026年、芸術活動四十周年を迎え、私は自らの作品が今なお開かれた探求であり続けていることを認識する。それぞれのプロジェクトは、異なる仕方で耳を傾け、より注意深く観察し、風景が外部の対象ではなく、私たち自身もその一部である生きた有機体であることを理解するための招待である。私の実践は、技術的実験と詩的感性の間で進化し続けており、芸術が世界そして集合的記憶との新たな関係のあり方を築きうると確信している。"
+  }
+ },
+ "practicas": {
+  "eyebrow": "03 — パブリック・プラクティス",
+  "lead": "現在進行中の活動をネットワーク上に記録：7つのInstagramアカウント、YouTube、Vimeo、SoundCloud、Discogs。"
+ },
+ "drmusica": {
+  "eyebrow": "04 — DR.MUU RECORDS",
+  "lead": "Dr.Muurecordsが制作し、Dr.Muusicaが監督する音楽プロダクション。",
+  "h2": {
+   "listen": "全ディスコグラフィー",
+   "press": "プレス掲載",
+   "videoclips": "ビデオクリップ",
+   "selector": "Dr.Muusica セレクター — ヴァイナル & ライブセッション",
+   "noticias": "最新リリース",
+   "selectedreleases": "厳選リリース"
+  },
+  "press": {
+   "lead": "ミュージシャン兼音楽プロデューサーとしてのムー・ブランコに関する言及と報道 — 年代順。"
+  },
+  "videoclips": {
+   "lead": "ムー・ブランコが制作・監督したミュージックビデオ。オリジナル音楽はムー・ブランコによるもので、Dr.Muu Recordsスタジオにて Dr.Muusica がプロデュースしました。",
+   "v1": {
+    "meta": "エクトル・ラボエ参加 · 脚本：Dr.Muu Desing"
+   },
+   "v2": {
+    "meta": "JABALEE（LP）、トラック5 · Ditto Music Venezuela · 映像：MuuBlancoVideoArt &amp; SaltaMantis · 監督：ムー・ブランコ",
+    "date": "2019年6月"
+   },
+   "v3": {
+    "meta": "LP『New Wave BeatMaker CCS 66』からの最初のシングル · 映像・コンセプト・監督：ムー・ブランコ",
+    "date": "2019年3月"
+   },
+   "v4": {
+    "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 監督：ムー・ブランコ · Espacio SaltaMantis",
+    "date": "2019年3月"
+   },
+   "v5": {
+    "meta": "LP『New Wave BeatMaker CCS 66』から3枚目のビデオシングル"
+   },
+   "v6": {
+    "meta": "映像：Dr.Muu Desing",
+    "date": "2017年3月"
+   },
+   "v7": {
+    "meta": "セルフィー・ビデオクリップ · オリジナル音楽：Dr.Muusica",
+    "date": "2016年12月"
+   }
+  },
+  "youtube": {
+   "handle": "YouTubeのムー・ブランコ"
+  },
+  "listen": {
+   "original": "オリジナル音楽",
+   "mixtapes": "ライブ録音ミックステープ"
+  },
+  "selector": {
+   "lead": "house と techno；funk、boogie、disco；new wave、post-punk、punk、rock；reggae、ska、dub；salsa、boogaloo、bolero、mambo、plena、guaguancó、cumbia；jazz；hip-hop、trip-hop、drum & bass；そして afrobeat、bossa nova、samba、world music、+ まで幅広く網羅するライブ・ヴァイナル・リスニングセッション。Tripping Animals Brewery(ドーラルシティ、FL)での週次レジデンシー(2024–2026年)。",
+   "v1": {
+    "meta": "ライブ・ヴァイナル・リスニングセッション · Record Store Day 2026 · Lucky Records、マイアミ"
+   },
+   "v2": {
+    "date": "2025年2月9日",
+    "meta": "ライブ配信 · サウンド：Dr. Muusica · Tripping Animals Brewing、ドーラルシティ、FL"
+   },
+   "v3": {
+    "date": "2025年1月14日",
+    "meta": "ライブ配信 · Tripping Animals Brewing、ドーラルシティ、FL"
+   },
+   "v4": {
+    "date": "2025年1月",
+    "meta": "Uncle Jei と共に · Tripping Animals Brewing、ドーラルシティ、FL"
+   }
+  },
+  "noticias": {
+   "lead": "Dr.Muusicaがプロデュースする DR.MUU Records の新作リリース。",
+   "v1": {
+    "date": "2026年5月",
+    "meta": "レーベル：DrMuu Records · エグゼクティブ・プロデュース：Muu Blanco · アート、グラフィックデザイン：DrMuu Desing · 音楽プロデュース：Argenis Brito, Dr.Muusica · マイアミとベルリンで録音・制作、2025–2026年 · ポストプロダクション：Argenis Brito · 世界同時リリース：2026年5月24日",
+    "p1": "これは、構造がもはや封じ込めとして機能せず、破裂の表面として振る舞い始めるシステムの能動的な事例である。",
+    "p2": "この文脈において、音は作曲としてではなく圧力として機能する——限界を貫き、それを引き裂くまでの力である。",
+    "track1title": "トラック1 —（限界が引き裂かれる／誰も止まらない）",
+    "track1desc": "構造が崩れる瞬間を刻む。移行も警告もない——その開口は即座かつ全面的である。そこに現れるものは物語的な論理ではなく、制動も方向も認めない流れに従う。",
+    "track2title": "トラック2 —（空気のない場所で呼吸する）",
+    "track2desc": "その断裂の帰結の中に住まう。ここで異常は安定化する。不可能なものは崩壊しない——持続する。存在する条件を持たないはずのものが、内と外をもはや区別しない環境の中で、活動を続ける方法を見出す。",
+    "p3": "この作品は物語を提示するのではなく、ある状態を提示する——知覚が安定した参照点なしに機能することを強いられる領域である。",
+    "closing": "ARGMUUは意味を構築しない。それを干渉にさらすのだ。",
+    "listen": "YouTube Musicで聴く ↗",
+    "track1credit": "ビデオクリップ：MuuBlancoVideoArt"
+   }
+  },
+  "selectedreleases": {
+   "lead": "ムー・ブランコ/Dr.Muusicaのアルバムとサウンドリリースからの厳選。",
+   "natuurban": "2024年 · 12インチ・ヴァイナルLP、180g グリーン · Arts Connection Foundation",
+   "nwbm": "2019年"
+  }
+ },
+ "prensa": {
+  "eyebrow": "06 — プレス",
+  "lead": "新聞・雑誌に掲載されたムー・ブランコの作品に関するレビュー — 年代順。",
+  "loading": "レビューを読み込み中…"
+ },
+ "store": {
+  "eyebrow": "05 — ギャラリー",
+  "lead": "入手可能なアーティストブック4冊：AAA 2002–2012（Abstracciones Paisajísticas）、Modernismo Anacrónico、New Compositional Thinking 1・2。各表紙をタップするとBlurbで表示、または作品解説を開けます。",
+  "driveImage": "Google Drive の画像",
+  "books": {
+   "title": "販売中の書籍",
+   "withGerardo": "ジェラルド・サバルセとの共著",
+   "pdfNct1": "New Compositional Thinking 1（PDF）↗",
+   "pdfNct2": "New Compositional Thinking 2（PDF）↗",
+   "v1": {
+    "p1": "カラカス（ベネズエラ、1966年生）出身のムー・ブランコによる画像の総合であり、自然、建築、そしてベネズエラ美術に存在する幾何学的抽象の感覚的伝統を受け継ぐ他の形態との合流を中心に据えている。",
+    "p2": "本プロジェクトの起源は、Instituto de Estudios Superiores de Artes Plásticas Armando Reverón（IUESAPAR）が構想した実験的な学びの場——現代的な視覚表象システムの実践と批評——の出現に刻まれている。そこで研究者サンドラ・ピナルディ、キュレーターのルイス・エンリケ・ペレス・オラマス、建築家ウィリアム・ニーニョ・アラケとの重要な対話が行われ、この視覚的探求を進めるための創造的な状況が形作られた。",
+    "p3": "この特定のシリーズを構成する画像は、ベネズエラの視覚的近代性を開いた運動、いわゆる「カラカス派」を参照している。アビラ山の形態が持つ求心的な存在感は、都市を私たち自身を見つめる経験として見る様式に対位法を課す、視覚的な重心を表している。",
+    "p4": "同様に、建築との出会いは強い存在感を持つ特徴であり、芸術と建築の統合的な体験を活性化する感受性と結びついた新たな記念性の概念を体現し、いまやこの場所の激しく、生き生きとし、動的で複雑な次元を明確に参照している。光の出現と空の象徴的な優位性——おそらく植民地的記憶とのつながりとして、天の支店としてのカラカス？——もまた、このシリーズを構成する画像の構成の中で重要な参照点となっている。",
+    "details": "アートフォトグラフィー · インスピレーション · 標準縦型、20×25 cm · 40ページ · ISBN 9798880530731 · 2024年1月出版 · スペイン語"
+   },
+   "v2": {
+    "p1": "本書はムー・ブランコのコラージュ作品によるアートブックであり、テキストはなく、作品を撮影した画像のみで構成されている。作品、写真、グラフィックデザインはすべてムー・ブランコによるものである。",
+    "details": "アートフォトグラフィー · 15×23 cm · 120ページ · ISBN 9781320501064 · 2015年8月出版 · 言語未指定"
+   },
+   "v3": {
+    "p1": "今回、私は個人的に服用する薬の錠剤を用いて、1986年にベネズエラで出版されたパオロ・ガスパリーニの写真集『Retromundo』に介入した。",
+    "p2": "私はこの本との作業を概念的な行為として理解している。私が関心を持つのは、日常の世界を構成し形づくる要素と、それが私の人生経験とともに流れる様を反省的に探ることである。それを親密な視点からは行わない。むしろ自己の考古学という視点から行う（毎日服用する錠剤は、個人的な考古学的遺物へと変わりうる）。",
+    "p3": "この地点から、私の芸術的な作業はラテンアメリカの近代性、とりわけベネズエラの歴史の文脈に刻まれた言説との、越境的で偶発的な対話を求めている。『Retromundo』の断片の上に錠剤を配置した私の写真構成は、オリジナル写真の作者の視線に対する叙事的あるいは郷愁的なまなざしを示すものではない。それらはむしろ、美的な亀裂である。錠剤は誰の個人的世界とも結びつく連想の要素として機能する。それらは変質した近代性のサンプルである。",
+    "details": "アートフォトグラフィー · 13×20 cm · 30ページ · ISBN 9781367872233 · 2016年4月出版 · 英語"
+   },
+   "v4": {
+    "p1": "今や、ベネズエラの場合、コロンブスが新大陸への旅の年代記で述べたような「恵みの地」の話ではなくなっている。豊穣の自然という理想に根ざした近代のユートピアは、地下鉱物資源の突然かつ集中的な搾取によって、現実の個人的・集団的悲劇へと変貌した。ベネズエラの近年の歴史がそれを証している——世界最大の石油埋蔵量を有しながら、国民に経済成長も社会的公正も保証できなかった国家として。",
+    "p2": "この視点から、ムー・ブランコはシリーズ『New Compositional Thinking』（2014年）を通じて、ベネズエラの石油的想像界を反転させることを提案する。この作品においてブランコは、写真雑誌『Extra Cámara』に最初に掲載されたベネズエラの石油叙事詩に関する一連の画像に介入し、赤いバッタ（チャプリン・コロラド）の肖像を刻んだスカプラリオを挿入する。この挿入の意図は疑いなく、観客があの有名なテレビキャラクターの台詞「さあ、今度は誰が私たちを守ってくれるのか？」を思い出すことにある。同時にこの作品によって、ブランコが石油崇拝を告発していることは明らかであり、それは歴史家ヘルマン・カレラ・ダマスが数年前、ベネズエラ文化に深く根づいたボリバル崇拝を暴いたのと同じ手法である。",
+    "credits": "ムー・ブランコによるフォトブック · テキスト：Gerardo Zavarce · グラフィックデザイン：ムー・ブランコ",
+    "details": "アートフォトグラフィー · 教育 · スモールスクエア、18×18 cm · 20ページ · ISBN 9781320500975 · 2015年8月出版 · 英語"
+   },
+   "memoriaLabel": "作品解説"
+  }
+ },
+ "cv": {
+  "eyebrow": "08 — CV",
+  "lead": "ムー・ブランコ（1966年ベネズエラ・カラカス生まれ）の芸術活動の年代記ガイド。マイアミを拠点に活動。ベネズエラ系アメリカ人アーティスト。",
+  "h2": {
+   "education": "学歴",
+   "awards": "受賞歴",
+   "solo": "個展",
+   "group": "グループ展",
+   "collections": "パブリックコレクション",
+   "discography": "ディスコグラフィー（抜粋）",
+   "installations": "主要なサウンド＆パフォーマンス・インスタレーション",
+   "residencies": "アーティスト・レジデンシー",
+   "publications": "出版物／プレス／批評（抜粋）",
+   "media": "掲載メディア",
+   "selected": "主要展覧会・パフォーマンス"
+  },
+  "selected": {
+   "readmore": "全CVを見る ↓",
+   "y2026i1": "Latencias、Ignite Broward Festival、MAD Arts、デイニアビーチ、FL、米国。2026年2月19日。",
+   "y2026i2": "El Kiosko - El Consulado NYC、The Elizabeth Foundation for the Arts、ニューヨーク、米国。",
+   "y2025i1": "Technographies、New World School of Art Gallery、マイアミ、米国。",
+   "y2025i2": "Miami International Performance Festival「M/P '25」、Edge Zones Art Center、マイアミ、米国。",
+   "y20242025i1": "NatuUrban Symphony、Arts Connection Foundation、マイアミ、米国。",
+   "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival、20周年、Palazzo Bembo、ヴェネチア・ビエンナーレ、ヴェネチア、イタリア。",
+   "y2024i2": "アートと政治をつなぐ、Museo La Neomudéjar、マドリード、スペイン。",
+   "y2023i1": "サウンドアートのルーツと進化を探る：未来派から21世紀まで、Miami International Fine Art (MIFA)、ドラル、フロリダ、米国。"
+  },
+  "awards": {
+   "y1995i1": "映画『Perra Chillona』でサンパウロ短編映画ビエンナーレ最優秀賞受賞。ムー・ブランコによるモノローグ、演出:Sabrina Montiel Soto。",
+   "y1994i1": "第5回グアヤナ国立美術ビエンナーレ（ベネズエラ）特別賞。"
+  },
+  "education": {
+   "i1": "現代表象システムの実践と批評 修士課程。Instituto Universitario de Estudios Avanzados Armando Reverón、カラカス。2002年。",
+   "i2": "第5期 視覚芸術プロジェクトマネジメント講座。Fundación Polar、カラカス。1996年。",
+   "i3": "ベネズエラ美術史講座。Instituto Federico Brandt、カラカス。素描と絵画II。Instituto Federico Brandt、カラカス。1990年。",
+   "i4": "現代美術史講座。Museo de Bellas Artes、カラカス。1989年。"
+  },
+  "residencies": {
+   "y20242026i1": "「音楽キュレーションおよびAfro Latin Culture Flavorファンジン月刊編集」— Tripping Animals Brewery（マイアミ、ドラルシティ、米国）にてセレクター兼サウンドリサーチャーとして行った週次レジデンシー。",
+   "y2023i1": "「サウンド教育インスタレーション レジデンスアーティスト」— ドラルシティ、米国。",
+   "y20142016i1": "Arts Connection Foundation（マイアミ、米国）のマルチメディアアーティスト兼キュレーター。",
+   "y2007i1": "招待レジデンスアーティスト、Art Center South Florida、マイアミビーチ、米国。"
+  },
+  "collections": {
+   "i1": "Fundación Patricia Phelps de Cisneros、カラカス－ニューヨーク。",
+   "i2": "Fundación NOA NOA、カラカス、ベネズエラ。",
+   "i3": "Archivo Fotografía Urbana、カラカス、ベネズエラ。",
+   "i4": "Colección Mercantil、カラカス、ベネズエラ。",
+   "i5": "Colección Arte Al Límite、サンティアゴ、チリ。",
+   "note1": "カラカスおよびマラカイボ（ベネズエラ）；ニューヨーク、ロサンゼルス、ヒューストン、マイアミ、サンフランシスコ（米国）；ミラノ（イタリア）；マドリードおよびバルセロナ（スペイン）；ポルトアレグレ（ブラジル）；リスボン（ポルトガル）；サンティアゴ（チリ）の個人コレクション。"
+  },
+  "discography": {
+   "i1": "2024年 — NatuUrban: Una Sinfonía SubTropical de Miami [LP 12インチ・ヴァイナル、180g、グリーン]。Arts Connection Foundation、マイアミ、米国。",
+   "note1": "リリース済みアルバム：",
+   "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
+   "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
+   "i4": "\"JABALEE\" — Muu Blanco (2019).",
+   "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
+   "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
+   "note2": "リリース済みシングル18曲（2019–2026年）。"
+  },
+  "installations": {
+   "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
+   "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
+   "y2025i3": "NatuUrban Symphony、サウンド、ダンス、ライブパフォーマンスのインスタレーション、Arts Connection Foundation、マイアミ、米国。",
+   "y2024i1": "NatuUrban Symphony、自然環境と組み合わせたマルチチャンネル・サウンドインスタレーション、Arts Connection Foundation、マイアミ、米国。",
+   "y2024i2": "「Exploring the Roots and Evolution of Sound Art」、インタラクティブ教育インスタレーション。MIFA、米国。",
+   "y2023i1": "「Exploring the Roots and Evolution of Sound Art」、インタラクティブ教育インスタレーション。ドラルシティ国際アートフェア、米国。",
+   "y2017i1": "「Lumínico Sonoro I」、Espace Expressionでのオーディオビジュアル・インスタレーション、ウィンウッド、マイアミ、米国。",
+   "y2015i1": "「New Compositional Thinking Vol.1」、Arts Connectionでのミックスサウンド・インスタレーション、マイアミ、米国。",
+   "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
+   "y2007i1": "「Multimedia Landscape」、パフォーマティブ・インスタレーション、Art Center/South Florida、マイアミビーチ、米国。"
+  },
+  "publications": {
+   "y2025i1": "「Afro Latin Culture Flavor」— 月刊印刷ファンジン（限定版、100部）。編集キュレーションおよび制作：Muu Blanco / Dr.Muusica、ドラルシティ、米国。",
+   "y2024i1": "「NatuUrban Symphonyカタログ」— Gerardo Zavarceによるキュレーション・テキスト、グラフィックデザイン：Carlos González。マイアミ、米国。",
+   "y2023i1": "AAA「Abstracciones Paisajísticas」[フォトブック]— カラカスの都市写真的抽象10年、Muu Blanco、マイアミ、米国。",
+   "y2020i1": "「World of Art – Latin American Art Since 1900」（第3版）、Edward Lucie-Smith。",
+   "y2015i1": "「New Compositional Thinking Vol.1」— Arts Connection Foundationの編集カタログ、マイアミ、米国。",
+   "y2015i2": "Modernismo Anacrónico — アナログコラージュのカタログ/書籍、Muu Blanco、マイアミ、米国。",
+   "y2015i3": "「New Compositional Thinking Vol.2」— カタログ/フォトブック、Muu Blanco、マイアミ、米国。",
+   "y2009i1": "「Paisaje Sonoro Caracas–Berlín」— CDサウンドカタログ、Sala Mendoza、カラカス、ベネズエラ。"
+  },
+  "media": {
+   "note": "1998–2026年",
+   "i1": "Transit、ニューヨーク、米国。",
+   "i2": "Art America、ニューヨーク、米国。",
+   "i3": "ArtNexus、ボゴタ、コロンビア。",
+   "i4": "El Nacional、カラカス、ベネズエラ。",
+   "i5": "Papel Literario、カラカス、ベネズエラ。",
+   "i6": "Estilo、カラカス、ベネズエラ。",
+   "i7": "Miami Herald、マイアミ、米国。",
+   "i8": "El Nuevo Herald、マイアミ、米国。",
+   "i9": "Artishock、サンティアゴ、チリ。",
+   "i10": "Arte Al Límite、サンティアゴ、チリ。",
+   "i11": "Arte al Día、マイアミ、米国。",
+   "i12": "Shoutout Miami、マイアミ、米国。",
+   "i13": "その他。"
+  },
+  "solo": {
+   "y20252024i1": "NatuUrban Symphony、Art Connection Foundation、マイアミ、FL、米国。",
+   "y20252024i2": "サウンドアートのルーツと進化を探る：未来派から21世紀まで。Miami International Fine Art (MIFA)、マイアミ、米国。",
+   "y2023i1": "サウンドアートのルーツと進化を探る：未来派から21世紀まで、ドラル国際アートフェア特別教育インスタレーション。ドラルシティ、フロリダ、米国。",
+   "y2020i1": "Composiciones Ardientes、Miami Photo Institute、マイアミ、米国。",
+   "y2019i1": "Iluminación y Sonido II、MixMediaインスタレーション。Espace Expression。ウィンウッド、マイアミ、米国。",
+   "y2019i2": "Calle sin salida、GBG Arts Miami、Arts Palm Beach、ウェストパームビーチ、米国。",
+   "y2019i3": "Black Point, Venezuela、The Box Gallery、ウェストパームビーチ、米国。",
+   "y2017i1": "Iluminación y Sonido I、映像とサウンドのインスタレーション。Espace Expression。ウィンウッド、マイアミ、米国。",
+   "y2015i1": "New Compositional Thinking Vol. 1、Mixmedia。Arts Connection Foundation。マイアミ、米国。",
+   "y2015i2": "NCT X 13 Samples／写真と音楽。ウィンウッド、マイアミ、米国。",
+   "y2014i1": "Ejercicios CBT # 1、マイアミ、米国。",
+   "y2014i2": "Black Point。MixmediaArtインスタレーション。Mandragoras Art Space。ニューヨーク、米国。",
+   "y2013i1": "In Tha House。Carmen Araujo Arte。カラカス、ベネズエラ。",
+   "y2012i1": "Caja blanca atrapa moscas、Galería Sicart。バルセロナ、スペイン。",
+   "y2012i2": "Entorno、Espacio Fotográfico Cubo 7。カラカス、ベネズエラ。",
+   "y2010i1": "Fósiles Analíticos、Galería Fernando Zubillaga。Galpones del Centro de Arte。カラカス、ベネズエラ。",
+   "y2009i1": "Paisaje Sonoro Caracas-Berlín。Sala Mendoza、カラカス、ベネズエラ。",
+   "y2008i1": "A.P.（Paisaje de Abstracciones）。Galería Farías + Fábregas。カラカス、ベネズエラ。",
+   "y2008i2": "Modernismo Anacrónico、Galería Sicart。バルセロナ、スペイン。",
+   "y2007i1": "Paisaje Multimedia、Art Center／South Florida。眠れぬ夜。マイアミビーチ、フロリダ、米国。",
+   "y2007i2": "PAINTアートフェア。Hardcore Art Contemporary Space。ニューヨーク、米国。",
+   "y2007i3": "Bello Horizonte。Modernismo Anacrónico、Centro Cultural Chacaoシリーズ。カラカス、ベネズエラ。",
+   "y2006i1": "Fósil analítico、Galería Fernando Zubillaga、Periférico Caracas。カラカス、ベネズエラ。",
+   "y2006i2": "Modernismo anacrónico、Hardcore Art Contemporary Space。マイアミ、フロリダ、米国。",
+   "y2005i1": "Modernismo anacrónico、Heroes & Trash。カラカス、ベネズエラ。",
+   "y1993i1": "Cachiperro a mano。La Paninoteka。カラカス、ベネズエラ。",
+   "y1992i1": "グラフィック。La Paninoteka。カラカス、ベネズエラ。"
+  },
+  "group": {
+   "y2026i1": "El Kiosko - El Consulado NYC、The Elizabeth Foundation for the Arts、ニューヨーク、米国。",
+   "y2025i1": "Technographies、New World School of Art Gallery、マイアミ、米国。",
+   "y2025i2": "El Kiosko - El Consulado NYC、NADAアートフェア、マイアミ、米国。",
+   "y2025i3": "Miami International Performance Festival「M/P '25」、Edge Zones Art Center、マイアミ、米国。",
+   "y2024i1": "アートと政治をつなぐ。Museo La Neomudéjar、マドリード、スペイン。",
+   "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival、20周年、Palazzo Bembo、ヴェネチア・ビエンナーレ、ヴェネチア、イタリア。",
+   "y2022i1": "Espacio Especial、Pintaアートフェア、ココナッツグローブ、フロリダ、米国。",
+   "y2022i2": "Más allá del Sonido del Silencio、Lowe Art Museum、コーラルゲイブルズ、FL、米国。",
+   "y2022i3": "Serendipia #2 &gt; Post_Ready_Made、Espacio Monitor、カラカス、ベネズエラ。",
+   "y2022i4": "DGTL: IRL、POPKDM、Galería Weitenfeild Landaluce、ベルリン、ドイツ。",
+   "y2022i5": "MetaFluxus および Miami New Media Festival、ID Art Lab、ウィンウッド、マイアミ、FL、米国。",
+   "y2022i6": "Serendipity #1インスタレーション、Espacio Monitor、カラカス、ベネズエラ。",
+   "y2021i1": "DORCAM Museum ニューメディア・フェスティバル、ドラルシティ、フロリダ、米国。",
+   "y2021i2": "La Trayectoria Sin Precedentes、Centro Cultural La Trinidad、カラカス、ベネズエラ。",
+   "y2021i3": "ID、Id Art Lab、ウィンウッド、マイアミ、米国。",
+   "y2021i4": "マルチメディア・アートアクション、Id Art Lab、ウィンウッド、マイアミ、米国。",
+   "y2020i1": "DORCAM Museum ニューメディア・フェスティバル、ドラルシティ、フロリダ、米国。",
+   "y2020i2": "Base Art、Id Art Lab、ウィンウッド、マイアミ、米国。",
+   "y2020i3": "Focus、GBG Art、Art Palm Beach、米国。",
+   "y2019i1": "Miami New Media Festival、DORCAM Museum、ドラルシティ、フロリダ、米国。",
+   "y2019i2": "Border Line、Id Art Lab、ウィンウッド、マイアミ、米国。",
+   "y2019i3": "+58 Art、Canvas Gallery Miami、マイアミ、米国。",
+   "y2019i4": "Political Aesthetics、GBG Arts Miami、米国。",
+   "y2019i5": "My View、LFA Space、ウィンウッド、マイアミ、米国。",
+   "y2018i1": "Miami New Media Festival、マイアミ、米国。",
+   "y2018i2": "Miami International Performance Festival「M/P '18」、Edge Zone Arts Center、マイアミ、米国。",
+   "y2018i3": "Art and Football（パブリック・ビデオアート・インスタレーション）、Goethe-Institut、バクー、アゼルバイジャン。",
+   "y2018i4": "Miami Life Exhibition（ミックスメディア・インスタレーション）、Miami Photo Institute、米国。",
+   "y2018i5": "Par amour du jet、「ISimulación」（パブリック・ビデオアート・インスタレーション）、Les Magasins Generaux、パリ、フランス。",
+   "y2018i6": "Lenguas Indígenas（サウンドアート）、メルコスール・ビエンナーレ、ポルトアレグレ、ブラジル。",
+   "y2017i1": "マイアミ・ニューメディア・フェスティバル、米国。",
+   "y2017i2": "空間の概念、Colección Banco Mercantil、カラカス、ベネズエラ。",
+   "y2017i3": "Colección Arte Al Límite、Espacio Fundación Telefónica、サンティアゴ、チリ。",
+   "y2017i4": "AntiRedymate、Espacio Monitor、カラカス、ベネズエラ。",
+   "y2017i5": "「Onomatopías Visuales de Tiempos Difíciles」、Carmen Araujo Arte、カラカス、ベネズエラ。",
+   "y2017i6": "マイアミ国際パフォーマンス・フェスティバル「M/P '17」、Edge Zone Arts Centerギャラリー、マイアミ、米国。",
+   "y2017i7": "ベネズエラの子どもたちのための平和的共鳴、UNICEF、Galería Ascanio y EE、ウィンウッド、マイアミ、米国。",
+   "y2017i8": "様々な緯度からベネズエラを再考する、FundanaとBAC、ウィンウッド、マイアミ、米国。",
+   "y2016i1": "マイアミ・ニューメディア・フェスティバル、米国。",
+   "y2016i2": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、リマ、ペルー。",
+   "y2016i3": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、ブエノスアイレス、アルゼンチン。",
+   "y2016i4": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、ラパス、ボリビア。",
+   "y2016i5": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut、Museo de Arte Contemporáneo、カラカス、ベネズエラ。",
+   "y2015i1": "マイアミ・ニューメディア・フェスティバル、米国。",
+   "y2015i2": "Visiones Digitales、Sala Pettit、Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
+   "y2015i3": "メディアアート：デジタルメディアにおける自然、Fundación Telefónica、CorpBanca、カラカス、ベネズエラ。",
+   "y2015i4": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Oca de São Paulo、サンパウロ、ブラジル。",
+   "y2015i5": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institutニューメディア・ビエンナーレ。サンティアゴ、チリ。",
+   "y2015i6": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut第1回アスンシオン・ビエンナーレ、Museo del Barro、パラグアイ。",
+   "y2015i7": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut第2回クリチバ・ビエンナーレ、ブラジル。",
+   "y2015i8": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Oi Futuro、リオデジャネイロ、ブラジル。",
+   "y2015i9": "Voces Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut。Museo de Ushuaia、アルゼンチン。",
+   "y2015i10": "Wynwood Art、The Chill Concept、ウィンウッド、マイアミ、米国。",
+   "y2014i1": "Miami New Media Festival、マイアミ、米国。",
+   "y2014i2": "Art Fair Context Miami、The Chill Concept、ウィンウッド、マイアミ、米国。",
+   "y2014i3": "第2回モンテビデオ・ビエンナーレ、ウルグアイ中央銀行大ホール、モンテビデオ、ウルグアイ。",
+   "y2014i4": "Lenguas Indígenas。サウンドアート。巡回コレクティブ。Goethe-Institut／ICBA、リオデジャネイロ、ブラジル。",
+   "y2014i5": "Hacia el plano verde、第2版。Centro Integrado de Artes。カラカス、ベネズエラ。",
+   "y2014i6": "Só Jogo Futebol o Just When They Finished、Goethe-Institut／ICBA。巡回展：サンパウロ、ポルトアレグレ、ベロオリゾンテ、リマ、ボリビア、コルドバ（アルゼンチン）、ボゴタ（コロンビア）、カラカス（ベネズエラ）、サンティアゴ（チリ）、キト（エクアドル）。",
+   "y2014i7": "Soy punto de encuentro。Carmen Araujo Art。カラカス、ベネズエラ。",
+   "y2014i8": "Ccs-2014｜Flash Caracas：ビデオスペース。Centro de Arte Los Galpones。カラカス、ベネズエラ。",
+   "y2013i1": "ArtBo国際アートフェア、Arte Carmen Araujo、ボゴタ、コロンビア。",
+   "y2013i2": "Só Jogo Futebol o recién cuando terminaron、Goethe-Institut／ICBA。巡回展：ブラジリア、サルバドール、リオデジャネイロ、フォルタレザ（ブラジル）、サンタクルス・デ・ラ・シエラ（ボリビア）、モンテビデオ（ウルグアイ）、ブエノスアイレス（アルゼンチン）、ラパス（ボリビア）。",
+   "y2013i3": "ビデオと他の媒体。Al Borde Gallery、マラカイボ、ベネズエラ。",
+   "y2013i4": "建築記念碑。Sala Mendoza、カラカス、ベネズエラ。",
+   "y2013i5": "エレクトロニック・スペース、第5巻。Sala Mendoza。カラカス、ベネズエラ。",
+   "y2012i1": "Caracas Arte Contemporáneo（CACRI）。Carmen Araujo Arte。Parque Cultural Hacienda La Trinidad。カラカス、ベネズエラ。",
+   "y2011i1": "Galería Arqueología。Galería Sicart。ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
+   "y2011i2": "変形された幾何学：12の視覚的言説。Galería Farías + Fábregas。カラカス、ベネズエラ。",
+   "y2011i3": "サンタルシアの夕暮れ。マラカイボ、ベネズエラ。",
+   "y2010i1": "Didáctica、Centro de Arte Periférico de Caracas Los Galpones。カラカス、ベネズエラ。",
+   "y2009i1": "Paisaje Sonoro。Ccs - Brln。Sala Mendoza。カラカス、ベネズエラ。",
+   "y2009i2": "OPENART。サラゴサ美術史センター、スペイン。",
+   "y2008i1": "PhotoMiami '08。Galería Sicart。マイアミ、米国。",
+   "y2008i2": "Arte Lisboa。Galería Sicart。リスボン、ポルトガル。",
+   "y2008i3": "Arte Valencia。Galería Sicart。バレンシア、スペイン。",
+   "y2008i4": "Foto Buenos Aires。Galería Sicart。アルゼンチン。",
+   "y2008i5": "ArtBo。Galería Farías + Fábregas、ボゴタ、コロンビア。",
+   "y2008i6": "現代ベネズエラ・ビデオアート、Periférico CCS、La Otra、ボゴタ、コロンビア。",
+   "y2008i7": "Reflexión y Refracción。Galería Rich。ロンドン、イングランド。",
+   "y2008i8": "D'eros I Thanatos。Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
+   "y2008i9": "ArteSantander。Galería Sicart。サンタンデール、スペイン。",
+   "y2008i10": "ArteBa。Galería Sicart。ブエノスアイレス、アルゼンチン。",
+   "y2008i11": "ラテンアメリカ現代美術の（不）可視の地理学。Centro León、ドミニカ共和国。",
+   "y2008i12": "SWABアートフェア。Galería Sicart。バルセロナ、スペイン。",
+   "y2008i13": "MiArt、Galería Sicart。ミラノ、イタリア。",
+   "y2008i14": "Bridge Art Fair。Tracing Misfits、Galería Sicart。ニューヨーク、米国。",
+   "y2008i15": "ドローイング、Galería Sicart、ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
+   "y2007i1": "Pinta。NYC、Metropolitan Pavilion、ニューヨーク、米国。",
+   "y2007i2": "Foto Miami。Galería Sicart。マイアミ、米国。",
+   "y2007i3": "SCOPE Miamiアートフェア。Galería HACS。マイアミ、米国。",
+   "y2007i4": "Buenos Aires Photo。Galería Sicart。ブエノスアイレス、アルゼンチン。",
+   "y2007i5": "Buenos Aires Photo、Hardcore Art Contemporary Space、ブエノスアイレス、アルゼンチン。",
+   "y2007i6": "Valencia Art。Galería Sicart。バレンシア、スペイン。",
+   "y2007i7": "Lisbon Art。Galería Sicart。リスボン、ポルトガル。",
+   "y2007i8": "Vilafranca Contemporánea。Galería Sicart。ヴィラフランカ・デル・パネデス、カタルーニャ、スペイン。",
+   "y2007i9": "ArteBA。Galería Sicart。ブエノスアイレス、アルゼンチン。",
+   "y2007i10": "List Bärliner。Galería Sicart。ベルリン、ドイツ。",
+   "y2007i11": "イベロアメリカ・アートフェア（FIA）、Hotel Tamanaco Intercontinental、Hardcore Art Contemporary Space、カラカス、ベネズエラ。",
+   "y2007i12": "Balelatina。Hardcore Art Contemporary Space。バーゼル、スイス。",
+   "y2007i13": "Circa、Hardcore Art Contemporary Space、サンフアン、プエルトリコ。",
+   "y2007i14": "Arteaméricas。Hardcore Art Contemporary Space。マイアミ、米国。",
+   "y2007i15": "Art Los Angeles。Galería Sicart。ロサンゼルス、米国。",
+   "y2007i16": "AAA、モダニティとアナクロニズム、第6回メルコスール・ビエンナーレ、ポルトアレグレ、ブラジル。",
+   "y2007i17": "Blight and Celebration。Multimedia Fusion Festival、ブルックリン、米国。",
+   "y2006i1": "Photo Miami。Galería Sicart。マイアミ、米国。",
+   "y2006i2": "Diálogos。Museo de Arte Contemporáneo de Costa Rica、サンホセ、コスタリカ。",
+   "y2006i3": "Image of Caracas（Off loop）。Space Joaquín Costa（Gallery dels Angels）、バルセロナ、カタルーニャ、スペイン。",
+   "y2006i4": "インターベンション、Museo Jacobo Borges、カラカス、ベネズエラ。",
+   "y2006i5": "Do not Trust - White Biennial、Anxiety of Influence。UCLA New Wight Gallery、Eli and Edith Broad Art Center。ロサンゼルス、米国。",
+   "y2006i6": "Happy Ever After...。Hardcore Art Contemporary Space。マイアミ、フロリダ、米国。",
+   "y2005i1": "Diálogos：Colección Cisnerosによるラテンアメリカ現代美術。Museo Nacional de Bellas Artes、サンティアゴ、チリ。",
+   "y2005i2": "ベネズエラのColección Cisnerosにおける現代美術。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
+   "y2005i3": "カラカスの塔：沈黙させられたモダニティ。Sala Mendoza。カラカス、ベネズエラ。",
+   "y2004i1": "Variaciones del ojo。ビデオダンス - ムー・ブランコ。Cinemateca Nacional。カラカス、ベネズエラ。",
+   "y2004i2": "El Barril - Goethe-Institut Caracas、Museo Jacobo Borges。カラカス、ベネズエラ。",
+   "y2004i3": "VII Jóvenes con FIA、Sala CANTV、Ateneo de Caracas。Espacios Cálidos、カラカス、ベネズエラ。",
+   "y2004i4": "Tierra Eléctrica。英国とベネズエラの短編映画とビデオ、Sala Mendoza。カラカス、ベネズエラ。",
+   "y2004i5": "彫刻と写真。Galería Spazio Zero。カラカス、ベネズエラ。",
+   "y2003i1": "Contra/Sentido。新しいベネズエラ写真、Sala Mendoza。カラカス、ベネズエラ。",
+   "y2003i2": "2003年第1回写真月間、カラカス - Polaroid TM。Museo Alejandro Otero。カラカス、ベネズエラ。",
+   "y2003i3": "第28回アラグア国立美術展。Museo de Arte Contemporáneo de Maracay Mario Abreu、アラグア、ベネズエラ。",
+   "y2003i4": "第11回エウヘニオ・メンドーサ賞。Sala Mendoza。カラカス、ベネズエラ。",
+   "y2002i1": "ホワイトキューブからブラックボックスへ：歴史的テープ、クリエイティブ・ビデオ、デジタルアート、ベネズエラ・ビデオ、Museo de Arte Contemporáneo de Caracas Sofía Imber。カラカス、ベネズエラ。",
+   "y2002i2": "マルチメディアアーティスト、Centro para las Artes創設者。Museo de Arte Contemporáneo de Caracas Sofía Imber。カラカス、ベネズエラ。",
+   "y2001i1": "13時間。Sala Mendoza、カラカス、ベネズエラ。",
+   "y2001i2": "ENE Incidentes - RE Incidentes／千年紀の狭間で。Centro de Bellas Artes、マラカイボ、スリア、ベネズエラ。",
+   "y2000i1": "Demostrationraume／ケーススタディ。Galería Or。バンクーバー、カナダ。",
+   "y2000i2": "90 60 90。Goethe-Institut Caracas、Museo Jacobo Borges。カラカス、ベネズエラ。",
+   "y2000i3": "第58回アルトゥーロ・ミチェレナ・サロン、Ateneo de Valencia、カラボボ、ベネズエラ。",
+   "y1999i1": "第22回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、アラグア、ベネズエラ。",
+   "y1998i1": "Jóvenes con FIA CANTV。Ateneo de Caracas、カラカス、ベネズエラ。",
+   "y1998i2": "第3回バロ・デ・アメリカ・ビエンナーレ。ベネズエラ・ブラジル、中央交流展。Museo de Bellas Artes、カラカス、ベネズエラ。",
+   "y1998i3": "優美な死体の復活、Sala Mendoza、カラカス、ベネズエラ。",
+   "y1998i4": "Casco de Acero、Espacios Unión、カラカス、ベネズエラ。",
+   "y1998i5": "第5回グアヤナ・ビエンナーレ：セレクション。Museo Alejandro Otero、カラカス、ベネズエラ。",
+   "y1998i6": "波長、ビデオと写真、Museo Alejandro Otero。カラカス、ベネズエラ。",
+   "y1997i1": "第22回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、マラカイ、アラグア、ベネズエラ。",
+   "y1997i2": "第5回グアヤナ国立美術ビエンナーレ。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
+   "y1995i1": "第2回ピレリ青年芸術家サロン。Museo de Arte Contemporáneo de Caracas Sofía Imber、カラカス、ベネズエラ。",
+   "y1994i1": "ミックス・テクニック。Galería Alternativa。カラカス、ベネズエラ。",
+   "y1994i2": "第7回ミニアチュール・ビエンナーレ。TAGA。カラカス、ベネズエラ。",
+   "y1994i3": "第4回グアヤナ国立美術ビエンナーレ。Museo de Arte Moderno Jesús Soto、シウダー・ボリバル、ボリバル、ベネズエラ。",
+   "y1992i1": "第17回国立写真サロン。フォトジャーナリズムへのオマージュ。Foro Libertador。Instituto Autónomo Biblioteca Nacional。カラカス、ベネズエラ。",
+   "y1992i2": "第17回アラグア国立美術サロン。Museo de Arte Contemporáneo de Maracay Mario Abreu、ベネズエラ。",
+   "y1991i1": "1, 2, 3, 4, 5。カラカス州庁展示ホール、DF、ベネズエラ。",
+   "y1990i1": "ドローイング展。Instituto Federico Brandt、カラカス、ベネズエラ。"
+  }
+ },
+ "contacto": {
+  "eyebrow": "09 — 連絡先",
+  "lead": "アートまたは音楽に関するお問い合わせは直接ご連絡ください。",
+  "arte": {
+   "label": "アート"
+  },
+  "music": {
+   "label": "音楽 / ブッキング"
+  },
+  "note": "その他の資料：全経歴は<a href=\"cv.html\">CV</a>、レビュー・報道は<a href=\"prensa.html\">プレス</a>、SNSは<a href=\"practicas-publicas.html\">パブリック・プラクティス</a>、購入可能な作品は<a href=\"store.html\">ギャラリー</a>をご覧ください。",
+  "categories": "展覧会 · パフォーマンス · サウンドコミッション · アーティストトーク · ヴァイナルプログラム · Selectorブッキング · プレス · コラボレーション"
+ },
+ "proyectos": {
+  "eyebrow": "02 — リサーチ・プロジェクト",
+  "h1": "リサーチ・プロジェクト",
+  "lead": "Muu Blancoの実践の中で長期にわたり続けられている研究のライン — それぞれ独自の作品群、出版物、発表を持つ。",
+  "ongoing": "進行中",
+  "seeInPress": "音楽プレスで見る",
+  "viewPdfCatalog": "Modernismo Anacrónico. Collage（PDF）↗",
+  "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
+  "viewPdfSicart": "2010年シカルトカタログ（PDF）↗",
+  "viewPdfBook": "AAA 2002–2012 フォトブック（PDF）↗",
+  "viewPdfPhotos": "Abstracciones Paisajísticas. 写真（PDF）↗",
+  "viewPdfDossier": "Carmen Araujo Arte — ドシエ、Abstracciones Paisajísticas（PDF）↗",
+  "natuurban": {
+   "medium": "サウンドインスタレーション、ダンス、ビデオマッピング",
+   "p1": "マイアミのArts Connection Foundationで発表されたインスタレーション＆サウンドアートのプログラム。実験音楽、ダンス、ビデオマッピングの投影、同名のドキュメンタリーを統合した — サウンドスケープと都市の自然環境をめぐるMuu Blancoの最新の研究。",
+   "videoTitle": "NatuUrban Symphony",
+   "videoMeta": "ドキュメンタリー短編 · 監督:Jacopo Fantastichini · 制作:PlantPop · FilmGate Festival、2025年7月30日",
+   "videoDesc": "Jacopo Fantastichini監督、PlantPop製作、Gerardo Zavarceキュレーションによるドキュメンタリー短編。ムー・ブランコのキャリアと、彼のサウンドアート・インスタレーションNatuUrban Symphonyの制作過程を追う。この作品は南フロリダの主要都市郊外にある国立公園の自然と都市の音を探求するもので、ムー・ブランコが2014年からマイアミで協働してきたArts Connection Foundationの支援により実現した。映画にはCamera Creature SVCによる映像とDr.Muusicaのオリジナル音楽が収められ、作品の中心的コンセプト——ミニスピーカーを持つ生きた植物が、自然と都市をつなぐサウンドスケープを再生する——を記録している。2025年7月30日、ダウンタウン・マイアミのSilverSpot Cinemasにて、FilmGate Festivalの一環としてプレミア上映された——ムー・ブランコが米国で制作した初のドキュメンタリー短編であり、40年にわたる途切れない芸術キャリアにおける節目となる作品。"
+  },
+  "soundart": {
+   "p1": "2023年の展覧会Exploring the Roots and Evolution of Sound Artの終了翌年、2024年にウェブアプリとして発表されたヴァーチャル・インスタレーション。未来派にそのルーツを持つサウンドアートの歴史から21世紀までを扱うムー・ブランコの研究をまとめている。"
+  },
+  "abstracciones": {
+   "medium": "写真",
+   "p1": "カラカスから世界各地に及ぶAbstracciones Paisajísticasの15年間。",
+   "animadas": {
+    "title": "アニメーション版 Abstracciones Paisajísticas（AAOA）",
+    "meta": "アニメーション：Benky Chang · サラゴサ、スペイン"
+   },
+   "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Blurbで見る ↗",
+   "instagramLink": "Instagram @abstracionespaisajisticas ↗"
+  },
+  "modernismo": {
+   "medium": "アナログコラージュ／ミックスメディア",
+   "p1": "2002年に始まったアナログコラージュ＆ミックスメディアのシリーズ — Heroes & Trash（カラカス、2005年）、Espacio Hardcore Art Contemporary（マイアミ、2006年）、Bello Horizonte／チャカオ文化センター（カラカス、2007年）、ギャラリー・シカルト（バルセロナ、2008年）で展示され、カタログ／書籍として出版された。",
+   "blurbLink": "Modernismo Anacrónico. Collage — Blurbで見る ↗",
+   "instagramLink": "Instagram @modernismo_anacronico ↗",
+   "belloHorizonteLink": "Bello Horizonte — カタログ、Centro Cultural Chacao（PDF）↗"
+  },
+  "fosiles": {
+   "medium": "ドローイングとインスタレーション",
+   "p1": "2002年に開始されたドローイングとそのインスタレーション的応用に関する研究。カラカスのギャラリー・フェルナンド・スビジャガにて個展として発表された(ペリフェリコ・カラカス、2006年/アルテセンター倉庫群、2010年)。"
+  },
+  "abstraccion": {
+   "title": "抽象",
+   "p1": "《Violencia Abstracta》（2013年）——抽象をめぐる新たな研究シリーズ。",
+   "tizon": {
+    "medium": "ビデオアート・03:33分・MiniDV/NTSC・監督:José Antonio Blanco Angulo・撮影、編集、オリジナル音楽:Muu Blanco",
+    "p1": "Torres de Parque Centralはカラカスを象徴する建造物のひとつであり、1970年代における都市の近代への開かれを象徴している。カラカスの人々にとって、これらのタワーは都市に性格を与えている。混沌として情熱的な性格、アビラ山の不滅の乙女である。この短編映画の作者ムー・ブランコにとって、パルケ・セントラルの東棟の火災を目撃した機会は、この都市的な主人公が持つ意味についての即座の省察を呼び起こした。",
+    "intro": "この短編映画のタイトルは、スペイン語の単語「tizón」に由来する。tizónとは次を意味する。1. 半分燃え尽きた棒切れ。2. 評判や自尊心に残る汚点。この二つの観念から、象徴的な意味に満ちたこの作品のタイトルが生まれる。",
+    "p2": "かつて、そこは彼の「遊び場」であった(彼の父はこの複合施設を建設した建築家チームの一員であり、それゆえこの作品への感情的な絆を彼に伝えた)。",
+    "p3": "作家はこの出来事を、当時ベネズエラの人々が生きていた社会政治的な瞬間のイメージとして、その社会の衰退を映す鏡として解釈する。市民の自尊心に残る汚点。彼らの政治と衰退というtizónに呑み込まれることへの拒絶。",
+    "p4": "この短編映画(上映時間03:33分)はMiniDVフォーマットで制作され、Mac PowerBook G4で編集された。音楽はMuu Blanco、別名Jaba Lee Projectによるオリジナル曲で、この作品のために«La Billo's Caracas Boys»(1950年代の著名なベネズエラの楽団)のオーケストラの一節が取り入れられている。この楽曲はリミックスされ、半分燃え尽きた«tizón»としてのカラカスのイメージと対話する、力強く反復的なリズムを生み出した。"
+   }
+  },
+  "artesonoro": {
+   "title": "サウンドアート",
+   "medium": "サウンドインスタレーション、パフォーマンス、映像記録",
+   "p1": "ムー・ブランコのサウンドアート実践に関する映像・写真記録のアーカイブ。初期のサウンドインスタレーションから、近年のパフォーマンスや短編映画までを収める。",
+   "v1": {
+    "meta": "マルチメディア感覚パフォーマンス・Mad Museum"
+   },
+   "v3": {
+    "meta": "コンセプト＆キュレーション：ムー・ブランコ・Doral Cultural Arts Center（DIAF 1）、2023年／Arts Connection Foundation、2023年11月",
+    "desc": "未来派から現代のサウンドアートに至るこの歴史的概観は、20世紀および21世紀を通じたサウンド実験の進化を浮き彫りにする。混沌としたダダイズムや、コンクリート音楽、フルクサスといった音楽的前衛を通して近代生活とテクノロジーを表現しようとした未来派の芸術家たちから始まる。続いてラジオアートは、聴覚的な語りにコラボレーションと観客との相互作用をもたらす。最後に、ブライアン・イーノに影響を受けたアンビエント・ミュージックは、くつろぎのサウンド空間を生み出すことに焦点を当てる。そして、R・マリー・シェーファーのサウンドスケープという概念は、文化と環境における音の重要性を強調し、都市デザインや環境意識に影響を与えている。この歴史的な旅は、長年にわたるサウンドの創造性の絶え間ない拡張を反映するものである。"
+   },
+   "v4": {
+    "meta": "シリーズ：Lumínico Sonoro #MuuBlanco・2021年1月5日",
+    "desc": "インタラクティブなマルチメディア・サウンド＆ライト・アクションの記録 — @muublancoartsound・@muublancovideoart &amp; @anarquia101 — @idartlabにて開催の「Multimedia Art Action 2021」。記録：Anarquía 101。"
+   },
+   "v5": {
+    "meta": "マルチメディア・インスタレーション（パフォーマンス、サウンド）・可変・.Wav・15分38秒・Mandragoras Art Space、クイーンズ、ニューヨーク"
+   },
+   "v6": {
+    "meta": "サウンドインスタレーション・サラ・メンドーサ、カラカス",
+    "desc": "カラカスのサラ・メンドーサで発表されたサウンドアート・インスタレーションで、CD-ROMのサウンドカタログとしてリリースされた。"
+   },
+   "hundredyears": {
+    "meta": "ヴァーチャル・インスタレーション · ウェブアプリ、2024年 · 100yearsofsound.webflow.io",
+    "visit": "プロジェクトを見る ↗"
+   }
+  },
+  "instalaciones": {
+   "title": "インスタレーション",
+   "medium": "インスタレーション",
+   "p1": "《Muuseo Blanco》（1998年）——アーティストの初期インスタレーション作品として記録されている一つ。",
+   "v1": {
+    "date": "2020年1月13日",
+    "meta": "マルチメディア・インスタレーション · LFA Space、ウィンウッド、マイアミ · 2019年11月～2020年3月",
+    "p1": "ムー・ブランコによるマルチメディア・インスタレーション「Lumínico Sonoro」の1分間の概観映像。2019年11月から2020年3月まで、アメリカ・フロリダ州マイアミ、ウィンウッドのLFA Spaceで展示された。"
+   }
+  },
+  "performances": {
+   "title": "パフォーマンス",
+   "medium": "ライブアクション、ビデオマッピング、マルチメディア・インスタレーション",
+   "v1": {
+    "meta": "ライブ・マルチメディアアクション · New World School of the Arts在校生・卒業生グループ展オープニング、Miami Dade Art District — マイアミ・アートウィーク2025",
+    "p1": "風景、身体、テクノロジーの交差を、絶え間ない音とイメージの流れを通して探求するライブ・マルチメディアアクションである。30分間、シンセサイザー、ビート、ライブラジオ、トロンボーン、そしてキー・ビスケーンの海岸で撮影した水の動きのループをMadMapperで万華鏡のようなパターンに変換したデジタルドローイングを組み合わせた映像装置との対話が展開される。",
+    "p2": "このヴィジュアル・カルトグラフィーには、リアルタイムで生成され、アクション中に作られる音響周波数に反応する動的で振動するラインが加わる。これらのラインはシンセサイザーやビート、トロンボーンだけに反応するのではない——観客の物音もまた視覚的な引き金となってシステムに統合され、あらゆる振動、ざわめき、環境的な乱入がプロジェクションを変化させる。こうして観客は作品の意図せぬ共著者となり、イメージの質感に刻まれる痕跡を残す。",
+    "p3": "この作品は自然とデジタルが互いに影響し合う感覚的生態系を構築する。音響的な振動が視覚性を貫き、海の風景は断片化され拡張され、集団的な存在感が体験を支える鼓動の一部となる。ラジオの伝送は偶然性と生きた現在性の要素を導入し、物理的であれ技術的であれ、あらゆる岸辺が交差点であることを強調する。",
+    "p4": "マイアミ・アートウィーク2025の一環として、Miami Dade Art DistrictにおけるNew World School of the Arts在校生・卒業生グループ展のオープニングで発表されたこのアクションは、音、イメージ、観客が持続的な振動状態の中で共存する没入的な領域を提案する。",
+    "date": "2025年12月"
+   },
+   "v2": {
+    "meta": "サウンドアクション · PINTAアートフェア、マイアミ・アートウィーク2025",
+    "p1": "私は顔を持たずに現れる、磁気テープの巣に覆われて——声の残骸、砕かれた記憶、もう誰も聴かない録音。私の楽器は緑色のトロンボーン、芽吹きと毒性の色、希望と錆の色である。それを吹いて、音楽ではなく亀裂を求める言語を奏でる。",
+    "p2": "このサウンドアクションは不服従の身振りである。無調で、反復的で、執拗——耳を飼いならす構造と、身体を秩序づける言説への拒絶。ここで起きているのはコンサートではなく、中断である。スペクタクルではなく、見られ、称賛され、消費されるべきとされる流れに開かれた亀裂である。",
+    "p3": "海への出港を待つボートに見守られたこのマリーナ・ガーデンで、私は干渉となる。散らばった南の振動を、移民の地理を、その周縁から自らを再考する都市の振動を携えて。招かれざる沈黙から、アーカイブされることに抗う記憶から、すべてが消し去ろうとしても持続するものの脆さから、私は吹く。",
+    "p4": "無限の反復は催眠ではなく、肯定を求める——存在するとは、こだわり続けることである。フェアの前で、市場の前で、ラベル付けし、価値づけ、流通させる論理の前で、私は捕獲されることを拒む存在を提示する。私の音はメロディーを提供しない、迂回を提供する。慰めを提供しない、可能性を提供する。",
+    "p5": "期待せずに聴くことを、理解せずにとどまることを、私は招く。自分に属さないが、それでも自分に触れる波に入る者のように、この行為に伴走することを。この振動が、不確定なものにも空間を占める権利があることを、私たちに思い出させますように。",
+    "date": "2025年12月",
+    "watchLink": "YouTubeで見る ↗"
+   },
+   "v3": {
+    "meta": "M/P'25 · Edge Zone Cultural Center、マイアミ",
+    "p1": "「Ceguera Ambiental y SocioCultural Vol.1 (Miami)」は、ムー・ブランコが20年以上にわたり展開してきた芸術的探求の系譜に属し、そこでは音、政治、視覚が絡み合い、現代性の緊張を問うアクションを生み出す。",
+    "p2": "このプロジェクトは作家の過去の経験と対話する——都市の騒音を造形的かつパフォーマティブな素材へと変容させたカラカスでの都市サウンドアクション、メディア言語が歪曲と抵抗の場となった暴力と権力に関する批評的な視聴覚インスタレーション、そしてヴァイナル、ループ、即興演奏がカリブ海とそのディアスポラの音響アーカイブを書き換えるDrMuusicaという別名義での探求。",
+    "p3": "これらすべてのアプローチにおいて、ブランコは同じ身振りを追求してきた——日常、政治、文化の記号を、記憶、緊張、そして私たちの時代の緊急性が活性化される感覚的な風景へと再構成することである。Ceguera Ambiental y SocioCulturalはこの批評的かつ実験的な道を継続しつつ、今度は知覚そのものに急進的な力点を置く——幾何学的な線と音響的振動が絡み合うことで、社会的な視線の硬直性と、即興と誤りの制御不能な力との間にある現代的な矛盾を露わにする。",
+    "date": "2025年12月"
+   },
+   "v4": {
+    "meta": "映像・サウンド：MadMapper &amp; Live Ableton · Coral Gables Museum（Gallery Night）· 映像：Raúl Blanco",
+    "date": "2022年5月"
+   },
+   "v5": {
+    "meta": "マルチメディア・インスタレーション — 4チャンネルビデオとステレオ音声（パフォーマンス、映像、写真、サウンド、テキスト、油彩画）· 所要時間：2時間 · 場所：ESM（Espacio SaltaMantis）、マイアミ · ドキュメンタリー映像：01:59分 · 共演ミュージシャン：Andrés Michelena、Diego Damas、Muu Blanco"
+   },
+   "v6": {
+    "meta": "コンセプト、演出、サウンド、ピアノ、ライブ・ビデオマッピング、ゲストアーティストAndrés Michelena（デジタルパーカッション）とDiego Damas（エレキギター）参加 · Miami New Media Festival、Miami Iron Side、Little River Art District · 撮影・編集：Raúl Blanco",
+    "date": "2019年2月"
+   },
+   "v7": {
+    "meta": "ライブ・マルチメディアアクションの27秒抜粋 — 絵画と壁面へのビデオマッピングと実験音楽 · Miami New Media Festival"
+   },
+   "v8": {
+    "meta": "ビデオマッピング・インスタレーションとオリジナル音楽 · Espace Expresions、ウィンウッド、マイアミ",
+    "p1": "抽象芸術の三人の巨匠——ヘスス・ラファエル・ソト、カルロス・クルス=ディエス、フリオ・ル・パルクに捧げるオマージュ作品。",
+    "date": "2017年9月15日"
+   },
+   "v9": {
+    "meta": "技法：ビデオ・パフォーマンス — ボディアクション、写真、シングルチャンネル映像 · フォーマット：.MOV 4K · 時間：03:13分",
+    "date": "2016年7月"
+   },
+   "v10": {
+    "meta": "場所：Mandrágoras Art Space、クイーンズ、ニューヨーク"
+   },
+   "v12": {
+    "meta": "主演：Muu Blanco · 監督：Andrés Manner · 編集：Murmullo",
+    "p1": "カラカスのロス・チョロス地区で、即興のスコアに従いたった一朝で撮影された——純粋な芸術的献身から、身体的リスクを厭わずに。"
+   },
+   "v13": {
+    "meta": "Eli BravoとMuu Blancoによるインタビュー · equilibrio.comが2013年に再放送"
+   },
+   "v14": {
+    "meta": "ムー・ブランコ：フォトノベルの俳優",
+    "p1": "小説／フォトノベル『El Secuestro de la Ministro de Cultura』（文化大臣誘拐事件）の予告編——何も隠さない、美術館世界の実話。あらゆる騒音と怒りをまとった文化。"
+   },
+   "v15": {
+    "meta": "Eli Bravoによるインタビュー · RCTV「Sonoclips」番組 · YouTube公開日：2009年9月17日",
+    "p1": "1990年、RCTVの番組「Sonoclips」でEli Bravoが行ったDesorden Públicoの最初のインタビュー。当時ムー・ブランコは、結成当初からのバンドの「RootBoy」であった。"
+   },
+   "v16": {
+    "meta": "監督：Vity Rodríguez Castillo · プロデューサー：Gabriela Vanzetti、Fito Páez · 楽曲：Alberto Cabello／Carlos Eduardo「Cayayo」Troconis †／Edgar Jiménez · ゲスト出演：Intensiti Moon、Muu Blanco、Marino · Sonorodven：Carlos Sánchez · 1989年ベネズエラ・メリダ国際映画祭 最優秀ミュージックビデオ賞 · アルバム：El Amor Ya No Existe",
+    "p1": "全クレジット付きでリマスターされたオリジナル版。1988年、カラカスでスーパー8フォーマットにより撮影。これはムー・ブランコにとって、ベネズエラのバンドのミュージックビデオに俳優として出演した、初のメディア出演であった。"
+   },
+   "v17": {
+    "meta": "サンパウロ短編映画ビエンナーレ 大賞 · モノローグ：Muu Blanco · 監督：Sabrina Montiel-Soto"
+   }
+  },
+  "calvo": {
+   "title": "CALVO",
+   "medium": "パフォーマンス・Estudio Mata de Coco、カラカス、ベネズエラ・1986年12月6日",
+   "p1": "CALVOは、ムー・ブランコの最初の公開パフォーマンスであり、1986年12月6日、カラカスのEstudio Mata de Cocoで行われたDesorden Públicoの最初の重要なコンサートの最中に上演された。",
+   "readpdf": "ドシエ全体を見る（PDF）↗",
+   "sub1": "CALVO：ゼロ地点、1986 / 2026",
+   "p2": "1986年:身体が作品の中に入る。<br>2026年:記憶がその身振りの射程を認識することを可能にする。",
+   "readEssay": "全文を読む",
+   "essay": {
+    "p1": "CALVOは1986年12月6日、カラカスのEstudio Mata de Cocoで行われたDesorden Públicoの最初の重要なコンサートの最中に起こる。曲「Calvo」を始める瞬間が来ると、ムー・ブランコは椅子を持って舞台に上がり、それを中央に置いて観客に向かって座る。音楽的な導入が始まる。Caplisが近づき、まるで何が起きているのかを理解しようとするかのように、戸惑いの表情で彼を見つめる。そのときDanel Sarmientoが「Calvo」を歌い始め、Horacio Blancoが観客の前でムーの髪を切るために近づく。完全に丸坊主になった後、ムー・ブランコは立ち上がり、舞台の上でスカパンクのダンスを踊り、最後に観客に向かって飛び込む。",
+    "p2": "時が経つにつれ、作家はこの出来事を自らの最初の公的行為、最初のパフォーマンスとして認識するようになる。それは、芸術との関係、そして創造の領土としての身体との関係を変えた根源的な経験であった。",
+    "p3": "現在の視点から見れば、CALVOは、登場、待機、変容、動き、そして舞台空間の断裂という、精密な連鎖から築かれた行為として現れる。その力は、複雑な演出や事前に説明された物語からではなく、一つの具体的な身振りが観客の前で展開され、コンサートの中で意味を獲得していくその仕方から生まれるのである。",
+    "p4": "椅子は音楽的エネルギーの只中に一つの休止をもたらす。ムー・ブランコは座り、動かないまま露わになっており、その状況は予期せぬ緊張を帯び始める。Caplisの眼差しはその戸惑いを際立たせ、コンサートとしても、演劇としても、パフォーマンスとしてもまだ完全には定義されない何かの侵入を可視化する。",
+    "p5": "歌が始まると、タイトル「Calvo」はもはや単なる言葉としてのみ機能することをやめ、物質的な行為となる。Danelが歌う間、Horacio Blancoは皆の前でムーの外見を物理的に変容させる。身体はその言葉を表象するのではない――それを体現するのである。",
+    "p6": "こうして音楽は構造的な機能を果たす。それは行為の時間を刻み、変容に伴走し、静止から動きへの移行を活性化する。カットが終わると、ムーは椅子を離れリズムに入る。スカパンクのダンスは当初の抑制を打ち破り、観客への跳躍へと導き、それによって舞台と観客との間の伝統的な分離が一瞬にして消え去る。",
+    "p7": "その移動——椅子から舞台へ、舞台から観客へ——は、この作品を理解するうえで中心的である。CALVOは、舞台の中央に孤立した身体から始まり、その同じ身体が集団の中に沈み込んだところで終わる。",
+    "p8": "この行為の最初のアイデアは、当時Desorden Públicoのアーティスティック・プロデューサーであり、ムー・ブランコが友人であり大切な師として記憶するRoberto Fuentes Anzolaから生まれた。この協働的な起源は、この作品の系譜を理解するうえで不可欠である。CALVOは創造的・音楽的な共謀のネットワークの中で生まれるが、その舞台的な次元を獲得するのは、ムー・ブランコがその提案を引き受け、身体的・舞台的な帰結にまで導いていくその仕方においてである。",
+    "p9": "2026年、四十年後の視点から見れば、CALVOは作家の軌跡における起源の一点として認識され得る。それは、後続のすべての制作を綱領的に予告しているからではなく、身体、音、時間、行為、そして公的な現前との関係を早くから打ち立てており、その関係が別のメディアを通じて、彼の仕事全体にわたって再び現れるからである。",
+    "p10": "それはまた、彼の実践において引き続き重要であり続ける問いを投げかける。芸術的経験が一つの物に閉じ込められることをやめ、リアルタイムで生きられる状況に依存するようになるとき、何が起こるのか。",
+    "p11": "1986年、その問いはまだ理論として定式化されてはいなかった。まず経験があった。まず椅子があり、音楽があり、カットがあり、ダンスがあり、跳躍があった。読解はその後にやって来た。",
+    "p12": "それゆえ、今日CALVOは、Desorden Públicoの初期の重要な瞬間の一つ、そして1980年代のカラカスの音楽シーンに結びついた一つの逸話以上のものとして理解され得る。それは、ムー・ブランコが自らの身体が物質となり、支持体となり、芸術的な出来事となり得ることを公に発見する瞬間である。",
+    "p13": "その意味で、CALVOはゼロ地点である。",
+    "p14": "1986年:身体が作品の中に入る。<br>2026年:記憶がその身振りの射程を認識することを可能にする。"
+   }
+  },
+  "videoarte": {
+   "title": "ビデオアート",
+   "tagline": "コンセプチュアルアート／ビデオ／サウンド"
+  },
+  "sintitulo": {
+   "title": "無題",
+   "medium": "ビデオアート／写真スライドショー／音響構成",
+   "intro": "「彼は沈黙の前の雑音を撮影した」",
+   "summary": "2002年から2005年にかけて、ビデオカメラを持たないまま、ムー・ブランコはカラカスのエル・パライソにある自身のスタジオから、テレビ画面を通してベネズエラの政治危機を体系的に撮影する。メディア、記憶、そしてイメージの力についてリアルタイムで築かれたアーカイブである。",
+   "viewVideo": "動画全編を見る ↗",
+   "readpdf": "ドシエ全文を見る (PDF) ↗"
+  }
+ },
+ "exposiciones": {
+  "eyebrow": "07 — 展覧会カタログ",
+  "lead": "個展およびグループ展のカタログと記録資料、年代順。",
+  "loading": "展覧会を読み込み中…"
+ },
+ "selectedworks": {
+  "eyebrow": "厳選作品",
+  "lead": "40年に及ぶビジュアル、パフォーマンス、サウンド実践から厳選した6つのプロジェクト。それぞれがアーカイブ内の完全な記録にリンクしています。",
+  "cta": "詳細な記録を見る →",
+  "works": {
+   "natuurban": {
+    "title": "NatuUrban Symphony",
+    "meta": "2024–2025 · サウンドインスタレーションとビデオマッピング · Arts Connection Foundation, マイアミ",
+    "desc": "2024年11月から2025年1月にかけてマイアミのArts Connection Foundationで発表されたインスタレーション/サウンドアートプログラム。NatuUrban Symphonyは実験音楽、ダンス、ビデオマッピング投影、同名ドキュメンタリーの上映を統合し、マイアミの亜熱帯的風景を音の領土として考察する。イメージ、音、都市環境の関係を探るムー・ブランコの研究を継続するこのプロジェクトは、Arts Connection Foundationを通じて180グラムのグリーンカラーヴァイナルLPとしてもリリースされた。"
+   },
+   "latencias": {
+    "title": "Latencias",
+    "meta": "2026年2月19日 19時 · マルチメディア感覚パフォーマンス · Ignite Broward Festival, MAD Arts, ダニアビーチ, フロリダ",
+    "desc": "2026年2月19日(木)19時、MAD Artsにて、Ignite Broward 2026 Festival(Broward Arts主催)の一環としてライブで披露された40分間のマルチメディア感覚パフォーマンス。キュレーションされた映像作品プログラムと共に上演され、入場無料・一般公開。身体、音、記憶の間の潜在性を探り、ライブサウンド構成、映像投影、パフォーマティブなジェスチャーを組み合わせ、知覚とテクノロジーに関するムー・ブランコの研究を継続する。Latenciasはアーカイブのコンセプチュアルおよびプロジェクトのセクションに記録されており、作家の最新作の一つである。"
+   },
+   "soundart": {
+    "title": "Exploring the Roots and Evolution of Sound Art",
+    "meta": "2023–2025 · 個展 · MIFA, マイアミ / ドーラル",
+    "desc": "未来派から21世紀までのサウンドアートの系譜をたどる個展で、2023年から2025年にかけてマイアミ・インターナショナル・ファインアート(MIFA)で発表された。サウンドインスタレーション作品、歴史的資料、ムー・ブランコの新作を組み合わせ、音・テクノロジー・空間を探求するより広い伝統の中に彼の実践を位置づける。ドーラルでも変形版として展示され、観客層を拡大し、サウンドアートの歴史に関する作家の最も持続的なキュレーション研究の一つとして確立された。"
+   },
+   "ceguera": {
+    "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+    "meta": "2025 · パフォーマンス · マイアミ",
+    "desc": "環境的・社会文化的な鈍感さを同時代的条件として扱うパフォーマンスで、2025年にマイアミで展開されたシリーズの第一弾。身体、音、批評的ジェスチャーを組み合わせ、知覚、環境、集団的責任の関係に問いを投げかける。マイアミのパフォーマンスアートシーンで活動するムー・ブランコの持続的なパフォーマンス実践の系譜に属し、サイトのプロジェクトアーカイブに映像として記録されている。"
+   },
+   "modernismo": {
+    "title": "Modernismo Anacrónico",
+    "meta": "2002年–現在 · コラージュ、アッサンブラージュ、インスタレーション",
+    "desc": "2002年に始まり今日まで続くコラージュ、アッサンブラージュ、インスタレーション作品のシリーズ。拾得物とミクストメディアの技法で制作された作品群の写真を収集し、同名のアートブックとして出版され、国際アートフェアSWAB(2008)でも発表された。Modernismo Anacrónicoはモダンの約束とその物質的残骸との間の皮肉な対話を提案し、ムー・ブランコのビジュアル実践の中で最も早くから続く系統の一つであり、プロジェクトギャラリーに完全に記録されている。"
+   },
+   "afrolatin": {
+    "title": "Afro Latin Culture Flavor",
+    "meta": "ファンジン · Selectorレジデンシー 2024–2026 · Tripping Animals Brewery, ドーラル",
+    "desc": "ムー・ブランコ/Dr.Muusicaが編集・制作する月刊印刷ファンジン(限定版)で、マイアミのドーラルシティで発行されている。2024年から2026年にかけて、このプロジェクトはTripping Animals Breweryでのサウンドリサーチャーとしての週次Selectorレジデンシーと並行して展開され、そこでDr.MuusicaはDr.Muusica Selectorという名でヴァイナルセッションを披露した。Afro Latin Culture Flavorは編集実践とライブでの選曲を結びつけ、アフロラテンのルーツ、リズム、大衆文化をリアルタイムのサウンドアーカイブとして探求する。"
+   }
+  }
+ },
+ "workwithmuu": {
+  "eyebrow": "ムーと仕事をする",
+  "lead": "展覧会、パフォーマンス、サイトスペシフィックなサウンドコミッション、アーティストトーク、ヴァイナル・リスニングセッションに対応可能です。カラカスとマイアミを往還する40年間の学際的実践。",
+  "cards": {
+   "soundart": {
+    "title": "サウンドアート＆パフォーマンス",
+    "desc": "ギャラリー、フェスティバル、公共空間のためのライブサウンドパフォーマンス、拡張されたサウンドインスタレーション、即興演奏。"
+   },
+   "commissions": {
+    "title": "サイトスペシフィック・サウンドコミッション",
+    "desc": "特定の空間、展覧会、サイトのために開発されたオリジナルのサウンド作品 — アンビエント作曲、ビデオマッピング、空間オーディオ。"
+   },
+   "talks": {
+    "title": "アーティストトーク",
+    "desc": "サウンドアート、ビデオアート、そして40年にわたる学際的実践についてのトークとプレゼンテーション。カラカスとマイアミからニューヨーク、マドリード、ヴェネツィア、サンパウロまで、南北アメリカとヨーロッパにまたがる展示歴を持つ。"
+   },
+   "vinyl": {
+    "title": "ヴァイナル・リスニング体験",
+    "desc": "アフロラテン、実験的、アーカイブ的なサウンドを探るキュレーションされたヴァイナル・リスニングセッションとSelectorセット — 親密な集まりから公開イベントまで。"
+   },
+   "dj": {
+    "title": "Dr.Muusica / Selector",
+    "desc": "Dr.MuusicaというエイリアスのもとでのSelectorセットとオリジナルプロダクション — house と techno；funk、boogie、disco；new wave、post-punk、punk、rock；reggae、ska、dub；salsa、boogaloo、bolero、mambo、plena、guaguancó、cumbia；jazz；hip-hop、trip-hop、drum & bass；そして afrobeat、bossa nova、samba、world music、+ まで幅広く横断する。"
+   }
+  },
+  "closing": "展覧会 · パフォーマンス · サウンドコミッション · コラボレーション",
+  "ctaButton": "ムー・ブランコに連絡する →"
+ }
 }
