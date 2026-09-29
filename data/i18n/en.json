@@ -59,13 +59,13 @@
     "h2": {
       "summary": "Summary",
       "full": "Video Art Bio",
-      "dossierbio": "Biographical Dossier — DJ Muu / Dr. Muusica",
       "recent": "Recent work",
       "contact": "Contact",
       "morelinks": "More links",
       "projects": "Projects and spaces",
       "shortbio": "Short Bio",
-      "cronicas": "Chronicles"
+      "cronicas": "Chronicles",
+      "dossierbio": "Biographical Dossier — DJ Muu / Dr. Muusica"
     },
     "summary": {
       "p1": "Muu Blanco (Caracas, Venezuela, 1966) is a multidisciplinary artist, video artist, and creator of multimedia installations based in Miami. Since the early 1990s, his practice has explored the relationship between image, sound, and the urban landscape through experimental video, sound art, performance, photography, and video mapping.",
@@ -92,11 +92,6 @@
       "p17": "With more than four decades of artistic trajectory, Muu Blanco has developed a hybrid practice in which video, sound, technology, and performance function as devices to investigate urban culture, memory, and contemporary social tensions. His work is part of various international public and private collections.",
       "readmore": "View full biography"
     },
-    "dossierbio": {
-      "p1": "Art, listening, the city, radio, television, DJ culture, music production, and multimedia practice: more than four decades of work, from La Cuadra, El Paraíso (Caracas, 1966) to Miami. The trajectory includes PARLAMENTO at the Sofía Imber Museum of Contemporary Art of Caracas, SHORT MUU and PARLAMENTO SONORO on 92.9 FM and La Mega 107.3 FM, DR. MUUSICA on Radio del Ateneo, residencies as a selector at BAR1 and 90 Grados, creative direction in television, and an ongoing practice as a multimedia conceptual artist, sound artist, music producer, and selector.",
-      "quote": "“See, listen, record, select, archive, edit, and share.”",
-      "link": "Read the full biographical dossier (PDF) ↗"
-    },
     "recent": {
       "p1": "<strong>Latencias</strong> (2026), a 40-minute multimedia sensorial performance, premiered on February 19, 2026 at the Ignite Broward Festival, MAD Arts, Dania Beach, FL. It is documented in the <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a>, and <a href=\"proyectos.html\">Projects</a> sections of this site."
     },
@@ -116,6 +111,11 @@
     "cronicas": {
       "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
       "p1": "In 2018, writer Lieska published this profile in Bitácora 29 (Jacksonville), based on an interview at the artist's studio in Miami. The piece traces his formation, the link between humor and irreverence in his practice, and the development of the Abstracciones Paisajísticas series. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Read the full article (PDF) ↗</a>"
+    },
+    "dossierbio": {
+      "p1": "Art, listening, the city, radio, television, DJ culture, music production, and multimedia practice: more than four decades of work, from La Cuadra, El Paraíso (Caracas, 1966) to Miami. The trajectory includes PARLAMENTO at the Sofía Imber Museum of Contemporary Art of Caracas, SHORT MUU and PARLAMENTO SONORO on 92.9 FM and La Mega 107.3 FM, DR. MUUSICA on Radio del Ateneo, residencies as a selector at BAR1 and 90 Grados, creative direction in television, and an ongoing practice as a multimedia conceptual artist, sound artist, music producer, and selector.",
+      "quote": "“See, listen, record, select, archive, edit, and share.”",
+      "link": "Read the full biographical dossier (PDF) ↗"
     }
   },
   "conceptual": {

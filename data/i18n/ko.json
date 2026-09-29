@@ -59,13 +59,13 @@
     "h2": {
       "summary": "요약",
       "full": "비디오 아트 바이오",
-      "dossierbio": "전기 자료집 — DJ Muu / Dr. Muusica",
       "recent": "최근 작업",
       "contact": "연락처",
       "morelinks": "추가 링크",
       "projects": "프로젝트 및 공간",
       "shortbio": "짧은 소개",
-      "cronicas": "크로니클"
+      "cronicas": "크로니클",
+      "dossierbio": "전기 자료집 — DJ Muu / Dr. Muusica"
     },
     "summary": {
       "p1": "무 블랑코(Muu Blanco, 1966년 베네수엘라 카라카스 출생)는 마이애미를 기반으로 활동하는 다학제적 아티스트이자 비디오 아티스트, 멀티미디어 설치 작가이다. 1990년대 초부터 그의 작업은 실험적 비디오, 사운드 아트, 퍼포먼스, 사진, 비디오 매핑을 통해 이미지, 소리, 도시 풍경 사이의 관계를 탐구해왔다.",
@@ -92,11 +92,6 @@
       "p17": "40년이 넘는 예술 활동을 통해 무 블랑코는 비디오, 사운드, 기술, 퍼포먼스가 도시 문화와 기억, 동시대 사회적 긴장을 탐구하는 장치로 기능하는 혼종적 실천을 발전시켜왔다. 그의 작품은 다수의 국제 공공 및 개인 컬렉션에 소장되어 있다.",
       "readmore": "전체 약력 보기"
     },
-    "dossierbio": {
-      "p1": "예술, 청취, 도시, 라디오, 텔레비전, DJ 문화, 음악 프로듀싱, 그리고 멀티미디어 실천: 카라카스 엘 파라이소의 라 쿠아드라(1966년)에서 마이애미에 이르는 40년이 넘는 활동의 여정. 카라카스 소피아 임베르 현대미술관에서 열린 PARLAMENTO, 92.9 FM과 라 메가 107.3 FM의 SHORT MUU와 PARLAMENTO SONORO, 아테네오 라디오의 DR. MUUSICA, BAR1과 90 Grados에서의 셀렉터 레지던시, 텔레비전 크리에이티브 디렉팅, 그리고 멀티미디어 개념 예술가, 사운드 아티스트, 음악 프로듀서, 셀렉터로서 이어지는 실천을 포함한다.",
-      "quote": "“보고, 듣고, 기록하고, 선별하고, 보관하고, 편집하고, 공유한다.”",
-      "link": "전기 자료집 전문 읽기 (PDF) ↗"
-    },
     "recent": {
       "p1": "<strong>Latencias</strong>(2026)는 40분 분량의 멀티미디어 감각 퍼포먼스로, 2026년 2월 19일 Ignite Broward Festival, MAD Arts, 데이니아 비치, 플로리다에서 초연되었다. 이 사이트의 <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> 및 <a href=\"proyectos.html\">프로젝트</a> 섹션에 기록되어 있다."
     },
@@ -116,6 +111,11 @@
     "cronicas": {
       "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
       "p1": "2018년, 작가 Lieska는 마이애미의 작가 스튜디오에서 진행한 인터뷰를 바탕으로 Bitácora 29(잭슨빌)에 이 글을 발표했다. 이 글은 그의 형성 과정, 그의 작업에서 유머와 불경함의 관계, 그리고 Abstracciones Paisajísticas 시리즈의 전개를 다룬다. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">전체 기사 읽기 (PDF) ↗</a>"
+    },
+    "dossierbio": {
+      "p1": "예술, 청취, 도시, 라디오, 텔레비전, DJ 문화, 음악 프로듀싱, 그리고 멀티미디어 실천: 카라카스 엘 파라이소의 라 쿠아드라(1966년)에서 마이애미에 이르는 40년이 넘는 활동의 여정. 카라카스 소피아 임베르 현대미술관에서 열린 PARLAMENTO, 92.9 FM과 라 메가 107.3 FM의 SHORT MUU와 PARLAMENTO SONORO, 아테네오 라디오의 DR. MUUSICA, BAR1과 90 Grados에서의 셀렉터 레지던시, 텔레비전 크리에이티브 디렉팅, 그리고 멀티미디어 개념 예술가, 사운드 아티스트, 음악 프로듀서, 셀렉터로서 이어지는 실천을 포함한다.",
+      "quote": "“보고, 듣고, 기록하고, 선별하고, 보관하고, 편집하고, 공유한다.”",
+      "link": "전기 자료집 전문 읽기 (PDF) ↗"
     }
   },
   "conceptual": {

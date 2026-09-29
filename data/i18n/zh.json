@@ -59,13 +59,13 @@
     "h2": {
       "summary": "简介",
       "full": "视频艺术简历",
-      "dossierbio": "传记档案 — DJ Muu / Dr. Muusica",
       "recent": "近期作品",
       "contact": "联系方式",
       "morelinks": "更多链接",
       "projects": "项目与空间",
       "shortbio": "简短简介",
-      "cronicas": "纪事"
+      "cronicas": "纪事",
+      "dossierbio": "传记档案 — DJ Muu / Dr. Muusica"
     },
     "summary": {
       "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
@@ -92,11 +92,6 @@
       "p17": "凭借四十多年的艺术生涯，Muu Blanco发展出一种混合实践，其中录像、声音、技术与行为表演成为探究都市文化、记忆与当代社会紧张关系的装置。他的作品收藏于多家国际公共与私人收藏机构。",
       "readmore": "查看完整简历"
     },
-    "dossierbio": {
-      "p1": "艺术、聆听、城市、广播、电视、DJ文化、音乐制作与多媒体实践:横跨四十多年的历程,从加拉加斯天堂区(El Paraíso)的La Cuadra(1966年)到迈阿密。这段历程包括在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的PARLAMENTO、在92.9 FM和La Mega 107.3 FM电台的SHORT MUU与PARLAMENTO SONORO节目、在Ateneo电台的DR. MUUSICA节目、在BAR1和90 Grados担任驻场选曲人(selector)、电视创意总监工作,以及作为多媒体观念艺术家、声音艺术家、音乐制作人和选曲人持续至今的创作实践。",
-      "quote": "“观看、聆听、记录、挑选、归档、编辑并分享。”",
-      "link": "阅读完整传记档案(PDF)↗"
-    },
     "recent": {
       "p1": "<strong>Latencias</strong>（2026年）是一场40分钟的多媒体感官表演，于2026年2月19日在Ignite Broward Festival、MAD Arts（佛罗里达州戴尼亚海滩）首演。记录于本网站的<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">概念</a>与<a href=\"proyectos.html\">项目</a>板块。"
     },
@@ -116,6 +111,11 @@
     "cronicas": {
       "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
       "p1": "2018年,作家Lieska根据在艺术家迈阿密工作室进行的采访,在Bitácora 29(杰克逊维尔)发表了这篇专访。文章回顾了他的成长历程、其创作中幽默与不敬之间的联系,以及Abstracciones Paisajísticas系列的发展。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">阅读全文(PDF)↗</a>"
+    },
+    "dossierbio": {
+      "p1": "艺术、聆听、城市、广播、电视、DJ文化、音乐制作与多媒体实践:横跨四十多年的历程,从加拉加斯天堂区(El Paraíso)的La Cuadra(1966年)到迈阿密。这段历程包括在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的PARLAMENTO、在92.9 FM和La Mega 107.3 FM电台的SHORT MUU与PARLAMENTO SONORO节目、在Ateneo电台的DR. MUUSICA节目、在BAR1和90 Grados担任驻场选曲人(selector)、电视创意总监工作,以及作为多媒体观念艺术家、声音艺术家、音乐制作人和选曲人持续至今的创作实践。",
+      "quote": "“观看、聆听、记录、挑选、归档、编辑并分享。”",
+      "link": "阅读完整传记档案(PDF)↗"
     }
   },
   "conceptual": {

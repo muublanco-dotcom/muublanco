@@ -59,13 +59,13 @@
     "h2": {
       "summary": "Resumen",
       "full": "Bio Video Arte",
-      "dossierbio": "Dossier biográfico — DJ Muu / Dr. Muusica",
       "recent": "Trabajo reciente",
       "contact": "Contacto",
       "morelinks": "Más enlaces",
       "projects": "Proyectos y espacios",
       "shortbio": "Bio corta",
-      "cronicas": "Crónicas"
+      "cronicas": "Crónicas",
+      "dossierbio": "Dossier biográfico — DJ Muu / Dr. Muusica"
     },
     "summary": {
       "p1": "Muu Blanco (Caracas, Venezuela, 1966) es un artista multidisciplinario, videoartista y creador de instalaciones multimedia radicado en Miami. Desde principios de los años 90, su práctica ha explorado la relación entre la imagen, el sonido y el paisaje urbano a través del video experimental, el arte sonoro, la performance, la fotografía y el video mapping.",
@@ -92,11 +92,6 @@
       "p17": "Con más de cuatro décadas de trayectoria artística, Muu Blanco ha desarrollado una práctica híbrida en la que el video, el sonido, la tecnología y la performance funcionan como dispositivos para investigar la cultura urbana, la memoria y las tensiones sociales contemporáneas. Su obra forma parte de diversas colecciones públicas y privadas internacionales.",
       "readmore": "Ver biografía completa"
     },
-    "dossierbio": {
-      "p1": "Arte, escucha, ciudad, radio, televisión, cultura DJ, producción musical y práctica multimedia: más de cuatro décadas de trayectoria, desde La Cuadra, El Paraíso (Caracas, 1966) hasta Miami. El recorrido incluye PARLAMENTO en el Museo de Arte Contemporáneo de Caracas Sofía Imber, SHORT MUU y PARLAMENTO SONORO en 92.9 FM y La Mega 107.3 FM, DR. MUUSICA en Radio del Ateneo, residencias como selector en BAR1 y 90 Grados, dirección creativa en televisión, y una práctica continua como artista conceptual multimedia, artista sonoro, productor musical y selector.",
-      "quote": "“Ver, escuchar, registrar, seleccionar, archivar, editar y compartir.”",
-      "link": "Leer dossier biográfico completo (PDF) ↗"
-    },
     "recent": {
       "p1": "<strong>Latencias</strong> (2026), performance sensorial multimedia de 40 minutos, se estrenó el 19 de febrero de 2026 en el festival Ignite Broward, MAD Arts, Dania Beach, FL. Se documenta en las secciones <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> y <a href=\"proyectos.html\">Proyectos</a> de este sitio."
     },
@@ -116,6 +111,11 @@
     "cronicas": {
       "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
       "p1": "En 2018, la escritora Lieska publicó en Bitácora 29 (Jacksonville) este perfil, a partir de una entrevista en el estudio del artista en Miami. El texto recorre su formación, el vínculo entre humor e irreverencia en su práctica, y el desarrollo de la serie Abstracciones Paisajísticas. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Leer artículo completo (PDF) ↗</a>"
+    },
+    "dossierbio": {
+      "p1": "Arte, escucha, ciudad, radio, televisión, cultura DJ, producción musical y práctica multimedia: más de cuatro décadas de trayectoria, desde La Cuadra, El Paraíso (Caracas, 1966) hasta Miami. El recorrido incluye PARLAMENTO en el Museo de Arte Contemporáneo de Caracas Sofía Imber, SHORT MUU y PARLAMENTO SONORO en 92.9 FM y La Mega 107.3 FM, DR. MUUSICA en Radio del Ateneo, residencias como selector en BAR1 y 90 Grados, dirección creativa en televisión, y una práctica continua como artista conceptual multimedia, artista sonoro, productor musical y selector.",
+      "quote": "“Ver, escuchar, registrar, seleccionar, archivar, editar y compartir.”",
+      "link": "Leer dossier biográfico completo (PDF) ↗"
     }
   },
   "conceptual": {
