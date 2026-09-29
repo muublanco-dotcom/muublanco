@@ -1,839 +1,839 @@
 {
- "common": {
-  "menu": "Menü",
-  "enter": "Eintreten →",
-  "nav": {
-   "conceptual": "Konzeptuell",
-   "practicas": "Öffentliche Praktiken",
-   "drmusica": "DR.MUU RECORDS",
-   "prensa": "Presse",
-   "cv": "CV",
-   "galeria": "Galerie",
-   "about": "Über",
-   "contacto": "Kontakt",
-   "proyectos": "Projekte",
-   "exposiciones": "Ausstellungskataloge",
-   "selectedworks": "Ausgewählte Werke",
-   "workwithmuu": "Mit Muu arbeiten",
-   "ahora": "Muu Blanco — Jetzt"
+  "common": {
+    "menu": "Menü",
+    "enter": "Eintreten →",
+    "nav": {
+      "conceptual": "Konzeptuell",
+      "practicas": "Öffentliche Praktiken",
+      "drmusica": "DR.MUU RECORDS",
+      "prensa": "Presse",
+      "cv": "CV",
+      "galeria": "Galerie",
+      "about": "Über",
+      "contacto": "Kontakt",
+      "proyectos": "Projekte",
+      "exposiciones": "Ausstellungskataloge",
+      "selectedworks": "Ausgewählte Werke",
+      "workwithmuu": "Mit Muu arbeiten",
+      "ahora": "Muu Blanco — Jetzt"
+    }
+  },
+  "index": {
+    "hero": {
+      "needs": "Multidisziplinärer Künstler,",
+      "accent": "Klangkünstler, Performer und Vinyl-Selector.",
+      "sub": "Caracas, 1966 · Lebt in Miami — vier Jahrzehnte der Erkundung von Bild, Erinnerung, Landschaft, Klang, Technologie und Kulturarchiven.",
+      "alt": "Muu Blanco — Porträt, Miami, 2026"
+    },
+    "tiles": {
+      "conceptual": "Texte, Arbeitsnotizen und ein chronologisch geordnetes Werkverzeichnis.",
+      "practicas": "Instagram, YouTube, SoundCloud und Discogs — die laufende Praxis.",
+      "drmusica": "Das klangliche Alter Ego — Produktionen, Kollaborationen und Veröffentlichungen.",
+      "galeria": "Originalwerke erhältlich — Online-Shop, Preis- und Verfügbarkeitsanfragen.",
+      "prensa": "Chronologisch geordnete Rezensionen aus Zeitungen und Magazinen.",
+      "cv": "Vollständiger chronologischer Leitfaden — Ausbildung, Ausstellungen, Diskografie und Presse.",
+      "contacto": "Für Kuratoren, Galerien, Presse, Sammler und Musikanfragen.",
+      "proyectos": "Langfristige Forschungslinien — NatuUrban Symphony, 100 Years of Sound Art und mehr.",
+      "exposiciones": "Kataloge von Einzel- und Gruppenausstellungen, 1994 bis 2014."
+    },
+    "featured": {
+      "eyebrow": "Muu Blanco — Jetzt",
+      "selectedworks": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis.",
+      "workwithmuu": "Klangperformance, Auftragsarbeiten, Künstlergespräche und Vinyl-Hörsitzungen.",
+      "archiveTitle": "Archiv 1986–2026",
+      "archiveDesc": "Die vollständige Laufbahn — Fotografie, Performance, Video, Installation, Klang und Publikationen."
+    },
+    "now": {
+      "title": "Neuestes Video & Musik",
+      "lead": "Bewegtes Bild und Musik, in Echtzeit.",
+      "videoLabel": "Neueste Videoclips",
+      "mixmediaLabel": "Neueste MixMedia-Arbeit"
+    },
+    "sections": {
+      "eyebrow": "Das vollständige Archiv erkunden"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "lead": "Multidisziplinärer Künstler. Klangalias: <em>Dr.Muusica</em>. Caracas / Miami.",
+    "h2": {
+      "summary": "Zusammenfassung",
+      "full": "Videokunst-Biografie",
+      "dossierbio": "Biografisches Dossier — DJ Muu / Dr. Muusica",
+      "recent": "Aktuelle Arbeit",
+      "contact": "Kontakt",
+      "morelinks": "Weitere Links",
+      "projects": "Projekte und Räume",
+      "shortbio": "Kurzbiografie",
+      "cronicas": "Chroniken"
+    },
+    "summary": {
+      "p1": "Muu Blanco (Caracas, Venezuela, 1966) ist ein multidisziplinärer Künstler, Videokünstler und Schöpfer multimedialer Installationen mit Sitz in Miami. Seit den frühen 1990er Jahren erforscht seine Praxis die Beziehung zwischen Bild, Klang und urbaner Landschaft durch experimentelles Video, Klangkunst, Performance, Fotografie und Videomapping.",
+      "p2": "Seine frühen Videoarbeiten entstanden im Video8-Format und wurden später beim II. Pirelli-Salon junger Künstler am Museum für zeitgenössische Kunst von Caracas gezeigt, wo die komplette Serie von der Sammlung Noa Noa erworben wurde. Seine Arbeiten wurden in Institutionen wie dem Museum für zeitgenössische Kunst von Caracas Sofía Imber, der Sala Mendoza, der Nationalen Kinemathek von Caracas und dem Mandragoras Art Space in New York gezeigt.",
+      "p3": "Seit seinem Umzug nach Miami im Jahr 2014 entwickelt Blanco weiterhin multimediale Installationen, die Videomapping, Klangkunst und Performance verbinden, darunter sein jüngstes Projekt NatuUrban Symphony (2024–2025)."
+    },
+    "full": {
+      "p1": "Muu Blanco (Caracas, Venezuela, 1966) ist ein multidisziplinärer Künstler, Videokünstler und Schöpfer multimedialer Installationen mit Sitz in Miami. Seine künstlerische Praxis umfasst experimentelle Videokunst, Klangkunst, Performance, Fotografie, Assemblage, Installation, elektronische Musik und Videomapping und entwickelt seit den frühen 1990er Jahren eine fortlaufende Untersuchung der Beziehung zwischen Bild, Klang und urbaner Landschaft.",
+      "p2": "Blanco begann Anfang der 1990er Jahre mit experimenteller Videokunst zu arbeiten und nutzte zunächst das Video8-Format als Werkzeug ästhetischer Erkundung. Seine erste Teilnahme an einer Gruppenausstellung mit Video fand 1992 statt, als eines seiner Werke vom Sammler Jimmy Belilty erworben wurde. Von diesem Moment an begann er eine kontinuierliche Erkundung der experimentellen audiovisuellen Sprache.",
+      "p3": "1994 nahm er an der Gruppenausstellung Mixed Techniques in der Alternative Gallery in Caracas teil, einer seiner frühesten Präsentationen im zeitgenössischen Ausstellungsbetrieb.",
+      "p4": "Bis 1995 hatte er mehr als dreißig experimentelle Videoarbeiten produziert, die später beim II. Pirelli-Salon junger Künstler (1997) am Museum für zeitgenössische Kunst von Caracas gezeigt wurden, wo die gesamte Werkgruppe von der privaten Sammlung Noa Noa der Familie Oberto erworben wurde.",
+      "p5": "In den späten 1990er und frühen 2000er Jahren erweiterte er seine audiovisuelle Forschung weiter, dokumentierte Performances und entwickelte experimentelle Projekte in Video und Klang.",
+      "p6": "2002 nahm er an der Ausstellung From White Cube to Black Box: Historical Tapes, Creative Videos, Digital Art, Venezuelan Video am Museum für zeitgenössische Kunst von Caracas Sofía Imber teil. Im selben Jahr beteiligte er sich auch am Projekt Multimedia Artist, Founder of the Center for the Arts, das an derselben Institution gezeigt wurde. In dieser Zeit trug er auch zum Aufbau der Videokunstsammlung des Museums bei, indem er zwanzig in diesem Jahrzehnt entstandene Videowerke stiftete und der Institution übergab.",
+      "p7": "2003 nahm er am XI. Eugenio-Mendoza-Preis in der Sala Mendoza, Caracas, teil.",
+      "p8": "2004 präsentierte er das Werk Variations of the Eye. Videodance – Muu Blanco in der Nationalen Kinemathek von Caracas. Im selben Jahr war seine Arbeit Teil der Ausstellung Electric Earth. Short Films and Videos from the UK and Venezuela in der Sala Mendoza, einem internationalen Programm für experimentelles Video und Kurzfilm.",
+      "p9": "2006 präsentierte er ein experimentelles Videoprojekt im Museo Jacobo Borges, entwickelt in Zusammenarbeit mit dem Goethe-Institut. Das Projekt widmete sich Straßenhändlern und der informellen Wirtschaft in den Straßen von Caracas und thematisierte die urbane Landschaft als sozialen und politischen Raum.",
+      "p10": "Ab 2008 begann er, erweiterte Projektion und Videomapping in seine multimedialen Installationen zu integrieren. 2013 entwickelte er ein Forschungsprojekt zu Diashow und animiertem fotografischem Porträt, das im selben Jahr mit seiner letzten Einzelausstellung in Venezuela gipfelte, In Tha House, präsentiert bei Carmen Araujo Arte — eine multimediale Installation aus Video, Malerei, Skulptur und Klang.",
+      "p11": "2014 hatte er seine erste Einzelausstellung in New York City mit der multimedialen Installation Black Point Venezuela, präsentiert im Rahmen des Performance-Programms des Mandragoras Art Space in Long Island City. Die Arbeit verband Klangkunst, Videomapping, Skulptur und analoge Collage und thematisierte die sozialen und politischen Spannungen des zeitgenössischen venezolanischen Kontexts.",
+      "p12": "Im selben Jahr zog er nach Miami, wo er weiterhin einen Großteil seiner künstlerischen Produktion entwickelt. 2015 präsentierte er Nuevo Pensamiento Compositivo Vol.1 bei der Arts Connection Foundation, im Rahmen des Chill-Concept-Raums, eine Installation aus großformatiger Fotografie, Videomapping und Klangkunst.",
+      "p13": "Zwischen 2017 und 2019 entwickelte er eine Reihe experimenteller audiovisueller Veranstaltungen und Erfahrungen bei Ironside Miami, insbesondere im Espacio Santamantis, wo er Zusammenkünfte organisierte, die Videomapping und live gespielter experimenteller Musik gewidmet waren.",
+      "p14": "Nach der Unterbrechung dieser kreativen Räume während der COVID-19-Pandemie gründete er 2020 das Künstlerkollektiv IDArt Lab im Stadtteil Allapattah mit, das bis 2023 aktiv war. Innerhalb dieses Kollektivs nahm er an mehreren Gruppenausstellungen teil, bei denen er Videomapping, experimentelle Animationen und klanggesteuerte Lichtperformances in Begleitung live gespielter Klangkunstkompositionen präsentierte.",
+      "p15": "Sein jüngstes Projekt ist das Installations- und Klangkunstprogramm NatuUrban Symphony, präsentiert zwischen November 2024 und Januar 2025 bei der Arts Connection Foundation, das experimentelle Musik, Tanz, Videomapping-Projektionen und die Präsentation seines Dokumentarfilms NatuUrban Symphony vereint.",
+      "p16": "Seit 2017 pflegt Blanco den Instagram-Account <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a> als lebendiges Archiv seiner audiovisuellen Produktion, das Installationen, Performances und Videoexperimente aus seinem letzten Jahrzehnt der Arbeit in Miami dokumentiert.",
+      "p17": "Mit mehr als vier Jahrzehnten künstlerischer Laufbahn hat Muu Blanco eine hybride Praxis entwickelt, in der Video, Klang, Technologie und Performance als Mittel dienen, um urbane Kultur, Erinnerung und zeitgenössische soziale Spannungen zu untersuchen. Seine Arbeit ist Teil zahlreicher internationaler öffentlicher und privater Sammlungen.",
+      "readmore": "Vollständige Biografie ansehen"
+    },
+    "dossierbio": {
+      "p1": "Kunst, Zuhören, Stadt, Radio, Fernsehen, DJ-Kultur, Musikproduktion und multimediale Praxis: mehr als vier Jahrzehnte Laufbahn, von La Cuadra, El Paraíso (Caracas, 1966) bis Miami. Der Weg umfasst PARLAMENTO im Sofía-Imber-Museum für zeitgenössische Kunst von Caracas, SHORT MUU und PARLAMENTO SONORO auf 92.9 FM und La Mega 107.3 FM, DR. MUUSICA auf Radio del Ateneo, Residenzen als Selector in BAR1 und 90 Grados, künstlerische Leitung im Fernsehen und eine fortlaufende Praxis als multimedialer Konzeptkünstler, Klangkünstler, Musikproduzent und Selector.",
+      "quote": "„Sehen, hören, aufzeichnen, auswählen, archivieren, bearbeiten und teilen.“",
+      "link": "Vollständiges biografisches Dossier lesen (PDF) ↗"
+    },
+    "recent": {
+      "p1": "<strong>Latencias</strong> (2026), eine 40-minütige multimediale sensorische Performance, wurde am 19. Februar 2026 beim Ignite Broward Festival, MAD Arts, Dania Beach, FL, uraufgeführt. Sie wird in den Bereichen <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> und <a href=\"proyectos.html\">Projekte</a> dieser Website dokumentiert."
+    },
+    "contact": {
+      "p1": "Aktive Praktiken und Netzwerke unter <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a>. Werke zum Erwerb erhältlich in der <a href=\"store.html\">Galerie</a>."
+    },
+    "morelinks": {
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — Biografie und Laufbahn. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — alle Links des Künstlers an einem Ort."
+    },
+    "projects": {
+      "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — Künstlerprofil im Ausstellungsraum in Miami. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — Forschungsprojekt zur Geschichte der Klangkunst."
+    },
+    "shortbio": {
+      "p1": "Muu Blanco (Caracas, 1966) ist ein multidisziplinärer Künstler und Musiker unter dem Alias Dr.Muusica mit Sitz in Miami. Seine Praxis umfasst Videokunst, Klangkunst, Performance und Installation und erforscht über vier Jahrzehnte hinweg die Beziehung zwischen Bild, Klang und urbaner Landschaft.",
+      "readmore": "Vollständige Biografie lesen ↓"
+    },
+    "cronicas": {
+      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+      "p1": "2018 veröffentlichte die Autorin Lieska dieses Porträt in Bitácora 29 (Jacksonville), basierend auf einem Interview im Atelier des Künstlers in Miami. Der Text beleuchtet seine Ausbildung, die Verbindung von Humor und Respektlosigkeit in seiner Praxis sowie die Entwicklung der Serie Abstracciones Paisajísticas. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Vollständigen Artikel lesen (PDF) ↗</a>"
+    }
+  },
+  "conceptual": {
+    "eyebrow": "01 — Konzeptuell",
+    "lead": "Vier Jahrzehnte künstlerischer Forschung, in denen Landschaft, Abstraktion, Klang, Erinnerung, Natur und Technologie zusammenlaufen, um unsere Wahrnehmung der zeitgenössischen Welt zu erweitern.",
+    "loading": "Bibliografie wird geladen…",
+    "statementTitle": "Künstlerstatement",
+    "statement": {
+      "p1": "Meine künstlerische Praxis begann 1986 als eine intuitive Suche, die Kunst nicht als isolierte Disziplin verstand, sondern als ein Territorium, in dem sich Bild, Klang, Architektur, Landschaft und Erinnerung begegnen konnten. Seither habe ich eine multidisziplinäre, in ständiger Wandlung befindliche Laufbahn aufgebaut, angetrieben von dem Bedürfnis zu untersuchen, wie wir die Welt wahrnehmen und wie die Zeit unsere Beziehung zu ihr verändert.",
+      "p2": "Ich wurde 1966 in Caracas geboren, einer Stadt, deren urbane Komplexität mein Raumverständnis tief geprägt hat. In meinen frühen Jahren entwickelte ich eine Praxis, die sich auf Malerei, Zeichnung und experimentelle Interventionen konzentrierte und sich bald zu Videokunst, experimentellem Film, Installation und klanglichen Praktiken weiterentwickelte. In den neunziger Jahren erhielt ich Anerkennungen, die diese Richtung bestätigten, darunter den Ersten Preis der Kurzfilm-Biennale von São Paulo für Perra Chillona und eine Sonderauszeichnung bei der V. Nationalen Kunstbiennale von Guayana.",
+      "p3": "Meine Arbeit war nie an ein einziges Medium gebunden. Jedes Projekt bestimmt die Sprache, die es zum Existieren braucht. Über vier Jahrzehnte hinweg habe ich mich zwischen Fotografie, Collage, musikalischer Komposition, Klangkunst, Performance, dokumentarischer Forschung und immersiven Installationen bewegt und verstehe all diese Disziplinen als Teil desselben kreativen Prozesses.",
+      "p4": "Natur und Landschaft waren die dauerhafte Achse meiner Forschung. Ich begreife sie nicht als darzustellende Kulisse, sondern als lebendige Archive, in denen Geschichte, Ökologie, Kultur und menschliche Erfahrung zusammenlaufen. Aus dieser Erkundung entstehen Projekte wie Abstraciones Paisajísticas, Modernismo Anacrónico, NatuUrban: A SubTropical Symphony of Miami und Archipiélago Sonoro — Werke, die die Beziehung zwischen Territorium, Erinnerung, Biodiversität und Klang untersuchen.",
+      "p5": "Die Migration nach Miami im Jahr 2014 eröffnete ein neues Kapitel meiner Praxis. Die Begegnung mit den subtropischen Ökosystemen Südfloridas erweiterte mein Interesse an akustischer Ökologie und an den Möglichkeiten, immersive Erfahrungen zu schaffen, in denen Feldaufnahmen, elektroakustische Komposition, künstliche Intelligenz, Fotografie, Video und interaktive Technologien koexistieren. In dieser Zeit hörte der Klang auf, das Bild zu begleiten, und wurde zu einem skulpturalen Material, das in der Lage ist, Räume der Kontemplation zu errichten.",
+      "p6": "In diesen Jahren habe ich auch intensiv als Forscher, Komponist, Selector, Herausgeber und Kulturproduzent gearbeitet und Publikationen, Archive, Schallplatten, Konzerte, Labore und Vermittlungsplattformen für Klangkunst und die musikalischen Kulturen der Karibik und Lateinamerikas geschaffen. Ich verstehe diese Aktivitäten als natürliche Erweiterungen meiner künstlerischen Praxis und als Möglichkeiten, Gemeinschaften rund um das Zuhören zu aktivieren.",
+      "p7": "Meine Arbeit schlägt eine Verlangsamung des Sehens und Hörens vor. Mich interessiert es, das sichtbar zu machen, was normalerweise unsichtbar bleibt: die Resonanzen der Landschaft, die in einem Territorium enthaltenen Erinnerungen, die alltäglichen Klänge, die unbemerkt bleiben, und die verborgenen Beziehungen zwischen Natur, Stadt und Kultur. Statt einen Ort darzustellen, versuche ich, Bedingungen zu schaffen, um ihn aus einer erweiterten Wahrnehmung heraus zu erfahren.",
+      "p8": "Im Jahr 2026, zum vierzigsten Jahrestag meiner künstlerischen Laufbahn, erkenne ich, dass meine Arbeit weiterhin eine offene Forschung ist. Jedes Projekt ist eine Einladung, anders zuzuhören, aufmerksamer zu beobachten und zu verstehen, dass die Landschaft kein äußeres Objekt ist, sondern ein lebendiger Organismus, dessen Teil auch wir sind. Meine Praxis entwickelt sich weiter zwischen technologischem Experiment und poetischer Sensibilität, in der Überzeugung, dass Kunst neue Formen der Beziehung zur Welt und zum kollektiven Gedächtnis schaffen kann."
+    }
+  },
+  "practicas": {
+    "eyebrow": "03 — Öffentliche Praktiken",
+    "lead": "Die laufende Praxis, dokumentiert über Netzwerke hinweg: sieben Instagram-Accounts, YouTube, Vimeo, SoundCloud und Discogs."
+  },
+  "drmusica": {
+    "eyebrow": "04 — DR.MUU RECORDS",
+    "lead": "Musikproduktionen von Dr.Muurecords, unter der Leitung von Dr.Muusica.",
+    "h2": {
+      "listen": "Vollständige Diskografie",
+      "press": "In der Presse",
+      "videoclips": "Videoclips",
+      "selector": "Dr.Muusica Selector — Vinyl & Live-Sessions",
+      "noticias": "Neueste Veröffentlichung",
+      "selectedreleases": "Ausgewählte Veröffentlichungen"
+    },
+    "press": {
+      "lead": "Erwähnungen und Berichterstattung über Muu Blanco als Musiker und Musikproduzent, chronologisch geordnet."
+    },
+    "videoclips": {
+      "lead": "Musikvideos, produziert und inszeniert von Muu Blanco, mit Originalmusik von Muu Blanco, produziert von Dr.Muusica im Dr.Muu-Records-Studio.",
+      "v1": {
+        "meta": "Mit Héctor Lavoe · Drehbuch: Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "JABALEE (LP), Track 5 · Ditto Music Venezuela · Video: MuuBlancoVideoArt &amp; SaltaMantis · Regie: Muu Blanco",
+        "date": "Juni 2019"
+      },
+      "v3": {
+        "meta": "Erste Single des LP New Wave BeatMaker CCS 66 · Bilder, Konzept und Regie: Muu Blanco",
+        "date": "März 2019"
+      },
+      "v4": {
+        "meta": "Sound Live: Dr.Muusica · Video Live: SaltaMantis · Voice Live: Veekelly · Regie: Muu Blanco · SaltaMantis Space",
+        "date": "März 2019"
+      },
+      "v5": {
+        "meta": "Dritte Video-Single des LP New Wave BeatMaker CCS 66"
+      },
+      "v6": {
+        "meta": "Video: Dr.Muu Desing",
+        "date": "März 2017"
+      },
+      "v7": {
+        "meta": "Selfie-Videoclip · Originalmusik: Dr.Muusica",
+        "date": "Dezember 2016"
+      }
+    },
+    "youtube": {
+      "handle": "Muu Blanco auf YouTube"
+    },
+    "listen": {
+      "original": "Originalmusik",
+      "mixtapes": "Live aufgenommene Mixtapes"
+    },
+    "selector": {
+      "lead": "Live-Sessions zum Vinyl-Hören, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae, Ska und Dub; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba, World Music und + reichen. Wöchentliche Residency bei Tripping Animals Brewery, Doral City, FL (2024–2026).",
+      "v1": {
+        "meta": "Live Vinyl Listening Session · Record Store Day 2026 · Lucky Records, Miami"
+      },
+      "v2": {
+        "date": "9. Februar 2025",
+        "meta": "Live gestreamt · Sounds von Dr. Muusica · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v3": {
+        "date": "14. Januar 2025",
+        "meta": "Live gestreamt · Tripping Animals Brewing, Doral City, FL"
+      },
+      "v4": {
+        "date": "Januar 2025",
+        "meta": "Mit Uncle Jei · Tripping Animals Brewing, Doral City, FL"
+      }
+    },
+    "noticias": {
+      "lead": "Neue Veröffentlichung von DR.MUU Records, produziert von Dr.Muusica.",
+      "v1": {
+        "date": "Mai 2026",
+        "meta": "Label: DrMuu Records · Ausführende Produktion: Muu Blanco · Kunst, Grafikdesign: DrMuu Desing · Musikproduktion: Argenis Brito und Dr.Muusica · Aufgenommen und produziert zwischen Miami und Berlin, 2025–2026 · Postproduktion: Argenis Brito · Weltweite Veröffentlichung: 24. Mai 2026",
+        "p1": "Es ist eine aktive Instanz eines Systems, in dem die Struktur aufhört, als Eindämmung zu funktionieren, und beginnt, sich als Bruchfläche zu verhalten.",
+        "p2": "In diesem Kontext funktioniert der Klang nicht als Komposition, sondern als Druck: eine Kraft, die die Grenze durchquert, bis sie sie zerreißt.",
+        "track1title": "Track 1 — (Die Grenze zerreißt / Niemand hält an)",
+        "track1desc": "Er markiert den Moment, in dem die Struktur nachgibt. Es gibt weder Übergang noch Warnung: Die Öffnung ist unmittelbar und total. Was entsteht, folgt keiner narrativen Logik, sondern einem Fluss, der weder Bremse noch Richtung kennt.",
+        "track2title": "Track 2 — (Sie atmen, wo keine Luft ist)",
+        "track2desc": "Er bewohnt die Folgen dieses Bruchs. Hier stabilisiert sich die Anomalie. Das Unmögliche kollabiert nicht: es besteht fort. Was keine Bedingungen zur Existenz haben sollte, findet einen Weg, aktiv zu bleiben in einer Umgebung, die nicht mehr zwischen Innen und Außen unterscheidet.",
+        "p3": "Das Werk schlägt keine Geschichte vor, sondern einen Zustand: eine Zone, in der die Wahrnehmung gezwungen ist, ohne stabile Referenzen zu operieren.",
+        "closing": "ARGMUU konstruiert keinen Sinn; es unterwirft ihn der Interferenz.",
+        "listen": "Auf YouTube Music hören ↗",
+        "track1credit": "Videoclip: MuuBlancoVideoArt"
+      }
+    },
+    "selectedreleases": {
+      "lead": "Eine Auswahl an Alben und Klangveröffentlichungen von Muu Blanco / Dr.Muusica.",
+      "natuurban": "2024 · 12″-Vinyl-LP, 180g grün · Arts Connection Foundation",
+      "nwbm": "2019"
+    }
+  },
+  "prensa": {
+    "eyebrow": "06 — Presse",
+    "lead": "Chronologisch geordnete Rezensionen über Muu Blancos Werk in Zeitungen und Magazinen.",
+    "loading": "Rezensionen werden geladen…"
+  },
+  "store": {
+    "eyebrow": "05 — Galerie",
+    "lead": "Vier erhältliche Künstlerbücher: AAA 2002–2012 (Abstracciones Paisajísticas), Modernismo Anacrónico sowie New Compositional Thinking 1 und 2. Tippen Sie auf ein Cover, um es auf Blurb anzusehen, oder öffnen Sie die beschreibenden Anmerkungen.",
+    "driveImage": "Bild auf Google Drive",
+    "books": {
+      "title": "Erhältliche Bücher",
+      "withGerardo": "mit Gerardo Zavarze",
+      "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
+      "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
+      "v1": {
+        "p1": "Es stellt eine Synthese von Bildern von Muu Blanco (Caracas, Venezuela, 1966) dar, die sich auf das Zusammentreffen von Natur, Architektur und anderen Formen konzentriert, die die sensible Tradition der geometrischen Abstraktion in der venezolanischen Kunst aufgreifen.",
+        "p2": "Die Entstehung des Projekts ist in die Entstehung des experimentellen Lernraums eingebettet, der vom Instituto de Estudios Superiores de Artes Plásticas Armando Reverón (IUESAPAR) konzipiert wurde: Praxis und Kritik zeitgenössischer Systeme visueller Repräsentation. Dort fanden bedeutende Dialoge mit der Forscherin Sandra Pinardi, dem Kurator Luis Enrique Pérez Oramas und dem Architekten William Niño Araque statt, die die kreativen Umstände für den Fortgang dieser visuellen Forschung prägten.",
+        "p3": "Die Bilder, aus denen diese besondere Serie besteht, beziehen sich auf die sogenannte Escuela de Caracas, die Bewegung, die die venezolanische visuelle Moderne einleitet. Die vereinende Präsenz der Formen des Ávila stellt ein visuelles Schwerezentrum dar, das den Weisen, die Stadt zu betrachten, als Erfahrung, sich selbst zu betrachten, Kontrapunkte auferlegt.",
+        "p4": "Ebenso ist die Begegnung mit der Architektur ein stark präsentes Merkmal und fängt die Konzeption einer neuen Monumentalität ein, verbunden mit einer Sensibilität, die die integrative Erfahrung von Kunst und Architektur wiederbelebt, nun in klarem Bezug auf die agonale, vitale, dynamische und komplexe Dimension des Ortes. Das Erscheinen von Licht und die symbolische Bedeutung des Himmels — vielleicht als Verbindung zur kolonialen Erinnerung, Caracas als Ausläufer des Himmels? — stellt ebenfalls einen bedeutenden Bezugspunkt innerhalb der Montage der Bilder dar, aus denen diese Serie besteht.",
+        "details": "Kunstfotografie · Inspiration · Standardhochformat, 20×25 cm · 40 Seiten · ISBN 9798880530731 · Veröffentlicht Januar 2024 · Spanisch"
+      },
+      "v2": {
+        "p1": "Dies ist ein Kunstbuch von Muu Blancos Collagearbeit — es enthält keine Texte, nur Bilder: Fotografien dieser Werke. Die Werke, die Fotografien und das Grafikdesign stammen alle von Muu Blanco.",
+        "details": "Kunstfotografie · 15×23 cm · 120 Seiten · ISBN 9781320501064 · Veröffentlicht August 2015 · Sprache unbestimmt"
+      },
+      "v3": {
+        "p1": "In diesem Fall habe ich mit Pillen persönlicher Medikamente in Paolo Gasparinis Fotobuch Retromundo interveniert, das 1986 in Venezuela veröffentlicht wurde.",
+        "p2": "Ich verstehe meine Arbeit mit diesem Buch als konzeptuelle Handlung. Mich interessiert es, reflexiv die Elemente zu erkunden, die meine tägliche Welt und ihren Fluss mit meinen Lebenserfahrungen integrieren und konfigurieren. Ich tue dies nicht aus einer intimen Perspektive. Im Gegenteil, ich tue es aus einer Archäologie des Selbst (die Pillen, die ich täglich einnehme, können sich in persönliche archäologische Überreste verwandeln).",
+        "p3": "Von diesem Punkt aus sucht meine künstlerische Arbeit einen transgressiven und kontingenten Dialog mit den besonderen Diskursen der lateinamerikanischen Modernitäten und insbesondere mit jenen, die im Kontext der venezolanischen Geschichte verankert sind. Meine fotografischen Kompositionen mit Pillen, die auf Fragmenten des Buches Retromundo platziert sind, artikulieren oder zeigen keinen epischen oder nostalgischen Blick auf die Visionen des Autors der Originalfotografien. Sie sind vielmehr ästhetische Risse. Die Pillen fungieren als Assoziationsfaktoren mit der persönlichen Welt eines jeden. Sie sind Proben einer veränderten Modernität.",
+        "details": "Kunstfotografie · 13×20 cm · 30 Seiten · ISBN 9781367872233 · Veröffentlicht April 2016 · Englisch"
+      },
+      "v4": {
+        "p1": "Nun geht es im venezolanischen Fall nicht mehr um ein Land der Gnade, wie Christoph Kolumbus es in den Chroniken seiner Reisen in die Neue Welt formulieren würde. Die modernen Utopien, verankert in den Idealen einer schlaraffenlandhaften Natur, haben sich mit der plötzlichen und intensiven Ausbeutung der unterirdischen mineralischen Ressourcen in reale individuelle und kollektive Tragödien verwandelt. Die jüngste Geschichte Venezuelas bezeugt dies: eine Nation, die trotz der größten Ölreserven der Welt ihren Bürgern kein Wirtschaftswachstum und keine soziale Gerechtigkeit garantieren konnte.",
+        "p2": "Aus dieser Perspektive schlägt Muu Blanco vor, das venezolanische Ölimaginäre durch die Serie New Compositional Thinking (2014) umzukehren. In dieser Arbeit interveniert Blanco in eine Reihe von Bildern, die sich auf das venezolanische Ölepos beziehen und ursprünglich im Fotografiemagazin Extra Cámara veröffentlicht wurden, indem er ein Skapulier mit dem Bildnis von Chapulín Colorado einfügt. Zweifellos ist die Absicht dieser Einfügung, dass der Betrachter sich an den berühmten Satz der TV-Figur erinnert: „Und wer wird uns jetzt verteidigen?“ Gleichzeitig wird deutlich, dass Muu Blanco mit dieser Arbeit den Ölkult in derselben Weise anprangert, wie der Historiker Germán Carrera Damas vor einigen Jahren den in der venezolanischen Kultur so tief verwurzelten Bolívar-Kult offenlegte.",
+        "credits": "Fotobuch von Muu Blanco · Text: Gerardo Zavarce · Grafikdesign: Muu Blanco",
+        "details": "Kunstfotografie · Bildung · Kleines Quadrat, 18×18 cm · 20 Seiten · ISBN 9781320500975 · Veröffentlicht August 2015 · Englisch"
+      },
+      "memoriaLabel": "Beschreibende Anmerkungen"
+    }
+  },
+  "cv": {
+    "eyebrow": "08 — CV",
+    "lead": "Chronologischer Leitfaden zur künstlerischen Laufbahn von Muu Blanco (Caracas, Venezuela, 1966). Lebt und arbeitet in Miami. Venezolanisch-US-amerikanischer Künstler.",
+    "h2": {
+      "education": "Ausbildung",
+      "awards": "Preise und Auszeichnungen",
+      "solo": "Einzelausstellungen",
+      "group": "Gruppenausstellungen",
+      "collections": "Öffentliche Sammlungen",
+      "discography": "Diskografie (Auswahl)",
+      "installations": "Bemerkenswerte Klang- und Performance-Installationen",
+      "residencies": "Künstlerresidenzen",
+      "publications": "Publikationen / Presse / Kritische Erwähnungen (Auswahl)",
+      "media": "Besprochen in Medien wie",
+      "selected": "Ausgewählte Ausstellungen & Performances"
+    },
+    "selected": {
+      "readmore": "Vollständigen CV ansehen ↓",
+      "y2026i1": "Latencias, Ignite Broward Festival, MAD Arts, Dania Beach, FL, USA. 19. Februar 2026.",
+      "y2026i2": "El Kiosko - El Consulado NYC, The Elizabeth Foundation for the Arts, New York, USA.",
+      "y2025i1": "Technographies, New World School of Art Gallery, Miami, USA.",
+      "y2025i2": "Miami International Performance Festival „M/P '25“, Edge Zones Art Center, Miami, USA.",
+      "y20242025i1": "NatuUrban Symphony, Arts Connection Foundation, Miami, USA.",
+      "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival, 20. Jubiläum, Palazzo Bembo, Biennale von Venedig, Venedig, Italien.",
+      "y2024i2": "Kunst und Politik verbinden, Museo La Neomudéjar, Madrid, Spanien.",
+      "y2023i1": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert, Miami International Fine Art (MIFA), Doral, Florida, USA."
+    },
+    "awards": {
+      "y1995i1": "Erster Preis bei der Kurzfilm-Biennale von São Paulo für den Film „Perra Chillona“. Monolog von Muu Blanco, Regie: Sabrina Montiel Soto.",
+      "y1994i1": "Sonderauszeichnung bei der V. Nationalen Kunstbiennale von Guayana, Venezuela."
+    },
+    "education": {
+      "i1": "Master in Praxis und Kritik zeitgenössischer Repräsentationssysteme. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.",
+      "i2": "5. Kurs für Projektmanagement in den bildenden Künsten. Fundación Polar, Caracas. 1996.",
+      "i3": "Geschichte der venezolanischen Kunst. Instituto Federico Brandt, Caracas. Zeichnen und Malerei II. Instituto Federico Brandt, Caracas. 1990.",
+      "i4": "Kurs zur Geschichte der zeitgenössischen Kunst. Museo de Bellas Artes, Caracas. 1989."
+    },
+    "residencies": {
+      "y20242026i1": "„Musikalische Kuration und monatliche Herausgabe des Fanzines Afro Latin Culture Flavor“ — Wöchentliche Residency als Selector und Klangforscher bei Tripping Animals Brewery, Doral City, Miami, USA.",
+      "y2023i1": "„Artist in Residence für klangliche Bildungsinstallation“ — Stadt Doral City, USA.",
+      "y20142016i1": "Multimedia-Künstler und Kurator bei Arts Connection Foundation, Miami, USA.",
+      "y2007i1": "Eingeladener Artist in Residence, Art Center South Florida, Miami Beach, USA."
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros, Caracas – New York.",
+      "i2": "Fundación NOA NOA, Caracas, Venezuela.",
+      "i3": "Archivo Fotografía Urbana, Caracas, Venezuela.",
+      "i4": "Colección Mercantil, Caracas, Venezuela.",
+      "i5": "Colección Arte Al Límite, Santiago de Chile, Chile.",
+      "note1": "Private Sammlungen in Caracas und Maracaibo (Venezuela); New York, Los Angeles, Houston, Miami und San Francisco (USA); Mailand (Italien); Madrid und Barcelona (Spanien); Porto Alegre (Brasilien); Lissabon (Portugal); Santiago de Chile (Chile)."
+    },
+    "discography": {
+      "i1": "2024 — NatuUrban: Una Sinfonía SubTropical de Miami [LP 12\" Vinyl, 180g, grün]. Arts Connection Foundation, Miami, USA.",
+      "note1": "Veröffentlichte Alben:",
+      "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
+      "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
+      "i4": "\"JABALEE\" — Muu Blanco (2019).",
+      "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
+      "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
+      "note2": "18 veröffentlichte Singles (2019–2026)."
+    },
+    "installations": {
+      "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
+      "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
+      "y2025i3": "NatuUrban Symphony, Klang-, Tanz- und Live-Performance-Installation, Arts Connection Foundation, Miami, USA.",
+      "y2024i1": "NatuUrban Symphony, Mehrkanalige Klanginstallation mit natürlicher Umgebung, Arts Connection Foundation, Miami, USA.",
+      "y2024i2": "„Exploring the Roots and Evolution of Sound Art“, Interaktive Bildungsinstallation. MIFA, USA.",
+      "y2023i1": "„Exploring the Roots and Evolution of Sound Art“, Interaktive Bildungsinstallation. Internationale Kunstmesse Doral City, USA.",
+      "y2017i1": "„Lumínico Sonoro I“, Audiovisuelle Installation bei Espace Expression, Wynwood, Miami, USA.",
+      "y2015i1": "„New Compositional Thinking Vol.1“, Gemischte Klanginstallation bei Arts Connection, Miami, USA.",
+      "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
+      "y2007i1": "„Multimedia Landscape“, Performative Installation, Art Center/South Florida, Miami Beach, USA."
+    },
+    "publications": {
+      "y2025i1": "„Afro Latin Culture Flavor“ — Monatliches Print-Fanzine (limitierte Auflage, 100 Exemplare). Redaktionelle Kuration und Produktion: Muu Blanco / Dr.Muusica, Doral City, USA.",
+      "y2024i1": "„NatuUrban Symphony Katalog“ — kuratorischer Text von Gerardo Zavarce, Grafikdesign: Carlos González. Miami, USA.",
+      "y2023i1": "AAA „Abstracciones Paisajísticas“ [Fotobuch] — 10 Jahre urbaner fotografischer Abstraktion aus Caracas, Muu Blanco, Miami, USA.",
+      "y2020i1": "„World of Art – Latin American Art Since 1900“ (dritte Auflage), Edward Lucie-Smith.",
+      "y2015i1": "„New Compositional Thinking Vol.1“ — redaktioneller Katalog bei Arts Connection Foundation, Miami, USA.",
+      "y2015i2": "Modernismo Anacrónico — Katalog/Buch analoger Collagen, Muu Blanco, Miami, USA.",
+      "y2015i3": "„New Compositional Thinking Vol.2“ — Katalog/Fotobuch, Muu Blanco, Miami, USA.",
+      "y2009i1": "„Paisaje Sonoro Caracas–Berlín“ — Klangkatalog auf CD, Sala Mendoza, Caracas, Venezuela."
+    },
+    "media": {
+      "note": "1998–2026",
+      "i1": "Transit, New York, USA.",
+      "i2": "Art America, New York, USA.",
+      "i3": "ArtNexus, Bogotá, Kolumbien.",
+      "i4": "El Nacional, Caracas, Venezuela.",
+      "i5": "Papel Literario, Caracas, Venezuela.",
+      "i6": "Estilo, Caracas, Venezuela.",
+      "i7": "Miami Herald, Miami, USA.",
+      "i8": "El Nuevo Herald, Miami, USA.",
+      "i9": "Artishock, Santiago, Chile.",
+      "i10": "Arte Al Límite, Santiago, Chile.",
+      "i11": "Arte al Día, Miami, USA.",
+      "i12": "Shoutout Miami, Miami, USA.",
+      "i13": "Unter anderem."
+    },
+    "solo": {
+      "y20252024i1": "NatuUrban Symphony, Art Connection Foundation, Miami, FL, USA.",
+      "y20252024i2": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert. Miami International Fine Art (MIFA), Miami, USA.",
+      "y2023i1": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert, Spezielle Bildungsinstallation bei der Internationalen Kunstmesse Doral. Doral City, Florida, USA.",
+      "y2020i1": "Composiciones Ardientes, Miami Photo Institute, Miami, USA.",
+      "y2019i1": "Iluminación y Sonido II, MixMedia-Installation. Espace Expression. Wynwood, Miami, USA.",
+      "y2019i2": "Calle sin salida, GBG Arts Miami, Arts Palm Beach, West Palm Beach, USA.",
+      "y2019i3": "Black Point, Venezuela, The Box Gallery, West Palm Beach, USA.",
+      "y2017i1": "Iluminación y Sonido I, Video- und Klanginstallation. Espace Expression. Wynwood, Miami, USA.",
+      "y2015i1": "New Compositional Thinking Vol. 1, Mixmedia. Arts Connection Foundation. Miami, USA.",
+      "y2015i2": "NCT X 13 Samples / Foto und Musik. Wynwood, Miami, USA.",
+      "y2014i1": "Ejercicios CBT # 1, Miami, USA.",
+      "y2014i2": "Black Point. MixmediaArt-Installation. Mandragoras Art Space. New York, USA.",
+      "y2013i1": "In Tha House. Carmen Araujo Arte. Caracas, Venezuela.",
+      "y2012i1": "Caja blanca atrapa moscas, Galería Sicart. Barcelona, Spanien.",
+      "y2012i2": "Entorno, Espacio Fotográfico Cubo 7. Caracas, Venezuela.",
+      "y2010i1": "Fósiles Analíticos, Galería Fernando Zubillaga. Galpones del Centro de Arte. Caracas, Venezuela.",
+      "y2009i1": "Paisaje Sonoro Caracas-Berlín. Sala Mendoza, Caracas, Venezuela.",
+      "y2008i1": "A.P. (Paisaje de Abstracciones). Galería Farías + Fábregas. Caracas, Venezuela.",
+      "y2008i2": "Modernismo Anacrónico, Galería Sicart. Barcelona, Spanien.",
+      "y2007i1": "Paisaje Multimedia, Art Center / South Florida. Schlaflose Nacht. Miami Beach, Florida, USA.",
+      "y2007i2": "PAINT Kunstmesse. Hardcore Art Contemporary Space. New York, USA.",
+      "y2007i3": "Bello Horizonte. Modernismo Anacrónico, Centro Cultural Chacao Reihe. Caracas, Venezuela.",
+      "y2006i1": "Fósil analítico, Galería Fernando Zubillaga, Periférico Caracas. Caracas, Venezuela.",
+      "y2006i2": "Modernismo anacrónico, Hardcore Art Contemporary Space. Miami, Florida, USA.",
+      "y2005i1": "Modernismo anacrónico, Heroes & Trash. Caracas, Venezuela.",
+      "y1993i1": "Cachiperro a mano. La Paninoteka. Caracas, Venezuela.",
+      "y1992i1": "Grafik. La Paninoteka. Caracas, Venezuela."
+    },
+    "group": {
+      "y2026i1": "El Kiosko - El Consulado NYC, The Elizabeth Foundation for the Arts, New York, USA.",
+      "y2025i1": "Technographies, New World School of Art Gallery, Miami, USA.",
+      "y2025i2": "El Kiosko - El Consulado NYC, NADA Kunstmesse, Miami, USA.",
+      "y2025i3": "Miami International Performance Festival „M/P '25“, Edge Zones Art Center, Miami, USA.",
+      "y2024i1": "Kunst und Politik verbinden. Museo La Neomudéjar, Madrid, Spanien.",
+      "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival, 20. Jubiläum, Palazzo Bembo, Biennale von Venedig, Venedig, Italien.",
+      "y2022i1": "Sonderraum, Pinta Kunstmesse, Coconut Grove, Florida, USA.",
+      "y2022i2": "Jenseits des Klangs der Stille, Lowe Art Museum, Coral Gables, FL, USA.",
+      "y2022i3": "Serendipia #2 &gt; Post_Ready_Made, Espacio Monitor, Caracas, Venezuela.",
+      "y2022i4": "DGTL: IRL, POPKDM, Galería Weitenfeild Landaluce, Berlin, Deutschland.",
+      "y2022i5": "MetaFluxus und Miami New Media Festival, ID Art Lab, Wynwood, Miami, FL, USA.",
+      "y2022i6": "Serendipity #1 Installation, Espacio Monitor, Caracas, Venezuela.",
+      "y2021i1": "DORCAM Museum New Media Festival, Doral City, Florida, USA.",
+      "y2021i2": "Die beispiellose Laufbahn, Centro Cultural La Trinidad, Caracas, Venezuela.",
+      "y2021i3": "ID, Id Art Lab, Wynwood, Miami, USA.",
+      "y2021i4": "Multimedia-Kunstaktionen, Id Art Lab, Wynwood, Miami, USA.",
+      "y2020i1": "DORCAM Museum New Media Festival, Doral City, Florida, USA.",
+      "y2020i2": "Base Art, Id Art Lab, Wynwood, Miami, USA.",
+      "y2020i3": "Focus, GBG Art, Art Palm Beach, USA.",
+      "y2019i1": "Miami New Media Festival, DORCAM Museum, Doral City, Florida, USA.",
+      "y2019i2": "Border Line, Id Art Lab, Wynwood, Miami, USA.",
+      "y2019i3": "+58 Art, Canvas Gallery Miami, Miami, USA.",
+      "y2019i4": "Political Aesthetics, GBG Arts Miami, USA.",
+      "y2019i5": "My View, LFA Space, Wynwood, Miami, USA.",
+      "y2018i1": "Miami New Media Festival, Miami, USA.",
+      "y2018i2": "Miami International Performance Festival „M/P '18“, Edge Zone Arts Center, Miami, USA.",
+      "y2018i3": "Art and Football (Öffentliche Videokunst-Installation), Goethe-Institut, Baku, Aserbaidschan.",
+      "y2018i4": "Miami Life Exhibition (Mixmedia-Installation), Miami Photo Institute, USA.",
+      "y2018i5": "Par amour du jet, „ISimulación“ (Öffentliche Videokunst-Installation), Les Magasins Generaux, Paris, Frankreich.",
+      "y2018i6": "Lenguas Indígenas (Klangkunst), Mercosur-Biennale, Porto Alegre, Brasilien.",
+      "y2017i1": "Miami New Media Festival, USA.",
+      "y2017i2": "Vorstellungen von Raum, Colección Banco Mercantil, Caracas, Venezuela.",
+      "y2017i3": "Colección Arte Al Límite, Espacio Fundación Telefónica, Santiago de Chile, Chile.",
+      "y2017i4": "AntiRedymate, Espacio Monitor, Caracas, Venezuela.",
+      "y2017i5": "„Onomatopías Visuales de Tiempos Difíciles“, Carmen Araujo Arte, Caracas, Venezuela.",
+      "y2017i6": "Miami International Performance Festival „M/P '17“, Edge Zone Arts Center Gallery, Miami, USA.",
+      "y2017i7": "Friedliche Resonanz für venezolanische Kinder, UNICEF, Galería Ascanio y EE, Wynwood, Miami, USA.",
+      "y2017i8": "Venezuela aus verschiedenen Breiten neu denken, Fundana und BAC, Wynwood, Miami, USA.",
+      "y2016i1": "Miami New Media Festival, USA.",
+      "y2016i2": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Lima, Peru.",
+      "y2016i3": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Buenos Aires, Argentinien.",
+      "y2016i4": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, La Paz, Bolivien.",
+      "y2016i5": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Museo de Arte Contemporáneo, Caracas, Venezuela.",
+      "y2015i1": "Miami New Media Festival, USA.",
+      "y2015i2": "Digitale Visionen, Sala Pettit, Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
+      "y2015i3": "Medienkunst: Natur in digitalen Medien, Fundación Telefónica, CorpBanca, Caracas, Venezuela.",
+      "y2015i4": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Oca de São Paulo, São Paulo, Brasilien.",
+      "y2015i5": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut New-Media-Biennale. Santiago de Chile, Chile.",
+      "y2015i6": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut I. Biennale von Asunción, Museo del Barro, Paraguay.",
+      "y2015i7": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut II. Biennale von Curitiba, Brasilien.",
+      "y2015i8": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Oi Futuro, Rio de Janeiro, Brasilien.",
+      "y2015i9": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Museo de Ushuaia, Argentinien.",
+      "y2015i10": "Wynwood Art, The Chill Concept, Wynwood, Miami, USA.",
+      "y2014i1": "Miami New Media Festival, Miami, USA.",
+      "y2014i2": "Art Fair Context Miami, The Chill Concept, Wynwood, Miami, USA.",
+      "y2014i3": "II. Biennale von Montevideo, Großer Saal der Zentralbank von Uruguay, Montevideo, Uruguay.",
+      "y2014i4": "Lenguas Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut / ICBA, Rio de Janeiro, Brasilien.",
+      "y2014i5": "Zur grünen Ebene, zweite Auflage. Centro Integrado de Artes. Caracas, Venezuela.",
+      "y2014i6": "Só Jogo Futebol o Just When They Finished, Goethe-Institut / ICBA. Wanderausstellung: São Paulo, Porto Alegre, Belo Horizonte, Lima, Bolivien, Córdoba (Argentinien), Bogotá (Kolumbien), Caracas (Venezuela), Santiago de Chile (Chile) und Quito (Ecuador).",
+      "y2014i7": "Soy punto de encuentro. Carmen Araujo Art. Caracas, Venezuela.",
+      "y2014i8": "Ccs-2014 | Flash Caracas: Videoräume. Centro de Arte Los Galpones. Caracas, Venezuela.",
+      "y2013i1": "ArtBo Internationale Kunstmesse, Arte Carmen Araujo, Bogotá, Kolumbien.",
+      "y2013i2": "Só Jogo Futebol o recién cuando terminaron, Goethe-Institut / ICBA. Wanderausstellung: Brasília, Salvador da Bahia, Rio de Janeiro, Fortaleza (Brasilien), Santa Cruz de la Sierra (Bolivien), Montevideo (Uruguay), Buenos Aires (Argentinien), La Paz (Bolivien).",
+      "y2013i3": "Video und andere Fahrzeuge. Al Borde Gallery, Maracaibo, Venezuela.",
+      "y2013i4": "Architektonische Denkmäler. Sala Mendoza, Caracas, Venezuela.",
+      "y2013i5": "Elektronischer Raum, Bd. 5. Sala Mendoza. Caracas, Venezuela.",
+      "y2012i1": "Caracas Arte Contemporáneo (CACRI). Carmen Araujo Arte. Parque Cultural Hacienda La Trinidad. Caracas, Venezuela.",
+      "y2011i1": "Galería Arqueología. Galería Sicart. Vilafranca del Penedès, Katalonien, Spanien.",
+      "y2011i2": "Veränderte Geometrie: Zwölf visuelle Diskurse. Galería Farías + Fábregas. Caracas, Venezuela.",
+      "y2011i3": "Sonnenuntergang von Santa Lucía. Maracaibo, Venezuela.",
+      "y2010i1": "Didáctica, Centro de Arte Periférico de Caracas Los Galpones. Caracas, Venezuela.",
+      "y2009i1": "Paisaje Sonoro. Ccs - Brln. Sala Mendoza. Caracas, Venezuela.",
+      "y2009i2": "OPENART. Kunsthistorisches Zentrum von Zaragoza, Spanien.",
+      "y2008i1": "PhotoMiami '08. Galería Sicart. Miami, USA.",
+      "y2008i2": "Arte Lisboa. Galería Sicart. Lissabon, Portugal.",
+      "y2008i3": "Arte Valencia. Galería Sicart. Valencia, Spanien.",
+      "y2008i4": "Foto Buenos Aires. Galería Sicart. Argentinien.",
+      "y2008i5": "ArtBo. Galería Farías + Fábregas, Bogotá, Kolumbien.",
+      "y2008i6": "Zeitgenössische venezolanische Videokunst, Periférico CCS, La Otra, Bogotá, Kolumbien.",
+      "y2008i7": "Reflexión y Refracción. Galería Rich. London, England.",
+      "y2008i8": "D'eros I Thanatos. Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
+      "y2008i9": "ArteSantander. Galería Sicart. Santander, Spanien.",
+      "y2008i10": "ArteBa. Galería Sicart. Buenos Aires, Argentinien.",
+      "y2008i11": "(Un)sichtbare Geografien der zeitgenössischen lateinamerikanischen Kunst. Centro León, Dominikanische Republik.",
+      "y2008i12": "SWAB Kunstmesse. Galería Sicart. Barcelona, Spanien.",
+      "y2008i13": "MiArt, Galería Sicart. Mailand, Italien.",
+      "y2008i14": "Bridge Art Fair. Tracing Misfits, Galería Sicart. New York, USA.",
+      "y2008i15": "Zeichnung, Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
+      "y2007i1": "Pinta. NYC, Metropolitan Pavilion, New York, USA.",
+      "y2007i2": "Foto Miami. Galería Sicart. Miami, USA.",
+      "y2007i3": "SCOPE Miami Kunstmesse. Galería HACS. Miami, USA.",
+      "y2007i4": "Buenos Aires Photo. Galería Sicart. Buenos Aires, Argentinien.",
+      "y2007i5": "Buenos Aires Photo, Hardcore Art Contemporary Space, Buenos Aires, Argentinien.",
+      "y2007i6": "Valencia Art. Galería Sicart. Valencia, Spanien.",
+      "y2007i7": "Lisbon Art. Galería Sicart. Lissabon, Portugal.",
+      "y2007i8": "Vilafranca Contemporánea. Galería Sicart. Vilafranca del Penedès, Katalonien, Spanien.",
+      "y2007i9": "ArteBA. Galería Sicart. Buenos Aires, Argentinien.",
+      "y2007i10": "List Bärliner. Galería Sicart. Berlin, Deutschland.",
+      "y2007i11": "Iberoamerikanische Kunstmesse (FIA), Hotel Tamanaco Intercontinental, Hardcore Art Contemporary Space, Caracas, Venezuela.",
+      "y2007i12": "Balelatina. Hardcore Art Contemporary Space. Basel, Schweiz.",
+      "y2007i13": "Circa, Hardcore Art Contemporary Space, San Juan, Puerto Rico.",
+      "y2007i14": "Arteaméricas. Hardcore Art Contemporary Space. Miami, USA.",
+      "y2007i15": "Art Los Angeles. Galería Sicart. Los Angeles, USA.",
+      "y2007i16": "AAA, Modernität und Anachronismus, VI. Mercosur-Biennale, Porto Alegre, Brasilien.",
+      "y2007i17": "Blight and Celebration. Multimedia Fusion Festival, Brooklyn, USA.",
+      "y2006i1": "Photo Miami. Galería Sicart. Miami, USA.",
+      "y2006i2": "Diálogos. Museo de Arte Contemporáneo de Costa Rica, San José, Costa Rica.",
+      "y2006i3": "Image of Caracas (Off loop). Space Joaquín Costa (Gallery dels Angels), Barcelona, Katalonien, Spanien.",
+      "y2006i4": "Interventionen, Museo Jacobo Borges, Caracas, Venezuela.",
+      "y2006i5": "Do not Trust - White Biennial, Anxiety of Influence. UCLA New Wight Gallery, Eli and Edith Broad Art Center. Los Angeles, USA.",
+      "y2006i6": "Happy Ever After... Hardcore Art Contemporary Space. Miami, Florida, USA.",
+      "y2005i1": "Diálogos: Zeitgenössische lateinamerikanische Kunst aus der Colección Cisneros. Museo Nacional de Bellas Artes, Santiago de Chile, Chile.",
+      "y2005i2": "Zeitgenössische Kunst in der venezolanischen Colección Cisneros. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
+      "y2005i3": "Türme von Caracas: Zum Schweigen gebrachte Moderne. Sala Mendoza. Caracas, Venezuela.",
+      "y2004i1": "Variaciones del ojo. Videotanz - Muu Blanco. Cinemateca Nacional. Caracas, Venezuela.",
+      "y2004i2": "El Barril - Goethe-Institut Caracas, Museo Jacobo Borges. Caracas, Venezuela.",
+      "y2004i3": "VII Jóvenes con FIA, Sala CANTV, Ateneo de Caracas. Espacios Cálidos, Caracas, Venezuela.",
+      "y2004i4": "Tierra Eléctrica. Kurzfilme und Videos aus dem Vereinigten Königreich und Venezuela, Sala Mendoza. Caracas, Venezuela.",
+      "y2004i5": "Skulptur und Fotografie. Galería Spazio Zero. Caracas, Venezuela.",
+      "y2003i1": "Contra/Sentido. Neue venezolanische Fotografie, Sala Mendoza. Caracas, Venezuela.",
+      "y2003i2": "Erster Monat der Fotografie 2003, Caracas - Polaroid TM. Museo Alejandro Otero. Caracas, Venezuela.",
+      "y2003i3": "28. Nationale Kunstausstellung von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Aragua, Venezuela.",
+      "y2003i4": "Eugenio-Mendoza-Preis XI. Sala Mendoza. Caracas, Venezuela.",
+      "y2002i1": "Vom White Cube zur Black Box: historische Bänder, kreative Videos, digitale Kunst, venezolanisches Video, Museo de Arte Contemporáneo de Caracas Sofía Imber. Caracas, Venezuela.",
+      "y2002i2": "Multimedia-Künstler, Gründer des Centro para las Artes. Museo de Arte Contemporáneo de Caracas Sofía Imber. Caracas, Venezuela.",
+      "y2001i1": "13 Stunden. Sala Mendoza, Caracas, Venezuela.",
+      "y2001i2": "ENE Incidentes - RE Incidentes / Zwischen den Jahrtausenden. Centro de Bellas Artes, Maracaibo, Zulia, Venezuela.",
+      "y2000i1": "Demostrationraume / Eine Fallstudie. Galería Or. Vancouver, Kanada.",
+      "y2000i2": "90 60 90. Goethe-Institut Caracas, Museo Jacobo Borges. Caracas, Venezuela.",
+      "y2000i3": "58. Arturo-Michelena-Salon, Ateneo de Valencia, Carabobo, Venezuela.",
+      "y1999i1": "22. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Aragua, Venezuela.",
+      "y1998i1": "Jóvenes con FIA CANTV. Ateneo de Caracas, Caracas, Venezuela.",
+      "y1998i2": "III. Biennale Barro de América. Venezuela-Brasilien, Zentrale Begegnungen. Museo de Bellas Artes, Caracas, Venezuela.",
+      "y1998i3": "Die Auferstehung des Exquisiten Leichnams, Sala Mendoza, Caracas, Venezuela.",
+      "y1998i4": "Casco de Acero, Espacios Unión, Caracas, Venezuela.",
+      "y1998i5": "V. Biennale von Guayana: Eine Auswahl. Museo Alejandro Otero, Caracas, Venezuela.",
+      "y1998i6": "Wellenlänge, Videos und Fotografien, Museo Alejandro Otero. Caracas, Venezuela.",
+      "y1997i1": "22. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Maracay, Aragua, Venezuela.",
+      "y1997i2": "V. Nationale Kunstbiennale von Guayana. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
+      "y1995i1": "II. Pirelli-Salon junger Künstler. Museo de Arte Contemporáneo de Caracas Sofía Imber, Caracas, Venezuela.",
+      "y1994i1": "Gemischte Techniken. Galería Alternativa. Caracas, Venezuela.",
+      "y1994i2": "VII. Miniaturen-Biennale. TAGA. Caracas, Venezuela.",
+      "y1994i3": "IV. Nationale Kunstbiennale von Guayana. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
+      "y1992i1": "XVII. Nationaler Fotografiesalon. Hommage an den Fotojournalismus. Foro Libertador. Instituto Autónomo Biblioteca Nacional. Caracas, Venezuela.",
+      "y1992i2": "17. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Venezuela.",
+      "y1991i1": "1, 2, 3, 4, 5. Ausstellungshalle der Gouvernement von Caracas, DF, Venezuela.",
+      "y1990i1": "Zeichnungsausstellung. Instituto Federico Brandt, Caracas, Venezuela."
+    }
+  },
+  "contacto": {
+    "eyebrow": "09 — Kontakt",
+    "lead": "Für Anfragen zu Kunst oder Musik bitte direkt schreiben.",
+    "arte": {
+      "label": "Kunst"
+    },
+    "music": {
+      "label": "Musik / Booking"
+    },
+    "note": "Weiteres Material: <a href=\"cv.html\">CV</a> für die vollständige Laufbahn, <a href=\"prensa.html\">Presse</a> für Rezensionen und Berichterstattung, <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a> für soziale Medien, <a href=\"store.html\">Galerie</a> für erhältliche Werke.",
+    "categories": "Ausstellungen · Performances · Klangauftragsarbeiten · Künstlergespräche · Vinyl-Programme · Selector-Buchungen · Presse · Kollaborationen"
+  },
+  "proyectos": {
+    "eyebrow": "02 — Forschungsprojekte",
+    "h1": "Forschungsprojekte",
+    "lead": "Langfristige Forschungslinien innerhalb der Praxis von Muu Blanco — jede mit eigenem Werkkorpus, Publikationen und Präsentationen.",
+    "ongoing": "Laufend",
+    "seeInPress": "In der Musikpresse ansehen",
+    "viewPdfCatalog": "Modernismo Anacrónico. Collage (PDF) ↗",
+    "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories (PDF) ↗",
+    "viewPdfSicart": "Sicart-Katalog 2010 (PDF) ↗",
+    "viewPdfBook": "AAA 2002–2012 Fotobuch (PDF) ↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. Fotografien (PDF) ↗",
+    "viewPdfDossier": "Carmen Araujo Arte — Dossier, Abstracciones Paisajísticas (PDF) ↗",
+    "natuurban": {
+      "medium": "Klanginstallation, Tanz und Videomapping",
+      "p1": "Ein Installations- und Klangkunstprogramm, präsentiert bei der Arts Connection Foundation, Miami. Es vereint experimentelle Musik, Tanz, Videomapping-Projektionen und einen begleitenden Dokumentarfilm — Muu Blancos jüngste Forschung zur Klanglandschaft und zur natürlichen urbanen Umgebung.",
+      "videoTitle": "NatuUrban Symphony",
+      "videoMeta": "Dokumentarkurzfilm · Regie: Jacopo Fantastichini · Produktion: PlantPop · FilmGate Festival, 30. Juli 2025",
+      "videoDesc": "Ein Dokumentarkurzfilm unter der Regie von Jacopo Fantastichini und produziert von PlantPop, kuratiert von Gerardo Zavarce. Er begleitet Muu Blancos Laufbahn und den Entstehungsprozess seiner Klangkunstinstallation NatuUrban Symphony, die die natürlichen und urbanen Klänge von Nationalparks am Rande großer Städte Südfloridas erkundet — eine Installation, die durch die Förderung der Arts Connection Foundation ermöglicht wurde, mit der Muu Blanco seit 2014 in Miami zusammenarbeitet. Der Film enthält Bildmaterial von Camera Creature SVC und Originalmusik von Dr.Muusica und dokumentiert das zentrale Konzept des Werks: lebende Pflanzen, die Mini-Lautsprecher tragen, die Klanglandschaften abspielen, die das Natürliche mit dem Urbanen verbinden. Er feierte am 30. Juli 2025 im SilverSpot Cinemas, Downtown Miami, im Rahmen des FilmGate Festivals Premiere — Muu Blancos erster in den USA produzierter Dokumentarkurzfilm, ein Meilenstein innerhalb seiner vierzig Jahre ununterbrochener künstlerischer Laufbahn."
+    },
+    "soundart": {
+      "p1": "Eine virtuelle Installation, präsentiert als Web-App im Jahr 2024, im Jahr nach dem Abschluss der Ausstellung Exploring the Roots and Evolution of Sound Art (2023). Sie vereint Muu Blancos Forschung zur Geschichte der Klangkunst, von ihren Wurzeln im Futurismus bis ins 21. Jahrhundert."
+    },
+    "abstracciones": {
+      "medium": "Fotografie",
+      "p1": "Fünfzehn Jahre Abstracciones Paisajísticas, von Caracas bis in die ganze Welt.",
+      "animadas": {
+        "title": "Animierte Abstracciones Paisajísticas (AAOA)",
+        "meta": "Animation: Benky Chang · Saragossa, Spanien"
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Buch auf Blurb ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
+    },
+    "modernismo": {
+      "medium": "Analoge Collage / Mixed Media",
+      "p1": "Eine Serie aus analoger Collage und Mixed-Media-Arbeit, begonnen 2002 — ausgestellt bei Heroes & Trash (Caracas, 2005), Espacio Hardcore Art Contemporary (Miami, 2006), Bello Horizonte / Centro Cultural Chacao (Caracas, 2007) und Galería Sicart (Barcelona, 2008), sowie als Katalog/Buch veröffentlicht.",
+      "blurbLink": "Modernismo Anacrónico. Collage — Buch auf Blurb ↗",
+      "instagramLink": "Instagram @modernismo_anacronico ↗",
+      "belloHorizonteLink": "Bello Horizonte — Katalog, Centro Cultural Chacao (PDF) ↗"
+    },
+    "fosiles": {
+      "medium": "Zeichnung und Installation",
+      "p1": "Forschung zur Zeichnung und ihren installativen Anwendungen, begonnen 2002, präsentiert als Einzelausstellung in der Galería Fernando Zubillaga, Caracas (Periférico Caracas, 2006; Galpones del Centro de Arte, 2010)."
+    },
+    "abstraccion": {
+      "title": "Abstraktion",
+      "p1": "Violencia Abstracta (2013), eine neue Forschungsserie zur Abstraktion.",
+      "tizon": {
+        "medium": "Videokunst · 03:33 Min. · MiniDV/NTSC · Regie: José Antonio Blanco Angulo · Kamera, Schnitt und Originalmusik: Muu Blanco",
+        "p1": "Die Torres de Parque Central sind eines der Wahrzeichen von Caracas, ein Symbol für die Öffnung der Stadt zur Moderne in den 1970er Jahren. Für die Bewohner von Caracas verleihen diese Türme der Stadt ihren Charakter: einen chaotischen und leidenschaftlichen Charakter, die unsterbliche Jungfrau des Ávila. Für Muu Blanco, den Schöpfer dieses Kurzfilms, löste die Gelegenheit, den Brand des Ostturms von Parque Central mitzuerleben, eine unmittelbare Reflexion über die Bedeutungen dieser urbanen Protagonistin aus.",
+        "intro": "Der Titel dieses Kurzfilms leitet sich vom spanischen Wort «tizón» ab. Ein tizón ist: 1. Ein halb verbrannter Stock. 2. Ein Makel auf dem Ruf oder dem Selbstwertgefühl. Aus diesen beiden Bedeutungen entsteht der Titel dieses Werks, das mit symbolischer Bedeutung aufgeladen ist.",
+        "p2": "In anderen Zeiten war er sein «Spielplatz» (sein Vater gehörte zu dem Architektenteam, das den Komplex errichtete, und gab ihm so eine emotionale Bindung an das Werk weiter).",
+        "p3": "Der Künstler deutet dieses Ereignis als ein Bild des soziopolitischen Moments, den die Venezolaner zu jener Zeit erlebten; als Spiegel des Verfalls ihrer Gesellschaft. Ein Makel auf dem Selbstwertgefühl ihrer Bürger. Eine Weigerung, vom tizón ihrer Politik und ihres Niedergangs verzehrt zu werden.",
+        "p4": "Dieser Kurzfilm (03:33 Minuten lang) wurde im MiniDV-Format produziert und auf einem Mac PowerBook G4 geschnitten, mit Originalmusik von Muu Blanco alias Jaba Lee Project, der für dieses Stück ein Fragment des Orchesters «La Billo's Caracas Boys» einbindet (ein bekanntes venezolanisches Ensemble der 1950er Jahre). Dieses Stück wurde remixt, um einen dynamischen, repetitiven Rhythmus zu erzeugen, der mit den Bildern von Caracas als halb verbranntem «tizón» in Dialog tritt."
+      }
+    },
+    "artesonoro": {
+      "title": "Klangkunst",
+      "medium": "Klanginstallation, Performance und Videodokumentation",
+      "p1": "Ein Archiv aus Video- und Fotodokumentation von Muu Blancos Klangkunstpraxis, von frühen Klanginstallationen bis zu jüngsten Performances und Kurzfilmen.",
+      "v1": {
+        "meta": "Multimediale sensorische Performance · Mad Museum"
+      },
+      "v3": {
+        "meta": "Konzept und Kuration: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, November 2023",
+        "desc": "Dieser historische Überblick, der vom Futurismus bis zur zeitgenössischen Klangkunst reicht, beleuchtet die Entwicklung des klanglichen Experiments im 20. und 21. Jahrhundert. Beginnend mit futuristischen Künstlern, die das moderne Leben und die Technologie durch chaotischen Dadaismus und musikalische Avantgarden wie Musique concrète und Fluxus darzustellen suchten. Danach führt die Radiokunst Zusammenarbeit und Publikumsinteraktion in die hörbare Erzählung ein. Schließlich konzentriert sich Ambient Music, inspiriert von Brian Eno, auf die Schaffung entspannender Klangatmosphären. Zuletzt betont R. Murray Schafers Konzept der Klanglandschaft (Soundscape) die Bedeutung von Klängen in Kultur und Umwelt und beeinflusst Stadtplanung und Umweltbewusstsein. Diese historische Reise spiegelt die stetige Erweiterung klanglicher Kreativität im Laufe der Jahre wider."
+      },
+      "v4": {
+        "meta": "Serie: Lumínico Sonoro #MuuBlanco · 05.01.2021",
+        "desc": "Dokumentation der interaktiven multimedialen Klang- und Lichtaktion — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — „Multimedia Art Action 2021“ bei @idartlab. Dokumentation: Anarquía 101."
+      },
+      "v5": {
+        "meta": "Multimediale Installation (Performance, Klang) · Variabel · .Wav · 15:38 Min · Mandragoras Art Space, Queens, NYC"
+      },
+      "v6": {
+        "meta": "Klanginstallation · Sala Mendoza, Caracas",
+        "desc": "Eine Klangkunstinstallation, präsentiert in der Sala Mendoza, Caracas, und veröffentlicht als Klangkatalog auf CD-ROM."
+      },
+      "hundredyears": {
+        "meta": "Virtuelle Installation · Web-App, 2024 · 100yearsofsound.webflow.io",
+        "visit": "Projekt besuchen ↗"
+      }
+    },
+    "instalaciones": {
+      "title": "Installationen",
+      "medium": "Installation",
+      "p1": "Muuseo Blanco (1998), eine der frühesten dokumentierten Installationen des Künstlers.",
+      "v1": {
+        "date": "13. Januar 2020",
+        "meta": "Multimediale Installation · LFA Space, Wynwood, Miami · November 2019 – März 2020",
+        "p1": "Ein einminütiger Überblick über die multimediale Installation Lumínico Sonoro von Muu Blanco, präsentiert von November 2019 bis März 2020 im LFA Space, Wynwood, Miami, Florida, USA."
+      }
+    },
+    "performances": {
+      "title": "Performances",
+      "medium": "Live-Aktionen, Videomapping und multimediale Installation",
+      "v1": {
+        "meta": "Live-Multimedia-Aktion · Eröffnung der Gruppenausstellung von Studierenden und Absolventen der New World School of the Arts, Miami Dade Art District — Miami Art Week 2025",
+        "p1": "Es handelt sich um eine Live-Multimedia-Aktion, die die Schnittstelle von Landschaft, Körper und Technologie durch einen kontinuierlichen Fluss aus Klang und Bild erkundet. Über 30 Minuten artikuliert die Intervention einen Dialog zwischen Synthesizer, Beat, Live-Radio, Posaune und einer visuellen Apparatur, die Loops bewegten Wassers — gefilmt vor der Küste von Key Biscayne — mit digitalen Zeichnungen mischt, die durch MadMapper in kaleidoskopische Muster verwandelt werden.",
+        "p2": "Zu dieser visuellen Kartografie gesellen sich dynamische, in Echtzeit erzeugte vibrierende Linien, die auf die während der Aktion entstehenden Klangfrequenzen reagieren. Diese Linien reagieren nicht nur auf den Synthesizer, den Beat oder die Posaune: Auch das Geräusch des Publikums wird zu einem visuellen Auslöser und integriert sich in das System, sodass jede Vibration, jedes Murmeln und jede Umgebungsunterbrechung die Projektion verändert. Das Publikum wird so zum unfreiwilligen Co-Autor des Werks und hinterlässt eine Spur, die in die Textur des Bildes eingeschrieben ist.",
+        "p3": "Die Arbeit errichtet ein sensorisches Ökosystem, in dem sich das Natürliche und das Digitale gegenseitig beeinflussen: akustische Vibration durchzieht die Visualität, die maritime Landschaft wird fragmentiert und erweitert, und die kollektive Präsenz wird Teil des Pulses, der die Erfahrung trägt. Die Radioübertragung führt ein Element des Zufalls und der Live-Präsenz ein und unterstreicht, dass jede Küste — physisch oder technologisch — ein Kreuzungspunkt ist.",
+        "p4": "Präsentiert bei der Eröffnung der Gruppenausstellung von Studierenden und Absolventen der New World School of the Arts im Miami Dade Art District, im Rahmen der Miami Art Week 2025, schlägt die Aktion ein immersives Territorium vor, in dem Klang, Bild und Publikum in einem Zustand kontinuierlicher Vibration koexistieren.",
+        "date": "Dezember 2025"
+      },
+      "v2": {
+        "meta": "Klangaktion · PINTA Art Fair, Miami Art Week 2025",
+        "p1": "Ich erscheine gesichtslos, bedeckt von einem Nest aus Magnetband: Überreste von Stimmen, gebrochene Erinnerungen, Aufnahmen, die niemand mehr hört. Mein Instrument ist eine grüne Posaune, die Farbe von Keimling und Toxizität, von Hoffnung und Rost. Mit ihr blase ich eine Sprache, die nicht Musik, sondern Riss sucht.",
+        "p2": "Diese Klangaktion ist eine Geste der Insubordination. Atonal, repetitiv, insistierend: eine Verweigerung der Strukturen, die das Ohr domestizieren, und der Diskurse, die den Körper ordnen. Was hier geschieht, ist kein Konzert, sondern eine Unterbrechung. Kein Spektakel, sondern ein offener Riss im Fluss dessen, was gesehen, gefeiert, konsumiert werden soll.",
+        "p3": "In diesem Marina-Garten, bewacht von Booten, die auf ihre Ausfahrt zum Meer warten, werde ich zur Interferenz. Ich bringe die Vibrationen eines zerstreuten Südens mit, migrantischer Geografien, von Städten, die sich von ihren Rändern aus neu denken. Ich blase aus den Stillen, die nicht eingeladen wurden, aus den Erinnerungen, die sich weigern, archiviert zu werden, aus der Zerbrechlichkeit dessen, was fortbesteht, selbst wenn alles versucht, es auszulöschen.",
+        "p4": "Die unendlichen Wiederholungen suchen keine Hypnose, sondern Bekräftigung: Existieren heißt Beharren. Vor der Messe, vor dem Markt, vor der Logik, die etikettiert, bewertet und zirkulieren lässt, präsentiere ich eine Präsenz, die sich weigert, eingefangen zu werden. Mein Klang bietet keine Melodie, er bietet Umweg. Er bietet keine Erleichterung, er bietet Möglichkeit.",
+        "p5": "Ich lade Sie ein, zuzuhören, ohne zu erwarten. Zu verweilen, ohne zu verstehen. Diesen Akt zu begleiten wie jemand, der eine Welle betritt, die ihm nicht gehört, ihn aber dennoch berührt. Möge diese Vibration uns daran erinnern, dass auch das Unbestimmte das Recht hat, Raum einzunehmen.",
+        "date": "Dezember 2025",
+        "watchLink": "Auf YouTube ansehen ↗"
+      },
+      "v3": {
+        "meta": "M/P'25 · Edge Zone Cultural Center, Miami",
+        "p1": "„Ceguera Ambiental y SocioCultural Vol.1 (Miami)“ gehört zu der künstlerischen Forschungslinie, die Muu Blanco seit mehr als zwei Jahrzehnten entwickelt, in der sich das Klangliche, das Politische und das Visuelle in Aktionen verflechten, die die Spannungen der Gegenwart hinterfragen.",
+        "p2": "Dieses Projekt tritt in Dialog mit den früheren Erfahrungen des Künstlers, wie seinen urbanen Klangaktionen in Caracas, wo der Lärm der Stadt in plastisches und performatives Material verwandelt wurde; seinen kritischen audiovisuellen Installationen zu Gewalt und Macht, in denen die mediale Sprache zu einem Feld der Verzerrung und des Widerstands wurde; sowie seinen Erkundungen unter dem Alias DrMuusica, in denen Vinyl, Loop und Improvisation die Klangarchive der Karibik und ihrer Diaspora neu schreiben.",
+        "p3": "In all diesen Ansätzen hat Blanco dieselbe Geste gesucht: die Zeichen des Alltäglichen, des Politischen und des Kulturellen in sensorische Landschaften umzugestalten, in denen Erinnerung, Spannung und die Dringlichkeit unserer Zeit aktiviert werden. Ceguera Ambiental y SocioCultural setzt diesen kritischen und experimentellen Weg fort, nun mit radikalem Nachdruck auf die Wahrnehmung selbst: geometrische Linien und Klangvibrationen, die, ineinander verwoben, den zeitgenössischen Widerspruch zwischen der Starrheit des sozialen Blicks und der unkontrollierbaren Kraft von Improvisation und Irrtum offenbaren.",
+        "date": "Dezember 2025"
+      },
+      "v4": {
+        "meta": "Video &amp; Sound: MadMapper &amp; Live Ableton · Coral Gables Museum (Gallery Night) · Video: Raúl Blanco",
+        "date": "Mai 2022"
+      },
+      "v5": {
+        "meta": "Multimediale Installation — 4 Kanäle Video und Stereo-Audio (Performance, Video, Fotografie, Klang, Texte, Ölmalerei) · Dauer: 2 Stunden · Ort: ESM (Espacio SaltaMantis), Miami · Dokumentarvideo: 01:59 Min · Mitwirkende Musiker: Andrés Michelena, Diego Damas, Muu Blanco"
+      },
+      "v6": {
+        "meta": "Konzept, Regie, Klang, Klavier und Live-Videomapping, mit den Gastkünstlern Andrés Michelena (digitale Perkussion) und Diego Damas (E-Gitarre) · Miami New Media Festival, Miami Iron Side, Little River Art District · Kamera und Schnitt: Raúl Blanco",
+        "date": "Februar 2019"
+      },
+      "v7": {
+        "meta": "27-sekündiges Fragment einer Live-Multimedia-Aktion — Videomapping, experimentelle Musik auf Gemälden und Wänden · Miami New Media Festival"
+      },
+      "v8": {
+        "meta": "Videomapping-Installation und Originalmusik · Espace Expresions, Wynwood, Miami",
+        "p1": "Ein Werk als Hommage an drei Meister der abstrakten Kunst — Jesús Rafael Soto, Carlos Cruz-Diez und Julio Le Parc.",
+        "date": "15. September 2017"
+      },
+      "v9": {
+        "meta": "Technik: Videoperformance — Körperaktion, Fotografie, Einkanalvideo · Format: .MOV 4K · Dauer: 03:13 Min",
+        "date": "Juli 2016"
+      },
+      "v10": {
+        "meta": "Ort: Mandrágoras Art Space, Queens, NYC"
+      },
+      "v12": {
+        "meta": "Hauptdarsteller: Muu Blanco · Regie: Andrés Manner · Schnitt: Murmullo",
+        "p1": "An einem einzigen Morgen im Stadtviertel Los Chorros von Caracas gedreht, nach einer Improvisationspartitur — unter vollem körperlichen Risiko, aus reinem künstlerischen Engagement."
+      },
+      "v13": {
+        "meta": "Interview von Eli Bravo und Muu Blanco · Wiederausstrahlung durch equilibrio.com, 2013"
+      },
+      "v14": {
+        "meta": "Muu Blanco: Darsteller im Fotoroman",
+        "p1": "Trailer zum Roman/Fotoroman „El Secuestro de la Ministro de Cultura“ (Die Entführung der Kulturministerin) — ein realer Fall aus der Museumswelt, ohne etwas zu verbergen: Kultur mit all ihrem Lärm und ihrer Wut."
+      },
+      "v15": {
+        "meta": "Interview von Eli Bravo · Sendung Sonoclips, RCTV · Veröffentlicht auf YouTube: 17. September 2009",
+        "p1": "Das erste Interview von Desorden Público, geführt von Eli Bravo in der RCTV-Sendung Sonoclips im Jahr 1990. Muu Blanco war zu dieser Zeit seit den Anfängen der Band deren RootBoy."
+      },
+      "v16": {
+        "meta": "Regie: Vity Rodríguez Castillo · Produzenten: Gabriela Vanzetti, Fito Páez · Lied: Alberto Cabello / Carlos Eduardo „Cayayo“ Troconis † / Edgar Jiménez · Gastdarsteller: Intensiti Moon, Muu Blanco, Marino · Sonorodven: Carlos Sánchez · Preis für das beste Musikvideo, Internationales Filmfestival von Mérida, Venezuela, 1989 · Album: El Amor Ya No Existe",
+        "p1": "Originalversion remastert, mit vollständigen Credits. 1988 auf Super 8 in Caracas gedreht. Dies war Muu Blancos erster medialer Auftritt, als Darsteller in einem Musikvideo einer venezolanischen Band."
+      },
+      "v17": {
+        "meta": "Erster Preis, Kurzfilm-Biennale São Paulo · Monolog: Muu Blanco · Regie: Sabrina Montiel-Soto"
+      }
+    },
+    "calvo": {
+      "title": "CALVO",
+      "medium": "Performance · Estudio Mata de Coco, Caracas, Venezuela · 6. Dezember 1986",
+      "p1": "CALVO, Muu Blancos erste öffentliche Performance, aufgeführt am 6. Dezember 1986 im Estudio Mata de Coco, Caracas, während des ersten großen Konzerts von Desorden Público.",
+      "readpdf": "Vollständiges Dossier ansehen (PDF) ↗",
+      "sub1": "CALVO: NULLPUNKT, 1986 / 2026",
+      "p2": "1986: der Körper tritt in das Werk ein.<br>2026: die Erinnerung erlaubt es, die Tragweite dieser Geste zu erkennen.",
+      "readEssay": "Vollständigen Text lesen",
+      "essay": {
+        "p1": "CALVO findet am 6. Dezember 1986 im Estudio Mata de Coco, Caracas, während des ersten großen Konzerts von Desorden Público statt. Als der Moment kommt, den Song „Calvo“ zu beginnen, betritt Muu Blanco die Bühne mit einem Stuhl, stellt ihn in die Mitte und setzt sich dem Publikum gegenüber. Es beginnt eine musikalische Einleitung. Caplis nähert sich und betrachtet ihn befremdet, als versuche er zu verstehen, was geschieht. Dann beginnt Danel Sarmiento „Calvo“ zu singen, und Horacio Blanco nähert sich Muu, um ihm vor dem Publikum die Haare zu schneiden. Nachdem er vollständig kahl geworden ist, erhebt sich Muu Blanco, führt auf der Bühne einen Ska-Punk-Tanz auf und springt schließlich ins Publikum.",
+        "p2": "Mit der Zeit wird der Künstler dieses Ereignis als seine erste öffentliche Aktion und seine erste Performance anerkennen: eine grundlegende Erfahrung, die sein Verhältnis zur Kunst und zum Körper als Territorium der Schöpfung veränderte.",
+        "p3": "Aus heutiger Sicht erscheint CALVO als eine Handlung, die aus einer präzisen Abfolge aufgebaut ist: Auftritt, Warten, Verwandlung, Bewegung und Bruch des Bühnenraums. Ihre Kraft entspringt nicht einer komplexen Inszenierung oder einer zuvor erklärten Erzählung, sondern der Art und Weise, wie sich eine konkrete Geste vor dem Publikum entfaltet und innerhalb des Konzerts Sinn erlangt.",
+        "p4": "Der Stuhl bringt eine Pause inmitten der musikalischen Energie. Muu Blanco setzt sich und bleibt exponiert, reglos, während die Situation eine unerwartete Spannung zu gewinnen beginnt. Der Blick von Caplis unterstreicht diese Befremdung und macht das Hereinbrechen von etwas sichtbar, das sich noch nicht vollständig als Konzert, Theater oder Performance definiert.",
+        "p5": "Wenn das Lied beginnt, hört der Titel „Calvo“ auf, nur als Wort zu funktionieren, und wird zu einer materiellen Handlung. Während Danel singt, verändert Horacio Blanco Muus Erscheinungsbild vor aller Augen physisch. Der Körper stellt das Wort nicht dar: Er verkörpert es.",
+        "p6": "Die Musik erfüllt somit eine strukturelle Funktion. Sie markiert die Zeit der Handlung, begleitet die Verwandlung und aktiviert den Übergang von der Ruhe zur Bewegung. Sobald der Schnitt beendet ist, verlässt Muu den Stuhl und tritt in den Rhythmus ein. Der Ska-Punk-Tanz durchbricht die anfängliche Zurückhaltung und führt zum Sprung ins Publikum, mit dem die traditionelle Trennung zwischen Bühne und Publikum momentan verschwindet.",
+        "p7": "Diese Verschiebung — vom Stuhl zur Bühne und von der Bühne zum Publikum — ist zentral für das Verständnis des Werks. CALVO beginnt mit einem isolierten Körper in der Mitte der Szene und endet mit ebendiesem Körper, eingetaucht in das Kollektiv.",
+        "p8": "Die ursprüngliche Idee für die Aktion stammte von Roberto Fuentes Anzola, damals künstlerischer Produzent von Desorden Público und von Muu Blanco als Freund und geschätzter Lehrmeister in Erinnerung behalten. Dieser kollaborative Ursprung ist wesentlich, um die Genealogie des Werks zu verstehen. CALVO entsteht innerhalb eines Netzes kreativer und musikalischer Mitwirkung, gewinnt aber seine performative Dimension in der Art und Weise, wie Muu Blanco den Vorschlag aufgreift und ihn bis zu seinen körperlichen und szenischen Konsequenzen führt.",
+        "p9": "Aus dem Jahr 2026, vierzig Jahre später, betrachtet, kann CALVO als ein Ursprungspunkt innerhalb der Laufbahn des Künstlers erkannt werden. Nicht weil es programmatisch sein gesamtes späteres Schaffen ankündigt, sondern weil es frühzeitig eine Beziehung zwischen Körper, Klang, Zeit, Handlung und öffentlicher Präsenz herstellt, die in anderen Medien im Laufe seines Werks wiederkehren wird.",
+        "p10": "Es wirft auch eine Frage auf, die für seine Praxis relevant bleiben wird: Was geschieht, wenn die künstlerische Erfahrung aufhört, in einem Objekt enthalten zu sein, und stattdessen von einer in Echtzeit erlebten Situation abhängt?",
+        "p11": "1986 war diese Frage noch nicht als Theorie formuliert. Zuerst kam die Erfahrung. Zuerst waren der Stuhl, die Musik, der Schnitt, der Tanz und der Sprung. Die Deutung kam später.",
+        "p12": "Deshalb kann CALVO heute als mehr verstanden werden als eine Anekdote, die an einen der ersten wichtigen Momente von Desorden Público und an die Musikszene von Caracas der achtziger Jahre gebunden ist. Es ist der Augenblick, in dem Muu Blanco öffentlich entdeckt, dass sein eigener Körper zu Materie, Träger und künstlerischem Ereignis werden konnte.",
+        "p13": "In diesem Sinne ist CALVO ein Nullpunkt.",
+        "p14": "1986: der Körper tritt in das Werk ein.<br>2026: die Erinnerung erlaubt es, die Tragweite dieser Geste zu erkennen."
+      }
+    },
+    "videoarte": {
+      "title": "Videokunst",
+      "tagline": "Konzeptkunst / Video / Klang"
+    },
+    "sintitulo": {
+      "title": "Ohne Titel",
+      "medium": "Videokunst / fotografische Diaschau / Klangkomposition",
+      "intro": "„Er fotografierte das Rauschen vor der Stille.“",
+      "summary": "Zwischen 2002 und 2005 fotografiert Muu Blanco, ohne Videokamera, systematisch die venezolanische politische Krise über den Fernsehbildschirm, von seinem Atelier in El Paraíso, Caracas, aus: ein in Echtzeit entstandenes Archiv über Medien, Erinnerung und die Macht der Bilder.",
+      "viewVideo": "Vollständiges Video ansehen ↗",
+      "readpdf": "Vollständiges Dossier ansehen (PDF) ↗"
+    }
+  },
+  "exposiciones": {
+    "eyebrow": "07 — Ausstellungskataloge",
+    "lead": "Kataloge und Dokumentation von Einzel- und Gruppenausstellungen, chronologisch geordnet.",
+    "loading": "Ausstellungen werden geladen…"
+  },
+  "selectedworks": {
+    "eyebrow": "Ausgewählte Werke",
+    "lead": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis. Jedes verlinkt zur vollständigen Dokumentation im Archiv.",
+    "cta": "Vollständige Dokumentation ansehen →",
+    "works": {
+      "natuurban": {
+        "title": "NatuUrban Symphony",
+        "meta": "2024–2025 · Klanginstallation und Videomapping · Arts Connection Foundation, Miami",
+        "desc": "Ein Installations- und Klangkunstprogramm, präsentiert zwischen November 2024 und Januar 2025 bei der Arts Connection Foundation, Miami. NatuUrban Symphony vereint experimentelle Musik, Tanz, Videomapping-Projektionen und die Präsentation des begleitenden Dokumentarfilms und bildet eine Reflexion über Miamis subtropische Landschaft als klangliches Territorium. Das Projekt setzt Muu Blancos Forschung zur Beziehung zwischen Bild, Klang und urbaner Umgebung fort und wurde außerdem als 180-Gramm-Vinyl-LP in Grün über die Arts Connection Foundation veröffentlicht."
+      },
+      "latencias": {
+        "title": "Latencias",
+        "meta": "19. Februar 2026, 19 Uhr · Multimediale sensorische Performance · Ignite Broward Festival, MAD Arts, Dania Beach, FL",
+        "desc": "Eine 40-minütige multimediale sensorische Performance, live präsentiert am Donnerstag, den 19. Februar 2026 um 19 Uhr bei MAD Arts, im Rahmen des Ignite Broward 2026 Festivals (Broward Arts), begleitet von einem kuratierten Programm an Videoarbeiten — freier Eintritt, öffentlich zugänglich. Das Stück erkundet die Latenzen zwischen Körper, Klang und Erinnerung, kombiniert Live-Klangkomposition, Projektion und performative Geste und setzt Muu Blancos Forschung zu Wahrnehmung und Technologie fort. Latencias wird in den Bereichen Conceptual und Projekte des Archivs dokumentiert, als Teil der jüngsten Arbeit des Künstlers."
+      },
+      "soundart": {
+        "title": "Exploring the Roots and Evolution of Sound Art",
+        "meta": "2023–2025 · Einzelausstellung · MIFA, Miami / Doral",
+        "desc": "Eine Einzelausstellung, die eine Genealogie der Klangkunst nachzeichnet, vom Futurismus bis zum 21. Jahrhundert, präsentiert bei Miami International Fine Art (MIFA) zwischen 2023 und 2025. Das Projekt vereint Klanginstallationsstücke, historische Dokumentation und Originalarbeiten von Muu Blanco und verortet seine Praxis innerhalb einer breiteren Tradition der Erkundung von Klang, Technologie und Raum. Die Ausstellung wurde auch in einer Doral-Variante präsentiert, was ihre Reichweite erweiterte und eine der beständigsten kuratorischen Forschungen des Künstlers zur Geschichte der Klangkunst festigte."
+      },
+      "ceguera": {
+        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+        "meta": "2025 · Performance · Miami",
+        "desc": "Eine Performance, die ökologische und soziokulturelle Blindheit als zeitgenössischen Zustand thematisiert, die erste Folge einer 2025 in Miami entwickelten Serie. Das Stück verbindet Körper, Klang und kritische Geste, um die Beziehung zwischen Wahrnehmung, Umwelt und kollektiver Verantwortung zu hinterfragen. Es gehört zu Muu Blancos fortlaufender Performance-Praxis, aktiv innerhalb der Miami-Performancekunst-Szene, und wird als Video im Projekte-Archiv der Website dokumentiert."
+      },
+      "modernismo": {
+        "title": "Modernismo Anacrónico",
+        "meta": "2002–heute · Collage, Assemblage und Installation",
+        "desc": "Eine Serie aus Collage-, Assemblage- und Installationsarbeiten, begonnen 2002 und bis heute aktiv. Das Projekt versammelt Fotografien von Werken, die aus gefundenen Materialien und Mixed-Media-Techniken gebaut wurden, veröffentlicht als gleichnamiges Kunstbuch und auch präsentiert bei der internationalen Messe SWAB (2008). Modernismo Anacrónico schlägt einen ironischen Dialog zwischen dem modernen Versprechen und seinen materiellen Überresten vor, eine der frühesten und beständigsten Linien von Muu Blancos visueller Praxis, vollständig dokumentiert in der Projekte-Galerie."
+      },
+      "afrolatin": {
+        "title": "Afro Latin Culture Flavor",
+        "meta": "Fanzine · Selector-Residency 2024–2026 · Tripping Animals Brewery, Doral",
+        "desc": "Ein monatliches gedrucktes Fanzine in limitierter Auflage, herausgegeben und produziert von Muu Blanco / Dr.Muusica, veröffentlicht in Doral City, Miami. Von 2024 bis 2026 lief das Projekt parallel zu einer wöchentlichen Selector-Residency als Klangforscher bei Tripping Animals Brewery, wo Dr.Muusica Vinyl-Sessions unter dem Namen Dr.Muusica Selector präsentierte. Afro Latin Culture Flavor verbindet redaktionelle Praxis mit Live-Musikauswahl und erkundet afrolateinamerikanische Wurzeln, Rhythmus und Populärkultur als klingendes Echtzeitarchiv."
+      }
+    }
+  },
+  "workwithmuu": {
+    "eyebrow": "Mit Muu arbeiten",
+    "lead": "Verfügbar für Ausstellungen, Performances, ortsspezifische Klangauftragsarbeiten, Vorträge und Vinyl-Hörsitzungen. Vierzig Jahre interdisziplinärer Praxis zwischen Caracas und Miami.",
+    "cards": {
+      "soundart": {
+        "title": "Klangkunst & Performance",
+        "desc": "Live-Klangperformance, erweiterte Klanginstallationen und Improvisation für Galerien, Festivals und öffentliche Räume."
+      },
+      "commissions": {
+        "title": "Ortsspezifische Klangauftragsarbeiten",
+        "desc": "Originale Klangstücke, entwickelt für einen bestimmten Raum, eine Ausstellung oder einen Ort — Ambient-Komposition, Videomapping, räumliches Audio."
+      },
+      "talks": {
+        "title": "Künstlergespräche",
+        "desc": "Vorträge und Präsentationen über Klangkunst, Videokunst und vierzig Jahre interdisziplinärer Praxis, mit einer Ausstellungsgeschichte in Amerika und Europa — von Caracas und Miami bis New York, Madrid, Venedig und São Paulo."
+      },
+      "vinyl": {
+        "title": "Vinyl-Hörerlebnisse",
+        "desc": "Kuratierte Vinyl-Hörsitzungen und Selector-Sets, die afrolateinamerikanischen, experimentellen und archivarischen Klang erkunden — von intimen Zusammenkünften bis zu öffentlichen Veranstaltungen."
+      },
+      "dj": {
+        "title": "Dr.Muusica / Selector",
+        "desc": "Selector-Sets und Originalproduktionen unter dem Alias Dr.Muusica, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae, Ska und Dub; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba, World Music und + reichen."
+      }
+    },
+    "closing": "Ausstellungen · Performances · Klangauftragsarbeiten · Kollaborationen",
+    "ctaButton": "An Muu Blanco schreiben →"
   }
- },
- "index": {
-  "hero": {
-   "needs": "Multidisziplinärer Künstler,",
-   "accent": "Klangkünstler, Performer und Vinyl-Selector.",
-   "sub": "Caracas, 1966 · Lebt in Miami — vier Jahrzehnte der Erkundung von Bild, Erinnerung, Landschaft, Klang, Technologie und Kulturarchiven.",
-   "alt": "Muu Blanco — Porträt, Miami, 2026"
-  },
-  "tiles": {
-   "conceptual": "Texte, Arbeitsnotizen und ein chronologisch geordnetes Werkverzeichnis.",
-   "practicas": "Instagram, YouTube, SoundCloud und Discogs — die laufende Praxis.",
-   "drmusica": "Das klangliche Alter Ego — Produktionen, Kollaborationen und Veröffentlichungen.",
-   "galeria": "Originalwerke erhältlich — Online-Shop, Preis- und Verfügbarkeitsanfragen.",
-   "prensa": "Chronologisch geordnete Rezensionen aus Zeitungen und Magazinen.",
-   "cv": "Vollständiger chronologischer Leitfaden — Ausbildung, Ausstellungen, Diskografie und Presse.",
-   "contacto": "Für Kuratoren, Galerien, Presse, Sammler und Musikanfragen.",
-   "proyectos": "Langfristige Forschungslinien — NatuUrban Symphony, 100 Years of Sound Art und mehr.",
-   "exposiciones": "Kataloge von Einzel- und Gruppenausstellungen, 1994 bis 2014."
-  },
-  "featured": {
-   "eyebrow": "Muu Blanco — Jetzt",
-   "selectedworks": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis.",
-   "workwithmuu": "Klangperformance, Auftragsarbeiten, Künstlergespräche und Vinyl-Hörsitzungen.",
-   "archiveTitle": "Archiv 1986–2026",
-   "archiveDesc": "Die vollständige Laufbahn — Fotografie, Performance, Video, Installation, Klang und Publikationen."
-  },
-  "now": {
-   "title": "Neuestes Video & Musik",
-   "lead": "Bewegtes Bild und Musik, in Echtzeit.",
-   "videoLabel": "Neueste Videoclips",
-   "mixmediaLabel": "Neueste MixMedia-Arbeit"
-  },
-  "sections": {
-   "eyebrow": "Das vollständige Archiv erkunden"
-  }
- },
- "about": {
-  "eyebrow": "About",
-  "lead": "Multidisziplinärer Künstler. Klangalias: <em>Dr.Muusica</em>. Caracas / Miami.",
-  "h2": {
-   "summary": "Zusammenfassung",
-   "full": "Videokunst-Biografie",
-   "dossierbio": "Biografisches Dossier — DJ Muu / Dr. Muusica",
-   "recent": "Aktuelle Arbeit",
-   "contact": "Kontakt",
-   "morelinks": "Weitere Links",
-   "projects": "Projekte und Räume",
-   "shortbio": "Kurzbiografie",
-   "cronicas": "Chroniken"
-  },
-  "summary": {
-   "p1": "Muu Blanco (Caracas, Venezuela, 1966) ist ein multidisziplinärer Künstler, Videokünstler und Schöpfer multimedialer Installationen mit Sitz in Miami. Seit den frühen 1990er Jahren erforscht seine Praxis die Beziehung zwischen Bild, Klang und urbaner Landschaft durch experimentelles Video, Klangkunst, Performance, Fotografie und Videomapping.",
-   "p2": "Seine frühen Videoarbeiten entstanden im Video8-Format und wurden später beim II. Pirelli-Salon junger Künstler am Museum für zeitgenössische Kunst von Caracas gezeigt, wo die komplette Serie von der Sammlung Noa Noa erworben wurde. Seine Arbeiten wurden in Institutionen wie dem Museum für zeitgenössische Kunst von Caracas Sofía Imber, der Sala Mendoza, der Nationalen Kinemathek von Caracas und dem Mandragoras Art Space in New York gezeigt.",
-   "p3": "Seit seinem Umzug nach Miami im Jahr 2014 entwickelt Blanco weiterhin multimediale Installationen, die Videomapping, Klangkunst und Performance verbinden, darunter sein jüngstes Projekt NatuUrban Symphony (2024–2025)."
-  },
-  "full": {
-   "p1": "Muu Blanco (Caracas, Venezuela, 1966) ist ein multidisziplinärer Künstler, Videokünstler und Schöpfer multimedialer Installationen mit Sitz in Miami. Seine künstlerische Praxis umfasst experimentelle Videokunst, Klangkunst, Performance, Fotografie, Assemblage, Installation, elektronische Musik und Videomapping und entwickelt seit den frühen 1990er Jahren eine fortlaufende Untersuchung der Beziehung zwischen Bild, Klang und urbaner Landschaft.",
-   "p2": "Blanco begann Anfang der 1990er Jahre mit experimenteller Videokunst zu arbeiten und nutzte zunächst das Video8-Format als Werkzeug ästhetischer Erkundung. Seine erste Teilnahme an einer Gruppenausstellung mit Video fand 1992 statt, als eines seiner Werke vom Sammler Jimmy Belilty erworben wurde. Von diesem Moment an begann er eine kontinuierliche Erkundung der experimentellen audiovisuellen Sprache.",
-   "p3": "1994 nahm er an der Gruppenausstellung Mixed Techniques in der Alternative Gallery in Caracas teil, einer seiner frühesten Präsentationen im zeitgenössischen Ausstellungsbetrieb.",
-   "p4": "Bis 1995 hatte er mehr als dreißig experimentelle Videoarbeiten produziert, die später beim II. Pirelli-Salon junger Künstler (1997) am Museum für zeitgenössische Kunst von Caracas gezeigt wurden, wo die gesamte Werkgruppe von der privaten Sammlung Noa Noa der Familie Oberto erworben wurde.",
-   "p5": "In den späten 1990er und frühen 2000er Jahren erweiterte er seine audiovisuelle Forschung weiter, dokumentierte Performances und entwickelte experimentelle Projekte in Video und Klang.",
-   "p6": "2002 nahm er an der Ausstellung From White Cube to Black Box: Historical Tapes, Creative Videos, Digital Art, Venezuelan Video am Museum für zeitgenössische Kunst von Caracas Sofía Imber teil. Im selben Jahr beteiligte er sich auch am Projekt Multimedia Artist, Founder of the Center for the Arts, das an derselben Institution gezeigt wurde. In dieser Zeit trug er auch zum Aufbau der Videokunstsammlung des Museums bei, indem er zwanzig in diesem Jahrzehnt entstandene Videowerke stiftete und der Institution übergab.",
-   "p7": "2003 nahm er am XI. Eugenio-Mendoza-Preis in der Sala Mendoza, Caracas, teil.",
-   "p8": "2004 präsentierte er das Werk Variations of the Eye. Videodance – Muu Blanco in der Nationalen Kinemathek von Caracas. Im selben Jahr war seine Arbeit Teil der Ausstellung Electric Earth. Short Films and Videos from the UK and Venezuela in der Sala Mendoza, einem internationalen Programm für experimentelles Video und Kurzfilm.",
-   "p9": "2006 präsentierte er ein experimentelles Videoprojekt im Museo Jacobo Borges, entwickelt in Zusammenarbeit mit dem Goethe-Institut. Das Projekt widmete sich Straßenhändlern und der informellen Wirtschaft in den Straßen von Caracas und thematisierte die urbane Landschaft als sozialen und politischen Raum.",
-   "p10": "Ab 2008 begann er, erweiterte Projektion und Videomapping in seine multimedialen Installationen zu integrieren. 2013 entwickelte er ein Forschungsprojekt zu Diashow und animiertem fotografischem Porträt, das im selben Jahr mit seiner letzten Einzelausstellung in Venezuela gipfelte, In Tha House, präsentiert bei Carmen Araujo Arte — eine multimediale Installation aus Video, Malerei, Skulptur und Klang.",
-   "p11": "2014 hatte er seine erste Einzelausstellung in New York City mit der multimedialen Installation Black Point Venezuela, präsentiert im Rahmen des Performance-Programms des Mandragoras Art Space in Long Island City. Die Arbeit verband Klangkunst, Videomapping, Skulptur und analoge Collage und thematisierte die sozialen und politischen Spannungen des zeitgenössischen venezolanischen Kontexts.",
-   "p12": "Im selben Jahr zog er nach Miami, wo er weiterhin einen Großteil seiner künstlerischen Produktion entwickelt. 2015 präsentierte er Nuevo Pensamiento Compositivo Vol.1 bei der Arts Connection Foundation, im Rahmen des Chill-Concept-Raums, eine Installation aus großformatiger Fotografie, Videomapping und Klangkunst.",
-   "p13": "Zwischen 2017 und 2019 entwickelte er eine Reihe experimenteller audiovisueller Veranstaltungen und Erfahrungen bei Ironside Miami, insbesondere im Espacio Santamantis, wo er Zusammenkünfte organisierte, die Videomapping und live gespielter experimenteller Musik gewidmet waren.",
-   "p14": "Nach der Unterbrechung dieser kreativen Räume während der COVID-19-Pandemie gründete er 2020 das Künstlerkollektiv IDArt Lab im Stadtteil Allapattah mit, das bis 2023 aktiv war. Innerhalb dieses Kollektivs nahm er an mehreren Gruppenausstellungen teil, bei denen er Videomapping, experimentelle Animationen und klanggesteuerte Lichtperformances in Begleitung live gespielter Klangkunstkompositionen präsentierte.",
-   "p15": "Sein jüngstes Projekt ist das Installations- und Klangkunstprogramm NatuUrban Symphony, präsentiert zwischen November 2024 und Januar 2025 bei der Arts Connection Foundation, das experimentelle Musik, Tanz, Videomapping-Projektionen und die Präsentation seines Dokumentarfilms NatuUrban Symphony vereint.",
-   "p16": "Seit 2017 pflegt Blanco den Instagram-Account <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a> als lebendiges Archiv seiner audiovisuellen Produktion, das Installationen, Performances und Videoexperimente aus seinem letzten Jahrzehnt der Arbeit in Miami dokumentiert.",
-   "p17": "Mit mehr als vier Jahrzehnten künstlerischer Laufbahn hat Muu Blanco eine hybride Praxis entwickelt, in der Video, Klang, Technologie und Performance als Mittel dienen, um urbane Kultur, Erinnerung und zeitgenössische soziale Spannungen zu untersuchen. Seine Arbeit ist Teil zahlreicher internationaler öffentlicher und privater Sammlungen.",
-   "readmore": "Vollständige Biografie ansehen"
-  },
-  "dossierbio": {
-   "p1": "Kunst, Zuhören, Stadt, Radio, Fernsehen, DJ-Kultur, Musikproduktion und multimediale Praxis: mehr als vier Jahrzehnte Laufbahn, von La Cuadra, El Paraíso (Caracas, 1966) bis Miami. Der Weg umfasst PARLAMENTO im Sofía-Imber-Museum für zeitgenössische Kunst von Caracas, SHORT MUU und PARLAMENTO SONORO auf 92.9 FM und La Mega 107.3 FM, DR. MUUSICA auf Radio del Ateneo, Residenzen als Selector in BAR1 und 90 Grados, künstlerische Leitung im Fernsehen und eine fortlaufende Praxis als multimedialer Konzeptkünstler, Klangkünstler, Musikproduzent und Selector.",
-   "quote": "„Sehen, hören, aufzeichnen, auswählen, archivieren, bearbeiten und teilen.“",
-   "link": "Vollständiges biografisches Dossier lesen (PDF) ↗"
-  },
-  "recent": {
-   "p1": "<strong>Latencias</strong> (2026), eine 40-minütige multimediale sensorische Performance, wurde am 19. Februar 2026 beim Ignite Broward Festival, MAD Arts, Dania Beach, FL, uraufgeführt. Sie wird in den Bereichen <a href=\"selected-works.html\">Selected Works</a>, <a href=\"conceptual.html\">Conceptual</a> und <a href=\"proyectos.html\">Projekte</a> dieser Website dokumentiert."
-  },
-  "contact": {
-   "p1": "Aktive Praktiken und Netzwerke unter <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a>. Werke zum Erwerb erhältlich in der <a href=\"store.html\">Galerie</a>."
-  },
-  "morelinks": {
-   "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">Wikipedia ↗</a> — Biografie und Laufbahn. <a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a> — alle Links des Künstlers an einem Ort."
-  },
-  "projects": {
-   "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a> — Künstlerprofil im Ausstellungsraum in Miami. <a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a> — Forschungsprojekt zur Geschichte der Klangkunst."
-  },
-  "shortbio": {
-   "p1": "Muu Blanco (Caracas, 1966) ist ein multidisziplinärer Künstler und Musiker unter dem Alias Dr.Muusica mit Sitz in Miami. Seine Praxis umfasst Videokunst, Klangkunst, Performance und Installation und erforscht über vier Jahrzehnte hinweg die Beziehung zwischen Bild, Klang und urbaner Landschaft.",
-   "readmore": "Vollständige Biografie lesen ↓"
-  },
-  "cronicas": {
-   "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
-   "p1": "2018 veröffentlichte die Autorin Lieska dieses Porträt in Bitácora 29 (Jacksonville), basierend auf einem Interview im Atelier des Künstlers in Miami. Der Text beleuchtet seine Ausbildung, die Verbindung von Humor und Respektlosigkeit in seiner Praxis sowie die Entwicklung der Serie Abstracciones Paisajísticas. <a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">Vollständigen Artikel lesen (PDF) ↗</a>"
-  }
- },
- "conceptual": {
-  "eyebrow": "01 — Konzeptuell",
-  "lead": "Vier Jahrzehnte künstlerischer Forschung, in denen Landschaft, Abstraktion, Klang, Erinnerung, Natur und Technologie zusammenlaufen, um unsere Wahrnehmung der zeitgenössischen Welt zu erweitern.",
-  "loading": "Bibliografie wird geladen…",
-  "statementTitle": "Künstlerstatement",
-  "statement": {
-   "p1": "Meine künstlerische Praxis begann 1986 als eine intuitive Suche, die Kunst nicht als isolierte Disziplin verstand, sondern als ein Territorium, in dem sich Bild, Klang, Architektur, Landschaft und Erinnerung begegnen konnten. Seither habe ich eine multidisziplinäre, in ständiger Wandlung befindliche Laufbahn aufgebaut, angetrieben von dem Bedürfnis zu untersuchen, wie wir die Welt wahrnehmen und wie die Zeit unsere Beziehung zu ihr verändert.",
-   "p2": "Ich wurde 1966 in Caracas geboren, einer Stadt, deren urbane Komplexität mein Raumverständnis tief geprägt hat. In meinen frühen Jahren entwickelte ich eine Praxis, die sich auf Malerei, Zeichnung und experimentelle Interventionen konzentrierte und sich bald zu Videokunst, experimentellem Film, Installation und klanglichen Praktiken weiterentwickelte. In den neunziger Jahren erhielt ich Anerkennungen, die diese Richtung bestätigten, darunter den Ersten Preis der Kurzfilm-Biennale von São Paulo für Perra Chillona und eine Sonderauszeichnung bei der V. Nationalen Kunstbiennale von Guayana.",
-   "p3": "Meine Arbeit war nie an ein einziges Medium gebunden. Jedes Projekt bestimmt die Sprache, die es zum Existieren braucht. Über vier Jahrzehnte hinweg habe ich mich zwischen Fotografie, Collage, musikalischer Komposition, Klangkunst, Performance, dokumentarischer Forschung und immersiven Installationen bewegt und verstehe all diese Disziplinen als Teil desselben kreativen Prozesses.",
-   "p4": "Natur und Landschaft waren die dauerhafte Achse meiner Forschung. Ich begreife sie nicht als darzustellende Kulisse, sondern als lebendige Archive, in denen Geschichte, Ökologie, Kultur und menschliche Erfahrung zusammenlaufen. Aus dieser Erkundung entstehen Projekte wie Abstraciones Paisajísticas, Modernismo Anacrónico, NatuUrban: A SubTropical Symphony of Miami und Archipiélago Sonoro — Werke, die die Beziehung zwischen Territorium, Erinnerung, Biodiversität und Klang untersuchen.",
-   "p5": "Die Migration nach Miami im Jahr 2014 eröffnete ein neues Kapitel meiner Praxis. Die Begegnung mit den subtropischen Ökosystemen Südfloridas erweiterte mein Interesse an akustischer Ökologie und an den Möglichkeiten, immersive Erfahrungen zu schaffen, in denen Feldaufnahmen, elektroakustische Komposition, künstliche Intelligenz, Fotografie, Video und interaktive Technologien koexistieren. In dieser Zeit hörte der Klang auf, das Bild zu begleiten, und wurde zu einem skulpturalen Material, das in der Lage ist, Räume der Kontemplation zu errichten.",
-   "p6": "In diesen Jahren habe ich auch intensiv als Forscher, Komponist, Selector, Herausgeber und Kulturproduzent gearbeitet und Publikationen, Archive, Schallplatten, Konzerte, Labore und Vermittlungsplattformen für Klangkunst und die musikalischen Kulturen der Karibik und Lateinamerikas geschaffen. Ich verstehe diese Aktivitäten als natürliche Erweiterungen meiner künstlerischen Praxis und als Möglichkeiten, Gemeinschaften rund um das Zuhören zu aktivieren.",
-   "p7": "Meine Arbeit schlägt eine Verlangsamung des Sehens und Hörens vor. Mich interessiert es, das sichtbar zu machen, was normalerweise unsichtbar bleibt: die Resonanzen der Landschaft, die in einem Territorium enthaltenen Erinnerungen, die alltäglichen Klänge, die unbemerkt bleiben, und die verborgenen Beziehungen zwischen Natur, Stadt und Kultur. Statt einen Ort darzustellen, versuche ich, Bedingungen zu schaffen, um ihn aus einer erweiterten Wahrnehmung heraus zu erfahren.",
-   "p8": "Im Jahr 2026, zum vierzigsten Jahrestag meiner künstlerischen Laufbahn, erkenne ich, dass meine Arbeit weiterhin eine offene Forschung ist. Jedes Projekt ist eine Einladung, anders zuzuhören, aufmerksamer zu beobachten und zu verstehen, dass die Landschaft kein äußeres Objekt ist, sondern ein lebendiger Organismus, dessen Teil auch wir sind. Meine Praxis entwickelt sich weiter zwischen technologischem Experiment und poetischer Sensibilität, in der Überzeugung, dass Kunst neue Formen der Beziehung zur Welt und zum kollektiven Gedächtnis schaffen kann."
-  }
- },
- "practicas": {
-  "eyebrow": "03 — Öffentliche Praktiken",
-  "lead": "Die laufende Praxis, dokumentiert über Netzwerke hinweg: sieben Instagram-Accounts, YouTube, Vimeo, SoundCloud und Discogs."
- },
- "drmusica": {
-  "eyebrow": "04 — DR.MUU RECORDS",
-  "lead": "Musikproduktionen von Dr.Muurecords, unter der Leitung von Dr.Muusica.",
-  "h2": {
-   "listen": "Vollständige Diskografie",
-   "press": "In der Presse",
-   "videoclips": "Videoclips",
-   "selector": "Dr.Muusica Selector — Vinyl & Live-Sessions",
-   "noticias": "Neueste Veröffentlichung",
-   "selectedreleases": "Ausgewählte Veröffentlichungen"
-  },
-  "press": {
-   "lead": "Erwähnungen und Berichterstattung über Muu Blanco als Musiker und Musikproduzent, chronologisch geordnet."
-  },
-  "videoclips": {
-   "lead": "Musikvideos, produziert und inszeniert von Muu Blanco, mit Originalmusik von Muu Blanco, produziert von Dr.Muusica im Dr.Muu-Records-Studio.",
-   "v1": {
-    "meta": "Mit Héctor Lavoe · Drehbuch: Dr.Muu Desing"
-   },
-   "v2": {
-    "meta": "JABALEE (LP), Track 5 · Ditto Music Venezuela · Video: MuuBlancoVideoArt &amp; SaltaMantis · Regie: Muu Blanco",
-    "date": "Juni 2019"
-   },
-   "v3": {
-    "meta": "Erste Single des LP New Wave BeatMaker CCS 66 · Bilder, Konzept und Regie: Muu Blanco",
-    "date": "März 2019"
-   },
-   "v4": {
-    "meta": "Sound Live: Dr.Muusica · Video Live: SaltaMantis · Voice Live: Veekelly · Regie: Muu Blanco · SaltaMantis Space",
-    "date": "März 2019"
-   },
-   "v5": {
-    "meta": "Dritte Video-Single des LP New Wave BeatMaker CCS 66"
-   },
-   "v6": {
-    "meta": "Video: Dr.Muu Desing",
-    "date": "März 2017"
-   },
-   "v7": {
-    "meta": "Selfie-Videoclip · Originalmusik: Dr.Muusica",
-    "date": "Dezember 2016"
-   }
-  },
-  "youtube": {
-   "handle": "Muu Blanco auf YouTube"
-  },
-  "listen": {
-   "original": "Originalmusik",
-   "mixtapes": "Live aufgenommene Mixtapes"
-  },
-  "selector": {
-   "lead": "Live-Sessions zum Vinyl-Hören, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae, Ska und Dub; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba, World Music und + reichen. Wöchentliche Residency bei Tripping Animals Brewery, Doral City, FL (2024–2026).",
-   "v1": {
-    "meta": "Live Vinyl Listening Session · Record Store Day 2026 · Lucky Records, Miami"
-   },
-   "v2": {
-    "date": "9. Februar 2025",
-    "meta": "Live gestreamt · Sounds von Dr. Muusica · Tripping Animals Brewing, Doral City, FL"
-   },
-   "v3": {
-    "date": "14. Januar 2025",
-    "meta": "Live gestreamt · Tripping Animals Brewing, Doral City, FL"
-   },
-   "v4": {
-    "date": "Januar 2025",
-    "meta": "Mit Uncle Jei · Tripping Animals Brewing, Doral City, FL"
-   }
-  },
-  "noticias": {
-   "lead": "Neue Veröffentlichung von DR.MUU Records, produziert von Dr.Muusica.",
-   "v1": {
-    "date": "Mai 2026",
-    "meta": "Label: DrMuu Records · Ausführende Produktion: Muu Blanco · Kunst, Grafikdesign: DrMuu Desing · Musikproduktion: Argenis Brito und Dr.Muusica · Aufgenommen und produziert zwischen Miami und Berlin, 2025–2026 · Postproduktion: Argenis Brito · Weltweite Veröffentlichung: 24. Mai 2026",
-    "p1": "Es ist eine aktive Instanz eines Systems, in dem die Struktur aufhört, als Eindämmung zu funktionieren, und beginnt, sich als Bruchfläche zu verhalten.",
-    "p2": "In diesem Kontext funktioniert der Klang nicht als Komposition, sondern als Druck: eine Kraft, die die Grenze durchquert, bis sie sie zerreißt.",
-    "track1title": "Track 1 — (Die Grenze zerreißt / Niemand hält an)",
-    "track1desc": "Er markiert den Moment, in dem die Struktur nachgibt. Es gibt weder Übergang noch Warnung: Die Öffnung ist unmittelbar und total. Was entsteht, folgt keiner narrativen Logik, sondern einem Fluss, der weder Bremse noch Richtung kennt.",
-    "track2title": "Track 2 — (Sie atmen, wo keine Luft ist)",
-    "track2desc": "Er bewohnt die Folgen dieses Bruchs. Hier stabilisiert sich die Anomalie. Das Unmögliche kollabiert nicht: es besteht fort. Was keine Bedingungen zur Existenz haben sollte, findet einen Weg, aktiv zu bleiben in einer Umgebung, die nicht mehr zwischen Innen und Außen unterscheidet.",
-    "p3": "Das Werk schlägt keine Geschichte vor, sondern einen Zustand: eine Zone, in der die Wahrnehmung gezwungen ist, ohne stabile Referenzen zu operieren.",
-    "closing": "ARGMUU konstruiert keinen Sinn; es unterwirft ihn der Interferenz.",
-    "listen": "Auf YouTube Music hören ↗",
-    "track1credit": "Videoclip: MuuBlancoVideoArt"
-   }
-  },
-  "selectedreleases": {
-   "lead": "Eine Auswahl an Alben und Klangveröffentlichungen von Muu Blanco / Dr.Muusica.",
-   "natuurban": "2024 · 12″-Vinyl-LP, 180g grün · Arts Connection Foundation",
-   "nwbm": "2019"
-  }
- },
- "prensa": {
-  "eyebrow": "06 — Presse",
-  "lead": "Chronologisch geordnete Rezensionen über Muu Blancos Werk in Zeitungen und Magazinen.",
-  "loading": "Rezensionen werden geladen…"
- },
- "store": {
-  "eyebrow": "05 — Galerie",
-  "lead": "Vier erhältliche Künstlerbücher: AAA 2002–2012 (Abstracciones Paisajísticas), Modernismo Anacrónico sowie New Compositional Thinking 1 und 2. Tippen Sie auf ein Cover, um es auf Blurb anzusehen, oder öffnen Sie die beschreibenden Anmerkungen.",
-  "driveImage": "Bild auf Google Drive",
-  "books": {
-   "title": "Erhältliche Bücher",
-   "withGerardo": "mit Gerardo Zavarze",
-   "pdfNct1": "New Compositional Thinking 1 (PDF) ↗",
-   "pdfNct2": "New Compositional Thinking 2 (PDF) ↗",
-   "v1": {
-    "p1": "Es stellt eine Synthese von Bildern von Muu Blanco (Caracas, Venezuela, 1966) dar, die sich auf das Zusammentreffen von Natur, Architektur und anderen Formen konzentriert, die die sensible Tradition der geometrischen Abstraktion in der venezolanischen Kunst aufgreifen.",
-    "p2": "Die Entstehung des Projekts ist in die Entstehung des experimentellen Lernraums eingebettet, der vom Instituto de Estudios Superiores de Artes Plásticas Armando Reverón (IUESAPAR) konzipiert wurde: Praxis und Kritik zeitgenössischer Systeme visueller Repräsentation. Dort fanden bedeutende Dialoge mit der Forscherin Sandra Pinardi, dem Kurator Luis Enrique Pérez Oramas und dem Architekten William Niño Araque statt, die die kreativen Umstände für den Fortgang dieser visuellen Forschung prägten.",
-    "p3": "Die Bilder, aus denen diese besondere Serie besteht, beziehen sich auf die sogenannte Escuela de Caracas, die Bewegung, die die venezolanische visuelle Moderne einleitet. Die vereinende Präsenz der Formen des Ávila stellt ein visuelles Schwerezentrum dar, das den Weisen, die Stadt zu betrachten, als Erfahrung, sich selbst zu betrachten, Kontrapunkte auferlegt.",
-    "p4": "Ebenso ist die Begegnung mit der Architektur ein stark präsentes Merkmal und fängt die Konzeption einer neuen Monumentalität ein, verbunden mit einer Sensibilität, die die integrative Erfahrung von Kunst und Architektur wiederbelebt, nun in klarem Bezug auf die agonale, vitale, dynamische und komplexe Dimension des Ortes. Das Erscheinen von Licht und die symbolische Bedeutung des Himmels — vielleicht als Verbindung zur kolonialen Erinnerung, Caracas als Ausläufer des Himmels? — stellt ebenfalls einen bedeutenden Bezugspunkt innerhalb der Montage der Bilder dar, aus denen diese Serie besteht.",
-    "details": "Kunstfotografie · Inspiration · Standardhochformat, 20×25 cm · 40 Seiten · ISBN 9798880530731 · Veröffentlicht Januar 2024 · Spanisch"
-   },
-   "v2": {
-    "p1": "Dies ist ein Kunstbuch von Muu Blancos Collagearbeit — es enthält keine Texte, nur Bilder: Fotografien dieser Werke. Die Werke, die Fotografien und das Grafikdesign stammen alle von Muu Blanco.",
-    "details": "Kunstfotografie · 15×23 cm · 120 Seiten · ISBN 9781320501064 · Veröffentlicht August 2015 · Sprache unbestimmt"
-   },
-   "v3": {
-    "p1": "In diesem Fall habe ich mit Pillen persönlicher Medikamente in Paolo Gasparinis Fotobuch Retromundo interveniert, das 1986 in Venezuela veröffentlicht wurde.",
-    "p2": "Ich verstehe meine Arbeit mit diesem Buch als konzeptuelle Handlung. Mich interessiert es, reflexiv die Elemente zu erkunden, die meine tägliche Welt und ihren Fluss mit meinen Lebenserfahrungen integrieren und konfigurieren. Ich tue dies nicht aus einer intimen Perspektive. Im Gegenteil, ich tue es aus einer Archäologie des Selbst (die Pillen, die ich täglich einnehme, können sich in persönliche archäologische Überreste verwandeln).",
-    "p3": "Von diesem Punkt aus sucht meine künstlerische Arbeit einen transgressiven und kontingenten Dialog mit den besonderen Diskursen der lateinamerikanischen Modernitäten und insbesondere mit jenen, die im Kontext der venezolanischen Geschichte verankert sind. Meine fotografischen Kompositionen mit Pillen, die auf Fragmenten des Buches Retromundo platziert sind, artikulieren oder zeigen keinen epischen oder nostalgischen Blick auf die Visionen des Autors der Originalfotografien. Sie sind vielmehr ästhetische Risse. Die Pillen fungieren als Assoziationsfaktoren mit der persönlichen Welt eines jeden. Sie sind Proben einer veränderten Modernität.",
-    "details": "Kunstfotografie · 13×20 cm · 30 Seiten · ISBN 9781367872233 · Veröffentlicht April 2016 · Englisch"
-   },
-   "v4": {
-    "p1": "Nun geht es im venezolanischen Fall nicht mehr um ein Land der Gnade, wie Christoph Kolumbus es in den Chroniken seiner Reisen in die Neue Welt formulieren würde. Die modernen Utopien, verankert in den Idealen einer schlaraffenlandhaften Natur, haben sich mit der plötzlichen und intensiven Ausbeutung der unterirdischen mineralischen Ressourcen in reale individuelle und kollektive Tragödien verwandelt. Die jüngste Geschichte Venezuelas bezeugt dies: eine Nation, die trotz der größten Ölreserven der Welt ihren Bürgern kein Wirtschaftswachstum und keine soziale Gerechtigkeit garantieren konnte.",
-    "p2": "Aus dieser Perspektive schlägt Muu Blanco vor, das venezolanische Ölimaginäre durch die Serie New Compositional Thinking (2014) umzukehren. In dieser Arbeit interveniert Blanco in eine Reihe von Bildern, die sich auf das venezolanische Ölepos beziehen und ursprünglich im Fotografiemagazin Extra Cámara veröffentlicht wurden, indem er ein Skapulier mit dem Bildnis von Chapulín Colorado einfügt. Zweifellos ist die Absicht dieser Einfügung, dass der Betrachter sich an den berühmten Satz der TV-Figur erinnert: „Und wer wird uns jetzt verteidigen?“ Gleichzeitig wird deutlich, dass Muu Blanco mit dieser Arbeit den Ölkult in derselben Weise anprangert, wie der Historiker Germán Carrera Damas vor einigen Jahren den in der venezolanischen Kultur so tief verwurzelten Bolívar-Kult offenlegte.",
-    "credits": "Fotobuch von Muu Blanco · Text: Gerardo Zavarce · Grafikdesign: Muu Blanco",
-    "details": "Kunstfotografie · Bildung · Kleines Quadrat, 18×18 cm · 20 Seiten · ISBN 9781320500975 · Veröffentlicht August 2015 · Englisch"
-   },
-   "memoriaLabel": "Beschreibende Anmerkungen"
-  }
- },
- "cv": {
-  "eyebrow": "08 — CV",
-  "lead": "Chronologischer Leitfaden zur künstlerischen Laufbahn von Muu Blanco (Caracas, Venezuela, 1966). Lebt und arbeitet in Miami. Venezolanisch-US-amerikanischer Künstler.",
-  "h2": {
-   "education": "Ausbildung",
-   "awards": "Preise und Auszeichnungen",
-   "solo": "Einzelausstellungen",
-   "group": "Gruppenausstellungen",
-   "collections": "Öffentliche Sammlungen",
-   "discography": "Diskografie (Auswahl)",
-   "installations": "Bemerkenswerte Klang- und Performance-Installationen",
-   "residencies": "Künstlerresidenzen",
-   "publications": "Publikationen / Presse / Kritische Erwähnungen (Auswahl)",
-   "media": "Besprochen in Medien wie",
-   "selected": "Ausgewählte Ausstellungen & Performances"
-  },
-  "selected": {
-   "readmore": "Vollständigen CV ansehen ↓",
-   "y2026i1": "Latencias, Ignite Broward Festival, MAD Arts, Dania Beach, FL, USA. 19. Februar 2026.",
-   "y2026i2": "El Kiosko - El Consulado NYC, The Elizabeth Foundation for the Arts, New York, USA.",
-   "y2025i1": "Technographies, New World School of Art Gallery, Miami, USA.",
-   "y2025i2": "Miami International Performance Festival „M/P '25“, Edge Zones Art Center, Miami, USA.",
-   "y20242025i1": "NatuUrban Symphony, Arts Connection Foundation, Miami, USA.",
-   "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival, 20. Jubiläum, Palazzo Bembo, Biennale von Venedig, Venedig, Italien.",
-   "y2024i2": "Kunst und Politik verbinden, Museo La Neomudéjar, Madrid, Spanien.",
-   "y2023i1": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert, Miami International Fine Art (MIFA), Doral, Florida, USA."
-  },
-  "awards": {
-   "y1995i1": "Erster Preis bei der Kurzfilm-Biennale von São Paulo für den Film „Perra Chillona“. Monolog von Muu Blanco, Regie: Sabrina Montiel Soto.",
-   "y1994i1": "Sonderauszeichnung bei der V. Nationalen Kunstbiennale von Guayana, Venezuela."
-  },
-  "education": {
-   "i1": "Master in Praxis und Kritik zeitgenössischer Repräsentationssysteme. Instituto Universitario de Estudios Avanzados Armando Reverón, Caracas. 2002.",
-   "i2": "5. Kurs für Projektmanagement in den bildenden Künsten. Fundación Polar, Caracas. 1996.",
-   "i3": "Geschichte der venezolanischen Kunst. Instituto Federico Brandt, Caracas. Zeichnen und Malerei II. Instituto Federico Brandt, Caracas. 1990.",
-   "i4": "Kurs zur Geschichte der zeitgenössischen Kunst. Museo de Bellas Artes, Caracas. 1989."
-  },
-  "residencies": {
-   "y20242026i1": "„Musikalische Kuration und monatliche Herausgabe des Fanzines Afro Latin Culture Flavor“ — Wöchentliche Residency als Selector und Klangforscher bei Tripping Animals Brewery, Doral City, Miami, USA.",
-   "y2023i1": "„Artist in Residence für klangliche Bildungsinstallation“ — Stadt Doral City, USA.",
-   "y20142016i1": "Multimedia-Künstler und Kurator bei Arts Connection Foundation, Miami, USA.",
-   "y2007i1": "Eingeladener Artist in Residence, Art Center South Florida, Miami Beach, USA."
-  },
-  "collections": {
-   "i1": "Fundación Patricia Phelps de Cisneros, Caracas – New York.",
-   "i2": "Fundación NOA NOA, Caracas, Venezuela.",
-   "i3": "Archivo Fotografía Urbana, Caracas, Venezuela.",
-   "i4": "Colección Mercantil, Caracas, Venezuela.",
-   "i5": "Colección Arte Al Límite, Santiago de Chile, Chile.",
-   "note1": "Private Sammlungen in Caracas und Maracaibo (Venezuela); New York, Los Angeles, Houston, Miami und San Francisco (USA); Mailand (Italien); Madrid und Barcelona (Spanien); Porto Alegre (Brasilien); Lissabon (Portugal); Santiago de Chile (Chile)."
-  },
-  "discography": {
-   "i1": "2024 — NatuUrban: Una Sinfonía SubTropical de Miami [LP 12\" Vinyl, 180g, grün]. Arts Connection Foundation, Miami, USA.",
-   "note1": "Veröffentlichte Alben:",
-   "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
-   "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
-   "i4": "\"JABALEE\" — Muu Blanco (2019).",
-   "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
-   "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
-   "note2": "18 veröffentlichte Singles (2019–2026)."
-  },
-  "installations": {
-   "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
-   "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
-   "y2025i3": "NatuUrban Symphony, Klang-, Tanz- und Live-Performance-Installation, Arts Connection Foundation, Miami, USA.",
-   "y2024i1": "NatuUrban Symphony, Mehrkanalige Klanginstallation mit natürlicher Umgebung, Arts Connection Foundation, Miami, USA.",
-   "y2024i2": "„Exploring the Roots and Evolution of Sound Art“, Interaktive Bildungsinstallation. MIFA, USA.",
-   "y2023i1": "„Exploring the Roots and Evolution of Sound Art“, Interaktive Bildungsinstallation. Internationale Kunstmesse Doral City, USA.",
-   "y2017i1": "„Lumínico Sonoro I“, Audiovisuelle Installation bei Espace Expression, Wynwood, Miami, USA.",
-   "y2015i1": "„New Compositional Thinking Vol.1“, Gemischte Klanginstallation bei Arts Connection, Miami, USA.",
-   "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
-   "y2007i1": "„Multimedia Landscape“, Performative Installation, Art Center/South Florida, Miami Beach, USA."
-  },
-  "publications": {
-   "y2025i1": "„Afro Latin Culture Flavor“ — Monatliches Print-Fanzine (limitierte Auflage, 100 Exemplare). Redaktionelle Kuration und Produktion: Muu Blanco / Dr.Muusica, Doral City, USA.",
-   "y2024i1": "„NatuUrban Symphony Katalog“ — kuratorischer Text von Gerardo Zavarce, Grafikdesign: Carlos González. Miami, USA.",
-   "y2023i1": "AAA „Abstracciones Paisajísticas“ [Fotobuch] — 10 Jahre urbaner fotografischer Abstraktion aus Caracas, Muu Blanco, Miami, USA.",
-   "y2020i1": "„World of Art – Latin American Art Since 1900“ (dritte Auflage), Edward Lucie-Smith.",
-   "y2015i1": "„New Compositional Thinking Vol.1“ — redaktioneller Katalog bei Arts Connection Foundation, Miami, USA.",
-   "y2015i2": "Modernismo Anacrónico — Katalog/Buch analoger Collagen, Muu Blanco, Miami, USA.",
-   "y2015i3": "„New Compositional Thinking Vol.2“ — Katalog/Fotobuch, Muu Blanco, Miami, USA.",
-   "y2009i1": "„Paisaje Sonoro Caracas–Berlín“ — Klangkatalog auf CD, Sala Mendoza, Caracas, Venezuela."
-  },
-  "media": {
-   "note": "1998–2026",
-   "i1": "Transit, New York, USA.",
-   "i2": "Art America, New York, USA.",
-   "i3": "ArtNexus, Bogotá, Kolumbien.",
-   "i4": "El Nacional, Caracas, Venezuela.",
-   "i5": "Papel Literario, Caracas, Venezuela.",
-   "i6": "Estilo, Caracas, Venezuela.",
-   "i7": "Miami Herald, Miami, USA.",
-   "i8": "El Nuevo Herald, Miami, USA.",
-   "i9": "Artishock, Santiago, Chile.",
-   "i10": "Arte Al Límite, Santiago, Chile.",
-   "i11": "Arte al Día, Miami, USA.",
-   "i12": "Shoutout Miami, Miami, USA.",
-   "i13": "Unter anderem."
-  },
-  "solo": {
-   "y20252024i1": "NatuUrban Symphony, Art Connection Foundation, Miami, FL, USA.",
-   "y20252024i2": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert. Miami International Fine Art (MIFA), Miami, USA.",
-   "y2023i1": "Die Wurzeln und Entwicklung der Klangkunst erkunden: Vom Futurismus bis zum 21. Jahrhundert, Spezielle Bildungsinstallation bei der Internationalen Kunstmesse Doral. Doral City, Florida, USA.",
-   "y2020i1": "Composiciones Ardientes, Miami Photo Institute, Miami, USA.",
-   "y2019i1": "Iluminación y Sonido II, MixMedia-Installation. Espace Expression. Wynwood, Miami, USA.",
-   "y2019i2": "Calle sin salida, GBG Arts Miami, Arts Palm Beach, West Palm Beach, USA.",
-   "y2019i3": "Black Point, Venezuela, The Box Gallery, West Palm Beach, USA.",
-   "y2017i1": "Iluminación y Sonido I, Video- und Klanginstallation. Espace Expression. Wynwood, Miami, USA.",
-   "y2015i1": "New Compositional Thinking Vol. 1, Mixmedia. Arts Connection Foundation. Miami, USA.",
-   "y2015i2": "NCT X 13 Samples / Foto und Musik. Wynwood, Miami, USA.",
-   "y2014i1": "Ejercicios CBT # 1, Miami, USA.",
-   "y2014i2": "Black Point. MixmediaArt-Installation. Mandragoras Art Space. New York, USA.",
-   "y2013i1": "In Tha House. Carmen Araujo Arte. Caracas, Venezuela.",
-   "y2012i1": "Caja blanca atrapa moscas, Galería Sicart. Barcelona, Spanien.",
-   "y2012i2": "Entorno, Espacio Fotográfico Cubo 7. Caracas, Venezuela.",
-   "y2010i1": "Fósiles Analíticos, Galería Fernando Zubillaga. Galpones del Centro de Arte. Caracas, Venezuela.",
-   "y2009i1": "Paisaje Sonoro Caracas-Berlín. Sala Mendoza, Caracas, Venezuela.",
-   "y2008i1": "A.P. (Paisaje de Abstracciones). Galería Farías + Fábregas. Caracas, Venezuela.",
-   "y2008i2": "Modernismo Anacrónico, Galería Sicart. Barcelona, Spanien.",
-   "y2007i1": "Paisaje Multimedia, Art Center / South Florida. Schlaflose Nacht. Miami Beach, Florida, USA.",
-   "y2007i2": "PAINT Kunstmesse. Hardcore Art Contemporary Space. New York, USA.",
-   "y2007i3": "Bello Horizonte. Modernismo Anacrónico, Centro Cultural Chacao Reihe. Caracas, Venezuela.",
-   "y2006i1": "Fósil analítico, Galería Fernando Zubillaga, Periférico Caracas. Caracas, Venezuela.",
-   "y2006i2": "Modernismo anacrónico, Hardcore Art Contemporary Space. Miami, Florida, USA.",
-   "y2005i1": "Modernismo anacrónico, Heroes & Trash. Caracas, Venezuela.",
-   "y1993i1": "Cachiperro a mano. La Paninoteka. Caracas, Venezuela.",
-   "y1992i1": "Grafik. La Paninoteka. Caracas, Venezuela."
-  },
-  "group": {
-   "y2026i1": "El Kiosko - El Consulado NYC, The Elizabeth Foundation for the Arts, New York, USA.",
-   "y2025i1": "Technographies, New World School of Art Gallery, Miami, USA.",
-   "y2025i2": "El Kiosko - El Consulado NYC, NADA Kunstmesse, Miami, USA.",
-   "y2025i3": "Miami International Performance Festival „M/P '25“, Edge Zones Art Center, Miami, USA.",
-   "y2024i1": "Kunst und Politik verbinden. Museo La Neomudéjar, Madrid, Spanien.",
-   "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival, 20. Jubiläum, Palazzo Bembo, Biennale von Venedig, Venedig, Italien.",
-   "y2022i1": "Sonderraum, Pinta Kunstmesse, Coconut Grove, Florida, USA.",
-   "y2022i2": "Jenseits des Klangs der Stille, Lowe Art Museum, Coral Gables, FL, USA.",
-   "y2022i3": "Serendipia #2 &gt; Post_Ready_Made, Espacio Monitor, Caracas, Venezuela.",
-   "y2022i4": "DGTL: IRL, POPKDM, Galería Weitenfeild Landaluce, Berlin, Deutschland.",
-   "y2022i5": "MetaFluxus und Miami New Media Festival, ID Art Lab, Wynwood, Miami, FL, USA.",
-   "y2022i6": "Serendipity #1 Installation, Espacio Monitor, Caracas, Venezuela.",
-   "y2021i1": "DORCAM Museum New Media Festival, Doral City, Florida, USA.",
-   "y2021i2": "Die beispiellose Laufbahn, Centro Cultural La Trinidad, Caracas, Venezuela.",
-   "y2021i3": "ID, Id Art Lab, Wynwood, Miami, USA.",
-   "y2021i4": "Multimedia-Kunstaktionen, Id Art Lab, Wynwood, Miami, USA.",
-   "y2020i1": "DORCAM Museum New Media Festival, Doral City, Florida, USA.",
-   "y2020i2": "Base Art, Id Art Lab, Wynwood, Miami, USA.",
-   "y2020i3": "Focus, GBG Art, Art Palm Beach, USA.",
-   "y2019i1": "Miami New Media Festival, DORCAM Museum, Doral City, Florida, USA.",
-   "y2019i2": "Border Line, Id Art Lab, Wynwood, Miami, USA.",
-   "y2019i3": "+58 Art, Canvas Gallery Miami, Miami, USA.",
-   "y2019i4": "Political Aesthetics, GBG Arts Miami, USA.",
-   "y2019i5": "My View, LFA Space, Wynwood, Miami, USA.",
-   "y2018i1": "Miami New Media Festival, Miami, USA.",
-   "y2018i2": "Miami International Performance Festival „M/P '18“, Edge Zone Arts Center, Miami, USA.",
-   "y2018i3": "Art and Football (Öffentliche Videokunst-Installation), Goethe-Institut, Baku, Aserbaidschan.",
-   "y2018i4": "Miami Life Exhibition (Mixmedia-Installation), Miami Photo Institute, USA.",
-   "y2018i5": "Par amour du jet, „ISimulación“ (Öffentliche Videokunst-Installation), Les Magasins Generaux, Paris, Frankreich.",
-   "y2018i6": "Lenguas Indígenas (Klangkunst), Mercosur-Biennale, Porto Alegre, Brasilien.",
-   "y2017i1": "Miami New Media Festival, USA.",
-   "y2017i2": "Vorstellungen von Raum, Colección Banco Mercantil, Caracas, Venezuela.",
-   "y2017i3": "Colección Arte Al Límite, Espacio Fundación Telefónica, Santiago de Chile, Chile.",
-   "y2017i4": "AntiRedymate, Espacio Monitor, Caracas, Venezuela.",
-   "y2017i5": "„Onomatopías Visuales de Tiempos Difíciles“, Carmen Araujo Arte, Caracas, Venezuela.",
-   "y2017i6": "Miami International Performance Festival „M/P '17“, Edge Zone Arts Center Gallery, Miami, USA.",
-   "y2017i7": "Friedliche Resonanz für venezolanische Kinder, UNICEF, Galería Ascanio y EE, Wynwood, Miami, USA.",
-   "y2017i8": "Venezuela aus verschiedenen Breiten neu denken, Fundana und BAC, Wynwood, Miami, USA.",
-   "y2016i1": "Miami New Media Festival, USA.",
-   "y2016i2": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Lima, Peru.",
-   "y2016i3": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Buenos Aires, Argentinien.",
-   "y2016i4": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, La Paz, Bolivien.",
-   "y2016i5": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut, Museo de Arte Contemporáneo, Caracas, Venezuela.",
-   "y2015i1": "Miami New Media Festival, USA.",
-   "y2015i2": "Digitale Visionen, Sala Pettit, Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
-   "y2015i3": "Medienkunst: Natur in digitalen Medien, Fundación Telefónica, CorpBanca, Caracas, Venezuela.",
-   "y2015i4": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Oca de São Paulo, São Paulo, Brasilien.",
-   "y2015i5": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut New-Media-Biennale. Santiago de Chile, Chile.",
-   "y2015i6": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut I. Biennale von Asunción, Museo del Barro, Paraguay.",
-   "y2015i7": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut II. Biennale von Curitiba, Brasilien.",
-   "y2015i8": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Oi Futuro, Rio de Janeiro, Brasilien.",
-   "y2015i9": "Voces Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut. Museo de Ushuaia, Argentinien.",
-   "y2015i10": "Wynwood Art, The Chill Concept, Wynwood, Miami, USA.",
-   "y2014i1": "Miami New Media Festival, Miami, USA.",
-   "y2014i2": "Art Fair Context Miami, The Chill Concept, Wynwood, Miami, USA.",
-   "y2014i3": "II. Biennale von Montevideo, Großer Saal der Zentralbank von Uruguay, Montevideo, Uruguay.",
-   "y2014i4": "Lenguas Indígenas. Klangkunst. Wanderkollektiv. Goethe-Institut / ICBA, Rio de Janeiro, Brasilien.",
-   "y2014i5": "Zur grünen Ebene, zweite Auflage. Centro Integrado de Artes. Caracas, Venezuela.",
-   "y2014i6": "Só Jogo Futebol o Just When They Finished, Goethe-Institut / ICBA. Wanderausstellung: São Paulo, Porto Alegre, Belo Horizonte, Lima, Bolivien, Córdoba (Argentinien), Bogotá (Kolumbien), Caracas (Venezuela), Santiago de Chile (Chile) und Quito (Ecuador).",
-   "y2014i7": "Soy punto de encuentro. Carmen Araujo Art. Caracas, Venezuela.",
-   "y2014i8": "Ccs-2014 | Flash Caracas: Videoräume. Centro de Arte Los Galpones. Caracas, Venezuela.",
-   "y2013i1": "ArtBo Internationale Kunstmesse, Arte Carmen Araujo, Bogotá, Kolumbien.",
-   "y2013i2": "Só Jogo Futebol o recién cuando terminaron, Goethe-Institut / ICBA. Wanderausstellung: Brasília, Salvador da Bahia, Rio de Janeiro, Fortaleza (Brasilien), Santa Cruz de la Sierra (Bolivien), Montevideo (Uruguay), Buenos Aires (Argentinien), La Paz (Bolivien).",
-   "y2013i3": "Video und andere Fahrzeuge. Al Borde Gallery, Maracaibo, Venezuela.",
-   "y2013i4": "Architektonische Denkmäler. Sala Mendoza, Caracas, Venezuela.",
-   "y2013i5": "Elektronischer Raum, Bd. 5. Sala Mendoza. Caracas, Venezuela.",
-   "y2012i1": "Caracas Arte Contemporáneo (CACRI). Carmen Araujo Arte. Parque Cultural Hacienda La Trinidad. Caracas, Venezuela.",
-   "y2011i1": "Galería Arqueología. Galería Sicart. Vilafranca del Penedès, Katalonien, Spanien.",
-   "y2011i2": "Veränderte Geometrie: Zwölf visuelle Diskurse. Galería Farías + Fábregas. Caracas, Venezuela.",
-   "y2011i3": "Sonnenuntergang von Santa Lucía. Maracaibo, Venezuela.",
-   "y2010i1": "Didáctica, Centro de Arte Periférico de Caracas Los Galpones. Caracas, Venezuela.",
-   "y2009i1": "Paisaje Sonoro. Ccs - Brln. Sala Mendoza. Caracas, Venezuela.",
-   "y2009i2": "OPENART. Kunsthistorisches Zentrum von Zaragoza, Spanien.",
-   "y2008i1": "PhotoMiami '08. Galería Sicart. Miami, USA.",
-   "y2008i2": "Arte Lisboa. Galería Sicart. Lissabon, Portugal.",
-   "y2008i3": "Arte Valencia. Galería Sicart. Valencia, Spanien.",
-   "y2008i4": "Foto Buenos Aires. Galería Sicart. Argentinien.",
-   "y2008i5": "ArtBo. Galería Farías + Fábregas, Bogotá, Kolumbien.",
-   "y2008i6": "Zeitgenössische venezolanische Videokunst, Periférico CCS, La Otra, Bogotá, Kolumbien.",
-   "y2008i7": "Reflexión y Refracción. Galería Rich. London, England.",
-   "y2008i8": "D'eros I Thanatos. Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
-   "y2008i9": "ArteSantander. Galería Sicart. Santander, Spanien.",
-   "y2008i10": "ArteBa. Galería Sicart. Buenos Aires, Argentinien.",
-   "y2008i11": "(Un)sichtbare Geografien der zeitgenössischen lateinamerikanischen Kunst. Centro León, Dominikanische Republik.",
-   "y2008i12": "SWAB Kunstmesse. Galería Sicart. Barcelona, Spanien.",
-   "y2008i13": "MiArt, Galería Sicart. Mailand, Italien.",
-   "y2008i14": "Bridge Art Fair. Tracing Misfits, Galería Sicart. New York, USA.",
-   "y2008i15": "Zeichnung, Galería Sicart, Vilafranca del Penedès, Katalonien, Spanien.",
-   "y2007i1": "Pinta. NYC, Metropolitan Pavilion, New York, USA.",
-   "y2007i2": "Foto Miami. Galería Sicart. Miami, USA.",
-   "y2007i3": "SCOPE Miami Kunstmesse. Galería HACS. Miami, USA.",
-   "y2007i4": "Buenos Aires Photo. Galería Sicart. Buenos Aires, Argentinien.",
-   "y2007i5": "Buenos Aires Photo, Hardcore Art Contemporary Space, Buenos Aires, Argentinien.",
-   "y2007i6": "Valencia Art. Galería Sicart. Valencia, Spanien.",
-   "y2007i7": "Lisbon Art. Galería Sicart. Lissabon, Portugal.",
-   "y2007i8": "Vilafranca Contemporánea. Galería Sicart. Vilafranca del Penedès, Katalonien, Spanien.",
-   "y2007i9": "ArteBA. Galería Sicart. Buenos Aires, Argentinien.",
-   "y2007i10": "List Bärliner. Galería Sicart. Berlin, Deutschland.",
-   "y2007i11": "Iberoamerikanische Kunstmesse (FIA), Hotel Tamanaco Intercontinental, Hardcore Art Contemporary Space, Caracas, Venezuela.",
-   "y2007i12": "Balelatina. Hardcore Art Contemporary Space. Basel, Schweiz.",
-   "y2007i13": "Circa, Hardcore Art Contemporary Space, San Juan, Puerto Rico.",
-   "y2007i14": "Arteaméricas. Hardcore Art Contemporary Space. Miami, USA.",
-   "y2007i15": "Art Los Angeles. Galería Sicart. Los Angeles, USA.",
-   "y2007i16": "AAA, Modernität und Anachronismus, VI. Mercosur-Biennale, Porto Alegre, Brasilien.",
-   "y2007i17": "Blight and Celebration. Multimedia Fusion Festival, Brooklyn, USA.",
-   "y2006i1": "Photo Miami. Galería Sicart. Miami, USA.",
-   "y2006i2": "Diálogos. Museo de Arte Contemporáneo de Costa Rica, San José, Costa Rica.",
-   "y2006i3": "Image of Caracas (Off loop). Space Joaquín Costa (Gallery dels Angels), Barcelona, Katalonien, Spanien.",
-   "y2006i4": "Interventionen, Museo Jacobo Borges, Caracas, Venezuela.",
-   "y2006i5": "Do not Trust - White Biennial, Anxiety of Influence. UCLA New Wight Gallery, Eli and Edith Broad Art Center. Los Angeles, USA.",
-   "y2006i6": "Happy Ever After... Hardcore Art Contemporary Space. Miami, Florida, USA.",
-   "y2005i1": "Diálogos: Zeitgenössische lateinamerikanische Kunst aus der Colección Cisneros. Museo Nacional de Bellas Artes, Santiago de Chile, Chile.",
-   "y2005i2": "Zeitgenössische Kunst in der venezolanischen Colección Cisneros. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
-   "y2005i3": "Türme von Caracas: Zum Schweigen gebrachte Moderne. Sala Mendoza. Caracas, Venezuela.",
-   "y2004i1": "Variaciones del ojo. Videotanz - Muu Blanco. Cinemateca Nacional. Caracas, Venezuela.",
-   "y2004i2": "El Barril - Goethe-Institut Caracas, Museo Jacobo Borges. Caracas, Venezuela.",
-   "y2004i3": "VII Jóvenes con FIA, Sala CANTV, Ateneo de Caracas. Espacios Cálidos, Caracas, Venezuela.",
-   "y2004i4": "Tierra Eléctrica. Kurzfilme und Videos aus dem Vereinigten Königreich und Venezuela, Sala Mendoza. Caracas, Venezuela.",
-   "y2004i5": "Skulptur und Fotografie. Galería Spazio Zero. Caracas, Venezuela.",
-   "y2003i1": "Contra/Sentido. Neue venezolanische Fotografie, Sala Mendoza. Caracas, Venezuela.",
-   "y2003i2": "Erster Monat der Fotografie 2003, Caracas - Polaroid TM. Museo Alejandro Otero. Caracas, Venezuela.",
-   "y2003i3": "28. Nationale Kunstausstellung von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Aragua, Venezuela.",
-   "y2003i4": "Eugenio-Mendoza-Preis XI. Sala Mendoza. Caracas, Venezuela.",
-   "y2002i1": "Vom White Cube zur Black Box: historische Bänder, kreative Videos, digitale Kunst, venezolanisches Video, Museo de Arte Contemporáneo de Caracas Sofía Imber. Caracas, Venezuela.",
-   "y2002i2": "Multimedia-Künstler, Gründer des Centro para las Artes. Museo de Arte Contemporáneo de Caracas Sofía Imber. Caracas, Venezuela.",
-   "y2001i1": "13 Stunden. Sala Mendoza, Caracas, Venezuela.",
-   "y2001i2": "ENE Incidentes - RE Incidentes / Zwischen den Jahrtausenden. Centro de Bellas Artes, Maracaibo, Zulia, Venezuela.",
-   "y2000i1": "Demostrationraume / Eine Fallstudie. Galería Or. Vancouver, Kanada.",
-   "y2000i2": "90 60 90. Goethe-Institut Caracas, Museo Jacobo Borges. Caracas, Venezuela.",
-   "y2000i3": "58. Arturo-Michelena-Salon, Ateneo de Valencia, Carabobo, Venezuela.",
-   "y1999i1": "22. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Aragua, Venezuela.",
-   "y1998i1": "Jóvenes con FIA CANTV. Ateneo de Caracas, Caracas, Venezuela.",
-   "y1998i2": "III. Biennale Barro de América. Venezuela-Brasilien, Zentrale Begegnungen. Museo de Bellas Artes, Caracas, Venezuela.",
-   "y1998i3": "Die Auferstehung des Exquisiten Leichnams, Sala Mendoza, Caracas, Venezuela.",
-   "y1998i4": "Casco de Acero, Espacios Unión, Caracas, Venezuela.",
-   "y1998i5": "V. Biennale von Guayana: Eine Auswahl. Museo Alejandro Otero, Caracas, Venezuela.",
-   "y1998i6": "Wellenlänge, Videos und Fotografien, Museo Alejandro Otero. Caracas, Venezuela.",
-   "y1997i1": "22. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Maracay, Aragua, Venezuela.",
-   "y1997i2": "V. Nationale Kunstbiennale von Guayana. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
-   "y1995i1": "II. Pirelli-Salon junger Künstler. Museo de Arte Contemporáneo de Caracas Sofía Imber, Caracas, Venezuela.",
-   "y1994i1": "Gemischte Techniken. Galería Alternativa. Caracas, Venezuela.",
-   "y1994i2": "VII. Miniaturen-Biennale. TAGA. Caracas, Venezuela.",
-   "y1994i3": "IV. Nationale Kunstbiennale von Guayana. Museo de Arte Moderno Jesús Soto, Ciudad Bolívar, Bolívar, Venezuela.",
-   "y1992i1": "XVII. Nationaler Fotografiesalon. Hommage an den Fotojournalismus. Foro Libertador. Instituto Autónomo Biblioteca Nacional. Caracas, Venezuela.",
-   "y1992i2": "17. Nationaler Kunstsalon von Aragua. Museo de Arte Contemporáneo de Maracay Mario Abreu, Venezuela.",
-   "y1991i1": "1, 2, 3, 4, 5. Ausstellungshalle der Gouvernement von Caracas, DF, Venezuela.",
-   "y1990i1": "Zeichnungsausstellung. Instituto Federico Brandt, Caracas, Venezuela."
-  }
- },
- "contacto": {
-  "eyebrow": "09 — Kontakt",
-  "lead": "Für Anfragen zu Kunst oder Musik bitte direkt schreiben.",
-  "arte": {
-   "label": "Kunst"
-  },
-  "music": {
-   "label": "Musik / Booking"
-  },
-  "note": "Weiteres Material: <a href=\"cv.html\">CV</a> für die vollständige Laufbahn, <a href=\"prensa.html\">Presse</a> für Rezensionen und Berichterstattung, <a href=\"practicas-publicas.html\">Öffentliche Praktiken</a> für soziale Medien, <a href=\"store.html\">Galerie</a> für erhältliche Werke.",
-  "categories": "Ausstellungen · Performances · Klangauftragsarbeiten · Künstlergespräche · Vinyl-Programme · Selector-Buchungen · Presse · Kollaborationen"
- },
- "proyectos": {
-  "eyebrow": "02 — Forschungsprojekte",
-  "h1": "Forschungsprojekte",
-  "lead": "Langfristige Forschungslinien innerhalb der Praxis von Muu Blanco — jede mit eigenem Werkkorpus, Publikationen und Präsentationen.",
-  "ongoing": "Laufend",
-  "seeInPress": "In der Musikpresse ansehen",
-  "viewPdfCatalog": "Modernismo Anacrónico. Collage (PDF) ↗",
-  "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories (PDF) ↗",
-  "viewPdfSicart": "Sicart-Katalog 2010 (PDF) ↗",
-  "viewPdfBook": "AAA 2002–2012 Fotobuch (PDF) ↗",
-  "viewPdfPhotos": "Abstracciones Paisajísticas. Fotografien (PDF) ↗",
-  "viewPdfDossier": "Carmen Araujo Arte — Dossier, Abstracciones Paisajísticas (PDF) ↗",
-  "natuurban": {
-   "medium": "Klanginstallation, Tanz und Videomapping",
-   "p1": "Ein Installations- und Klangkunstprogramm, präsentiert bei der Arts Connection Foundation, Miami. Es vereint experimentelle Musik, Tanz, Videomapping-Projektionen und einen begleitenden Dokumentarfilm — Muu Blancos jüngste Forschung zur Klanglandschaft und zur natürlichen urbanen Umgebung.",
-   "videoTitle": "NatuUrban Symphony",
-   "videoMeta": "Dokumentarkurzfilm · Regie: Jacopo Fantastichini · Produktion: PlantPop · FilmGate Festival, 30. Juli 2025",
-   "videoDesc": "Ein Dokumentarkurzfilm unter der Regie von Jacopo Fantastichini und produziert von PlantPop, kuratiert von Gerardo Zavarce. Er begleitet Muu Blancos Laufbahn und den Entstehungsprozess seiner Klangkunstinstallation NatuUrban Symphony, die die natürlichen und urbanen Klänge von Nationalparks am Rande großer Städte Südfloridas erkundet — eine Installation, die durch die Förderung der Arts Connection Foundation ermöglicht wurde, mit der Muu Blanco seit 2014 in Miami zusammenarbeitet. Der Film enthält Bildmaterial von Camera Creature SVC und Originalmusik von Dr.Muusica und dokumentiert das zentrale Konzept des Werks: lebende Pflanzen, die Mini-Lautsprecher tragen, die Klanglandschaften abspielen, die das Natürliche mit dem Urbanen verbinden. Er feierte am 30. Juli 2025 im SilverSpot Cinemas, Downtown Miami, im Rahmen des FilmGate Festivals Premiere — Muu Blancos erster in den USA produzierter Dokumentarkurzfilm, ein Meilenstein innerhalb seiner vierzig Jahre ununterbrochener künstlerischer Laufbahn."
-  },
-  "soundart": {
-   "p1": "Eine virtuelle Installation, präsentiert als Web-App im Jahr 2024, im Jahr nach dem Abschluss der Ausstellung Exploring the Roots and Evolution of Sound Art (2023). Sie vereint Muu Blancos Forschung zur Geschichte der Klangkunst, von ihren Wurzeln im Futurismus bis ins 21. Jahrhundert."
-  },
-  "abstracciones": {
-   "medium": "Fotografie",
-   "p1": "Fünfzehn Jahre Abstracciones Paisajísticas, von Caracas bis in die ganze Welt.",
-   "animadas": {
-    "title": "Animierte Abstracciones Paisajísticas (AAOA)",
-    "meta": "Animation: Benky Chang · Saragossa, Spanien"
-   },
-   "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — Buch auf Blurb ↗",
-   "instagramLink": "Instagram @abstracionespaisajisticas ↗"
-  },
-  "modernismo": {
-   "medium": "Analoge Collage / Mixed Media",
-   "p1": "Eine Serie aus analoger Collage und Mixed-Media-Arbeit, begonnen 2002 — ausgestellt bei Heroes & Trash (Caracas, 2005), Espacio Hardcore Art Contemporary (Miami, 2006), Bello Horizonte / Centro Cultural Chacao (Caracas, 2007) und Galería Sicart (Barcelona, 2008), sowie als Katalog/Buch veröffentlicht.",
-   "blurbLink": "Modernismo Anacrónico. Collage — Buch auf Blurb ↗",
-   "instagramLink": "Instagram @modernismo_anacronico ↗",
-   "belloHorizonteLink": "Bello Horizonte — Katalog, Centro Cultural Chacao (PDF) ↗"
-  },
-  "fosiles": {
-   "medium": "Zeichnung und Installation",
-   "p1": "Forschung zur Zeichnung und ihren installativen Anwendungen, begonnen 2002, präsentiert als Einzelausstellung in der Galería Fernando Zubillaga, Caracas (Periférico Caracas, 2006; Galpones del Centro de Arte, 2010)."
-  },
-  "abstraccion": {
-   "title": "Abstraktion",
-   "p1": "Violencia Abstracta (2013), eine neue Forschungsserie zur Abstraktion.",
-   "tizon": {
-    "medium": "Videokunst · 03:33 Min. · MiniDV/NTSC · Regie: José Antonio Blanco Angulo · Kamera, Schnitt und Originalmusik: Muu Blanco",
-    "p1": "Die Torres de Parque Central sind eines der Wahrzeichen von Caracas, ein Symbol für die Öffnung der Stadt zur Moderne in den 1970er Jahren. Für die Bewohner von Caracas verleihen diese Türme der Stadt ihren Charakter: einen chaotischen und leidenschaftlichen Charakter, die unsterbliche Jungfrau des Ávila. Für Muu Blanco, den Schöpfer dieses Kurzfilms, löste die Gelegenheit, den Brand des Ostturms von Parque Central mitzuerleben, eine unmittelbare Reflexion über die Bedeutungen dieser urbanen Protagonistin aus.",
-    "intro": "Der Titel dieses Kurzfilms leitet sich vom spanischen Wort «tizón» ab. Ein tizón ist: 1. Ein halb verbrannter Stock. 2. Ein Makel auf dem Ruf oder dem Selbstwertgefühl. Aus diesen beiden Bedeutungen entsteht der Titel dieses Werks, das mit symbolischer Bedeutung aufgeladen ist.",
-    "p2": "In anderen Zeiten war er sein «Spielplatz» (sein Vater gehörte zu dem Architektenteam, das den Komplex errichtete, und gab ihm so eine emotionale Bindung an das Werk weiter).",
-    "p3": "Der Künstler deutet dieses Ereignis als ein Bild des soziopolitischen Moments, den die Venezolaner zu jener Zeit erlebten; als Spiegel des Verfalls ihrer Gesellschaft. Ein Makel auf dem Selbstwertgefühl ihrer Bürger. Eine Weigerung, vom tizón ihrer Politik und ihres Niedergangs verzehrt zu werden.",
-    "p4": "Dieser Kurzfilm (03:33 Minuten lang) wurde im MiniDV-Format produziert und auf einem Mac PowerBook G4 geschnitten, mit Originalmusik von Muu Blanco alias Jaba Lee Project, der für dieses Stück ein Fragment des Orchesters «La Billo's Caracas Boys» einbindet (ein bekanntes venezolanisches Ensemble der 1950er Jahre). Dieses Stück wurde remixt, um einen dynamischen, repetitiven Rhythmus zu erzeugen, der mit den Bildern von Caracas als halb verbranntem «tizón» in Dialog tritt."
-   }
-  },
-  "artesonoro": {
-   "title": "Klangkunst",
-   "medium": "Klanginstallation, Performance und Videodokumentation",
-   "p1": "Ein Archiv aus Video- und Fotodokumentation von Muu Blancos Klangkunstpraxis, von frühen Klanginstallationen bis zu jüngsten Performances und Kurzfilmen.",
-   "v1": {
-    "meta": "Multimediale sensorische Performance · Mad Museum"
-   },
-   "v3": {
-    "meta": "Konzept und Kuration: Muu Blanco · Doral Cultural Arts Center (DIAF 1), 2023 / Arts Connection Foundation, November 2023",
-    "desc": "Dieser historische Überblick, der vom Futurismus bis zur zeitgenössischen Klangkunst reicht, beleuchtet die Entwicklung des klanglichen Experiments im 20. und 21. Jahrhundert. Beginnend mit futuristischen Künstlern, die das moderne Leben und die Technologie durch chaotischen Dadaismus und musikalische Avantgarden wie Musique concrète und Fluxus darzustellen suchten. Danach führt die Radiokunst Zusammenarbeit und Publikumsinteraktion in die hörbare Erzählung ein. Schließlich konzentriert sich Ambient Music, inspiriert von Brian Eno, auf die Schaffung entspannender Klangatmosphären. Zuletzt betont R. Murray Schafers Konzept der Klanglandschaft (Soundscape) die Bedeutung von Klängen in Kultur und Umwelt und beeinflusst Stadtplanung und Umweltbewusstsein. Diese historische Reise spiegelt die stetige Erweiterung klanglicher Kreativität im Laufe der Jahre wider."
-   },
-   "v4": {
-    "meta": "Serie: Lumínico Sonoro #MuuBlanco · 05.01.2021",
-    "desc": "Dokumentation der interaktiven multimedialen Klang- und Lichtaktion — @muublancoartsound · @muublancovideoart &amp; @anarquia101 — „Multimedia Art Action 2021“ bei @idartlab. Dokumentation: Anarquía 101."
-   },
-   "v5": {
-    "meta": "Multimediale Installation (Performance, Klang) · Variabel · .Wav · 15:38 Min · Mandragoras Art Space, Queens, NYC"
-   },
-   "v6": {
-    "meta": "Klanginstallation · Sala Mendoza, Caracas",
-    "desc": "Eine Klangkunstinstallation, präsentiert in der Sala Mendoza, Caracas, und veröffentlicht als Klangkatalog auf CD-ROM."
-   },
-   "hundredyears": {
-    "meta": "Virtuelle Installation · Web-App, 2024 · 100yearsofsound.webflow.io",
-    "visit": "Projekt besuchen ↗"
-   }
-  },
-  "instalaciones": {
-   "title": "Installationen",
-   "medium": "Installation",
-   "p1": "Muuseo Blanco (1998), eine der frühesten dokumentierten Installationen des Künstlers.",
-   "v1": {
-    "date": "13. Januar 2020",
-    "meta": "Multimediale Installation · LFA Space, Wynwood, Miami · November 2019 – März 2020",
-    "p1": "Ein einminütiger Überblick über die multimediale Installation Lumínico Sonoro von Muu Blanco, präsentiert von November 2019 bis März 2020 im LFA Space, Wynwood, Miami, Florida, USA."
-   }
-  },
-  "performances": {
-   "title": "Performances",
-   "medium": "Live-Aktionen, Videomapping und multimediale Installation",
-   "v1": {
-    "meta": "Live-Multimedia-Aktion · Eröffnung der Gruppenausstellung von Studierenden und Absolventen der New World School of the Arts, Miami Dade Art District — Miami Art Week 2025",
-    "p1": "Es handelt sich um eine Live-Multimedia-Aktion, die die Schnittstelle von Landschaft, Körper und Technologie durch einen kontinuierlichen Fluss aus Klang und Bild erkundet. Über 30 Minuten artikuliert die Intervention einen Dialog zwischen Synthesizer, Beat, Live-Radio, Posaune und einer visuellen Apparatur, die Loops bewegten Wassers — gefilmt vor der Küste von Key Biscayne — mit digitalen Zeichnungen mischt, die durch MadMapper in kaleidoskopische Muster verwandelt werden.",
-    "p2": "Zu dieser visuellen Kartografie gesellen sich dynamische, in Echtzeit erzeugte vibrierende Linien, die auf die während der Aktion entstehenden Klangfrequenzen reagieren. Diese Linien reagieren nicht nur auf den Synthesizer, den Beat oder die Posaune: Auch das Geräusch des Publikums wird zu einem visuellen Auslöser und integriert sich in das System, sodass jede Vibration, jedes Murmeln und jede Umgebungsunterbrechung die Projektion verändert. Das Publikum wird so zum unfreiwilligen Co-Autor des Werks und hinterlässt eine Spur, die in die Textur des Bildes eingeschrieben ist.",
-    "p3": "Die Arbeit errichtet ein sensorisches Ökosystem, in dem sich das Natürliche und das Digitale gegenseitig beeinflussen: akustische Vibration durchzieht die Visualität, die maritime Landschaft wird fragmentiert und erweitert, und die kollektive Präsenz wird Teil des Pulses, der die Erfahrung trägt. Die Radioübertragung führt ein Element des Zufalls und der Live-Präsenz ein und unterstreicht, dass jede Küste — physisch oder technologisch — ein Kreuzungspunkt ist.",
-    "p4": "Präsentiert bei der Eröffnung der Gruppenausstellung von Studierenden und Absolventen der New World School of the Arts im Miami Dade Art District, im Rahmen der Miami Art Week 2025, schlägt die Aktion ein immersives Territorium vor, in dem Klang, Bild und Publikum in einem Zustand kontinuierlicher Vibration koexistieren.",
-    "date": "Dezember 2025"
-   },
-   "v2": {
-    "meta": "Klangaktion · PINTA Art Fair, Miami Art Week 2025",
-    "p1": "Ich erscheine gesichtslos, bedeckt von einem Nest aus Magnetband: Überreste von Stimmen, gebrochene Erinnerungen, Aufnahmen, die niemand mehr hört. Mein Instrument ist eine grüne Posaune, die Farbe von Keimling und Toxizität, von Hoffnung und Rost. Mit ihr blase ich eine Sprache, die nicht Musik, sondern Riss sucht.",
-    "p2": "Diese Klangaktion ist eine Geste der Insubordination. Atonal, repetitiv, insistierend: eine Verweigerung der Strukturen, die das Ohr domestizieren, und der Diskurse, die den Körper ordnen. Was hier geschieht, ist kein Konzert, sondern eine Unterbrechung. Kein Spektakel, sondern ein offener Riss im Fluss dessen, was gesehen, gefeiert, konsumiert werden soll.",
-    "p3": "In diesem Marina-Garten, bewacht von Booten, die auf ihre Ausfahrt zum Meer warten, werde ich zur Interferenz. Ich bringe die Vibrationen eines zerstreuten Südens mit, migrantischer Geografien, von Städten, die sich von ihren Rändern aus neu denken. Ich blase aus den Stillen, die nicht eingeladen wurden, aus den Erinnerungen, die sich weigern, archiviert zu werden, aus der Zerbrechlichkeit dessen, was fortbesteht, selbst wenn alles versucht, es auszulöschen.",
-    "p4": "Die unendlichen Wiederholungen suchen keine Hypnose, sondern Bekräftigung: Existieren heißt Beharren. Vor der Messe, vor dem Markt, vor der Logik, die etikettiert, bewertet und zirkulieren lässt, präsentiere ich eine Präsenz, die sich weigert, eingefangen zu werden. Mein Klang bietet keine Melodie, er bietet Umweg. Er bietet keine Erleichterung, er bietet Möglichkeit.",
-    "p5": "Ich lade Sie ein, zuzuhören, ohne zu erwarten. Zu verweilen, ohne zu verstehen. Diesen Akt zu begleiten wie jemand, der eine Welle betritt, die ihm nicht gehört, ihn aber dennoch berührt. Möge diese Vibration uns daran erinnern, dass auch das Unbestimmte das Recht hat, Raum einzunehmen.",
-    "date": "Dezember 2025",
-    "watchLink": "Auf YouTube ansehen ↗"
-   },
-   "v3": {
-    "meta": "M/P'25 · Edge Zone Cultural Center, Miami",
-    "p1": "„Ceguera Ambiental y SocioCultural Vol.1 (Miami)“ gehört zu der künstlerischen Forschungslinie, die Muu Blanco seit mehr als zwei Jahrzehnten entwickelt, in der sich das Klangliche, das Politische und das Visuelle in Aktionen verflechten, die die Spannungen der Gegenwart hinterfragen.",
-    "p2": "Dieses Projekt tritt in Dialog mit den früheren Erfahrungen des Künstlers, wie seinen urbanen Klangaktionen in Caracas, wo der Lärm der Stadt in plastisches und performatives Material verwandelt wurde; seinen kritischen audiovisuellen Installationen zu Gewalt und Macht, in denen die mediale Sprache zu einem Feld der Verzerrung und des Widerstands wurde; sowie seinen Erkundungen unter dem Alias DrMuusica, in denen Vinyl, Loop und Improvisation die Klangarchive der Karibik und ihrer Diaspora neu schreiben.",
-    "p3": "In all diesen Ansätzen hat Blanco dieselbe Geste gesucht: die Zeichen des Alltäglichen, des Politischen und des Kulturellen in sensorische Landschaften umzugestalten, in denen Erinnerung, Spannung und die Dringlichkeit unserer Zeit aktiviert werden. Ceguera Ambiental y SocioCultural setzt diesen kritischen und experimentellen Weg fort, nun mit radikalem Nachdruck auf die Wahrnehmung selbst: geometrische Linien und Klangvibrationen, die, ineinander verwoben, den zeitgenössischen Widerspruch zwischen der Starrheit des sozialen Blicks und der unkontrollierbaren Kraft von Improvisation und Irrtum offenbaren.",
-    "date": "Dezember 2025"
-   },
-   "v4": {
-    "meta": "Video &amp; Sound: MadMapper &amp; Live Ableton · Coral Gables Museum (Gallery Night) · Video: Raúl Blanco",
-    "date": "Mai 2022"
-   },
-   "v5": {
-    "meta": "Multimediale Installation — 4 Kanäle Video und Stereo-Audio (Performance, Video, Fotografie, Klang, Texte, Ölmalerei) · Dauer: 2 Stunden · Ort: ESM (Espacio SaltaMantis), Miami · Dokumentarvideo: 01:59 Min · Mitwirkende Musiker: Andrés Michelena, Diego Damas, Muu Blanco"
-   },
-   "v6": {
-    "meta": "Konzept, Regie, Klang, Klavier und Live-Videomapping, mit den Gastkünstlern Andrés Michelena (digitale Perkussion) und Diego Damas (E-Gitarre) · Miami New Media Festival, Miami Iron Side, Little River Art District · Kamera und Schnitt: Raúl Blanco",
-    "date": "Februar 2019"
-   },
-   "v7": {
-    "meta": "27-sekündiges Fragment einer Live-Multimedia-Aktion — Videomapping, experimentelle Musik auf Gemälden und Wänden · Miami New Media Festival"
-   },
-   "v8": {
-    "meta": "Videomapping-Installation und Originalmusik · Espace Expresions, Wynwood, Miami",
-    "p1": "Ein Werk als Hommage an drei Meister der abstrakten Kunst — Jesús Rafael Soto, Carlos Cruz-Diez und Julio Le Parc.",
-    "date": "15. September 2017"
-   },
-   "v9": {
-    "meta": "Technik: Videoperformance — Körperaktion, Fotografie, Einkanalvideo · Format: .MOV 4K · Dauer: 03:13 Min",
-    "date": "Juli 2016"
-   },
-   "v10": {
-    "meta": "Ort: Mandrágoras Art Space, Queens, NYC"
-   },
-   "v12": {
-    "meta": "Hauptdarsteller: Muu Blanco · Regie: Andrés Manner · Schnitt: Murmullo",
-    "p1": "An einem einzigen Morgen im Stadtviertel Los Chorros von Caracas gedreht, nach einer Improvisationspartitur — unter vollem körperlichen Risiko, aus reinem künstlerischen Engagement."
-   },
-   "v13": {
-    "meta": "Interview von Eli Bravo und Muu Blanco · Wiederausstrahlung durch equilibrio.com, 2013"
-   },
-   "v14": {
-    "meta": "Muu Blanco: Darsteller im Fotoroman",
-    "p1": "Trailer zum Roman/Fotoroman „El Secuestro de la Ministro de Cultura“ (Die Entführung der Kulturministerin) — ein realer Fall aus der Museumswelt, ohne etwas zu verbergen: Kultur mit all ihrem Lärm und ihrer Wut."
-   },
-   "v15": {
-    "meta": "Interview von Eli Bravo · Sendung Sonoclips, RCTV · Veröffentlicht auf YouTube: 17. September 2009",
-    "p1": "Das erste Interview von Desorden Público, geführt von Eli Bravo in der RCTV-Sendung Sonoclips im Jahr 1990. Muu Blanco war zu dieser Zeit seit den Anfängen der Band deren RootBoy."
-   },
-   "v16": {
-    "meta": "Regie: Vity Rodríguez Castillo · Produzenten: Gabriela Vanzetti, Fito Páez · Lied: Alberto Cabello / Carlos Eduardo „Cayayo“ Troconis † / Edgar Jiménez · Gastdarsteller: Intensiti Moon, Muu Blanco, Marino · Sonorodven: Carlos Sánchez · Preis für das beste Musikvideo, Internationales Filmfestival von Mérida, Venezuela, 1989 · Album: El Amor Ya No Existe",
-    "p1": "Originalversion remastert, mit vollständigen Credits. 1988 auf Super 8 in Caracas gedreht. Dies war Muu Blancos erster medialer Auftritt, als Darsteller in einem Musikvideo einer venezolanischen Band."
-   },
-   "v17": {
-    "meta": "Erster Preis, Kurzfilm-Biennale São Paulo · Monolog: Muu Blanco · Regie: Sabrina Montiel-Soto"
-   }
-  },
-  "calvo": {
-   "title": "CALVO",
-   "medium": "Performance · Estudio Mata de Coco, Caracas, Venezuela · 6. Dezember 1986",
-   "p1": "CALVO, Muu Blancos erste öffentliche Performance, aufgeführt am 6. Dezember 1986 im Estudio Mata de Coco, Caracas, während des ersten großen Konzerts von Desorden Público.",
-   "readpdf": "Vollständiges Dossier ansehen (PDF) ↗",
-   "sub1": "CALVO: NULLPUNKT, 1986 / 2026",
-   "p2": "1986: der Körper tritt in das Werk ein.<br>2026: die Erinnerung erlaubt es, die Tragweite dieser Geste zu erkennen.",
-   "readEssay": "Vollständigen Text lesen",
-   "essay": {
-    "p1": "CALVO findet am 6. Dezember 1986 im Estudio Mata de Coco, Caracas, während des ersten großen Konzerts von Desorden Público statt. Als der Moment kommt, den Song „Calvo“ zu beginnen, betritt Muu Blanco die Bühne mit einem Stuhl, stellt ihn in die Mitte und setzt sich dem Publikum gegenüber. Es beginnt eine musikalische Einleitung. Caplis nähert sich und betrachtet ihn befremdet, als versuche er zu verstehen, was geschieht. Dann beginnt Danel Sarmiento „Calvo“ zu singen, und Horacio Blanco nähert sich Muu, um ihm vor dem Publikum die Haare zu schneiden. Nachdem er vollständig kahl geworden ist, erhebt sich Muu Blanco, führt auf der Bühne einen Ska-Punk-Tanz auf und springt schließlich ins Publikum.",
-    "p2": "Mit der Zeit wird der Künstler dieses Ereignis als seine erste öffentliche Aktion und seine erste Performance anerkennen: eine grundlegende Erfahrung, die sein Verhältnis zur Kunst und zum Körper als Territorium der Schöpfung veränderte.",
-    "p3": "Aus heutiger Sicht erscheint CALVO als eine Handlung, die aus einer präzisen Abfolge aufgebaut ist: Auftritt, Warten, Verwandlung, Bewegung und Bruch des Bühnenraums. Ihre Kraft entspringt nicht einer komplexen Inszenierung oder einer zuvor erklärten Erzählung, sondern der Art und Weise, wie sich eine konkrete Geste vor dem Publikum entfaltet und innerhalb des Konzerts Sinn erlangt.",
-    "p4": "Der Stuhl bringt eine Pause inmitten der musikalischen Energie. Muu Blanco setzt sich und bleibt exponiert, reglos, während die Situation eine unerwartete Spannung zu gewinnen beginnt. Der Blick von Caplis unterstreicht diese Befremdung und macht das Hereinbrechen von etwas sichtbar, das sich noch nicht vollständig als Konzert, Theater oder Performance definiert.",
-    "p5": "Wenn das Lied beginnt, hört der Titel „Calvo“ auf, nur als Wort zu funktionieren, und wird zu einer materiellen Handlung. Während Danel singt, verändert Horacio Blanco Muus Erscheinungsbild vor aller Augen physisch. Der Körper stellt das Wort nicht dar: Er verkörpert es.",
-    "p6": "Die Musik erfüllt somit eine strukturelle Funktion. Sie markiert die Zeit der Handlung, begleitet die Verwandlung und aktiviert den Übergang von der Ruhe zur Bewegung. Sobald der Schnitt beendet ist, verlässt Muu den Stuhl und tritt in den Rhythmus ein. Der Ska-Punk-Tanz durchbricht die anfängliche Zurückhaltung und führt zum Sprung ins Publikum, mit dem die traditionelle Trennung zwischen Bühne und Publikum momentan verschwindet.",
-    "p7": "Diese Verschiebung — vom Stuhl zur Bühne und von der Bühne zum Publikum — ist zentral für das Verständnis des Werks. CALVO beginnt mit einem isolierten Körper in der Mitte der Szene und endet mit ebendiesem Körper, eingetaucht in das Kollektiv.",
-    "p8": "Die ursprüngliche Idee für die Aktion stammte von Roberto Fuentes Anzola, damals künstlerischer Produzent von Desorden Público und von Muu Blanco als Freund und geschätzter Lehrmeister in Erinnerung behalten. Dieser kollaborative Ursprung ist wesentlich, um die Genealogie des Werks zu verstehen. CALVO entsteht innerhalb eines Netzes kreativer und musikalischer Mitwirkung, gewinnt aber seine performative Dimension in der Art und Weise, wie Muu Blanco den Vorschlag aufgreift und ihn bis zu seinen körperlichen und szenischen Konsequenzen führt.",
-    "p9": "Aus dem Jahr 2026, vierzig Jahre später, betrachtet, kann CALVO als ein Ursprungspunkt innerhalb der Laufbahn des Künstlers erkannt werden. Nicht weil es programmatisch sein gesamtes späteres Schaffen ankündigt, sondern weil es frühzeitig eine Beziehung zwischen Körper, Klang, Zeit, Handlung und öffentlicher Präsenz herstellt, die in anderen Medien im Laufe seines Werks wiederkehren wird.",
-    "p10": "Es wirft auch eine Frage auf, die für seine Praxis relevant bleiben wird: Was geschieht, wenn die künstlerische Erfahrung aufhört, in einem Objekt enthalten zu sein, und stattdessen von einer in Echtzeit erlebten Situation abhängt?",
-    "p11": "1986 war diese Frage noch nicht als Theorie formuliert. Zuerst kam die Erfahrung. Zuerst waren der Stuhl, die Musik, der Schnitt, der Tanz und der Sprung. Die Deutung kam später.",
-    "p12": "Deshalb kann CALVO heute als mehr verstanden werden als eine Anekdote, die an einen der ersten wichtigen Momente von Desorden Público und an die Musikszene von Caracas der achtziger Jahre gebunden ist. Es ist der Augenblick, in dem Muu Blanco öffentlich entdeckt, dass sein eigener Körper zu Materie, Träger und künstlerischem Ereignis werden konnte.",
-    "p13": "In diesem Sinne ist CALVO ein Nullpunkt.",
-    "p14": "1986: der Körper tritt in das Werk ein.<br>2026: die Erinnerung erlaubt es, die Tragweite dieser Geste zu erkennen."
-   }
-  },
-  "videoarte": {
-   "title": "Videokunst",
-   "tagline": "Konzeptkunst / Video / Klang"
-  },
-  "sintitulo": {
-   "title": "Ohne Titel",
-   "medium": "Videokunst / fotografische Diaschau / Klangkomposition",
-   "intro": "„Er fotografierte das Rauschen vor der Stille.“",
-   "summary": "Zwischen 2002 und 2005 fotografiert Muu Blanco, ohne Videokamera, systematisch die venezolanische politische Krise über den Fernsehbildschirm, von seinem Atelier in El Paraíso, Caracas, aus: ein in Echtzeit entstandenes Archiv über Medien, Erinnerung und die Macht der Bilder.",
-   "viewVideo": "Vollständiges Video ansehen ↗",
-   "readpdf": "Vollständiges Dossier ansehen (PDF) ↗"
-  }
- },
- "exposiciones": {
-  "eyebrow": "07 — Ausstellungskataloge",
-  "lead": "Kataloge und Dokumentation von Einzel- und Gruppenausstellungen, chronologisch geordnet.",
-  "loading": "Ausstellungen werden geladen…"
- },
- "selectedworks": {
-  "eyebrow": "Ausgewählte Werke",
-  "lead": "Sechs kuratierte Projekte aus vierzig Jahren visueller, performativer und klanglicher Praxis. Jedes verlinkt zur vollständigen Dokumentation im Archiv.",
-  "cta": "Vollständige Dokumentation ansehen →",
-  "works": {
-   "natuurban": {
-    "title": "NatuUrban Symphony",
-    "meta": "2024–2025 · Klanginstallation und Videomapping · Arts Connection Foundation, Miami",
-    "desc": "Ein Installations- und Klangkunstprogramm, präsentiert zwischen November 2024 und Januar 2025 bei der Arts Connection Foundation, Miami. NatuUrban Symphony vereint experimentelle Musik, Tanz, Videomapping-Projektionen und die Präsentation des begleitenden Dokumentarfilms und bildet eine Reflexion über Miamis subtropische Landschaft als klangliches Territorium. Das Projekt setzt Muu Blancos Forschung zur Beziehung zwischen Bild, Klang und urbaner Umgebung fort und wurde außerdem als 180-Gramm-Vinyl-LP in Grün über die Arts Connection Foundation veröffentlicht."
-   },
-   "latencias": {
-    "title": "Latencias",
-    "meta": "19. Februar 2026, 19 Uhr · Multimediale sensorische Performance · Ignite Broward Festival, MAD Arts, Dania Beach, FL",
-    "desc": "Eine 40-minütige multimediale sensorische Performance, live präsentiert am Donnerstag, den 19. Februar 2026 um 19 Uhr bei MAD Arts, im Rahmen des Ignite Broward 2026 Festivals (Broward Arts), begleitet von einem kuratierten Programm an Videoarbeiten — freier Eintritt, öffentlich zugänglich. Das Stück erkundet die Latenzen zwischen Körper, Klang und Erinnerung, kombiniert Live-Klangkomposition, Projektion und performative Geste und setzt Muu Blancos Forschung zu Wahrnehmung und Technologie fort. Latencias wird in den Bereichen Conceptual und Projekte des Archivs dokumentiert, als Teil der jüngsten Arbeit des Künstlers."
-   },
-   "soundart": {
-    "title": "Exploring the Roots and Evolution of Sound Art",
-    "meta": "2023–2025 · Einzelausstellung · MIFA, Miami / Doral",
-    "desc": "Eine Einzelausstellung, die eine Genealogie der Klangkunst nachzeichnet, vom Futurismus bis zum 21. Jahrhundert, präsentiert bei Miami International Fine Art (MIFA) zwischen 2023 und 2025. Das Projekt vereint Klanginstallationsstücke, historische Dokumentation und Originalarbeiten von Muu Blanco und verortet seine Praxis innerhalb einer breiteren Tradition der Erkundung von Klang, Technologie und Raum. Die Ausstellung wurde auch in einer Doral-Variante präsentiert, was ihre Reichweite erweiterte und eine der beständigsten kuratorischen Forschungen des Künstlers zur Geschichte der Klangkunst festigte."
-   },
-   "ceguera": {
-    "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
-    "meta": "2025 · Performance · Miami",
-    "desc": "Eine Performance, die ökologische und soziokulturelle Blindheit als zeitgenössischen Zustand thematisiert, die erste Folge einer 2025 in Miami entwickelten Serie. Das Stück verbindet Körper, Klang und kritische Geste, um die Beziehung zwischen Wahrnehmung, Umwelt und kollektiver Verantwortung zu hinterfragen. Es gehört zu Muu Blancos fortlaufender Performance-Praxis, aktiv innerhalb der Miami-Performancekunst-Szene, und wird als Video im Projekte-Archiv der Website dokumentiert."
-   },
-   "modernismo": {
-    "title": "Modernismo Anacrónico",
-    "meta": "2002–heute · Collage, Assemblage und Installation",
-    "desc": "Eine Serie aus Collage-, Assemblage- und Installationsarbeiten, begonnen 2002 und bis heute aktiv. Das Projekt versammelt Fotografien von Werken, die aus gefundenen Materialien und Mixed-Media-Techniken gebaut wurden, veröffentlicht als gleichnamiges Kunstbuch und auch präsentiert bei der internationalen Messe SWAB (2008). Modernismo Anacrónico schlägt einen ironischen Dialog zwischen dem modernen Versprechen und seinen materiellen Überresten vor, eine der frühesten und beständigsten Linien von Muu Blancos visueller Praxis, vollständig dokumentiert in der Projekte-Galerie."
-   },
-   "afrolatin": {
-    "title": "Afro Latin Culture Flavor",
-    "meta": "Fanzine · Selector-Residency 2024–2026 · Tripping Animals Brewery, Doral",
-    "desc": "Ein monatliches gedrucktes Fanzine in limitierter Auflage, herausgegeben und produziert von Muu Blanco / Dr.Muusica, veröffentlicht in Doral City, Miami. Von 2024 bis 2026 lief das Projekt parallel zu einer wöchentlichen Selector-Residency als Klangforscher bei Tripping Animals Brewery, wo Dr.Muusica Vinyl-Sessions unter dem Namen Dr.Muusica Selector präsentierte. Afro Latin Culture Flavor verbindet redaktionelle Praxis mit Live-Musikauswahl und erkundet afrolateinamerikanische Wurzeln, Rhythmus und Populärkultur als klingendes Echtzeitarchiv."
-   }
-  }
- },
- "workwithmuu": {
-  "eyebrow": "Mit Muu arbeiten",
-  "lead": "Verfügbar für Ausstellungen, Performances, ortsspezifische Klangauftragsarbeiten, Vorträge und Vinyl-Hörsitzungen. Vierzig Jahre interdisziplinärer Praxis zwischen Caracas und Miami.",
-  "cards": {
-   "soundart": {
-    "title": "Klangkunst & Performance",
-    "desc": "Live-Klangperformance, erweiterte Klanginstallationen und Improvisation für Galerien, Festivals und öffentliche Räume."
-   },
-   "commissions": {
-    "title": "Ortsspezifische Klangauftragsarbeiten",
-    "desc": "Originale Klangstücke, entwickelt für einen bestimmten Raum, eine Ausstellung oder einen Ort — Ambient-Komposition, Videomapping, räumliches Audio."
-   },
-   "talks": {
-    "title": "Künstlergespräche",
-    "desc": "Vorträge und Präsentationen über Klangkunst, Videokunst und vierzig Jahre interdisziplinärer Praxis, mit einer Ausstellungsgeschichte in Amerika und Europa — von Caracas und Miami bis New York, Madrid, Venedig und São Paulo."
-   },
-   "vinyl": {
-    "title": "Vinyl-Hörerlebnisse",
-    "desc": "Kuratierte Vinyl-Hörsitzungen und Selector-Sets, die afrolateinamerikanischen, experimentellen und archivarischen Klang erkunden — von intimen Zusammenkünften bis zu öffentlichen Veranstaltungen."
-   },
-   "dj": {
-    "title": "Dr.Muusica / Selector",
-    "desc": "Selector-Sets und Originalproduktionen unter dem Alias Dr.Muusica, die von House und Techno; Funk, Boogie und Disco; New Wave, Post-Punk, Punk und Rock; Reggae, Ska und Dub; Salsa, Boogaloo, Bolero, Mambo, Plena, Guaguancó und Cumbia; Jazz; Hip-Hop, Trip-Hop und Drum & Bass; bis zu Afrobeat, Bossa Nova, Samba, World Music und + reichen."
-   }
-  },
-  "closing": "Ausstellungen · Performances · Klangauftragsarbeiten · Kollaborationen",
-  "ctaButton": "An Muu Blanco schreiben →"
- }
 }

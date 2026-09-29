@@ -1,839 +1,839 @@
 {
- "common": {
-  "menu": "菜单",
-  "enter": "进入 →",
-  "nav": {
-   "conceptual": "概念",
-   "practicas": "公共实践",
-   "drmusica": "DR.MUU RECORDS",
-   "prensa": "新闻",
-   "cv": "CV",
-   "galeria": "画廊",
-   "about": "关于",
-   "contacto": "联系",
-   "proyectos": "项目",
-   "exposiciones": "展览目录",
-   "selectedworks": "精选作品",
-   "workwithmuu": "与穆合作",
-   "ahora": "Muu Blanco — 现在"
+  "common": {
+    "menu": "菜单",
+    "enter": "进入 →",
+    "nav": {
+      "conceptual": "概念",
+      "practicas": "公共实践",
+      "drmusica": "DR.MUU RECORDS",
+      "prensa": "新闻",
+      "cv": "CV",
+      "galeria": "画廊",
+      "about": "关于",
+      "contacto": "联系",
+      "proyectos": "项目",
+      "exposiciones": "展览目录",
+      "selectedworks": "精选作品",
+      "workwithmuu": "与穆合作",
+      "ahora": "Muu Blanco — 现在"
+    }
+  },
+  "index": {
+    "hero": {
+      "needs": "跨学科艺术家，",
+      "accent": "声音艺术家、表演者、黑胶唱片选曲人。",
+      "sub": "1966年生于加拉加斯 · 现居迈阿密 — 四十年来探索影像、记忆、风景、声音、科技与文化档案。",
+      "alt": "穆·布兰科 — 肖像，迈阿密，2026"
+    },
+    "tiles": {
+      "conceptual": "文本、创作笔记与作品记录——按时间顺序排列。",
+      "practicas": "Instagram、YouTube、SoundCloud 与 Discogs——持续进行的实践。",
+      "drmusica": "音乐化名——制作、合作与发行。",
+      "galeria": "现有原作——在线商店，查询价格与库存。",
+      "prensa": "报刊杂志上发表的评论——按时间顺序排列。",
+      "cv": "完整的年表指南——教育、展览、唱片作品与新闻报道。",
+      "contacto": "策展人、画廊、媒体、藏家及音乐相关咨询。",
+      "proyectos": "长期研究方向——NatuUrban Symphony、100 Years of Sound Art 等。",
+      "exposiciones": "1994年至2014年个展与联展的展览画册。"
+    },
+    "featured": {
+      "eyebrow": "Muu Blanco — 现在",
+      "selectedworks": "从四十年的视觉、表演与声音实践中精选的六个项目。",
+      "workwithmuu": "声音表演、委托创作、艺术家对谈与黑胶聆听会。",
+      "archiveTitle": "档案 1986–2026",
+      "archiveDesc": "完整创作历程——摄影、表演、影像、装置、声音与出版物。"
+    },
+    "now": {
+      "title": "最新影像与音乐",
+      "lead": "动态影像与音乐，实时呈现。",
+      "videoLabel": "最新音乐视频",
+      "mixmediaLabel": "最新混合媒体作品"
+    },
+    "sections": {
+      "eyebrow": "浏览完整档案"
+    }
+  },
+  "about": {
+    "eyebrow": "关于",
+    "lead": "跨学科艺术家。音乐化名：<em>Dr.Muusica</em>。加拉加斯 / 迈阿密。",
+    "h2": {
+      "summary": "简介",
+      "full": "视频艺术简历",
+      "dossierbio": "传记档案 — DJ Muu / Dr. Muusica",
+      "recent": "近期作品",
+      "contact": "联系方式",
+      "morelinks": "更多链接",
+      "projects": "项目与空间",
+      "shortbio": "简短简介",
+      "cronicas": "纪事"
+    },
+    "summary": {
+      "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
+      "p2": "他早期的录像作品以Video8格式拍摄，后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙展出，整套系列作品被Noa Noa收藏收购。他的作品曾在加拉加斯索菲亚·因贝尔当代艺术博物馆、门多萨厅、加拉加斯国家电影资料馆以及纽约Mandragoras艺术空间等机构展出。",
+      "p3": "自2014年迁居迈阿密以来，Blanco持续开发融合视频投影、声音艺术与行为表演的多媒体装置，包括他最新的项目NatuUrban Symphony（2024–2025）。"
+    },
+    "full": {
+      "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。他的艺术实践涵盖实验录像艺术、声音艺术、行为表演、摄影、拼贴装置、电子音乐与视频投影，自1990年代初以来持续研究影像、声音与城市景观之间的关系。",
+      "p2": "Blanco于1990年代初开始从事实验录像艺术创作，最初以Video8格式作为审美探索的工具。他首次以录像作品参加集体展览是在1992年，当时他的一件作品被收藏家Jimmy Belilty收购。自此，他开始持续探索实验视听语言。",
+      "p3": "1994年，他参加了在加拉加斯Alternativa画廊举办的集体展览《混合技法》，这是他在当代艺术展览体系中最早的展出之一。",
+      "p4": "到1995年，他已创作了三十多件实验录像作品，这些作品后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙（1997年）展出，全部作品被Oberto家族的私人收藏Noa Noa收购。",
+      "p5": "1990年代末至2000年代初，他持续拓展视听研究，记录行为表演并开发录像与声音方面的实验项目。",
+      "p6": "2002年，他参加了在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的展览《从白立方到黑匣子：历史录像带、创意视频、数字艺术、委内瑞拉录像》。同年，他还参与了在该机构展出的项目《多媒体艺术家，艺术中心创始人》。在此期间，他还为该博物馆的录像艺术收藏做出贡献，捐赠并纳入了他在那十年间创作的二十件录像作品。",
+      "p7": "2003年，他参加了在加拉加斯门多萨厅举办的第十一届尤金尼奥·门多萨奖。",
+      "p8": "2004年，他在加拉加斯国家电影资料馆展出作品《眼之变奏。视频舞蹈——Muu Blanco》。同年，他的作品被纳入在门多萨厅举办的展览《电力大地：英国与委内瑞拉短片与录像》，这是一项致力于实验录像与短片的国际项目。",
+      "p9": "2006年，他与歌德学院合作，在雅各布·博尔赫斯博物馆展出了一项实验录像项目。该项目聚焦于加拉加斯街头的流动商贩与非正规经济，将城市景观视为一个社会与政治空间来探讨。",
+      "p10": "自2008年起，他开始将扩展投影与视频投影融入他的多媒体装置中。随后，2013年，他开展了一项关于幻灯片与动态肖像摄影的研究项目，同年以他在委内瑞拉的最后一次个展《In Tha House》作为收尾，该展览在Carmen Araujo Arte举办，是一件结合录像、绘画、雕塑与声音的多媒体装置。",
+      "p11": "2014年，他在纽约举办了首次个展，展出多媒体装置《Black Point Venezuela》，该展览是Mandragoras艺术空间在长岛市举办的行为表演项目的一部分。该作品融合了声音艺术、视频投影、雕塑与模拟拼贴，探讨了当代委内瑞拉社会与政治的紧张局势。",
+      "p12": "同年，他迁居迈阿密，至今仍在那里持续进行大部分艺术创作。2015年，他在Arts Connection Foundation的Chill Concept空间展出了《新作曲思维 第一辑》，这是一件结合大幅摄影、视频投影与声音艺术的装置作品。",
+      "p13": "2017年至2019年间，他在迈阿密Ironside，特别是在Santamantis空间，策划了一系列实验视听活动，组织了多场专注于视频投影与实验现场音乐的聚会。",
+      "p14": "在新冠疫情打断这些创作空间之后，他于2020年在Allapattah社区共同创立了艺术团体IDArt Lab，活跃至2023年。在该团体中，他参加了多场集体展览，展示视频投影、实验动画以及对声音敏感的光影表演，并配以现场声音艺术创作。",
+      "p15": "他最新的项目是装置与声音艺术项目NatuUrban Symphony，于2024年11月至2025年1月在Arts Connection Foundation展出，融合了实验音乐、舞蹈、视频投影，以及他的同名纪录片NatuUrban Symphony的放映。",
+      "p16": "自2017年起，Blanco一直维护着Instagram账号 <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a>，作为其视听创作的活档案，记录他在迈阿密最近十年间开发的装置、行为表演与录像实验。",
+      "p17": "凭借四十多年的艺术生涯，Muu Blanco发展出一种混合实践，其中录像、声音、技术与行为表演成为探究都市文化、记忆与当代社会紧张关系的装置。他的作品收藏于多家国际公共与私人收藏机构。",
+      "readmore": "查看完整简历"
+    },
+    "dossierbio": {
+      "p1": "艺术、聆听、城市、广播、电视、DJ文化、音乐制作与多媒体实践:横跨四十多年的历程,从加拉加斯天堂区(El Paraíso)的La Cuadra(1966年)到迈阿密。这段历程包括在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的PARLAMENTO、在92.9 FM和La Mega 107.3 FM电台的SHORT MUU与PARLAMENTO SONORO节目、在Ateneo电台的DR. MUUSICA节目、在BAR1和90 Grados担任驻场选曲人(selector)、电视创意总监工作,以及作为多媒体观念艺术家、声音艺术家、音乐制作人和选曲人持续至今的创作实践。",
+      "quote": "“观看、聆听、记录、挑选、归档、编辑并分享。”",
+      "link": "阅读完整传记档案(PDF)↗"
+    },
+    "recent": {
+      "p1": "<strong>Latencias</strong>（2026年）是一场40分钟的多媒体感官表演，于2026年2月19日在Ignite Broward Festival、MAD Arts（佛罗里达州戴尼亚海滩）首演。记录于本网站的<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">概念</a>与<a href=\"proyectos.html\">项目</a>板块。"
+    },
+    "contact": {
+      "p1": "活跃的实践与社交网络请见<a href=\"practicas-publicas.html\">公共实践</a>。可购作品请见<a href=\"store.html\">画廊</a>。"
+    },
+    "morelinks": {
+      "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">维基百科 ↗</a>——传记与创作历程。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a>——艺术家所有链接汇总于一处。"
+    },
+    "projects": {
+      "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a>——迈阿密展览空间的艺术家档案。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a>——关于声音艺术历史的研究项目。"
+    },
+    "shortbio": {
+      "p1": "穆·布兰科(1966年生于加拉加斯)是一位跨学科艺术家兼音乐人,以Dr.Muusica之名活动,现居迈阿密。他的创作横跨影像艺术、声音艺术、表演与装置,四十年来持续探索图像、声音与城市景观之间的关系。",
+      "readmore": "阅读完整简介 ↓"
+    },
+    "cronicas": {
+      "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
+      "p1": "2018年,作家Lieska根据在艺术家迈阿密工作室进行的采访,在Bitácora 29(杰克逊维尔)发表了这篇专访。文章回顾了他的成长历程、其创作中幽默与不敬之间的联系,以及Abstracciones Paisajísticas系列的发展。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">阅读全文(PDF)↗</a>"
+    }
+  },
+  "conceptual": {
+    "eyebrow": "01 — 概念",
+    "lead": "四十年的艺术研究，景观、抽象、声音、记忆、自然与技术在此交汇，扩展我们对当代世界的感知。",
+    "loading": "正在加载文献…",
+    "statementTitle": "艺术家陈述",
+    "statement": {
+      "p1": "我的艺术实践始于1986年，那是一场直觉式的探索，我将艺术理解为一个可以让影像、声音、建筑、景观与记忆相遇的领域，而非孤立的学科。从那时起，我建立了一条不断演变的跨学科创作道路，驱动力来自于探究我们如何感知世界，以及时间如何改变我们与世界的关系。",
+      "p2": "我1966年生于加拉加斯，这座城市复杂的都市结构深刻影响了我理解空间的方式。早年间，我的研究以绘画、素描与实验性介入为中心，很快演变为录像艺术、实验电影、装置与声音实践。1990年代，我获得的一些认可肯定了这一方向，包括凭借《Perra Chillona》获得圣保罗短片双年展一等奖，以及在第五届圭亚那国家艺术双年展获得特别提名。",
+      "p3": "我的创作从未局限于单一媒介。每个项目都决定了它得以存在所需的语言。四十年来，我穿梭于摄影、拼贴、音乐创作、声音艺术、行为表演、文献研究与沉浸式装置之间，将所有这些学科理解为同一创作过程的组成部分。",
+      "p4": "自然与景观一直是我研究的恒定轴心。我并不将它们视为被再现的场景，而是历史、生态、文化与人类经验交汇的活档案。从这种探索中诞生了诸如《Abstraciones Paisajísticas》、《Modernismo Anacrónico》、《NatuUrban：迈阿密亚热带交响曲》以及《Archipiélago Sonoro》等作品，它们研究领土、记忆、生物多样性与声音之间的关系。",
+      "p5": "2014年迁居迈阿密，为我的创作实践开启了新篇章。与南佛罗里达亚热带生态系统的相遇，拓展了我对声景生态学的兴趣，也拓展了创造沉浸式体验的可能性——在其中，实地录音、电声作曲、人工智能、摄影、录像与互动技术共存。在这一时期，声音不再只是影像的伴随，而成为一种能够构筑沉思空间的雕塑性材料。",
+      "p6": "这些年间，我也作为研究者、作曲家、Selector、编辑与文化制作人展开了密集的工作，产出了致力于声音艺术以及加勒比与拉丁美洲音乐文化的出版物、档案、黑胶唱片、音乐会、实验室与传播平台。我将这些活动理解为我艺术实践的自然延伸，也是围绕聆听激活社群的方式。",
+      "p7": "我的作品提出一种目光与聆听的减速。我关注揭示那些通常保持不可见的东西：景观的回响、一片领土所承载的记忆、被忽略的日常声音，以及自然、城市与文化之间隐藏的关系。与其说是再现一个地方，我更希望创造条件，让人们从一种扩展的感知出发去体验它。",
+      "p8": "2026年，正值艺术生涯四十周年之际，我意识到自己的创作仍是一场开放的探索。每个项目都是一次邀请——以不同的方式聆听，以更专注的态度观察，并理解景观并非外在的客体，而是一个我们同为其组成部分的活体。我的实践持续在技术实验与诗意感性之间演进，我坚信艺术能够构建人与世界、人与集体记忆之间新的关系形式。"
+    }
+  },
+  "practicas": {
+    "eyebrow": "03 — 公共实践",
+    "lead": "持续进行的实践，记录于社交网络：七个Instagram账号、YouTube、Vimeo、SoundCloud与Discogs账号。"
+  },
+  "drmusica": {
+    "eyebrow": "04 — DR.MUU RECORDS",
+    "lead": "由Dr.Muurecords制作、Dr.Muusica执导的音乐制作。",
+    "h2": {
+      "listen": "完整唱片目录",
+      "press": "媒体报道",
+      "videoclips": "视频短片",
+      "selector": "Dr.Muusica 精选 — 黑胶与现场录音",
+      "noticias": "最新发行",
+      "selectedreleases": "精选唱片"
+    },
+    "press": {
+      "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
+    },
+    "videoclips": {
+      "lead": "由Muu Blanco制作并执导的音乐视频，原创音乐由Muu Blanco创作，Dr.Muusica在Dr.Muu Records录音室制作。",
+      "v1": {
+        "meta": "Héctor Lavoe参与 · 编剧：Dr.Muu Desing"
+      },
+      "v2": {
+        "meta": "《JABALEE》（专辑），第5首 · Ditto Music Venezuela · 视频：MuuBlancoVideoArt &amp; SaltaMantis · 导演：Muu Blanco",
+        "date": "2019年6月"
+      },
+      "v3": {
+        "meta": "专辑《New Wave BeatMaker CCS 66》首支单曲 · 影像、概念与导演：Muu Blanco",
+        "date": "2019年3月"
+      },
+      "v4": {
+        "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 导演：Muu Blanco · Espacio SaltaMantis",
+        "date": "2019年3月"
+      },
+      "v5": {
+        "meta": "专辑《New Wave BeatMaker CCS 66》第三支视频单曲"
+      },
+      "v6": {
+        "meta": "视频：Dr.Muu Desing",
+        "date": "2017年3月"
+      },
+      "v7": {
+        "meta": "自拍视频短片 · 原创音乐：Dr.Muusica",
+        "date": "2016年12月"
+      }
+    },
+    "youtube": {
+      "handle": "Muu Blanco的YouTube频道"
+    },
+    "listen": {
+      "original": "原创音乐",
+      "mixtapes": "现场录制混音带"
+    },
+    "selector": {
+      "lead": "现场黑胶聆听场次,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae、ska与dub；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba、world music与+。于Tripping Animals Brewery(佛罗里达州多拉尔市)的每周驻场(2024–2026)。",
+      "v1": {
+        "meta": "现场黑胶试听会 · Record Store Day 2026 · Lucky Records，迈阿密"
+      },
+      "v2": {
+        "date": "2025年2月9日",
+        "meta": "现场直播 · 音效：Dr. Muusica · Tripping Animals Brewing，Doral City，FL"
+      },
+      "v3": {
+        "date": "2025年1月14日",
+        "meta": "现场直播 · Tripping Animals Brewing，Doral City，FL"
+      },
+      "v4": {
+        "date": "2025年1月",
+        "meta": "与Uncle Jei合作 · Tripping Animals Brewing，Doral City，FL"
+      }
+    },
+    "noticias": {
+      "lead": "DR.MUU Records的全新发行，由Dr.Muusica制作。",
+      "v1": {
+        "date": "2026年5月",
+        "meta": "厂牌：DrMuu Records · 执行制作：Muu Blanco · 艺术、平面设计：DrMuu Desing · 音乐制作：Argenis Brito与Dr.Muusica · 于迈阿密与柏林录制及制作，2025–2026年 · 后期制作：Argenis Brito · 全球发行：2026年5月24日",
+        "p1": "这是一个系统的活跃实例，在此系统中，结构不再作为约束运作，而开始表现为断裂的表面。",
+        "p2": "在这一语境中，声音并非以作曲的方式运作，而是作为一种压力——一股穿透界限直至将其撕裂的力量。",
+        "track1title": "曲目1 —（界限被撕裂／无人停下）",
+        "track1desc": "标志着结构崩塌的瞬间。没有过渡，没有预警：裂口是即时且彻底的。由此涌现之物并不遵循叙事逻辑，而是一种既不承认刹车也不承认方向的流动。",
+        "track2title": "曲目2 —（在无空气之处呼吸）",
+        "track2desc": "栖居于那场断裂的后果之中。在此，异常得以稳定。不可能之物并未崩塌：它持续存在。那本不该具备存在条件之物，在一个已不再区分内外的环境中，找到了保持活跃的方式。",
+        "p3": "这件作品并不讲述一个故事，而是提出一种状态：一个迫使感知在没有稳定参照的情况下运作的区域。",
+        "closing": "ARGMUU不建构意义，而是使其遭受干扰。",
+        "listen": "在YouTube Music上收听 ↗",
+        "track1credit": "视频短片：MuuBlancoVideoArt"
+      }
+    },
+    "selectedreleases": {
+      "lead": "精选自穆·布兰科 / Dr.Muusica的专辑与声音作品。",
+      "natuurban": "2024年 · 12英寸黑胶LP,180克绿胶 · Arts Connection Foundation",
+      "nwbm": "2019年"
+    }
+  },
+  "prensa": {
+    "eyebrow": "06 — 新闻",
+    "lead": "报刊杂志上发表的关于Muu Blanco作品的评论，按时间顺序排列。",
+    "loading": "正在加载报道…"
+  },
+  "store": {
+    "eyebrow": "05 — 画廊",
+    "lead": "现有4本艺术家书籍：AAA 2002–2012（Abstracciones Paisajísticas）、Modernismo Anacrónico，以及New Compositional Thinking 1和2。点击封面可在Blurb上查看，或展开作品说明。",
+    "driveImage": "Google Drive中的图片",
+    "books": {
+      "title": "现有书籍",
+      "withGerardo": "与Gerardo Zavarze合作",
+      "pdfNct1": "New Compositional Thinking 1（PDF）↗",
+      "pdfNct2": "New Compositional Thinking 2（PDF）↗",
+      "v1": {
+        "p1": "这是Muu Blanco（1966年生于委内瑞拉加拉加斯）所拍摄影像的一次综合，聚焦于自然、建筑与其他形式的交汇，这些形式承接着委内瑞拉艺术中几何抽象的感性传统。",
+        "p2": "该项目的缘起可追溯到Instituto de Estudios Superiores de Artes Plásticas Armando Reverón（IUESAPAR）所构想的实验性学习空间的出现：对当代视觉再现体系的实践与批评。在那里，与研究者Sandra Pinardi、策展人Luis Enrique Pérez Oramas及建筑师William Niño Araque展开了重要的对话，共同塑造了推进这一视觉研究的创作条件。",
+        "p3": "构成这一特定系列的影像指涉着所谓的“加拉加斯学派”——开启委内瑞拉视觉现代性的运动。阿维拉山形态所具有的凝聚性存在，构成了一个视觉重心，为将城市视为自我凝视之体验的观看方式赋予了对位。",
+        "p4": "同样，与建筑的相遇是一个存在感强烈的特征，体现出一种新纪念性的构想，与一种重新激活艺术与建筑之整合体验的感性相连，如今更明确地指向此地充满张力、鲜活、动态而复杂的维度。光的浮现与天空的象征性主导地位——或许是与殖民记忆的联系，加拉加斯作为天堂的分支？——同样构成了这一系列影像蒙太奇中的重要参照。",
+        "details": "艺术摄影 · 灵感 · 标准竖版，20×25 cm · 40页 · ISBN 9798880530731 · 2024年1月出版 · 西班牙语"
+      },
+      "v2": {
+        "p1": "这是一本收录Muu Blanco拼贴作品的艺术书，没有文字，只有图像——这些作品的摄影记录。作品本身、摄影与平面设计均出自Muu Blanco之手。",
+        "details": "艺术摄影 · 15×23 cm · 120页 · ISBN 9781320501064 · 2015年8月出版 · 语言未定"
+      },
+      "v3": {
+        "p1": "在这件作品中，我用个人日常服用的药片，介入了帕奥罗·加斯帕里尼于1986年在委内瑞拉出版的摄影集《Retromundo》。",
+        "p2": "我将这本书上的创作理解为一种概念性行为。我感兴趣的是以反思的方式，探索构成并塑造我日常世界的元素，及其与我生命经验的流动关系。我并非从私密的角度出发，而是从一种自我考古学的角度出发（我每天服用的药片，可以转化为个人的考古遗存）。",
+        "p3": "由此出发，我的艺术创作寻求与拉美现代性的特定话语、尤其是与铭刻于委内瑞拉历史语境中的话语，展开一种僭越且偶然的对话。我将药片置于《Retromundo》残片之上所形成的摄影构图，并不表达或展示对原始照片作者视野的史诗式或怀旧式凝视。它们更像是一种美学裂缝。药片作为与任何人的个人世界产生关联的因素而发挥作用。它们是一种被改变了的现代性的样本。",
+        "details": "艺术摄影 · 13×20 cm · 30页 · ISBN 9781367872233 · 2016年4月出版 · 英语"
+      },
+      "v4": {
+        "p1": "如今，就委内瑞拉而言，早已不再是哥伦布在其新大陆航行编年史中所描述的“恩典之地”。那扎根于丰饶自然理想之上的现代乌托邦，随着地下矿产资源突然而密集的开采，已然转化为真实的个人与集体悲剧。委内瑞拉近代史正是明证：这个国家尽管坐拥世界最大的石油储量，却始终未能为其公民保障经济增长与社会公平。",
+        "p2": "基于这一视角，Muu Blanco试图通过系列作品《New Compositional Thinking》（2014）颠覆委内瑞拉的石油想象。在这件作品中，Blanco对一组最初刊登于摄影杂志《Extra Cámara》、涉及委内瑞拉石油史诗的影像进行介入，插入了一枚印有“红蚱蜢”（Chapulín Colorado）肖像的圣牌。毫无疑问，这一插入的用意在于让观者联想起这位著名电视角色的名言：“现在，谁来保护我们？”与此同时，显而易见，Blanco借此作品谴责石油崇拜，其方式与历史学家赫尔曼·卡雷拉·达马斯（Germán Carrera Damas）数年前揭露深植于委内瑞拉文化中的玻利瓦尔崇拜如出一辙。",
+        "credits": "Muu Blanco摄影集 · 文字：Gerardo Zavarce · 平面设计：Muu Blanco",
+        "details": "艺术摄影 · 教育 · 小方形，18×18 cm · 20页 · ISBN 9781320500975 · 2015年8月出版 · 英语"
+      },
+      "memoriaLabel": "作品说明"
+    }
+  },
+  "cv": {
+    "eyebrow": "08 — 简历",
+    "lead": "Muu Blanco（1966年生于委内瑞拉加拉加斯）艺术生涯年表。现居迈阿密并在此工作。委内瑞拉裔美籍艺术家。",
+    "h2": {
+      "education": "教育背景",
+      "awards": "奖项与荣誉",
+      "solo": "个展",
+      "group": "联展",
+      "collections": "公共收藏",
+      "discography": "唱片作品（精选）",
+      "installations": "重要声音与表演装置",
+      "residencies": "艺术驻留",
+      "publications": "出版物 / 媒体报道 / 评论提及（精选）",
+      "media": "曾被以下媒体报道",
+      "selected": "精选展览与表演"
+    },
+    "selected": {
+      "readmore": "查看完整简历 ↓",
+      "y2026i1": "Latencias，Ignite Broward Festival，MAD Arts，美国佛罗里达州达尼亚海滩。2026年2月19日。",
+      "y2026i2": "El Kiosko - El Consulado NYC，The Elizabeth Foundation for the Arts，纽约，美国。",
+      "y2025i1": "Technographies，New World School of Art Gallery，美国迈阿密。",
+      "y2025i2": "Miami International Performance Festival《M/P '25》，Edge Zones Art Center，美国迈阿密。",
+      "y20242025i1": "NatuUrban Symphony，Arts Connection Foundation，美国迈阿密。",
+      "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival，20周年，Palazzo Bembo，威尼斯双年展，威尼斯，意大利。",
+      "y2024i2": "连接艺术与政治，Museo La Neomudéjar，西班牙马德里。",
+      "y2023i1": "探索声音艺术的根源与演变：从未来主义到21世纪，Miami International Fine Art (MIFA)，美国佛罗里达州多拉尔。"
+    },
+    "awards": {
+      "y1995i1": "凭借影片《Perra Chillona》获圣保罗短片双年展一等奖。穆·布兰科独白，导演：Sabrina Montiel Soto。",
+      "y1994i1": "第五届圭亚那国家艺术双年展（委内瑞拉）特别提名奖。"
+    },
+    "education": {
+      "i1": "当代再现体系的实践与批评硕士学位。Instituto Universitario de Estudios Avanzados Armando Reverón，加拉加斯。2002年。",
+      "i2": "第五期视觉艺术项目管理课程。Fundación Polar，加拉加斯。1996年。",
+      "i3": "委内瑞拉艺术史课程。Instituto Federico Brandt，加拉加斯。素描与绘画II课程。Instituto Federico Brandt，加拉加斯。1990年。",
+      "i4": "当代艺术史课程。Museo de Bellas Artes，加拉加斯。1989年。"
+    },
+    "residencies": {
+      "y20242026i1": "\"音乐策展与Afro Latin Culture Flavor月刊编辑\"——在Tripping Animals Brewery（美国迈阿密多拉尔市）担任选曲人兼声音研究员的每周驻留。",
+      "y2023i1": "\"声音教育装置驻留艺术家\"——美国多拉尔市。",
+      "y20142016i1": "Arts Connection Foundation（美国迈阿密）多媒体艺术家兼策展人。",
+      "y2007i1": "受邀驻留艺术家，Art Center South Florida，美国迈阿密海滩。"
+    },
+    "collections": {
+      "i1": "Fundación Patricia Phelps de Cisneros，加拉加斯－纽约。",
+      "i2": "Fundación NOA NOA，加拉加斯，委内瑞拉。",
+      "i3": "Archivo Fotografía Urbana，加拉加斯，委内瑞拉。",
+      "i4": "Colección Mercantil，加拉加斯，委内瑞拉。",
+      "i5": "Colección Arte Al Límite，圣地亚哥，智利。",
+      "note1": "私人收藏分布于加拉加斯与马拉开波（委内瑞拉）；纽约、洛杉矶、休斯顿、迈阿密与旧金山（美国）；米兰（意大利）；马德里与巴塞罗那（西班牙）；阿雷格里港（巴西）；里斯本（葡萄牙）；圣地亚哥（智利）。"
+    },
+    "discography": {
+      "i1": "2024年 — NatuUrban: Una Sinfonía SubTropical de Miami [12英寸黑胶唱片，180克，绿色]。Arts Connection Foundation，美国迈阿密。",
+      "note1": "已发行专辑：",
+      "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
+      "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
+      "i4": "\"JABALEE\" — Muu Blanco (2019).",
+      "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
+      "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
+      "note2": "已发行单曲18首（2019–2026年）。"
+    },
+    "installations": {
+      "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
+      "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
+      "y2025i3": "NatuUrban Symphony，声音、舞蹈与现场表演装置，Arts Connection Foundation，美国迈阿密。",
+      "y2024i1": "NatuUrban Symphony，结合自然环境的多声道声音装置，Arts Connection Foundation，美国迈阿密。",
+      "y2024i2": "《Exploring the Roots and Evolution of Sound Art》，互动教育装置。MIFA，美国。",
+      "y2023i1": "《Exploring the Roots and Evolution of Sound Art》，互动教育装置。多拉尔市国际艺术博览会，美国。",
+      "y2017i1": "《Lumínico Sonoro I》，Espace Expression视听装置，温伍德，美国迈阿密。",
+      "y2015i1": "《New Compositional Thinking Vol.1》，Arts Connection混合声音装置，美国迈阿密。",
+      "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
+      "y2007i1": "《Multimedia Landscape》，行为装置，Art Center/South Florida，美国迈阿密海滩。"
+    },
+    "publications": {
+      "y2025i1": "《Afro Latin Culture Flavor》——月刊印刷同人志（限量版，100份）。编辑策展与制作：Muu Blanco / Dr.Muusica，美国多拉尔市。",
+      "y2024i1": "《NatuUrban Symphony画册》——Gerardo Zavarce撰写策展文本，平面设计：Carlos González。美国迈阿密。",
+      "y2023i1": "AAA《Abstracciones Paisajísticas》[摄影书]——加拉加斯城市摄影抽象十年，Muu Blanco，美国迈阿密。",
+      "y2020i1": "《World of Art – Latin American Art Since 1900》（第三版），Edward Lucie-Smith。",
+      "y2015i1": "《New Compositional Thinking Vol.1》——Arts Connection Foundation编辑画册，美国迈阿密。",
+      "y2015i2": "Modernismo Anacrónico——模拟拼贴画册/书籍，Muu Blanco，美国迈阿密。",
+      "y2015i3": "《New Compositional Thinking Vol.2》——画册/摄影书，Muu Blanco，美国迈阿密。",
+      "y2009i1": "《Paisaje Sonoro Caracas–Berlín》——CD声音画册，Sala Mendoza，委内瑞拉加拉加斯。"
+    },
+    "media": {
+      "note": "1998–2026年",
+      "i1": "Transit，纽约，美国。",
+      "i2": "Art America，纽约，美国。",
+      "i3": "ArtNexus，波哥大，哥伦比亚。",
+      "i4": "El Nacional，加拉加斯，委内瑞拉。",
+      "i5": "Papel Literario，加拉加斯，委内瑞拉。",
+      "i6": "Estilo，加拉加斯，委内瑞拉。",
+      "i7": "Miami Herald，美国迈阿密。",
+      "i8": "El Nuevo Herald，美国迈阿密。",
+      "i9": "Artishock，圣地亚哥，智利。",
+      "i10": "Arte Al Límite，圣地亚哥，智利。",
+      "i11": "Arte al Día，美国迈阿密。",
+      "i12": "Shoutout Miami，美国迈阿密。",
+      "i13": "等等。"
+    },
+    "solo": {
+      "y20252024i1": "NatuUrban Symphony，Art Connection Foundation，美国佛罗里达州迈阿密。",
+      "y20252024i2": "探索声音艺术的根源与演变：从未来主义到21世纪。Miami International Fine Art (MIFA)，美国迈阿密。",
+      "y2023i1": "探索声音艺术的根源与演变：从未来主义到21世纪，多拉尔国际艺术博览会特别教育装置。美国佛罗里达州多拉尔市。",
+      "y2020i1": "Composiciones Ardientes，Miami Photo Institute，美国迈阿密。",
+      "y2019i1": "Iluminación y Sonido II，MixMedia装置。Espace Expression。温伍德，美国迈阿密。",
+      "y2019i2": "Calle sin salida，GBG Arts Miami，Arts Palm Beach，美国西棕榈滩。",
+      "y2019i3": "Black Point, Venezuela，The Box Gallery，美国西棕榈滩。",
+      "y2017i1": "Iluminación y Sonido I，影像与声音装置。Espace Expression。温伍德，美国迈阿密。",
+      "y2015i1": "New Compositional Thinking Vol. 1，Mixmedia。Arts Connection Foundation。美国迈阿密。",
+      "y2015i2": "NCT X 13 Samples／摄影与音乐。温伍德，美国迈阿密。",
+      "y2014i1": "Ejercicios CBT # 1，美国迈阿密。",
+      "y2014i2": "Black Point。MixmediaArt装置。Mandragoras Art Space。纽约，美国。",
+      "y2013i1": "In Tha House。Carmen Araujo Arte。委内瑞拉加拉加斯。",
+      "y2012i1": "Caja blanca atrapa moscas，Galería Sicart。西班牙巴塞罗那。",
+      "y2012i2": "Entorno，Espacio Fotográfico Cubo 7。委内瑞拉加拉加斯。",
+      "y2010i1": "Fósiles Analíticos，Galería Fernando Zubillaga。Galpones del Centro de Arte。委内瑞拉加拉加斯。",
+      "y2009i1": "Paisaje Sonoro Caracas-Berlín。Sala Mendoza，委内瑞拉加拉加斯。",
+      "y2008i1": "A.P.（Paisaje de Abstracciones）。Galería Farías + Fábregas。委内瑞拉加拉加斯。",
+      "y2008i2": "Modernismo Anacrónico，Galería Sicart。西班牙巴塞罗那。",
+      "y2007i1": "Paisaje Multimedia，Art Center／South Florida。不眠之夜。美国佛罗里达州迈阿密海滩。",
+      "y2007i2": "PAINT艺术博览会。Hardcore Art Contemporary Space。纽约，美国。",
+      "y2007i3": "Bello Horizonte。Modernismo Anacrónico，Centro Cultural Chacao系列。委内瑞拉加拉加斯。",
+      "y2006i1": "Fósil analítico，Galería Fernando Zubillaga，Periférico Caracas。委内瑞拉加拉加斯。",
+      "y2006i2": "Modernismo anacrónico，Hardcore Art Contemporary Space。美国佛罗里达州迈阿密。",
+      "y2005i1": "Modernismo anacrónico，Heroes & Trash。委内瑞拉加拉加斯。",
+      "y1993i1": "Cachiperro a mano。La Paninoteka。委内瑞拉加拉加斯。",
+      "y1992i1": "版画。La Paninoteka。委内瑞拉加拉加斯。"
+    },
+    "group": {
+      "y2026i1": "El Kiosko - El Consulado NYC，The Elizabeth Foundation for the Arts，纽约，美国。",
+      "y2025i1": "Technographies，New World School of Art Gallery，美国迈阿密。",
+      "y2025i2": "El Kiosko - El Consulado NYC，NADA艺术博览会，美国迈阿密。",
+      "y2025i3": "Miami International Performance Festival《M/P '25》，Edge Zones Art Center，美国迈阿密。",
+      "y2024i1": "连接艺术与政治。Museo La Neomudéjar，西班牙马德里。",
+      "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival，20周年，Palazzo Bembo，威尼斯双年展，威尼斯，意大利。",
+      "y2022i1": "Espacio Especial，Pinta艺术博览会，美国佛罗里达州椰林区。",
+      "y2022i2": "Más allá del Sonido del Silencio，Lowe Art Museum，美国科勒尔盖布尔斯。",
+      "y2022i3": "Serendipia #2 &gt; Post_Ready_Made，Espacio Monitor，委内瑞拉加拉加斯。",
+      "y2022i4": "DGTL: IRL，POPKDM，Galería Weitenfeild Landaluce，德国柏林。",
+      "y2022i5": "MetaFluxus与迈阿密新媒体艺术节，ID Art Lab，温伍德，美国佛罗里达州迈阿密。",
+      "y2022i6": "Serendipity #1装置，Espacio Monitor，委内瑞拉加拉加斯。",
+      "y2021i1": "DORCAM Museum新媒体艺术节，美国佛罗里达州多拉尔市。",
+      "y2021i2": "La Trayectoria Sin Precedentes，Centro Cultural La Trinidad，委内瑞拉加拉加斯。",
+      "y2021i3": "ID，Id Art Lab，温伍德，美国迈阿密。",
+      "y2021i4": "多媒体艺术行动，Id Art Lab，温伍德，美国迈阿密。",
+      "y2020i1": "DORCAM Museum新媒体艺术节，美国佛罗里达州多拉尔市。",
+      "y2020i2": "Base Art，Id Art Lab，温伍德，美国迈阿密。",
+      "y2020i3": "Focus，GBG Art，Art Palm Beach，美国。",
+      "y2019i1": "Miami New Media Festival，DORCAM Museum，美国佛罗里达州多拉尔市。",
+      "y2019i2": "Border Line，Id Art Lab，温伍德，美国迈阿密。",
+      "y2019i3": "+58 Art，Canvas Gallery Miami，美国迈阿密。",
+      "y2019i4": "Political Aesthetics，GBG Arts Miami，美国。",
+      "y2019i5": "My View，LFA Space，温伍德，美国迈阿密。",
+      "y2018i1": "Miami New Media Festival，美国迈阿密。",
+      "y2018i2": "Miami International Performance Festival《M/P '18》，Edge Zone Arts Center，美国迈阿密。",
+      "y2018i3": "Art and Football（公共录像艺术装置），Goethe-Institut，阿塞拜疆巴库。",
+      "y2018i4": "Miami Life Exhibition（混合媒介装置），Miami Photo Institute，美国。",
+      "y2018i5": "Par amour du jet，《ISimulación》（公共录像艺术装置），Les Magasins Generaux，法国巴黎。",
+      "y2018i6": "Lenguas Indígenas（声音艺术），南方共同市场双年展，阿雷格里港，巴西。",
+      "y2017i1": "迈阿密新媒体艺术节，美国。",
+      "y2017i2": "空间的观念，Colección Banco Mercantil，委内瑞拉加拉加斯。",
+      "y2017i3": "Colección Arte Al Límite，Espacio Fundación Telefónica，智利圣地亚哥。",
+      "y2017i4": "AntiRedymate，Espacio Monitor，委内瑞拉加拉加斯。",
+      "y2017i5": "《Onomatopías Visuales de Tiempos Difíciles》，Carmen Araujo Arte，委内瑞拉加拉加斯。",
+      "y2017i6": "迈阿密国际行为艺术节《M/P '17》，Edge Zone Arts Center画廊，美国迈阿密。",
+      "y2017i7": "为委内瑞拉儿童发声的和平共鸣，UNICEF，Galería Ascanio y EE，温伍德，美国迈阿密。",
+      "y2017i8": "从不同纬度重新思考委内瑞拉，Fundana与BAC，温伍德，美国迈阿密。",
+      "y2016i1": "迈阿密新媒体艺术节，美国。",
+      "y2016i2": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，秘鲁利马。",
+      "y2016i3": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，布宜诺斯艾利斯，阿根廷。",
+      "y2016i4": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，玻利维亚拉巴斯。",
+      "y2016i5": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，Museo de Arte Contemporáneo，委内瑞拉加拉加斯。",
+      "y2015i1": "迈阿密新媒体艺术节，美国。",
+      "y2015i2": "Visiones Digitales，Sala Pettit，Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
+      "y2015i3": "媒介艺术：数字媒体中的自然，Fundación Telefónica，CorpBanca，委内瑞拉加拉加斯。",
+      "y2015i4": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Oca de São Paulo，圣保罗，巴西。",
+      "y2015i5": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut新媒体双年展。智利圣地亚哥。",
+      "y2015i6": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut第一届亚松森双年展，Museo del Barro，巴拉圭。",
+      "y2015i7": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut第二届库里蒂巴双年展，巴西。",
+      "y2015i8": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Oi Futuro，里约热内卢，巴西。",
+      "y2015i9": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Museo de Ushuaia，阿根廷。",
+      "y2015i10": "Wynwood Art，The Chill Concept，温伍德，美国迈阿密。",
+      "y2014i1": "Miami New Media Festival，美国迈阿密。",
+      "y2014i2": "Art Fair Context Miami，The Chill Concept，温伍德，美国迈阿密。",
+      "y2014i3": "第二届蒙得维的亚双年展，乌拉圭中央银行大厅，蒙得维的亚，乌拉圭。",
+      "y2014i4": "Lenguas Indígenas。声音艺术。巡回团体。Goethe-Institut／ICBA，里约热内卢，巴西。",
+      "y2014i5": "走向绿色平面，第二版。Centro Integrado de Artes。委内瑞拉加拉加斯。",
+      "y2014i6": "Só Jogo Futebol o Just When They Finished，Goethe-Institut／ICBA。巡回展：圣保罗、阿雷格里港、贝洛奥里藏特、利马、玻利维亚、科尔多瓦（阿根廷）、波哥大（哥伦比亚）、加拉加斯（委内瑞拉）、圣地亚哥（智利）、基多（厄瓜多尔）。",
+      "y2014i7": "Soy punto de encuentro。Carmen Araujo Art。委内瑞拉加拉加斯。",
+      "y2014i8": "Ccs-2014｜Flash Caracas：影像空间。Centro de Arte Los Galpones。委内瑞拉加拉加斯。",
+      "y2013i1": "ArtBo国际艺术博览会，Arte Carmen Araujo，哥伦比亚波哥大。",
+      "y2013i2": "Só Jogo Futebol o recién cuando terminaron，Goethe-Institut／ICBA。巡回展：巴西利亚、萨尔瓦多、里约热内卢、福塔莱萨（巴西）、圣克鲁斯（玻利维亚）、蒙得维的亚（乌拉圭）、布宜诺斯艾利斯（阿根廷）、拉巴斯（玻利维亚）。",
+      "y2013i3": "录像与其他媒介。Al Borde Gallery，委内瑞拉马拉开波。",
+      "y2013i4": "建筑纪念碑。Sala Mendoza，委内瑞拉加拉加斯。",
+      "y2013i5": "电子空间，第5卷。Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2012i1": "Caracas Arte Contemporáneo（CACRI）。Carmen Araujo Arte。Parque Cultural Hacienda La Trinidad。委内瑞拉加拉加斯。",
+      "y2011i1": "Galería Arqueología。Galería Sicart。加泰罗尼亚佩内德斯自由城，西班牙。",
+      "y2011i2": "变形几何：十二种视觉话语。Galería Farías + Fábregas。委内瑞拉加拉加斯。",
+      "y2011i3": "圣露西亚的黄昏。委内瑞拉马拉开波。",
+      "y2010i1": "Didáctica，Centro de Arte Periférico de Caracas Los Galpones。委内瑞拉加拉加斯。",
+      "y2009i1": "Paisaje Sonoro。Ccs - Brln。Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2009i2": "OPENART。萨拉戈萨艺术史中心，西班牙。",
+      "y2008i1": "PhotoMiami '08。Galería Sicart。美国迈阿密。",
+      "y2008i2": "Arte Lisboa。Galería Sicart。葡萄牙里斯本。",
+      "y2008i3": "Arte Valencia。Galería Sicart。西班牙瓦伦西亚。",
+      "y2008i4": "Foto Buenos Aires。Galería Sicart。阿根廷。",
+      "y2008i5": "ArtBo。Galería Farías + Fábregas，哥伦比亚波哥大。",
+      "y2008i6": "当代委内瑞拉录像艺术，Periférico CCS，La Otra，哥伦比亚波哥大。",
+      "y2008i7": "Reflexión y Refracción。Galería Rich。英格兰伦敦。",
+      "y2008i8": "D'eros I Thanatos。Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
+      "y2008i9": "ArteSantander。Galería Sicart。西班牙桑坦德。",
+      "y2008i10": "ArteBa。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
+      "y2008i11": "拉丁美洲当代艺术的（不）可见地理。Centro León，多米尼加共和国。",
+      "y2008i12": "SWAB艺术博览会。Galería Sicart。西班牙巴塞罗那。",
+      "y2008i13": "MiArt，Galería Sicart。意大利米兰。",
+      "y2008i14": "Bridge Art Fair。Tracing Misfits，Galería Sicart。纽约，美国。",
+      "y2008i15": "素描，Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
+      "y2007i1": "Pinta。NYC，Metropolitan Pavilion，纽约，美国。",
+      "y2007i2": "Foto Miami。Galería Sicart。美国迈阿密。",
+      "y2007i3": "SCOPE Miami艺术博览会。Galería HACS。美国迈阿密。",
+      "y2007i4": "Buenos Aires Photo。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
+      "y2007i5": "Buenos Aires Photo，Hardcore Art Contemporary Space，布宜诺斯艾利斯，阿根廷。",
+      "y2007i6": "Valencia Art。Galería Sicart。西班牙瓦伦西亚。",
+      "y2007i7": "Lisbon Art。Galería Sicart。葡萄牙里斯本。",
+      "y2007i8": "Vilafranca Contemporánea。Galería Sicart。加泰罗尼亚佩内德斯自由城，西班牙。",
+      "y2007i9": "ArteBA。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
+      "y2007i10": "List Bärliner。Galería Sicart。德国柏林。",
+      "y2007i11": "伊比利亚美洲艺术博览会（FIA），Hotel Tamanaco Intercontinental，Hardcore Art Contemporary Space，委内瑞拉加拉加斯。",
+      "y2007i12": "Balelatina。Hardcore Art Contemporary Space。瑞士巴塞尔。",
+      "y2007i13": "Circa，Hardcore Art Contemporary Space，圣胡安，波多黎各。",
+      "y2007i14": "Arteaméricas。Hardcore Art Contemporary Space。美国迈阿密。",
+      "y2007i15": "Art Los Angeles。Galería Sicart。美国洛杉矶。",
+      "y2007i16": "AAA，现代性与不合时宜，第六届南方共同市场双年展，阿雷格里港，巴西。",
+      "y2007i17": "Blight and Celebration。Multimedia Fusion Festival，布鲁克林，美国。",
+      "y2006i1": "Photo Miami。Galería Sicart。美国迈阿密。",
+      "y2006i2": "Diálogos。Museo de Arte Contemporáneo de Costa Rica，圣何塞，哥斯达黎加。",
+      "y2006i3": "Image of Caracas（Off loop）。Space Joaquín Costa（Gallery dels Angels），加泰罗尼亚巴塞罗那，西班牙。",
+      "y2006i4": "介入，Museo Jacobo Borges，委内瑞拉加拉加斯。",
+      "y2006i5": "Do not Trust - White Biennial，Anxiety of Influence。UCLA New Wight Gallery，Eli and Edith Broad Art Center。美国洛杉矶。",
+      "y2006i6": "Happy Ever After...。Hardcore Art Contemporary Space。美国佛罗里达州迈阿密。",
+      "y2005i1": "Diálogos：Colección Cisneros收藏的拉丁美洲当代艺术。Museo Nacional de Bellas Artes，智利圣地亚哥。",
+      "y2005i2": "委内瑞拉Colección Cisneros收藏中的当代艺术。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
+      "y2005i3": "加拉加斯之塔：被沉默的现代性。Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2004i1": "Variaciones del ojo。影像舞蹈 - Muu Blanco。Cinemateca Nacional。委内瑞拉加拉加斯。",
+      "y2004i2": "El Barril - Goethe-Institut Caracas，Museo Jacobo Borges。委内瑞拉加拉加斯。",
+      "y2004i3": "VII Jóvenes con FIA，Sala CANTV，Ateneo de Caracas。Espacios Cálidos，委内瑞拉加拉加斯。",
+      "y2004i4": "Tierra Eléctrica。来自英国与委内瑞拉的短片与录像，Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2004i5": "雕塑与摄影。Galería Spazio Zero。委内瑞拉加拉加斯。",
+      "y2003i1": "Contra/Sentido。新委内瑞拉摄影，Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2003i2": "2003年第一届摄影月，加拉加斯 - Polaroid TM。Museo Alejandro Otero。委内瑞拉加拉加斯。",
+      "y2003i3": "第28届阿拉瓜国家艺术展。Museo de Arte Contemporáneo de Maracay Mario Abreu，阿拉瓜，委内瑞拉。",
+      "y2003i4": "第十一届欧亨尼奥·门多萨奖。Sala Mendoza。委内瑞拉加拉加斯。",
+      "y2002i1": "从白盒子到黑盒子：历史录像带、创意录像、数字艺术、委内瑞拉录像，Museo de Arte Contemporáneo de Caracas Sofía Imber。委内瑞拉加拉加斯。",
+      "y2002i2": "多媒体艺术家，Centro para las Artes创始人。Museo de Arte Contemporáneo de Caracas Sofía Imber。委内瑞拉加拉加斯。",
+      "y2001i1": "13小时。Sala Mendoza，委内瑞拉加拉加斯。",
+      "y2001i2": "ENE Incidentes - RE Incidentes／千禧之间。Centro de Bellas Artes，马拉开波，苏利亚，委内瑞拉。",
+      "y2000i1": "Demostrationraume／案例研究。Galería Or。加拿大温哥华。",
+      "y2000i2": "90 60 90。Goethe-Institut Caracas，Museo Jacobo Borges。委内瑞拉加拉加斯。",
+      "y2000i3": "第58届阿图罗·米切莱纳沙龙，Ateneo de Valencia，卡拉沃沃，委内瑞拉。",
+      "y1999i1": "第22届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，阿拉瓜，委内瑞拉。",
+      "y1998i1": "Jóvenes con FIA CANTV。Ateneo de Caracas，委内瑞拉加拉加斯。",
+      "y1998i2": "第三届美洲之土双年展。委内瑞拉-巴西，中央交流展。Museo de Bellas Artes，委内瑞拉加拉加斯。",
+      "y1998i3": "精致尸体的复活，Sala Mendoza，委内瑞拉加拉加斯。",
+      "y1998i4": "Casco de Acero，Espacios Unión，委内瑞拉加拉加斯。",
+      "y1998i5": "第五届圭亚那双年展：精选作品。Museo Alejandro Otero，委内瑞拉加拉加斯。",
+      "y1998i6": "波长，录像与摄影，Museo Alejandro Otero。委内瑞拉加拉加斯。",
+      "y1997i1": "第22届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，马拉凯，阿拉瓜，委内瑞拉。",
+      "y1997i2": "第五届圭亚那国家艺术双年展。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
+      "y1995i1": "第二届皮雷利青年艺术家沙龙。Museo de Arte Contemporáneo de Caracas Sofía Imber，委内瑞拉加拉加斯。",
+      "y1994i1": "混合技法。Galería Alternativa。委内瑞拉加拉加斯。",
+      "y1994i2": "第七届微型艺术双年展。TAGA。委内瑞拉加拉加斯。",
+      "y1994i3": "第四届圭亚那国家艺术双年展。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
+      "y1992i1": "第17届国家摄影沙龙。向新闻摄影致敬。Foro Libertador。Instituto Autónomo Biblioteca Nacional。委内瑞拉加拉加斯。",
+      "y1992i2": "第17届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，委内瑞拉。",
+      "y1991i1": "1, 2, 3, 4, 5。加拉加斯州政府展厅，联邦区，委内瑞拉。",
+      "y1990i1": "素描展。Instituto Federico Brandt，委内瑞拉加拉加斯。"
+    }
+  },
+  "contacto": {
+    "eyebrow": "09 — 联系",
+    "lead": "艺术或音乐相关咨询，请直接来信。",
+    "arte": {
+      "label": "艺术"
+    },
+    "music": {
+      "label": "音乐 / 预订"
+    },
+    "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。",
+    "categories": "展览 · 表演 · 声音委托创作 · 艺术家对谈 · 黑胶活动 · Selector预约 · 媒体 · 合作"
+  },
+  "proyectos": {
+    "eyebrow": "02 — 研究项目",
+    "h1": "研究项目",
+    "lead": "Muu Blanco创作实践中的长期研究方向——每一条都拥有自己的作品体系、出版物与展示。",
+    "ongoing": "进行中",
+    "seeInPress": "见音乐新闻报道",
+    "viewPdfCatalog": "Modernismo Anacrónico. Collage（PDF）↗",
+    "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
+    "viewPdfSicart": "2010年Sicart画册（PDF）↗",
+    "viewPdfBook": "AAA 2002–2012摄影书（PDF）↗",
+    "viewPdfPhotos": "Abstracciones Paisajísticas. 摄影（PDF）↗",
+    "viewPdfDossier": "Carmen Araujo Arte——档案，Abstracciones Paisajísticas（PDF）↗",
+    "natuurban": {
+      "medium": "声音装置、舞蹈与视频投影",
+      "p1": "在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。融合实验音乐、舞蹈、视频投影，以及一部同名纪录片——Muu Blanco关于声景与城市自然环境的最新研究。",
+      "videoTitle": "NatuUrban Symphony",
+      "videoMeta": "纪录短片 · 导演：Jacopo Fantastichini · 制作：PlantPop · FilmGate Festival，2025年7月30日",
+      "videoDesc": "由Jacopo Fantastichini执导、PlantPop制作、Gerardo Zavarce策展的纪录短片。影片记录了穆·布兰科的艺术生涯,以及他的声音艺术装置NatuUrban Symphony的创作过程——该装置探索南佛罗里达主要城市郊外国家公园中自然与城市的声音,得益于Arts Connection Foundation的赞助得以实现(穆·布兰科自2014年起在迈阿密与该基金会合作)。影片收录了Camera Creature SVC的影像与Dr.Muusica的原创音乐,记录了作品的核心概念:携带迷你扬声器的活体植物播放连接自然与城市的声景。影片于2025年7月30日在迈阿密市中心SilverSpot Cinemas首映,作为FilmGate Festival的一部分——这是穆·布兰科在美国制作的首部纪录短片,是他四十年不间断艺术生涯中的一个里程碑。"
+    },
+    "soundart": {
+      "p1": "2023年展览Exploring the Roots and Evolution of Sound Art结束后的次年，即2024年，以网页应用形式呈现的虚拟装置。汇集了穆·布兰科关于声音艺术历史的研究，从未来主义的根源到二十一世纪。"
+    },
+    "abstracciones": {
+      "medium": "摄影",
+      "p1": "十五年间，从加拉加斯到世界各地的Abstracciones Paisajísticas创作。",
+      "animadas": {
+        "title": "动画版《风景抽象》(AAOA)",
+        "meta": "动画：Benky Chang · 萨拉戈萨，西班牙"
+      },
+      "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — 在Blurb查看 ↗",
+      "instagramLink": "Instagram @abstracionespaisajisticas ↗"
+    },
+    "modernismo": {
+      "medium": "模拟拼贴 / 混合媒介",
+      "p1": "一组模拟拼贴与混合媒介系列，始于2002年——曾在Heroes & Trash（加拉加斯，2005年）、Espacio Hardcore Art Contemporary（迈阿密，2006年）、Bello Horizonte / Centro Cultural Chacao（加拉加斯，2007年）及Sicart画廊（巴塞罗那，2008年）展出，并以画册/图书形式出版。",
+      "blurbLink": "Modernismo Anacrónico. Collage — 在Blurb查看 ↗",
+      "instagramLink": "Instagram @modernismo_anacronico ↗",
+      "belloHorizonteLink": "Bello Horizonte——画册，Centro Cultural Chacao（PDF）↗"
+    },
+    "fosiles": {
+      "medium": "素描与装置",
+      "p1": "始于2002年的关于素描及其装置化应用的研究，曾作为个展在加拉加斯Fernando Zubillaga画廊展出（Periférico Caracas，2006年；Galpones del Centro de Arte，2010年）。"
+    },
+    "abstraccion": {
+      "title": "抽象",
+      "p1": "《Violencia Abstracta》（2013年），抽象领域的新研究系列。",
+      "tizon": {
+        "medium": "录像艺术·03:33分钟·MiniDV/NTSC·导演：José Antonio Blanco Angulo·摄影、剪辑及原创音乐：Muu Blanco",
+        "p1": "Torres de Parque Central是加拉加斯的标志性建筑之一，象征着这座城市在1970年代向现代性敞开的姿态。对加拉加斯人而言，这两座塔楼赋予了这座城市独有的性格——一种混乱而热烈的性格，仿佛阿维拉山不朽的少女。对于这部短片的创作者穆·布兰科而言，目睹帕尔克·森特拉尔东塔起火的那一刻，立即唤起了他对这一城市主角所承载的种种含义的思考。",
+        "intro": "这部短片的片名源自西班牙语单词«tizón»。tizón意指：1. 一根烧了一半的木棍。2. 名誉或自尊上的一处污点。这两层含义共同催生了这部充满象征意味的作品之标题。",
+        "p2": "在过去，那里曾是他的「游乐场」（他的父亲曾是建造这一建筑群的建筑师团队成员之一，因而将一种情感上的联系传递给了他）。",
+        "p3": "艺术家将这一事件解读为当时委内瑞拉人所经历的社会政治时刻的一个映像；是对其社会衰败的一种反映。是烙印在公民自尊心上的一道污渍。是拒绝被其政治与衰败的tizón所吞噬的一种态度。",
+        "p4": "这部短片（时长03:33分钟）以MiniDV格式制作，在一台Mac PowerBook G4上完成剪辑，配乐为Muu Blanco（艺名Jaba Lee Project）的原创音乐，他在这段作品中融入了«La Billo's Caracas Boys»乐团（一支著名的委内瑞拉五十年代乐团）的一段旋律。该曲目经过重新混音，生成了一种与加拉加斯——如同一根烧了一半的«tizón»——的影像相呼应的、动感而反复的节奏。"
+      }
+    },
+    "artesonoro": {
+      "title": "声音艺术",
+      "medium": "声音装置、行为表演与录像记录",
+      "p1": "Muu Blanco声音艺术实践的录像与摄影档案，从早期的声音装置到近期的行为表演与短片。",
+      "v1": {
+        "meta": "多媒体感官表演 · Mad Museum"
+      },
+      "v3": {
+        "meta": "构思与策展：Muu Blanco · Doral Cultural Arts Center（DIAF 1），2023年 / Arts Connection Foundation，2023年11月",
+        "desc": "这一历史脉络，从未来主义延伸至当代声音艺术，凸显了二十与二十一世纪声音实验的演变。始于未来主义艺术家，他们试图通过混乱的达达主义以及具体音乐、激浪派等音乐前卫运动来表现现代生活与技术。随后，广播艺术在声音叙事中引入了协作与公众互动。最后，受布莱恩·伊诺启发的氛围音乐，专注于营造令人放松的声音氛围。最终，R. Murray Schafer提出的声景概念，凸显了声音在文化与环境中的重要性，影响了城市设计与环境意识。这一历史脉络反映了声音创造力多年来的持续扩展。"
+      },
+      "v4": {
+        "meta": "系列：Lumínico Sonoro #MuuBlanco · 2021年1月5日",
+        "desc": "记录了一场声与光互动多媒体行动——@muublancoartsound · @muublancovideoart 与 @anarquia101——于@idartlab举办的“Multimedia Art Action 2021”。记录：Anarquía 101。"
+      },
+      "v5": {
+        "meta": "多媒体装置（行为表演、声音）· 可变尺寸 · .Wav · 15:38分钟 · Mandragoras Art Space，纽约皇后区"
+      },
+      "v6": {
+        "meta": "声音装置 · Sala Mendoza，加拉加斯",
+        "desc": "在加拉加斯Sala Mendoza展出的声音艺术装置，并以CD-ROM形式发行了声音画册。"
+      },
+      "hundredyears": {
+        "meta": "虚拟装置 · 网页应用，2024年 · 100yearsofsound.webflow.io",
+        "visit": "访问项目 ↗"
+      }
+    },
+    "instalaciones": {
+      "title": "装置",
+      "medium": "装置",
+      "p1": "《Muuseo Blanco》（1998年），艺术家有记录的最早装置作品之一。",
+      "v1": {
+        "date": "2020年1月13日",
+        "meta": "多媒体装置 · LFA Space，Wynwood，迈阿密 · 2019年11月至2020年3月",
+        "p1": "这是Muu Blanco多媒体装置作品《Lumínico Sonoro》的一分钟概览影像，该作品于2019年11月至2020年3月在美国佛罗里达州迈阿密Wynwood的LFA Space展出。"
+      }
+    },
+    "performances": {
+      "title": "行为表演",
+      "medium": "现场行为艺术、视频投影与多媒体装置",
+      "v1": {
+        "meta": "现场多媒体行为艺术 · New World School of the Arts在校生与毕业生联展开幕，Miami Dade Art District——2025迈阿密艺术周",
+        "p1": "这是一场现场多媒体行为艺术，通过持续不断的声音与影像流探索风景、身体与科技之间的交汇。在30分钟内，作品在合成器、节拍、现场广播、长号与一个视觉装置之间展开对话——该装置将拍摄于Key Biscayne海岸的流动水体循环影像，与通过MadMapper转化为万花筒图案的数字绘画相融合。",
+        "p2": "在这幅视觉图景之上，叠加着实时生成、随作品中产生的声音频率而反应的动态振动线条。这些线条不仅回应合成器、节拍或长号——观众的噪音也成为视觉的触发因素，融入系统之中，使每一次振动、每一声低语、每一次环境的突发都在改变投影。观众由此成为作品无意间的共同作者，在影像的肌理中留下印记。",
+        "p3": "该作品构建了一个自然与数字相互影响的感官生态系统：声音的振动贯穿视觉性，海洋景观被分割与扩展，集体的在场成为维系体验脉动的一部分。广播传输引入了偶然性与鲜活当下的元素，凸显出无论是物理的还是技术的，每一片海岸都是交汇之地。",
+        "p4": "该行为艺术作为2025迈阿密艺术周的一部分，在Miami Dade Art District的New World School of the Arts在校生与毕业生联展开幕式上呈现，提出了一个沉浸式的场域，声音、影像与观众在持续振动的状态中共存。",
+        "date": "2025年12月"
+      },
+      "v2": {
+        "meta": "声音行为艺术 · PINTA艺术博览会，2025迈阿密艺术周",
+        "p1": "我以无面之姿现身，被磁带筑成的巢穴所覆盖：那是声音的残迹、破碎的记忆、再无人聆听的录音。我的乐器是一支绿色长号，那是萌芽与毒性之色，希望与锈蚀之色。我用它吹奏出一种不追求音乐、而追求裂痕的语言。",
+        "p2": "这一声音行为是一种不服从的姿态。无调性、重复、执拗：拒绝那些驯化耳朵的结构，拒绝那些规训身体的话语。这里发生的并非音乐会，而是一场中断。不是奇观，而是在本应被观看、被赞颂、被消费的流程中撕开的一道裂缝。",
+        "p3": "在这座由等待出海的船只守护的码头花园中，我化作干扰。我带来了离散之南的振动，移民地理的振动，那些从边缘重新审视自身的城市的振动。我从未被邀请的沉默中吹奏，从抗拒被归档的记忆中吹奏，从即便一切都试图抹除、却依然存续之物的脆弱中吹奏。",
+        "p4": "无尽的重复所寻求的并非催眠，而是肯定：存在即坚持。面对博览会，面对市场，面对那贴标签、定价值、使之流通的逻辑，我呈现出一种拒绝被捕获的在场。我的声音不提供旋律，它提供偏离。它不提供慰藉，它提供可能性。",
+        "p5": "我邀请你在不期待中聆听，在不理解中停留，如同置身于一道并不属于自己、却仍触动自己的波中，陪伴这一行为。愿这振动提醒我们：不确定之物同样有权占据空间。",
+        "date": "2025年12月",
+        "watchLink": "在YouTube观看 ↗"
+      },
+      "v3": {
+        "meta": "M/P'25 · Edge Zone Cultural Center，迈阿密",
+        "p1": "《Ceguera Ambiental y SocioCultural Vol.1 (Miami)》属于Muu Blanco二十多年来所发展的艺术研究脉络，在这一脉络中，声音、政治与视觉相互交织，形成了质询当代性张力的行为艺术。",
+        "p2": "该项目与艺术家此前的经历相互对话：在加拉加斯进行的城市声音行为艺术，将城市噪音转化为可塑的、行为性的材料；关于暴力与权力的批判性视听装置，媒介语言在其中成为扭曲与抵抗的场域；以及以DrMuusica之名进行的探索，黑胶、循环与即兴演奏在其中重写了加勒比及其离散群体的声音档案。",
+        "p3": "在所有这些方法中，Blanco始终追求同一种姿态：将日常、政治与文化的符号重新配置为感官的景观，在其中激活记忆、张力与我们时代的紧迫性。《Ceguera Ambiental y SocioCultural》延续了这条批判性与实验性的路径，如今更将重点激进地转向感知本身：几何线条与声音振动相互交织，揭示出社会目光的僵化与即兴、错误那不可控的力量之间的当代矛盾。",
+        "date": "2025年12月"
+      },
+      "v4": {
+        "meta": "视频与声音：MadMapper &amp; Live Ableton · Coral Gables博物馆（画廊之夜）· 视频：Raúl Blanco",
+        "date": "2022年5月"
+      },
+      "v5": {
+        "meta": "多媒体装置——4通道视频与立体声音频（行为艺术、视频、摄影、声音、文本、油画）· 时长：2小时 · 地点：ESM（Espacio SaltaMantis），迈阿密 · 纪录视频：01:59分钟 · 合作音乐人：Andrés Michelena、Diego Damas、Muu Blanco"
+      },
+      "v6": {
+        "meta": "概念、导演、声音、钢琴与现场视频投影，客座艺术家Andrés Michelena（数字打击乐）与Diego Damas（电吉他）参与 · Miami New Media Festival，Miami Iron Side，Little River Art District · 拍摄与剪辑：Raúl Blanco",
+        "date": "2019年2月"
+      },
+      "v7": {
+        "meta": "现场多媒体行为艺术27秒片段——在绘画与墙面上进行的视频投影与实验音乐 · Miami New Media Festival"
+      },
+      "v8": {
+        "meta": "视频投影装置与原创音乐 · Espace Expresions，Wynwood，迈阿密",
+        "p1": "向抽象艺术三位大师——赫苏斯·拉斐尔·索托、卡洛斯·克鲁兹-迭斯与胡里奥·勒·帕克致敬的作品。",
+        "date": "2017年9月15日"
+      },
+      "v9": {
+        "meta": "技术：视频行为艺术——身体行动、摄影、单频道视频 · 格式：.MOV 4K · 时长：03:13分钟",
+        "date": "2016年7月"
+      },
+      "v10": {
+        "meta": "地点：Mandrágoras Art Space，皇后区，纽约"
+      },
+      "v12": {
+        "meta": "主演：Muu Blanco · 导演：Andrés Manner · 剪辑：Murmullo",
+        "p1": "在加拉加斯Los Chorros社区，仅用一个清晨依照即兴指令拍摄完成——冒着身体上的风险，出于纯粹的艺术投入。"
+      },
+      "v13": {
+        "meta": "Eli Bravo与Muu Blanco访谈 · 由equilibrio.com于2013年重新播出"
+      },
+      "v14": {
+        "meta": "Muu Blanco：图片小说演员",
+        "p1": "小说／图片小说《文化部长绑架案》（El Secuestro de la Ministro de Cultura）预告片——一个毫无隐瞒的博物馆界真实案例：充满喧嚣与愤怒的文化。"
+      },
+      "v15": {
+        "meta": "Eli Bravo访谈 · RCTV《Sonoclips》节目 · YouTube发布日期：2009年9月17日",
+        "p1": "1990年，Eli Bravo在RCTV的《Sonoclips》节目中对Desorden Público进行的首次采访。当时Muu Blanco自乐队成立之初便担任该乐队的“RootBoy”。"
+      },
+      "v16": {
+        "meta": "导演：Vity Rodríguez Castillo · 制片人：Gabriela Vanzetti、Fito Páez · 歌曲：Alberto Cabello／Carlos Eduardo“Cayayo”Troconis †／Edgar Jiménez · 客串演员：Intensiti Moon、Muu Blanco、Marino · Sonorodven：Carlos Sánchez · 1989年委内瑞拉梅里达国际电影节最佳音乐录影带奖 · 专辑：El Amor Ya No Existe",
+        "p1": "含完整制作名单的原版重制。1988年于加拉加斯以Super 8格式拍摄。这是Muu Blanco首次公开亮相，以演员身份出演一支委内瑞拉乐队的音乐录影带。"
+      },
+      "v17": {
+        "meta": "圣保罗短片双年展一等奖 · 独白：Muu Blanco · 导演：Sabrina Montiel-Soto"
+      }
+    },
+    "calvo": {
+      "title": "CALVO",
+      "medium": "行为表演·Estudio Mata de Coco，委内瑞拉加拉加斯·1986年12月6日",
+      "p1": "《CALVO》是穆·布兰科的首次公开表演，于1986年12月6日在加拉加斯的Estudio Mata de Coco举行，正值Desorden Público首场重要演唱会期间。",
+      "readpdf": "查看完整档案（PDF）↗",
+      "sub1": "CALVO：零点，1986 / 2026",
+      "p2": "1986年：身体进入作品之中。<br>2026年：记忆使我们得以辨认这一姿态的深远意义。",
+      "readEssay": "阅读全文",
+      "essay": {
+        "p1": "《CALVO》发生于1986年12月6日，地点是加拉加斯的Estudio Mata de Coco，正值Desorden Público首场重要演唱会期间。当乐队即将开始演奏歌曲《Calvo》之时，穆·布兰科搬着一把椅子走上舞台，将其放在中央，面对观众坐下。音乐前奏随即响起。Caplis走近，带着困惑的神情注视着他，仿佛在努力理解正在发生的一切。此时Danel Sarmiento开始演唱《Calvo》，Horacio Blanco随即走近穆，在观众面前为他理发。彻底剃光头发后，穆·布兰科站起身来，在舞台上跳起了斯卡朋克舞，最终纵身跃向观众。",
+        "p2": "随着时间推移，这位艺术家将这一事件视为他首次公开的行动、首次表演——一次奠基性的经历，改变了他与艺术、以及与作为创作领域的身体之间的关系。",
+        "p3": "从当下的视角来看，《CALVO》呈现为一个由精确的序列所构筑的行动：登场、等待、转变、运动，以及舞台空间的断裂。它的力量并非来自复杂的舞台设计，也非来自事先解释的叙事，而是来自一个具体姿态在观众面前展开、并在演唱会之中获得意义的方式。",
+        "p4": "椅子在音乐能量的正中引入了一个停顿。穆·布兰科坐下，静止不动，暴露在外，而这一情境开始获得一种意料之外的张力。Caplis的目光凸显出这种困惑，使某种尚未完全被定义为演唱会、戏剧或表演的东西的闯入变得可见。",
+        "p5": "当歌曲开始时，标题《Calvo》不再仅仅作为一个词语存在，而成为一种物质性的行动。当Danel演唱之时，Horacio Blanco在众人面前从生理上改变了穆的外貌。身体并非再现这个词，而是将其体现出来。",
+        "p6": "音乐由此承担起一种结构性的功能。它标记出这一行动的时间，伴随着转变的发生，并激活了从静止到运动的过渡。理发结束后，穆离开椅子，进入节奏之中。斯卡朋克舞打破了最初的克制，引向跃向观众的一跳，舞台与观众之间传统的分隔在此瞬间消失。",
+        "p7": "这一位移——从椅子到舞台，从舞台到观众——是理解这件作品的核心所在。《CALVO》以一具孤立于舞台中央的身体开始，最终以这同一具身体沉浸于集体之中作结。",
+        "p8": "这一行动的最初构想来自Roberto Fuentes Anzola，他当时是Desorden Público的艺术制作人，穆·布兰科将其铭记为朋友与挚爱的导师。这一合作性的起源，对于理解这件作品的谱系至关重要。《CALVO》诞生于一张创造性与音乐性共谋的关系网络之中，但其表演性的维度，则是在穆·布兰科接过这一提议、并将其推向身体与舞台后果的方式中获得的。",
+        "p9": "从2026年、四十年后的角度回望，《CALVO》可以被视为这位艺术家创作轨迹中的一个起点。这并非因为它以纲领性的方式预告了他此后全部的创作，而是因为它早早地建立起身体、声音、时间、行动与公共在场之间的一种关系，这种关系此后将以其他媒介的形式，贯穿他整个创作生涯反复出现。",
+        "p10": "它同时也提出了一个在其此后创作实践中始终具有意义的问题：当艺术经验不再被容纳于某一物件之中，而转而依赖于一种实时经历的情境时，会发生什么？",
+        "p11": "在1986年，这个问题还未被形塑为理论。经验先于一切而来。首先出现的是椅子、音乐、理发、舞蹈与那一跃。解读，是后来才有的事。",
+        "p12": "正因如此，今天的《CALVO》可以被理解为不仅仅是与Desorden Público早期某个重要时刻、以及八十年代加拉加斯音乐场景相关的一则轶事。它是穆·布兰科当众发现自己的身体可以成为材料、载体与艺术事件的那一瞬间。",
+        "p13": "在这个意义上，《CALVO》是一个零点。",
+        "p14": "1986年：身体进入作品之中。<br>2026年：记忆使我们得以辨认这一姿态的深远意义。"
+      }
+    },
+    "videoarte": {
+      "title": "录像艺术",
+      "tagline": "观念艺术／录像／声音"
+    },
+    "sintitulo": {
+      "title": "无题",
+      "medium": "录像艺术／摄影幻灯放映／声音创作",
+      "intro": "「他拍下了寂静降临之前的喧嚣。」",
+      "summary": "在2002年至2005年间，尚未拥有摄像机的穆·布兰科，在加拉加斯El Paraíso的工作室里，透过电视屏幕系统性地拍摄委内瑞拉的政治危机：一份关于媒体、记忆与影像力量、以实时方式构建的档案。",
+      "viewVideo": "观看完整视频 ↗",
+      "readpdf": "查看完整档案文件 (PDF) ↗"
+    }
+  },
+  "exposiciones": {
+    "eyebrow": "07 — 展览目录",
+    "lead": "个展与联展的画册及文献资料，按时间顺序排列。",
+    "loading": "正在加载展览…"
+  },
+  "selectedworks": {
+    "eyebrow": "精选作品",
+    "lead": "从四十年的视觉、表演与声音实践中精选的六个项目。每个项目都链接至档案中的完整记录。",
+    "cta": "查看完整记录 →",
+    "works": {
+      "natuurban": {
+        "title": "NatuUrban Symphony",
+        "meta": "2024–2025 · 声音装置与影像投影 · Arts Connection Foundation, 迈阿密",
+        "desc": "2024年11月至2025年1月在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。NatuUrban Symphony融合了实验音乐、舞蹈、影像投影(video mapping)以及同名纪录片的放映,将迈阿密的亚热带风景思考为一片声音的领土。该项目延续了穆·布兰科对图像、声音与城市环境之关系的研究,并通过Arts Connection Foundation发行为180克绿色黑胶唱片。"
+      },
+      "latencias": {
+        "title": "Latencias",
+        "meta": "2026年2月19日晚7点 · 多媒体感官表演 · Ignite Broward Festival, MAD Arts, 戴尼亚海滩,佛罗里达",
+        "desc": "一场时长40分钟的多媒体感官表演,于2026年2月19日(周四)晚7点在MAD Arts现场呈现,作为Ignite Broward 2026 Festival(由Broward Arts主办)的一部分,并配有精选影像作品放映——免费向公众开放。作品探索身体、声音与记忆之间的潜伏状态,结合现场声音创作、影像投影与表演性姿态,延续了穆·布兰科对感知与科技的研究。Latencias记录于网站档案的“观念”与“项目”版块,是艺术家最新创作之一。"
+      },
+      "soundart": {
+        "title": "Exploring the Roots and Evolution of Sound Art",
+        "meta": "2023–2025 · 个展 · MIFA,迈阿密 / 多拉尔",
+        "desc": "一场追溯声音艺术谱系——从未来主义到二十一世纪——的个展,于2023年至2025年间在迈阿密国际艺术博览会(MIFA)展出。项目结合了声音装置作品、历史资料与穆·布兰科的原创作品,将其创作置于探索声音、科技与空间的更广泛传统之中。展览也曾以多拉尔版本呈现,扩大了观众范围,并巩固了艺术家在声音艺术史研究方面最持久的策展项目之一。"
+      },
+      "ceguera": {
+        "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
+        "meta": "2025 · 表演 · 迈阿密",
+        "desc": "一场探讨环境与社会文化性“失明”这一当代境况的表演,是2025年在迈阿密展开的系列作品的第一部。作品结合身体、声音与批判性姿态,叩问感知、环境与集体责任之间的关系。它属于穆·布兰科持续开展的表演实践,活跃于迈阿密的表演艺术圈,并以影像形式记录在本站的“项目”档案中。"
+      },
+      "modernismo": {
+        "title": "Modernismo Anacrónico",
+        "meta": "2002年至今 · 拼贴、装置与集合艺术",
+        "desc": "2002年开始并持续至今的拼贴、集合与装置作品系列。项目汇集了以现成材料与综合技法制作的作品照片,已出版为同名艺术书,并曾在国际艺术博览会SWAB(2008)展出。Modernismo Anacrónico在现代性的承诺与其物质残余之间提出一种反讽的对话,是穆·布兰科视觉实践中最早也最持久的脉络之一,完整记录于“项目”画廊中。"
+      },
+      "afrolatin": {
+        "title": "Afro Latin Culture Flavor",
+        "meta": "同人志 · Selector驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
+        "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周Selector驻场活动,在那里Dr.Muusica以“Dr.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
+      }
+    }
+  },
+  "workwithmuu": {
+    "eyebrow": "与穆合作",
+    "lead": "可接洽展览、表演、场域特定声音委托创作、艺术家对谈以及黑胶聆听会。四十年往返于加拉加斯与迈阿密之间的跨学科实践。",
+    "cards": {
+      "soundart": {
+        "title": "声音艺术与表演",
+        "desc": "为画廊、艺术节与公共空间提供现场声音表演、扩展声音装置与即兴演奏。"
+      },
+      "commissions": {
+        "title": "场域特定声音委托创作",
+        "desc": "为特定空间、展览或场地创作的原创声音作品——氛围音乐创作、影像投影、空间音频。"
+      },
+      "talks": {
+        "title": "艺术家对谈",
+        "desc": "关于声音艺术、影像艺术,以及四十年跨学科实践的对谈与讲座,展览履历横跨美洲与欧洲——从加拉加斯、迈阿密到纽约、马德里、威尼斯与圣保罗。"
+      },
+      "vinyl": {
+        "title": "黑胶聆听体验",
+        "desc": "精心策划的黑胶聆听会与Selector场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
+      },
+      "dj": {
+        "title": "Dr.Muusica / Selector",
+        "desc": "以Dr.Muusica之名呈现的Selector场次与原创制作,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae、ska与dub；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba、world music与+。"
+      }
+    },
+    "closing": "展览 · 表演 · 声音委托创作 · 合作",
+    "ctaButton": "联系Muu Blanco →"
   }
- },
- "index": {
-  "hero": {
-   "needs": "跨学科艺术家，",
-   "accent": "声音艺术家、表演者、黑胶唱片选曲人。",
-   "sub": "1966年生于加拉加斯 · 现居迈阿密 — 四十年来探索影像、记忆、风景、声音、科技与文化档案。",
-   "alt": "穆·布兰科 — 肖像，迈阿密，2026"
-  },
-  "tiles": {
-   "conceptual": "文本、创作笔记与作品记录——按时间顺序排列。",
-   "practicas": "Instagram、YouTube、SoundCloud 与 Discogs——持续进行的实践。",
-   "drmusica": "音乐化名——制作、合作与发行。",
-   "galeria": "现有原作——在线商店，查询价格与库存。",
-   "prensa": "报刊杂志上发表的评论——按时间顺序排列。",
-   "cv": "完整的年表指南——教育、展览、唱片作品与新闻报道。",
-   "contacto": "策展人、画廊、媒体、藏家及音乐相关咨询。",
-   "proyectos": "长期研究方向——NatuUrban Symphony、100 Years of Sound Art 等。",
-   "exposiciones": "1994年至2014年个展与联展的展览画册。"
-  },
-  "featured": {
-   "eyebrow": "Muu Blanco — 现在",
-   "selectedworks": "从四十年的视觉、表演与声音实践中精选的六个项目。",
-   "workwithmuu": "声音表演、委托创作、艺术家对谈与黑胶聆听会。",
-   "archiveTitle": "档案 1986–2026",
-   "archiveDesc": "完整创作历程——摄影、表演、影像、装置、声音与出版物。"
-  },
-  "now": {
-   "title": "最新影像与音乐",
-   "lead": "动态影像与音乐，实时呈现。",
-   "videoLabel": "最新音乐视频",
-   "mixmediaLabel": "最新混合媒体作品"
-  },
-  "sections": {
-   "eyebrow": "浏览完整档案"
-  }
- },
- "about": {
-  "eyebrow": "关于",
-  "lead": "跨学科艺术家。音乐化名：<em>Dr.Muusica</em>。加拉加斯 / 迈阿密。",
-  "h2": {
-   "summary": "简介",
-   "full": "视频艺术简历",
-   "dossierbio": "传记档案 — DJ Muu / Dr. Muusica",
-   "recent": "近期作品",
-   "contact": "联系方式",
-   "morelinks": "更多链接",
-   "projects": "项目与空间",
-   "shortbio": "简短简介",
-   "cronicas": "纪事"
-  },
-  "summary": {
-   "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。自1990年代初以来，他的创作实践通过实验录像、声音艺术、行为表演、摄影与视频投影，探索影像、声音与城市景观之间的关系。",
-   "p2": "他早期的录像作品以Video8格式拍摄，后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙展出，整套系列作品被Noa Noa收藏收购。他的作品曾在加拉加斯索菲亚·因贝尔当代艺术博物馆、门多萨厅、加拉加斯国家电影资料馆以及纽约Mandragoras艺术空间等机构展出。",
-   "p3": "自2014年迁居迈阿密以来，Blanco持续开发融合视频投影、声音艺术与行为表演的多媒体装置，包括他最新的项目NatuUrban Symphony（2024–2025）。"
-  },
-  "full": {
-   "p1": "Muu Blanco（1966年生于委内瑞拉加拉加斯）是一位跨学科艺术家、录像艺术家，也是常驻迈阿密的多媒体装置创作者。他的艺术实践涵盖实验录像艺术、声音艺术、行为表演、摄影、拼贴装置、电子音乐与视频投影，自1990年代初以来持续研究影像、声音与城市景观之间的关系。",
-   "p2": "Blanco于1990年代初开始从事实验录像艺术创作，最初以Video8格式作为审美探索的工具。他首次以录像作品参加集体展览是在1992年，当时他的一件作品被收藏家Jimmy Belilty收购。自此，他开始持续探索实验视听语言。",
-   "p3": "1994年，他参加了在加拉加斯Alternativa画廊举办的集体展览《混合技法》，这是他在当代艺术展览体系中最早的展出之一。",
-   "p4": "到1995年，他已创作了三十多件实验录像作品，这些作品后来在加拉加斯当代艺术博物馆举办的第二届皮雷利青年艺术家沙龙（1997年）展出，全部作品被Oberto家族的私人收藏Noa Noa收购。",
-   "p5": "1990年代末至2000年代初，他持续拓展视听研究，记录行为表演并开发录像与声音方面的实验项目。",
-   "p6": "2002年，他参加了在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的展览《从白立方到黑匣子：历史录像带、创意视频、数字艺术、委内瑞拉录像》。同年，他还参与了在该机构展出的项目《多媒体艺术家，艺术中心创始人》。在此期间，他还为该博物馆的录像艺术收藏做出贡献，捐赠并纳入了他在那十年间创作的二十件录像作品。",
-   "p7": "2003年，他参加了在加拉加斯门多萨厅举办的第十一届尤金尼奥·门多萨奖。",
-   "p8": "2004年，他在加拉加斯国家电影资料馆展出作品《眼之变奏。视频舞蹈——Muu Blanco》。同年，他的作品被纳入在门多萨厅举办的展览《电力大地：英国与委内瑞拉短片与录像》，这是一项致力于实验录像与短片的国际项目。",
-   "p9": "2006年，他与歌德学院合作，在雅各布·博尔赫斯博物馆展出了一项实验录像项目。该项目聚焦于加拉加斯街头的流动商贩与非正规经济，将城市景观视为一个社会与政治空间来探讨。",
-   "p10": "自2008年起，他开始将扩展投影与视频投影融入他的多媒体装置中。随后，2013年，他开展了一项关于幻灯片与动态肖像摄影的研究项目，同年以他在委内瑞拉的最后一次个展《In Tha House》作为收尾，该展览在Carmen Araujo Arte举办，是一件结合录像、绘画、雕塑与声音的多媒体装置。",
-   "p11": "2014年，他在纽约举办了首次个展，展出多媒体装置《Black Point Venezuela》，该展览是Mandragoras艺术空间在长岛市举办的行为表演项目的一部分。该作品融合了声音艺术、视频投影、雕塑与模拟拼贴，探讨了当代委内瑞拉社会与政治的紧张局势。",
-   "p12": "同年，他迁居迈阿密，至今仍在那里持续进行大部分艺术创作。2015年，他在Arts Connection Foundation的Chill Concept空间展出了《新作曲思维 第一辑》，这是一件结合大幅摄影、视频投影与声音艺术的装置作品。",
-   "p13": "2017年至2019年间，他在迈阿密Ironside，特别是在Santamantis空间，策划了一系列实验视听活动，组织了多场专注于视频投影与实验现场音乐的聚会。",
-   "p14": "在新冠疫情打断这些创作空间之后，他于2020年在Allapattah社区共同创立了艺术团体IDArt Lab，活跃至2023年。在该团体中，他参加了多场集体展览，展示视频投影、实验动画以及对声音敏感的光影表演，并配以现场声音艺术创作。",
-   "p15": "他最新的项目是装置与声音艺术项目NatuUrban Symphony，于2024年11月至2025年1月在Arts Connection Foundation展出，融合了实验音乐、舞蹈、视频投影，以及他的同名纪录片NatuUrban Symphony的放映。",
-   "p16": "自2017年起，Blanco一直维护着Instagram账号 <a href=\"https://www.instagram.com/muublancovideoart/\" target=\"_blank\" rel=\"noopener\">@muublancovideoart</a>，作为其视听创作的活档案，记录他在迈阿密最近十年间开发的装置、行为表演与录像实验。",
-   "p17": "凭借四十多年的艺术生涯，Muu Blanco发展出一种混合实践，其中录像、声音、技术与行为表演成为探究都市文化、记忆与当代社会紧张关系的装置。他的作品收藏于多家国际公共与私人收藏机构。",
-   "readmore": "查看完整简历"
-  },
-  "dossierbio": {
-   "p1": "艺术、聆听、城市、广播、电视、DJ文化、音乐制作与多媒体实践:横跨四十多年的历程,从加拉加斯天堂区(El Paraíso)的La Cuadra(1966年)到迈阿密。这段历程包括在加拉加斯索菲亚·因贝尔当代艺术博物馆举办的PARLAMENTO、在92.9 FM和La Mega 107.3 FM电台的SHORT MUU与PARLAMENTO SONORO节目、在Ateneo电台的DR. MUUSICA节目、在BAR1和90 Grados担任驻场选曲人(selector)、电视创意总监工作,以及作为多媒体观念艺术家、声音艺术家、音乐制作人和选曲人持续至今的创作实践。",
-   "quote": "“观看、聆听、记录、挑选、归档、编辑并分享。”",
-   "link": "阅读完整传记档案(PDF)↗"
-  },
-  "recent": {
-   "p1": "<strong>Latencias</strong>（2026年）是一场40分钟的多媒体感官表演，于2026年2月19日在Ignite Broward Festival、MAD Arts（佛罗里达州戴尼亚海滩）首演。记录于本网站的<a href=\"selected-works.html\">Selected Works</a>、<a href=\"conceptual.html\">概念</a>与<a href=\"proyectos.html\">项目</a>板块。"
-  },
-  "contact": {
-   "p1": "活跃的实践与社交网络请见<a href=\"practicas-publicas.html\">公共实践</a>。可购作品请见<a href=\"store.html\">画廊</a>。"
-  },
-  "morelinks": {
-   "p1": "<a href=\"https://en.wikipedia.org/wiki/Muu_Blanco\" target=\"_blank\" rel=\"noopener\">维基百科 ↗</a>——传记与创作历程。<a href=\"https://linktr.ee/muublanco\" target=\"_blank\" rel=\"noopener\">Linktree ↗</a>——艺术家所有链接汇总于一处。"
-  },
-  "projects": {
-   "p1": "<a href=\"https://dimensionsvariable.net/artist/muu-blanco\" target=\"_blank\" rel=\"noopener\">Dimensions Variable ↗</a>——迈阿密展览空间的艺术家档案。<a href=\"https://100yearsofsound.webflow.io/\" target=\"_blank\" rel=\"noopener\">100 Years of Sound Art ↗</a>——关于声音艺术历史的研究项目。"
-  },
-  "shortbio": {
-   "p1": "穆·布兰科(1966年生于加拉加斯)是一位跨学科艺术家兼音乐人,以Dr.Muusica之名活动,现居迈阿密。他的创作横跨影像艺术、声音艺术、表演与装置,四十年来持续探索图像、声音与城市景观之间的关系。",
-   "readmore": "阅读完整简介 ↓"
-  },
-  "cronicas": {
-   "lieskaTitle": "Muu Blanco. Cronología de la irreverencia",
-   "p1": "2018年,作家Lieska根据在艺术家迈阿密工作室进行的采访,在Bitácora 29(杰克逊维尔)发表了这篇专访。文章回顾了他的成长历程、其创作中幽默与不敬之间的联系,以及Abstracciones Paisajísticas系列的发展。<a href=\"https://drive.google.com/file/d/143CT0e4H5JDIdZEBvILL2GDpFGnqUv2G/view\" target=\"_blank\" rel=\"noopener\">阅读全文(PDF)↗</a>"
-  }
- },
- "conceptual": {
-  "eyebrow": "01 — 概念",
-  "lead": "四十年的艺术研究，景观、抽象、声音、记忆、自然与技术在此交汇，扩展我们对当代世界的感知。",
-  "loading": "正在加载文献…",
-  "statementTitle": "艺术家陈述",
-  "statement": {
-   "p1": "我的艺术实践始于1986年，那是一场直觉式的探索，我将艺术理解为一个可以让影像、声音、建筑、景观与记忆相遇的领域，而非孤立的学科。从那时起，我建立了一条不断演变的跨学科创作道路，驱动力来自于探究我们如何感知世界，以及时间如何改变我们与世界的关系。",
-   "p2": "我1966年生于加拉加斯，这座城市复杂的都市结构深刻影响了我理解空间的方式。早年间，我的研究以绘画、素描与实验性介入为中心，很快演变为录像艺术、实验电影、装置与声音实践。1990年代，我获得的一些认可肯定了这一方向，包括凭借《Perra Chillona》获得圣保罗短片双年展一等奖，以及在第五届圭亚那国家艺术双年展获得特别提名。",
-   "p3": "我的创作从未局限于单一媒介。每个项目都决定了它得以存在所需的语言。四十年来，我穿梭于摄影、拼贴、音乐创作、声音艺术、行为表演、文献研究与沉浸式装置之间，将所有这些学科理解为同一创作过程的组成部分。",
-   "p4": "自然与景观一直是我研究的恒定轴心。我并不将它们视为被再现的场景，而是历史、生态、文化与人类经验交汇的活档案。从这种探索中诞生了诸如《Abstraciones Paisajísticas》、《Modernismo Anacrónico》、《NatuUrban：迈阿密亚热带交响曲》以及《Archipiélago Sonoro》等作品，它们研究领土、记忆、生物多样性与声音之间的关系。",
-   "p5": "2014年迁居迈阿密，为我的创作实践开启了新篇章。与南佛罗里达亚热带生态系统的相遇，拓展了我对声景生态学的兴趣，也拓展了创造沉浸式体验的可能性——在其中，实地录音、电声作曲、人工智能、摄影、录像与互动技术共存。在这一时期，声音不再只是影像的伴随，而成为一种能够构筑沉思空间的雕塑性材料。",
-   "p6": "这些年间，我也作为研究者、作曲家、Selector、编辑与文化制作人展开了密集的工作，产出了致力于声音艺术以及加勒比与拉丁美洲音乐文化的出版物、档案、黑胶唱片、音乐会、实验室与传播平台。我将这些活动理解为我艺术实践的自然延伸，也是围绕聆听激活社群的方式。",
-   "p7": "我的作品提出一种目光与聆听的减速。我关注揭示那些通常保持不可见的东西：景观的回响、一片领土所承载的记忆、被忽略的日常声音，以及自然、城市与文化之间隐藏的关系。与其说是再现一个地方，我更希望创造条件，让人们从一种扩展的感知出发去体验它。",
-   "p8": "2026年，正值艺术生涯四十周年之际，我意识到自己的创作仍是一场开放的探索。每个项目都是一次邀请——以不同的方式聆听，以更专注的态度观察，并理解景观并非外在的客体，而是一个我们同为其组成部分的活体。我的实践持续在技术实验与诗意感性之间演进，我坚信艺术能够构建人与世界、人与集体记忆之间新的关系形式。"
-  }
- },
- "practicas": {
-  "eyebrow": "03 — 公共实践",
-  "lead": "持续进行的实践，记录于社交网络：七个Instagram账号、YouTube、Vimeo、SoundCloud与Discogs账号。"
- },
- "drmusica": {
-  "eyebrow": "04 — DR.MUU RECORDS",
-  "lead": "由Dr.Muurecords制作、Dr.Muusica执导的音乐制作。",
-  "h2": {
-   "listen": "完整唱片目录",
-   "press": "媒体报道",
-   "videoclips": "视频短片",
-   "selector": "Dr.Muusica 精选 — 黑胶与现场录音",
-   "noticias": "最新发行",
-   "selectedreleases": "精选唱片"
-  },
-  "press": {
-   "lead": "关于Muu Blanco作为音乐人与音乐制作人的报道与提及，按时间顺序排列。"
-  },
-  "videoclips": {
-   "lead": "由Muu Blanco制作并执导的音乐视频，原创音乐由Muu Blanco创作，Dr.Muusica在Dr.Muu Records录音室制作。",
-   "v1": {
-    "meta": "Héctor Lavoe参与 · 编剧：Dr.Muu Desing"
-   },
-   "v2": {
-    "meta": "《JABALEE》（专辑），第5首 · Ditto Music Venezuela · 视频：MuuBlancoVideoArt &amp; SaltaMantis · 导演：Muu Blanco",
-    "date": "2019年6月"
-   },
-   "v3": {
-    "meta": "专辑《New Wave BeatMaker CCS 66》首支单曲 · 影像、概念与导演：Muu Blanco",
-    "date": "2019年3月"
-   },
-   "v4": {
-    "meta": "Sound Live：Dr.Muusica · Video Live：SaltaMantis · Voice Live：Veekelly · 导演：Muu Blanco · Espacio SaltaMantis",
-    "date": "2019年3月"
-   },
-   "v5": {
-    "meta": "专辑《New Wave BeatMaker CCS 66》第三支视频单曲"
-   },
-   "v6": {
-    "meta": "视频：Dr.Muu Desing",
-    "date": "2017年3月"
-   },
-   "v7": {
-    "meta": "自拍视频短片 · 原创音乐：Dr.Muusica",
-    "date": "2016年12月"
-   }
-  },
-  "youtube": {
-   "handle": "Muu Blanco的YouTube频道"
-  },
-  "listen": {
-   "original": "原创音乐",
-   "mixtapes": "现场录制混音带"
-  },
-  "selector": {
-   "lead": "现场黑胶聆听场次,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae、ska与dub；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba、world music与+。于Tripping Animals Brewery(佛罗里达州多拉尔市)的每周驻场(2024–2026)。",
-   "v1": {
-    "meta": "现场黑胶试听会 · Record Store Day 2026 · Lucky Records，迈阿密"
-   },
-   "v2": {
-    "date": "2025年2月9日",
-    "meta": "现场直播 · 音效：Dr. Muusica · Tripping Animals Brewing，Doral City，FL"
-   },
-   "v3": {
-    "date": "2025年1月14日",
-    "meta": "现场直播 · Tripping Animals Brewing，Doral City，FL"
-   },
-   "v4": {
-    "date": "2025年1月",
-    "meta": "与Uncle Jei合作 · Tripping Animals Brewing，Doral City，FL"
-   }
-  },
-  "noticias": {
-   "lead": "DR.MUU Records的全新发行，由Dr.Muusica制作。",
-   "v1": {
-    "date": "2026年5月",
-    "meta": "厂牌：DrMuu Records · 执行制作：Muu Blanco · 艺术、平面设计：DrMuu Desing · 音乐制作：Argenis Brito与Dr.Muusica · 于迈阿密与柏林录制及制作，2025–2026年 · 后期制作：Argenis Brito · 全球发行：2026年5月24日",
-    "p1": "这是一个系统的活跃实例，在此系统中，结构不再作为约束运作，而开始表现为断裂的表面。",
-    "p2": "在这一语境中，声音并非以作曲的方式运作，而是作为一种压力——一股穿透界限直至将其撕裂的力量。",
-    "track1title": "曲目1 —（界限被撕裂／无人停下）",
-    "track1desc": "标志着结构崩塌的瞬间。没有过渡，没有预警：裂口是即时且彻底的。由此涌现之物并不遵循叙事逻辑，而是一种既不承认刹车也不承认方向的流动。",
-    "track2title": "曲目2 —（在无空气之处呼吸）",
-    "track2desc": "栖居于那场断裂的后果之中。在此，异常得以稳定。不可能之物并未崩塌：它持续存在。那本不该具备存在条件之物，在一个已不再区分内外的环境中，找到了保持活跃的方式。",
-    "p3": "这件作品并不讲述一个故事，而是提出一种状态：一个迫使感知在没有稳定参照的情况下运作的区域。",
-    "closing": "ARGMUU不建构意义，而是使其遭受干扰。",
-    "listen": "在YouTube Music上收听 ↗",
-    "track1credit": "视频短片：MuuBlancoVideoArt"
-   }
-  },
-  "selectedreleases": {
-   "lead": "精选自穆·布兰科 / Dr.Muusica的专辑与声音作品。",
-   "natuurban": "2024年 · 12英寸黑胶LP,180克绿胶 · Arts Connection Foundation",
-   "nwbm": "2019年"
-  }
- },
- "prensa": {
-  "eyebrow": "06 — 新闻",
-  "lead": "报刊杂志上发表的关于Muu Blanco作品的评论，按时间顺序排列。",
-  "loading": "正在加载报道…"
- },
- "store": {
-  "eyebrow": "05 — 画廊",
-  "lead": "现有4本艺术家书籍：AAA 2002–2012（Abstracciones Paisajísticas）、Modernismo Anacrónico，以及New Compositional Thinking 1和2。点击封面可在Blurb上查看，或展开作品说明。",
-  "driveImage": "Google Drive中的图片",
-  "books": {
-   "title": "现有书籍",
-   "withGerardo": "与Gerardo Zavarze合作",
-   "pdfNct1": "New Compositional Thinking 1（PDF）↗",
-   "pdfNct2": "New Compositional Thinking 2（PDF）↗",
-   "v1": {
-    "p1": "这是Muu Blanco（1966年生于委内瑞拉加拉加斯）所拍摄影像的一次综合，聚焦于自然、建筑与其他形式的交汇，这些形式承接着委内瑞拉艺术中几何抽象的感性传统。",
-    "p2": "该项目的缘起可追溯到Instituto de Estudios Superiores de Artes Plásticas Armando Reverón（IUESAPAR）所构想的实验性学习空间的出现：对当代视觉再现体系的实践与批评。在那里，与研究者Sandra Pinardi、策展人Luis Enrique Pérez Oramas及建筑师William Niño Araque展开了重要的对话，共同塑造了推进这一视觉研究的创作条件。",
-    "p3": "构成这一特定系列的影像指涉着所谓的“加拉加斯学派”——开启委内瑞拉视觉现代性的运动。阿维拉山形态所具有的凝聚性存在，构成了一个视觉重心，为将城市视为自我凝视之体验的观看方式赋予了对位。",
-    "p4": "同样，与建筑的相遇是一个存在感强烈的特征，体现出一种新纪念性的构想，与一种重新激活艺术与建筑之整合体验的感性相连，如今更明确地指向此地充满张力、鲜活、动态而复杂的维度。光的浮现与天空的象征性主导地位——或许是与殖民记忆的联系，加拉加斯作为天堂的分支？——同样构成了这一系列影像蒙太奇中的重要参照。",
-    "details": "艺术摄影 · 灵感 · 标准竖版，20×25 cm · 40页 · ISBN 9798880530731 · 2024年1月出版 · 西班牙语"
-   },
-   "v2": {
-    "p1": "这是一本收录Muu Blanco拼贴作品的艺术书，没有文字，只有图像——这些作品的摄影记录。作品本身、摄影与平面设计均出自Muu Blanco之手。",
-    "details": "艺术摄影 · 15×23 cm · 120页 · ISBN 9781320501064 · 2015年8月出版 · 语言未定"
-   },
-   "v3": {
-    "p1": "在这件作品中，我用个人日常服用的药片，介入了帕奥罗·加斯帕里尼于1986年在委内瑞拉出版的摄影集《Retromundo》。",
-    "p2": "我将这本书上的创作理解为一种概念性行为。我感兴趣的是以反思的方式，探索构成并塑造我日常世界的元素，及其与我生命经验的流动关系。我并非从私密的角度出发，而是从一种自我考古学的角度出发（我每天服用的药片，可以转化为个人的考古遗存）。",
-    "p3": "由此出发，我的艺术创作寻求与拉美现代性的特定话语、尤其是与铭刻于委内瑞拉历史语境中的话语，展开一种僭越且偶然的对话。我将药片置于《Retromundo》残片之上所形成的摄影构图，并不表达或展示对原始照片作者视野的史诗式或怀旧式凝视。它们更像是一种美学裂缝。药片作为与任何人的个人世界产生关联的因素而发挥作用。它们是一种被改变了的现代性的样本。",
-    "details": "艺术摄影 · 13×20 cm · 30页 · ISBN 9781367872233 · 2016年4月出版 · 英语"
-   },
-   "v4": {
-    "p1": "如今，就委内瑞拉而言，早已不再是哥伦布在其新大陆航行编年史中所描述的“恩典之地”。那扎根于丰饶自然理想之上的现代乌托邦，随着地下矿产资源突然而密集的开采，已然转化为真实的个人与集体悲剧。委内瑞拉近代史正是明证：这个国家尽管坐拥世界最大的石油储量，却始终未能为其公民保障经济增长与社会公平。",
-    "p2": "基于这一视角，Muu Blanco试图通过系列作品《New Compositional Thinking》（2014）颠覆委内瑞拉的石油想象。在这件作品中，Blanco对一组最初刊登于摄影杂志《Extra Cámara》、涉及委内瑞拉石油史诗的影像进行介入，插入了一枚印有“红蚱蜢”（Chapulín Colorado）肖像的圣牌。毫无疑问，这一插入的用意在于让观者联想起这位著名电视角色的名言：“现在，谁来保护我们？”与此同时，显而易见，Blanco借此作品谴责石油崇拜，其方式与历史学家赫尔曼·卡雷拉·达马斯（Germán Carrera Damas）数年前揭露深植于委内瑞拉文化中的玻利瓦尔崇拜如出一辙。",
-    "credits": "Muu Blanco摄影集 · 文字：Gerardo Zavarce · 平面设计：Muu Blanco",
-    "details": "艺术摄影 · 教育 · 小方形，18×18 cm · 20页 · ISBN 9781320500975 · 2015年8月出版 · 英语"
-   },
-   "memoriaLabel": "作品说明"
-  }
- },
- "cv": {
-  "eyebrow": "08 — 简历",
-  "lead": "Muu Blanco（1966年生于委内瑞拉加拉加斯）艺术生涯年表。现居迈阿密并在此工作。委内瑞拉裔美籍艺术家。",
-  "h2": {
-   "education": "教育背景",
-   "awards": "奖项与荣誉",
-   "solo": "个展",
-   "group": "联展",
-   "collections": "公共收藏",
-   "discography": "唱片作品（精选）",
-   "installations": "重要声音与表演装置",
-   "residencies": "艺术驻留",
-   "publications": "出版物 / 媒体报道 / 评论提及（精选）",
-   "media": "曾被以下媒体报道",
-   "selected": "精选展览与表演"
-  },
-  "selected": {
-   "readmore": "查看完整简历 ↓",
-   "y2026i1": "Latencias，Ignite Broward Festival，MAD Arts，美国佛罗里达州达尼亚海滩。2026年2月19日。",
-   "y2026i2": "El Kiosko - El Consulado NYC，The Elizabeth Foundation for the Arts，纽约，美国。",
-   "y2025i1": "Technographies，New World School of Art Gallery，美国迈阿密。",
-   "y2025i2": "Miami International Performance Festival《M/P '25》，Edge Zones Art Center，美国迈阿密。",
-   "y20242025i1": "NatuUrban Symphony，Arts Connection Foundation，美国迈阿密。",
-   "y2024i1": "FUERA DE CONTEXTO: Miami New Media Festival，20周年，Palazzo Bembo，威尼斯双年展，威尼斯，意大利。",
-   "y2024i2": "连接艺术与政治，Museo La Neomudéjar，西班牙马德里。",
-   "y2023i1": "探索声音艺术的根源与演变：从未来主义到21世纪，Miami International Fine Art (MIFA)，美国佛罗里达州多拉尔。"
-  },
-  "awards": {
-   "y1995i1": "凭借影片《Perra Chillona》获圣保罗短片双年展一等奖。穆·布兰科独白，导演：Sabrina Montiel Soto。",
-   "y1994i1": "第五届圭亚那国家艺术双年展（委内瑞拉）特别提名奖。"
-  },
-  "education": {
-   "i1": "当代再现体系的实践与批评硕士学位。Instituto Universitario de Estudios Avanzados Armando Reverón，加拉加斯。2002年。",
-   "i2": "第五期视觉艺术项目管理课程。Fundación Polar，加拉加斯。1996年。",
-   "i3": "委内瑞拉艺术史课程。Instituto Federico Brandt，加拉加斯。素描与绘画II课程。Instituto Federico Brandt，加拉加斯。1990年。",
-   "i4": "当代艺术史课程。Museo de Bellas Artes，加拉加斯。1989年。"
-  },
-  "residencies": {
-   "y20242026i1": "\"音乐策展与Afro Latin Culture Flavor月刊编辑\"——在Tripping Animals Brewery（美国迈阿密多拉尔市）担任选曲人兼声音研究员的每周驻留。",
-   "y2023i1": "\"声音教育装置驻留艺术家\"——美国多拉尔市。",
-   "y20142016i1": "Arts Connection Foundation（美国迈阿密）多媒体艺术家兼策展人。",
-   "y2007i1": "受邀驻留艺术家，Art Center South Florida，美国迈阿密海滩。"
-  },
-  "collections": {
-   "i1": "Fundación Patricia Phelps de Cisneros，加拉加斯－纽约。",
-   "i2": "Fundación NOA NOA，加拉加斯，委内瑞拉。",
-   "i3": "Archivo Fotografía Urbana，加拉加斯，委内瑞拉。",
-   "i4": "Colección Mercantil，加拉加斯，委内瑞拉。",
-   "i5": "Colección Arte Al Límite，圣地亚哥，智利。",
-   "note1": "私人收藏分布于加拉加斯与马拉开波（委内瑞拉）；纽约、洛杉矶、休斯顿、迈阿密与旧金山（美国）；米兰（意大利）；马德里与巴塞罗那（西班牙）；阿雷格里港（巴西）；里斯本（葡萄牙）；圣地亚哥（智利）。"
-  },
-  "discography": {
-   "i1": "2024年 — NatuUrban: Una Sinfonía SubTropical de Miami [12英寸黑胶唱片，180克，绿色]。Arts Connection Foundation，美国迈阿密。",
-   "note1": "已发行专辑：",
-   "i2": "\"Mi A Mi 2020\" — Muu Blanco (2021).",
-   "i3": "\"Soy Criollo\" — Muu Blanco (2019).",
-   "i4": "\"JABALEE\" — Muu Blanco (2019).",
-   "i5": "\"New Wave Beat Maker\" — Muu Blanco (2019).",
-   "i6": "Berrlin Paisaje Sonoro — Muu Blanco (2008–2022).",
-   "note2": "已发行单曲18首（2019–2026年）。"
-  },
-  "installations": {
-   "y2025i1": "Ceguera Ambiental y SocioCultural Vol.1, Miami International Performance Festival \"M/P '25\", Edge Zone Arts Center, Miami, USA.",
-   "y2025i2": "Dual Water, New World School of Art Gallery, Miami, USA.",
-   "y2025i3": "NatuUrban Symphony，声音、舞蹈与现场表演装置，Arts Connection Foundation，美国迈阿密。",
-   "y2024i1": "NatuUrban Symphony，结合自然环境的多声道声音装置，Arts Connection Foundation，美国迈阿密。",
-   "y2024i2": "《Exploring the Roots and Evolution of Sound Art》，互动教育装置。MIFA，美国。",
-   "y2023i1": "《Exploring the Roots and Evolution of Sound Art》，互动教育装置。多拉尔市国际艺术博览会，美国。",
-   "y2017i1": "《Lumínico Sonoro I》，Espace Expression视听装置，温伍德，美国迈阿密。",
-   "y2015i1": "《New Compositional Thinking Vol.1》，Arts Connection混合声音装置，美国迈阿密。",
-   "y2009i1": "\"Paisaje Sonoro Caracas–Berlín\", Sala Mendoza, Caracas, Venezuela.",
-   "y2007i1": "《Multimedia Landscape》，行为装置，Art Center/South Florida，美国迈阿密海滩。"
-  },
-  "publications": {
-   "y2025i1": "《Afro Latin Culture Flavor》——月刊印刷同人志（限量版，100份）。编辑策展与制作：Muu Blanco / Dr.Muusica，美国多拉尔市。",
-   "y2024i1": "《NatuUrban Symphony画册》——Gerardo Zavarce撰写策展文本，平面设计：Carlos González。美国迈阿密。",
-   "y2023i1": "AAA《Abstracciones Paisajísticas》[摄影书]——加拉加斯城市摄影抽象十年，Muu Blanco，美国迈阿密。",
-   "y2020i1": "《World of Art – Latin American Art Since 1900》（第三版），Edward Lucie-Smith。",
-   "y2015i1": "《New Compositional Thinking Vol.1》——Arts Connection Foundation编辑画册，美国迈阿密。",
-   "y2015i2": "Modernismo Anacrónico——模拟拼贴画册/书籍，Muu Blanco，美国迈阿密。",
-   "y2015i3": "《New Compositional Thinking Vol.2》——画册/摄影书，Muu Blanco，美国迈阿密。",
-   "y2009i1": "《Paisaje Sonoro Caracas–Berlín》——CD声音画册，Sala Mendoza，委内瑞拉加拉加斯。"
-  },
-  "media": {
-   "note": "1998–2026年",
-   "i1": "Transit，纽约，美国。",
-   "i2": "Art America，纽约，美国。",
-   "i3": "ArtNexus，波哥大，哥伦比亚。",
-   "i4": "El Nacional，加拉加斯，委内瑞拉。",
-   "i5": "Papel Literario，加拉加斯，委内瑞拉。",
-   "i6": "Estilo，加拉加斯，委内瑞拉。",
-   "i7": "Miami Herald，美国迈阿密。",
-   "i8": "El Nuevo Herald，美国迈阿密。",
-   "i9": "Artishock，圣地亚哥，智利。",
-   "i10": "Arte Al Límite，圣地亚哥，智利。",
-   "i11": "Arte al Día，美国迈阿密。",
-   "i12": "Shoutout Miami，美国迈阿密。",
-   "i13": "等等。"
-  },
-  "solo": {
-   "y20252024i1": "NatuUrban Symphony，Art Connection Foundation，美国佛罗里达州迈阿密。",
-   "y20252024i2": "探索声音艺术的根源与演变：从未来主义到21世纪。Miami International Fine Art (MIFA)，美国迈阿密。",
-   "y2023i1": "探索声音艺术的根源与演变：从未来主义到21世纪，多拉尔国际艺术博览会特别教育装置。美国佛罗里达州多拉尔市。",
-   "y2020i1": "Composiciones Ardientes，Miami Photo Institute，美国迈阿密。",
-   "y2019i1": "Iluminación y Sonido II，MixMedia装置。Espace Expression。温伍德，美国迈阿密。",
-   "y2019i2": "Calle sin salida，GBG Arts Miami，Arts Palm Beach，美国西棕榈滩。",
-   "y2019i3": "Black Point, Venezuela，The Box Gallery，美国西棕榈滩。",
-   "y2017i1": "Iluminación y Sonido I，影像与声音装置。Espace Expression。温伍德，美国迈阿密。",
-   "y2015i1": "New Compositional Thinking Vol. 1，Mixmedia。Arts Connection Foundation。美国迈阿密。",
-   "y2015i2": "NCT X 13 Samples／摄影与音乐。温伍德，美国迈阿密。",
-   "y2014i1": "Ejercicios CBT # 1，美国迈阿密。",
-   "y2014i2": "Black Point。MixmediaArt装置。Mandragoras Art Space。纽约，美国。",
-   "y2013i1": "In Tha House。Carmen Araujo Arte。委内瑞拉加拉加斯。",
-   "y2012i1": "Caja blanca atrapa moscas，Galería Sicart。西班牙巴塞罗那。",
-   "y2012i2": "Entorno，Espacio Fotográfico Cubo 7。委内瑞拉加拉加斯。",
-   "y2010i1": "Fósiles Analíticos，Galería Fernando Zubillaga。Galpones del Centro de Arte。委内瑞拉加拉加斯。",
-   "y2009i1": "Paisaje Sonoro Caracas-Berlín。Sala Mendoza，委内瑞拉加拉加斯。",
-   "y2008i1": "A.P.（Paisaje de Abstracciones）。Galería Farías + Fábregas。委内瑞拉加拉加斯。",
-   "y2008i2": "Modernismo Anacrónico，Galería Sicart。西班牙巴塞罗那。",
-   "y2007i1": "Paisaje Multimedia，Art Center／South Florida。不眠之夜。美国佛罗里达州迈阿密海滩。",
-   "y2007i2": "PAINT艺术博览会。Hardcore Art Contemporary Space。纽约，美国。",
-   "y2007i3": "Bello Horizonte。Modernismo Anacrónico，Centro Cultural Chacao系列。委内瑞拉加拉加斯。",
-   "y2006i1": "Fósil analítico，Galería Fernando Zubillaga，Periférico Caracas。委内瑞拉加拉加斯。",
-   "y2006i2": "Modernismo anacrónico，Hardcore Art Contemporary Space。美国佛罗里达州迈阿密。",
-   "y2005i1": "Modernismo anacrónico，Heroes & Trash。委内瑞拉加拉加斯。",
-   "y1993i1": "Cachiperro a mano。La Paninoteka。委内瑞拉加拉加斯。",
-   "y1992i1": "版画。La Paninoteka。委内瑞拉加拉加斯。"
-  },
-  "group": {
-   "y2026i1": "El Kiosko - El Consulado NYC，The Elizabeth Foundation for the Arts，纽约，美国。",
-   "y2025i1": "Technographies，New World School of Art Gallery，美国迈阿密。",
-   "y2025i2": "El Kiosko - El Consulado NYC，NADA艺术博览会，美国迈阿密。",
-   "y2025i3": "Miami International Performance Festival《M/P '25》，Edge Zones Art Center，美国迈阿密。",
-   "y2024i1": "连接艺术与政治。Museo La Neomudéjar，西班牙马德里。",
-   "y2024i2": "FUERA DE CONTEXTO: Miami New Media Festival，20周年，Palazzo Bembo，威尼斯双年展，威尼斯，意大利。",
-   "y2022i1": "Espacio Especial，Pinta艺术博览会，美国佛罗里达州椰林区。",
-   "y2022i2": "Más allá del Sonido del Silencio，Lowe Art Museum，美国科勒尔盖布尔斯。",
-   "y2022i3": "Serendipia #2 &gt; Post_Ready_Made，Espacio Monitor，委内瑞拉加拉加斯。",
-   "y2022i4": "DGTL: IRL，POPKDM，Galería Weitenfeild Landaluce，德国柏林。",
-   "y2022i5": "MetaFluxus与迈阿密新媒体艺术节，ID Art Lab，温伍德，美国佛罗里达州迈阿密。",
-   "y2022i6": "Serendipity #1装置，Espacio Monitor，委内瑞拉加拉加斯。",
-   "y2021i1": "DORCAM Museum新媒体艺术节，美国佛罗里达州多拉尔市。",
-   "y2021i2": "La Trayectoria Sin Precedentes，Centro Cultural La Trinidad，委内瑞拉加拉加斯。",
-   "y2021i3": "ID，Id Art Lab，温伍德，美国迈阿密。",
-   "y2021i4": "多媒体艺术行动，Id Art Lab，温伍德，美国迈阿密。",
-   "y2020i1": "DORCAM Museum新媒体艺术节，美国佛罗里达州多拉尔市。",
-   "y2020i2": "Base Art，Id Art Lab，温伍德，美国迈阿密。",
-   "y2020i3": "Focus，GBG Art，Art Palm Beach，美国。",
-   "y2019i1": "Miami New Media Festival，DORCAM Museum，美国佛罗里达州多拉尔市。",
-   "y2019i2": "Border Line，Id Art Lab，温伍德，美国迈阿密。",
-   "y2019i3": "+58 Art，Canvas Gallery Miami，美国迈阿密。",
-   "y2019i4": "Political Aesthetics，GBG Arts Miami，美国。",
-   "y2019i5": "My View，LFA Space，温伍德，美国迈阿密。",
-   "y2018i1": "Miami New Media Festival，美国迈阿密。",
-   "y2018i2": "Miami International Performance Festival《M/P '18》，Edge Zone Arts Center，美国迈阿密。",
-   "y2018i3": "Art and Football（公共录像艺术装置），Goethe-Institut，阿塞拜疆巴库。",
-   "y2018i4": "Miami Life Exhibition（混合媒介装置），Miami Photo Institute，美国。",
-   "y2018i5": "Par amour du jet，《ISimulación》（公共录像艺术装置），Les Magasins Generaux，法国巴黎。",
-   "y2018i6": "Lenguas Indígenas（声音艺术），南方共同市场双年展，阿雷格里港，巴西。",
-   "y2017i1": "迈阿密新媒体艺术节，美国。",
-   "y2017i2": "空间的观念，Colección Banco Mercantil，委内瑞拉加拉加斯。",
-   "y2017i3": "Colección Arte Al Límite，Espacio Fundación Telefónica，智利圣地亚哥。",
-   "y2017i4": "AntiRedymate，Espacio Monitor，委内瑞拉加拉加斯。",
-   "y2017i5": "《Onomatopías Visuales de Tiempos Difíciles》，Carmen Araujo Arte，委内瑞拉加拉加斯。",
-   "y2017i6": "迈阿密国际行为艺术节《M/P '17》，Edge Zone Arts Center画廊，美国迈阿密。",
-   "y2017i7": "为委内瑞拉儿童发声的和平共鸣，UNICEF，Galería Ascanio y EE，温伍德，美国迈阿密。",
-   "y2017i8": "从不同纬度重新思考委内瑞拉，Fundana与BAC，温伍德，美国迈阿密。",
-   "y2016i1": "迈阿密新媒体艺术节，美国。",
-   "y2016i2": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，秘鲁利马。",
-   "y2016i3": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，布宜诺斯艾利斯，阿根廷。",
-   "y2016i4": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，玻利维亚拉巴斯。",
-   "y2016i5": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut，Museo de Arte Contemporáneo，委内瑞拉加拉加斯。",
-   "y2015i1": "迈阿密新媒体艺术节，美国。",
-   "y2015i2": "Visiones Digitales，Sala Pettit，Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
-   "y2015i3": "媒介艺术：数字媒体中的自然，Fundación Telefónica，CorpBanca，委内瑞拉加拉加斯。",
-   "y2015i4": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Oca de São Paulo，圣保罗，巴西。",
-   "y2015i5": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut新媒体双年展。智利圣地亚哥。",
-   "y2015i6": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut第一届亚松森双年展，Museo del Barro，巴拉圭。",
-   "y2015i7": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut第二届库里蒂巴双年展，巴西。",
-   "y2015i8": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Oi Futuro，里约热内卢，巴西。",
-   "y2015i9": "Voces Indígenas。声音艺术。巡回团体。Goethe-Institut。Museo de Ushuaia，阿根廷。",
-   "y2015i10": "Wynwood Art，The Chill Concept，温伍德，美国迈阿密。",
-   "y2014i1": "Miami New Media Festival，美国迈阿密。",
-   "y2014i2": "Art Fair Context Miami，The Chill Concept，温伍德，美国迈阿密。",
-   "y2014i3": "第二届蒙得维的亚双年展，乌拉圭中央银行大厅，蒙得维的亚，乌拉圭。",
-   "y2014i4": "Lenguas Indígenas。声音艺术。巡回团体。Goethe-Institut／ICBA，里约热内卢，巴西。",
-   "y2014i5": "走向绿色平面，第二版。Centro Integrado de Artes。委内瑞拉加拉加斯。",
-   "y2014i6": "Só Jogo Futebol o Just When They Finished，Goethe-Institut／ICBA。巡回展：圣保罗、阿雷格里港、贝洛奥里藏特、利马、玻利维亚、科尔多瓦（阿根廷）、波哥大（哥伦比亚）、加拉加斯（委内瑞拉）、圣地亚哥（智利）、基多（厄瓜多尔）。",
-   "y2014i7": "Soy punto de encuentro。Carmen Araujo Art。委内瑞拉加拉加斯。",
-   "y2014i8": "Ccs-2014｜Flash Caracas：影像空间。Centro de Arte Los Galpones。委内瑞拉加拉加斯。",
-   "y2013i1": "ArtBo国际艺术博览会，Arte Carmen Araujo，哥伦比亚波哥大。",
-   "y2013i2": "Só Jogo Futebol o recién cuando terminaron，Goethe-Institut／ICBA。巡回展：巴西利亚、萨尔瓦多、里约热内卢、福塔莱萨（巴西）、圣克鲁斯（玻利维亚）、蒙得维的亚（乌拉圭）、布宜诺斯艾利斯（阿根廷）、拉巴斯（玻利维亚）。",
-   "y2013i3": "录像与其他媒介。Al Borde Gallery，委内瑞拉马拉开波。",
-   "y2013i4": "建筑纪念碑。Sala Mendoza，委内瑞拉加拉加斯。",
-   "y2013i5": "电子空间，第5卷。Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2012i1": "Caracas Arte Contemporáneo（CACRI）。Carmen Araujo Arte。Parque Cultural Hacienda La Trinidad。委内瑞拉加拉加斯。",
-   "y2011i1": "Galería Arqueología。Galería Sicart。加泰罗尼亚佩内德斯自由城，西班牙。",
-   "y2011i2": "变形几何：十二种视觉话语。Galería Farías + Fábregas。委内瑞拉加拉加斯。",
-   "y2011i3": "圣露西亚的黄昏。委内瑞拉马拉开波。",
-   "y2010i1": "Didáctica，Centro de Arte Periférico de Caracas Los Galpones。委内瑞拉加拉加斯。",
-   "y2009i1": "Paisaje Sonoro。Ccs - Brln。Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2009i2": "OPENART。萨拉戈萨艺术史中心，西班牙。",
-   "y2008i1": "PhotoMiami '08。Galería Sicart。美国迈阿密。",
-   "y2008i2": "Arte Lisboa。Galería Sicart。葡萄牙里斯本。",
-   "y2008i3": "Arte Valencia。Galería Sicart。西班牙瓦伦西亚。",
-   "y2008i4": "Foto Buenos Aires。Galería Sicart。阿根廷。",
-   "y2008i5": "ArtBo。Galería Farías + Fábregas，哥伦比亚波哥大。",
-   "y2008i6": "当代委内瑞拉录像艺术，Periférico CCS，La Otra，哥伦比亚波哥大。",
-   "y2008i7": "Reflexión y Refracción。Galería Rich。英格兰伦敦。",
-   "y2008i8": "D'eros I Thanatos。Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
-   "y2008i9": "ArteSantander。Galería Sicart。西班牙桑坦德。",
-   "y2008i10": "ArteBa。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
-   "y2008i11": "拉丁美洲当代艺术的（不）可见地理。Centro León，多米尼加共和国。",
-   "y2008i12": "SWAB艺术博览会。Galería Sicart。西班牙巴塞罗那。",
-   "y2008i13": "MiArt，Galería Sicart。意大利米兰。",
-   "y2008i14": "Bridge Art Fair。Tracing Misfits，Galería Sicart。纽约，美国。",
-   "y2008i15": "素描，Galería Sicart，加泰罗尼亚佩内德斯自由城，西班牙。",
-   "y2007i1": "Pinta。NYC，Metropolitan Pavilion，纽约，美国。",
-   "y2007i2": "Foto Miami。Galería Sicart。美国迈阿密。",
-   "y2007i3": "SCOPE Miami艺术博览会。Galería HACS。美国迈阿密。",
-   "y2007i4": "Buenos Aires Photo。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
-   "y2007i5": "Buenos Aires Photo，Hardcore Art Contemporary Space，布宜诺斯艾利斯，阿根廷。",
-   "y2007i6": "Valencia Art。Galería Sicart。西班牙瓦伦西亚。",
-   "y2007i7": "Lisbon Art。Galería Sicart。葡萄牙里斯本。",
-   "y2007i8": "Vilafranca Contemporánea。Galería Sicart。加泰罗尼亚佩内德斯自由城，西班牙。",
-   "y2007i9": "ArteBA。Galería Sicart。布宜诺斯艾利斯，阿根廷。",
-   "y2007i10": "List Bärliner。Galería Sicart。德国柏林。",
-   "y2007i11": "伊比利亚美洲艺术博览会（FIA），Hotel Tamanaco Intercontinental，Hardcore Art Contemporary Space，委内瑞拉加拉加斯。",
-   "y2007i12": "Balelatina。Hardcore Art Contemporary Space。瑞士巴塞尔。",
-   "y2007i13": "Circa，Hardcore Art Contemporary Space，圣胡安，波多黎各。",
-   "y2007i14": "Arteaméricas。Hardcore Art Contemporary Space。美国迈阿密。",
-   "y2007i15": "Art Los Angeles。Galería Sicart。美国洛杉矶。",
-   "y2007i16": "AAA，现代性与不合时宜，第六届南方共同市场双年展，阿雷格里港，巴西。",
-   "y2007i17": "Blight and Celebration。Multimedia Fusion Festival，布鲁克林，美国。",
-   "y2006i1": "Photo Miami。Galería Sicart。美国迈阿密。",
-   "y2006i2": "Diálogos。Museo de Arte Contemporáneo de Costa Rica，圣何塞，哥斯达黎加。",
-   "y2006i3": "Image of Caracas（Off loop）。Space Joaquín Costa（Gallery dels Angels），加泰罗尼亚巴塞罗那，西班牙。",
-   "y2006i4": "介入，Museo Jacobo Borges，委内瑞拉加拉加斯。",
-   "y2006i5": "Do not Trust - White Biennial，Anxiety of Influence。UCLA New Wight Gallery，Eli and Edith Broad Art Center。美国洛杉矶。",
-   "y2006i6": "Happy Ever After...。Hardcore Art Contemporary Space。美国佛罗里达州迈阿密。",
-   "y2005i1": "Diálogos：Colección Cisneros收藏的拉丁美洲当代艺术。Museo Nacional de Bellas Artes，智利圣地亚哥。",
-   "y2005i2": "委内瑞拉Colección Cisneros收藏中的当代艺术。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
-   "y2005i3": "加拉加斯之塔：被沉默的现代性。Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2004i1": "Variaciones del ojo。影像舞蹈 - Muu Blanco。Cinemateca Nacional。委内瑞拉加拉加斯。",
-   "y2004i2": "El Barril - Goethe-Institut Caracas，Museo Jacobo Borges。委内瑞拉加拉加斯。",
-   "y2004i3": "VII Jóvenes con FIA，Sala CANTV，Ateneo de Caracas。Espacios Cálidos，委内瑞拉加拉加斯。",
-   "y2004i4": "Tierra Eléctrica。来自英国与委内瑞拉的短片与录像，Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2004i5": "雕塑与摄影。Galería Spazio Zero。委内瑞拉加拉加斯。",
-   "y2003i1": "Contra/Sentido。新委内瑞拉摄影，Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2003i2": "2003年第一届摄影月，加拉加斯 - Polaroid TM。Museo Alejandro Otero。委内瑞拉加拉加斯。",
-   "y2003i3": "第28届阿拉瓜国家艺术展。Museo de Arte Contemporáneo de Maracay Mario Abreu，阿拉瓜，委内瑞拉。",
-   "y2003i4": "第十一届欧亨尼奥·门多萨奖。Sala Mendoza。委内瑞拉加拉加斯。",
-   "y2002i1": "从白盒子到黑盒子：历史录像带、创意录像、数字艺术、委内瑞拉录像，Museo de Arte Contemporáneo de Caracas Sofía Imber。委内瑞拉加拉加斯。",
-   "y2002i2": "多媒体艺术家，Centro para las Artes创始人。Museo de Arte Contemporáneo de Caracas Sofía Imber。委内瑞拉加拉加斯。",
-   "y2001i1": "13小时。Sala Mendoza，委内瑞拉加拉加斯。",
-   "y2001i2": "ENE Incidentes - RE Incidentes／千禧之间。Centro de Bellas Artes，马拉开波，苏利亚，委内瑞拉。",
-   "y2000i1": "Demostrationraume／案例研究。Galería Or。加拿大温哥华。",
-   "y2000i2": "90 60 90。Goethe-Institut Caracas，Museo Jacobo Borges。委内瑞拉加拉加斯。",
-   "y2000i3": "第58届阿图罗·米切莱纳沙龙，Ateneo de Valencia，卡拉沃沃，委内瑞拉。",
-   "y1999i1": "第22届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，阿拉瓜，委内瑞拉。",
-   "y1998i1": "Jóvenes con FIA CANTV。Ateneo de Caracas，委内瑞拉加拉加斯。",
-   "y1998i2": "第三届美洲之土双年展。委内瑞拉-巴西，中央交流展。Museo de Bellas Artes，委内瑞拉加拉加斯。",
-   "y1998i3": "精致尸体的复活，Sala Mendoza，委内瑞拉加拉加斯。",
-   "y1998i4": "Casco de Acero，Espacios Unión，委内瑞拉加拉加斯。",
-   "y1998i5": "第五届圭亚那双年展：精选作品。Museo Alejandro Otero，委内瑞拉加拉加斯。",
-   "y1998i6": "波长，录像与摄影，Museo Alejandro Otero。委内瑞拉加拉加斯。",
-   "y1997i1": "第22届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，马拉凯，阿拉瓜，委内瑞拉。",
-   "y1997i2": "第五届圭亚那国家艺术双年展。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
-   "y1995i1": "第二届皮雷利青年艺术家沙龙。Museo de Arte Contemporáneo de Caracas Sofía Imber，委内瑞拉加拉加斯。",
-   "y1994i1": "混合技法。Galería Alternativa。委内瑞拉加拉加斯。",
-   "y1994i2": "第七届微型艺术双年展。TAGA。委内瑞拉加拉加斯。",
-   "y1994i3": "第四届圭亚那国家艺术双年展。Museo de Arte Moderno Jesús Soto，玻利瓦尔城，玻利瓦尔州，委内瑞拉。",
-   "y1992i1": "第17届国家摄影沙龙。向新闻摄影致敬。Foro Libertador。Instituto Autónomo Biblioteca Nacional。委内瑞拉加拉加斯。",
-   "y1992i2": "第17届阿拉瓜国家艺术沙龙。Museo de Arte Contemporáneo de Maracay Mario Abreu，委内瑞拉。",
-   "y1991i1": "1, 2, 3, 4, 5。加拉加斯州政府展厅，联邦区，委内瑞拉。",
-   "y1990i1": "素描展。Instituto Federico Brandt，委内瑞拉加拉加斯。"
-  }
- },
- "contacto": {
-  "eyebrow": "09 — 联系",
-  "lead": "艺术或音乐相关咨询，请直接来信。",
-  "arte": {
-   "label": "艺术"
-  },
-  "music": {
-   "label": "音乐 / 预订"
-  },
-  "note": "更多资料：完整履历见<a href=\"cv.html\">简历</a>，评论与报道见<a href=\"prensa.html\">新闻</a>，社交网络见<a href=\"practicas-publicas.html\">公共实践</a>，可购作品见<a href=\"store.html\">画廊</a>。",
-  "categories": "展览 · 表演 · 声音委托创作 · 艺术家对谈 · 黑胶活动 · Selector预约 · 媒体 · 合作"
- },
- "proyectos": {
-  "eyebrow": "02 — 研究项目",
-  "h1": "研究项目",
-  "lead": "Muu Blanco创作实践中的长期研究方向——每一条都拥有自己的作品体系、出版物与展示。",
-  "ongoing": "进行中",
-  "seeInPress": "见音乐新闻报道",
-  "viewPdfCatalog": "Modernismo Anacrónico. Collage（PDF）↗",
-  "viewPdfMA": "Muu Blanco. Relatos Híbridos / Hybrid Stories（PDF）↗",
-  "viewPdfSicart": "2010年Sicart画册（PDF）↗",
-  "viewPdfBook": "AAA 2002–2012摄影书（PDF）↗",
-  "viewPdfPhotos": "Abstracciones Paisajísticas. 摄影（PDF）↗",
-  "viewPdfDossier": "Carmen Araujo Arte——档案，Abstracciones Paisajísticas（PDF）↗",
-  "natuurban": {
-   "medium": "声音装置、舞蹈与视频投影",
-   "p1": "在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。融合实验音乐、舞蹈、视频投影，以及一部同名纪录片——Muu Blanco关于声景与城市自然环境的最新研究。",
-   "videoTitle": "NatuUrban Symphony",
-   "videoMeta": "纪录短片 · 导演：Jacopo Fantastichini · 制作：PlantPop · FilmGate Festival，2025年7月30日",
-   "videoDesc": "由Jacopo Fantastichini执导、PlantPop制作、Gerardo Zavarce策展的纪录短片。影片记录了穆·布兰科的艺术生涯,以及他的声音艺术装置NatuUrban Symphony的创作过程——该装置探索南佛罗里达主要城市郊外国家公园中自然与城市的声音,得益于Arts Connection Foundation的赞助得以实现(穆·布兰科自2014年起在迈阿密与该基金会合作)。影片收录了Camera Creature SVC的影像与Dr.Muusica的原创音乐,记录了作品的核心概念:携带迷你扬声器的活体植物播放连接自然与城市的声景。影片于2025年7月30日在迈阿密市中心SilverSpot Cinemas首映,作为FilmGate Festival的一部分——这是穆·布兰科在美国制作的首部纪录短片,是他四十年不间断艺术生涯中的一个里程碑。"
-  },
-  "soundart": {
-   "p1": "2023年展览Exploring the Roots and Evolution of Sound Art结束后的次年，即2024年，以网页应用形式呈现的虚拟装置。汇集了穆·布兰科关于声音艺术历史的研究，从未来主义的根源到二十一世纪。"
-  },
-  "abstracciones": {
-   "medium": "摄影",
-   "p1": "十五年间，从加拉加斯到世界各地的Abstracciones Paisajísticas创作。",
-   "animadas": {
-    "title": "动画版《风景抽象》(AAOA)",
-    "meta": "动画：Benky Chang · 萨拉戈萨，西班牙"
-   },
-   "blurbLink": "AAA 2002–2012. Abstracciones Paisajísticas — 在Blurb查看 ↗",
-   "instagramLink": "Instagram @abstracionespaisajisticas ↗"
-  },
-  "modernismo": {
-   "medium": "模拟拼贴 / 混合媒介",
-   "p1": "一组模拟拼贴与混合媒介系列，始于2002年——曾在Heroes & Trash（加拉加斯，2005年）、Espacio Hardcore Art Contemporary（迈阿密，2006年）、Bello Horizonte / Centro Cultural Chacao（加拉加斯，2007年）及Sicart画廊（巴塞罗那，2008年）展出，并以画册/图书形式出版。",
-   "blurbLink": "Modernismo Anacrónico. Collage — 在Blurb查看 ↗",
-   "instagramLink": "Instagram @modernismo_anacronico ↗",
-   "belloHorizonteLink": "Bello Horizonte——画册，Centro Cultural Chacao（PDF）↗"
-  },
-  "fosiles": {
-   "medium": "素描与装置",
-   "p1": "始于2002年的关于素描及其装置化应用的研究，曾作为个展在加拉加斯Fernando Zubillaga画廊展出（Periférico Caracas，2006年；Galpones del Centro de Arte，2010年）。"
-  },
-  "abstraccion": {
-   "title": "抽象",
-   "p1": "《Violencia Abstracta》（2013年），抽象领域的新研究系列。",
-   "tizon": {
-    "medium": "录像艺术·03:33分钟·MiniDV/NTSC·导演：José Antonio Blanco Angulo·摄影、剪辑及原创音乐：Muu Blanco",
-    "p1": "Torres de Parque Central是加拉加斯的标志性建筑之一，象征着这座城市在1970年代向现代性敞开的姿态。对加拉加斯人而言，这两座塔楼赋予了这座城市独有的性格——一种混乱而热烈的性格，仿佛阿维拉山不朽的少女。对于这部短片的创作者穆·布兰科而言，目睹帕尔克·森特拉尔东塔起火的那一刻，立即唤起了他对这一城市主角所承载的种种含义的思考。",
-    "intro": "这部短片的片名源自西班牙语单词«tizón»。tizón意指：1. 一根烧了一半的木棍。2. 名誉或自尊上的一处污点。这两层含义共同催生了这部充满象征意味的作品之标题。",
-    "p2": "在过去，那里曾是他的「游乐场」（他的父亲曾是建造这一建筑群的建筑师团队成员之一，因而将一种情感上的联系传递给了他）。",
-    "p3": "艺术家将这一事件解读为当时委内瑞拉人所经历的社会政治时刻的一个映像；是对其社会衰败的一种反映。是烙印在公民自尊心上的一道污渍。是拒绝被其政治与衰败的tizón所吞噬的一种态度。",
-    "p4": "这部短片（时长03:33分钟）以MiniDV格式制作，在一台Mac PowerBook G4上完成剪辑，配乐为Muu Blanco（艺名Jaba Lee Project）的原创音乐，他在这段作品中融入了«La Billo's Caracas Boys»乐团（一支著名的委内瑞拉五十年代乐团）的一段旋律。该曲目经过重新混音，生成了一种与加拉加斯——如同一根烧了一半的«tizón»——的影像相呼应的、动感而反复的节奏。"
-   }
-  },
-  "artesonoro": {
-   "title": "声音艺术",
-   "medium": "声音装置、行为表演与录像记录",
-   "p1": "Muu Blanco声音艺术实践的录像与摄影档案，从早期的声音装置到近期的行为表演与短片。",
-   "v1": {
-    "meta": "多媒体感官表演 · Mad Museum"
-   },
-   "v3": {
-    "meta": "构思与策展：Muu Blanco · Doral Cultural Arts Center（DIAF 1），2023年 / Arts Connection Foundation，2023年11月",
-    "desc": "这一历史脉络，从未来主义延伸至当代声音艺术，凸显了二十与二十一世纪声音实验的演变。始于未来主义艺术家，他们试图通过混乱的达达主义以及具体音乐、激浪派等音乐前卫运动来表现现代生活与技术。随后，广播艺术在声音叙事中引入了协作与公众互动。最后，受布莱恩·伊诺启发的氛围音乐，专注于营造令人放松的声音氛围。最终，R. Murray Schafer提出的声景概念，凸显了声音在文化与环境中的重要性，影响了城市设计与环境意识。这一历史脉络反映了声音创造力多年来的持续扩展。"
-   },
-   "v4": {
-    "meta": "系列：Lumínico Sonoro #MuuBlanco · 2021年1月5日",
-    "desc": "记录了一场声与光互动多媒体行动——@muublancoartsound · @muublancovideoart 与 @anarquia101——于@idartlab举办的“Multimedia Art Action 2021”。记录：Anarquía 101。"
-   },
-   "v5": {
-    "meta": "多媒体装置（行为表演、声音）· 可变尺寸 · .Wav · 15:38分钟 · Mandragoras Art Space，纽约皇后区"
-   },
-   "v6": {
-    "meta": "声音装置 · Sala Mendoza，加拉加斯",
-    "desc": "在加拉加斯Sala Mendoza展出的声音艺术装置，并以CD-ROM形式发行了声音画册。"
-   },
-   "hundredyears": {
-    "meta": "虚拟装置 · 网页应用，2024年 · 100yearsofsound.webflow.io",
-    "visit": "访问项目 ↗"
-   }
-  },
-  "instalaciones": {
-   "title": "装置",
-   "medium": "装置",
-   "p1": "《Muuseo Blanco》（1998年），艺术家有记录的最早装置作品之一。",
-   "v1": {
-    "date": "2020年1月13日",
-    "meta": "多媒体装置 · LFA Space，Wynwood，迈阿密 · 2019年11月至2020年3月",
-    "p1": "这是Muu Blanco多媒体装置作品《Lumínico Sonoro》的一分钟概览影像，该作品于2019年11月至2020年3月在美国佛罗里达州迈阿密Wynwood的LFA Space展出。"
-   }
-  },
-  "performances": {
-   "title": "行为表演",
-   "medium": "现场行为艺术、视频投影与多媒体装置",
-   "v1": {
-    "meta": "现场多媒体行为艺术 · New World School of the Arts在校生与毕业生联展开幕，Miami Dade Art District——2025迈阿密艺术周",
-    "p1": "这是一场现场多媒体行为艺术，通过持续不断的声音与影像流探索风景、身体与科技之间的交汇。在30分钟内，作品在合成器、节拍、现场广播、长号与一个视觉装置之间展开对话——该装置将拍摄于Key Biscayne海岸的流动水体循环影像，与通过MadMapper转化为万花筒图案的数字绘画相融合。",
-    "p2": "在这幅视觉图景之上，叠加着实时生成、随作品中产生的声音频率而反应的动态振动线条。这些线条不仅回应合成器、节拍或长号——观众的噪音也成为视觉的触发因素，融入系统之中，使每一次振动、每一声低语、每一次环境的突发都在改变投影。观众由此成为作品无意间的共同作者，在影像的肌理中留下印记。",
-    "p3": "该作品构建了一个自然与数字相互影响的感官生态系统：声音的振动贯穿视觉性，海洋景观被分割与扩展，集体的在场成为维系体验脉动的一部分。广播传输引入了偶然性与鲜活当下的元素，凸显出无论是物理的还是技术的，每一片海岸都是交汇之地。",
-    "p4": "该行为艺术作为2025迈阿密艺术周的一部分，在Miami Dade Art District的New World School of the Arts在校生与毕业生联展开幕式上呈现，提出了一个沉浸式的场域，声音、影像与观众在持续振动的状态中共存。",
-    "date": "2025年12月"
-   },
-   "v2": {
-    "meta": "声音行为艺术 · PINTA艺术博览会，2025迈阿密艺术周",
-    "p1": "我以无面之姿现身，被磁带筑成的巢穴所覆盖：那是声音的残迹、破碎的记忆、再无人聆听的录音。我的乐器是一支绿色长号，那是萌芽与毒性之色，希望与锈蚀之色。我用它吹奏出一种不追求音乐、而追求裂痕的语言。",
-    "p2": "这一声音行为是一种不服从的姿态。无调性、重复、执拗：拒绝那些驯化耳朵的结构，拒绝那些规训身体的话语。这里发生的并非音乐会，而是一场中断。不是奇观，而是在本应被观看、被赞颂、被消费的流程中撕开的一道裂缝。",
-    "p3": "在这座由等待出海的船只守护的码头花园中，我化作干扰。我带来了离散之南的振动，移民地理的振动，那些从边缘重新审视自身的城市的振动。我从未被邀请的沉默中吹奏，从抗拒被归档的记忆中吹奏，从即便一切都试图抹除、却依然存续之物的脆弱中吹奏。",
-    "p4": "无尽的重复所寻求的并非催眠，而是肯定：存在即坚持。面对博览会，面对市场，面对那贴标签、定价值、使之流通的逻辑，我呈现出一种拒绝被捕获的在场。我的声音不提供旋律，它提供偏离。它不提供慰藉，它提供可能性。",
-    "p5": "我邀请你在不期待中聆听，在不理解中停留，如同置身于一道并不属于自己、却仍触动自己的波中，陪伴这一行为。愿这振动提醒我们：不确定之物同样有权占据空间。",
-    "date": "2025年12月",
-    "watchLink": "在YouTube观看 ↗"
-   },
-   "v3": {
-    "meta": "M/P'25 · Edge Zone Cultural Center，迈阿密",
-    "p1": "《Ceguera Ambiental y SocioCultural Vol.1 (Miami)》属于Muu Blanco二十多年来所发展的艺术研究脉络，在这一脉络中，声音、政治与视觉相互交织，形成了质询当代性张力的行为艺术。",
-    "p2": "该项目与艺术家此前的经历相互对话：在加拉加斯进行的城市声音行为艺术，将城市噪音转化为可塑的、行为性的材料；关于暴力与权力的批判性视听装置，媒介语言在其中成为扭曲与抵抗的场域；以及以DrMuusica之名进行的探索，黑胶、循环与即兴演奏在其中重写了加勒比及其离散群体的声音档案。",
-    "p3": "在所有这些方法中，Blanco始终追求同一种姿态：将日常、政治与文化的符号重新配置为感官的景观，在其中激活记忆、张力与我们时代的紧迫性。《Ceguera Ambiental y SocioCultural》延续了这条批判性与实验性的路径，如今更将重点激进地转向感知本身：几何线条与声音振动相互交织，揭示出社会目光的僵化与即兴、错误那不可控的力量之间的当代矛盾。",
-    "date": "2025年12月"
-   },
-   "v4": {
-    "meta": "视频与声音：MadMapper &amp; Live Ableton · Coral Gables博物馆（画廊之夜）· 视频：Raúl Blanco",
-    "date": "2022年5月"
-   },
-   "v5": {
-    "meta": "多媒体装置——4通道视频与立体声音频（行为艺术、视频、摄影、声音、文本、油画）· 时长：2小时 · 地点：ESM（Espacio SaltaMantis），迈阿密 · 纪录视频：01:59分钟 · 合作音乐人：Andrés Michelena、Diego Damas、Muu Blanco"
-   },
-   "v6": {
-    "meta": "概念、导演、声音、钢琴与现场视频投影，客座艺术家Andrés Michelena（数字打击乐）与Diego Damas（电吉他）参与 · Miami New Media Festival，Miami Iron Side，Little River Art District · 拍摄与剪辑：Raúl Blanco",
-    "date": "2019年2月"
-   },
-   "v7": {
-    "meta": "现场多媒体行为艺术27秒片段——在绘画与墙面上进行的视频投影与实验音乐 · Miami New Media Festival"
-   },
-   "v8": {
-    "meta": "视频投影装置与原创音乐 · Espace Expresions，Wynwood，迈阿密",
-    "p1": "向抽象艺术三位大师——赫苏斯·拉斐尔·索托、卡洛斯·克鲁兹-迭斯与胡里奥·勒·帕克致敬的作品。",
-    "date": "2017年9月15日"
-   },
-   "v9": {
-    "meta": "技术：视频行为艺术——身体行动、摄影、单频道视频 · 格式：.MOV 4K · 时长：03:13分钟",
-    "date": "2016年7月"
-   },
-   "v10": {
-    "meta": "地点：Mandrágoras Art Space，皇后区，纽约"
-   },
-   "v12": {
-    "meta": "主演：Muu Blanco · 导演：Andrés Manner · 剪辑：Murmullo",
-    "p1": "在加拉加斯Los Chorros社区，仅用一个清晨依照即兴指令拍摄完成——冒着身体上的风险，出于纯粹的艺术投入。"
-   },
-   "v13": {
-    "meta": "Eli Bravo与Muu Blanco访谈 · 由equilibrio.com于2013年重新播出"
-   },
-   "v14": {
-    "meta": "Muu Blanco：图片小说演员",
-    "p1": "小说／图片小说《文化部长绑架案》（El Secuestro de la Ministro de Cultura）预告片——一个毫无隐瞒的博物馆界真实案例：充满喧嚣与愤怒的文化。"
-   },
-   "v15": {
-    "meta": "Eli Bravo访谈 · RCTV《Sonoclips》节目 · YouTube发布日期：2009年9月17日",
-    "p1": "1990年，Eli Bravo在RCTV的《Sonoclips》节目中对Desorden Público进行的首次采访。当时Muu Blanco自乐队成立之初便担任该乐队的“RootBoy”。"
-   },
-   "v16": {
-    "meta": "导演：Vity Rodríguez Castillo · 制片人：Gabriela Vanzetti、Fito Páez · 歌曲：Alberto Cabello／Carlos Eduardo“Cayayo”Troconis †／Edgar Jiménez · 客串演员：Intensiti Moon、Muu Blanco、Marino · Sonorodven：Carlos Sánchez · 1989年委内瑞拉梅里达国际电影节最佳音乐录影带奖 · 专辑：El Amor Ya No Existe",
-    "p1": "含完整制作名单的原版重制。1988年于加拉加斯以Super 8格式拍摄。这是Muu Blanco首次公开亮相，以演员身份出演一支委内瑞拉乐队的音乐录影带。"
-   },
-   "v17": {
-    "meta": "圣保罗短片双年展一等奖 · 独白：Muu Blanco · 导演：Sabrina Montiel-Soto"
-   }
-  },
-  "calvo": {
-   "title": "CALVO",
-   "medium": "行为表演·Estudio Mata de Coco，委内瑞拉加拉加斯·1986年12月6日",
-   "p1": "《CALVO》是穆·布兰科的首次公开表演，于1986年12月6日在加拉加斯的Estudio Mata de Coco举行，正值Desorden Público首场重要演唱会期间。",
-   "readpdf": "查看完整档案（PDF）↗",
-   "sub1": "CALVO：零点，1986 / 2026",
-   "p2": "1986年：身体进入作品之中。<br>2026年：记忆使我们得以辨认这一姿态的深远意义。",
-   "readEssay": "阅读全文",
-   "essay": {
-    "p1": "《CALVO》发生于1986年12月6日，地点是加拉加斯的Estudio Mata de Coco，正值Desorden Público首场重要演唱会期间。当乐队即将开始演奏歌曲《Calvo》之时，穆·布兰科搬着一把椅子走上舞台，将其放在中央，面对观众坐下。音乐前奏随即响起。Caplis走近，带着困惑的神情注视着他，仿佛在努力理解正在发生的一切。此时Danel Sarmiento开始演唱《Calvo》，Horacio Blanco随即走近穆，在观众面前为他理发。彻底剃光头发后，穆·布兰科站起身来，在舞台上跳起了斯卡朋克舞，最终纵身跃向观众。",
-    "p2": "随着时间推移，这位艺术家将这一事件视为他首次公开的行动、首次表演——一次奠基性的经历，改变了他与艺术、以及与作为创作领域的身体之间的关系。",
-    "p3": "从当下的视角来看，《CALVO》呈现为一个由精确的序列所构筑的行动：登场、等待、转变、运动，以及舞台空间的断裂。它的力量并非来自复杂的舞台设计，也非来自事先解释的叙事，而是来自一个具体姿态在观众面前展开、并在演唱会之中获得意义的方式。",
-    "p4": "椅子在音乐能量的正中引入了一个停顿。穆·布兰科坐下，静止不动，暴露在外，而这一情境开始获得一种意料之外的张力。Caplis的目光凸显出这种困惑，使某种尚未完全被定义为演唱会、戏剧或表演的东西的闯入变得可见。",
-    "p5": "当歌曲开始时，标题《Calvo》不再仅仅作为一个词语存在，而成为一种物质性的行动。当Danel演唱之时，Horacio Blanco在众人面前从生理上改变了穆的外貌。身体并非再现这个词，而是将其体现出来。",
-    "p6": "音乐由此承担起一种结构性的功能。它标记出这一行动的时间，伴随着转变的发生，并激活了从静止到运动的过渡。理发结束后，穆离开椅子，进入节奏之中。斯卡朋克舞打破了最初的克制，引向跃向观众的一跳，舞台与观众之间传统的分隔在此瞬间消失。",
-    "p7": "这一位移——从椅子到舞台，从舞台到观众——是理解这件作品的核心所在。《CALVO》以一具孤立于舞台中央的身体开始，最终以这同一具身体沉浸于集体之中作结。",
-    "p8": "这一行动的最初构想来自Roberto Fuentes Anzola，他当时是Desorden Público的艺术制作人，穆·布兰科将其铭记为朋友与挚爱的导师。这一合作性的起源，对于理解这件作品的谱系至关重要。《CALVO》诞生于一张创造性与音乐性共谋的关系网络之中，但其表演性的维度，则是在穆·布兰科接过这一提议、并将其推向身体与舞台后果的方式中获得的。",
-    "p9": "从2026年、四十年后的角度回望，《CALVO》可以被视为这位艺术家创作轨迹中的一个起点。这并非因为它以纲领性的方式预告了他此后全部的创作，而是因为它早早地建立起身体、声音、时间、行动与公共在场之间的一种关系，这种关系此后将以其他媒介的形式，贯穿他整个创作生涯反复出现。",
-    "p10": "它同时也提出了一个在其此后创作实践中始终具有意义的问题：当艺术经验不再被容纳于某一物件之中，而转而依赖于一种实时经历的情境时，会发生什么？",
-    "p11": "在1986年，这个问题还未被形塑为理论。经验先于一切而来。首先出现的是椅子、音乐、理发、舞蹈与那一跃。解读，是后来才有的事。",
-    "p12": "正因如此，今天的《CALVO》可以被理解为不仅仅是与Desorden Público早期某个重要时刻、以及八十年代加拉加斯音乐场景相关的一则轶事。它是穆·布兰科当众发现自己的身体可以成为材料、载体与艺术事件的那一瞬间。",
-    "p13": "在这个意义上，《CALVO》是一个零点。",
-    "p14": "1986年：身体进入作品之中。<br>2026年：记忆使我们得以辨认这一姿态的深远意义。"
-   }
-  },
-  "videoarte": {
-   "title": "录像艺术",
-   "tagline": "观念艺术／录像／声音"
-  },
-  "sintitulo": {
-   "title": "无题",
-   "medium": "录像艺术／摄影幻灯放映／声音创作",
-   "intro": "「他拍下了寂静降临之前的喧嚣。」",
-   "summary": "在2002年至2005年间，尚未拥有摄像机的穆·布兰科，在加拉加斯El Paraíso的工作室里，透过电视屏幕系统性地拍摄委内瑞拉的政治危机：一份关于媒体、记忆与影像力量、以实时方式构建的档案。",
-   "viewVideo": "观看完整视频 ↗",
-   "readpdf": "查看完整档案文件 (PDF) ↗"
-  }
- },
- "exposiciones": {
-  "eyebrow": "07 — 展览目录",
-  "lead": "个展与联展的画册及文献资料，按时间顺序排列。",
-  "loading": "正在加载展览…"
- },
- "selectedworks": {
-  "eyebrow": "精选作品",
-  "lead": "从四十年的视觉、表演与声音实践中精选的六个项目。每个项目都链接至档案中的完整记录。",
-  "cta": "查看完整记录 →",
-  "works": {
-   "natuurban": {
-    "title": "NatuUrban Symphony",
-    "meta": "2024–2025 · 声音装置与影像投影 · Arts Connection Foundation, 迈阿密",
-    "desc": "2024年11月至2025年1月在迈阿密Arts Connection Foundation展出的装置与声音艺术项目。NatuUrban Symphony融合了实验音乐、舞蹈、影像投影(video mapping)以及同名纪录片的放映,将迈阿密的亚热带风景思考为一片声音的领土。该项目延续了穆·布兰科对图像、声音与城市环境之关系的研究,并通过Arts Connection Foundation发行为180克绿色黑胶唱片。"
-   },
-   "latencias": {
-    "title": "Latencias",
-    "meta": "2026年2月19日晚7点 · 多媒体感官表演 · Ignite Broward Festival, MAD Arts, 戴尼亚海滩,佛罗里达",
-    "desc": "一场时长40分钟的多媒体感官表演,于2026年2月19日(周四)晚7点在MAD Arts现场呈现,作为Ignite Broward 2026 Festival(由Broward Arts主办)的一部分,并配有精选影像作品放映——免费向公众开放。作品探索身体、声音与记忆之间的潜伏状态,结合现场声音创作、影像投影与表演性姿态,延续了穆·布兰科对感知与科技的研究。Latencias记录于网站档案的“观念”与“项目”版块,是艺术家最新创作之一。"
-   },
-   "soundart": {
-    "title": "Exploring the Roots and Evolution of Sound Art",
-    "meta": "2023–2025 · 个展 · MIFA,迈阿密 / 多拉尔",
-    "desc": "一场追溯声音艺术谱系——从未来主义到二十一世纪——的个展,于2023年至2025年间在迈阿密国际艺术博览会(MIFA)展出。项目结合了声音装置作品、历史资料与穆·布兰科的原创作品,将其创作置于探索声音、科技与空间的更广泛传统之中。展览也曾以多拉尔版本呈现,扩大了观众范围,并巩固了艺术家在声音艺术史研究方面最持久的策展项目之一。"
-   },
-   "ceguera": {
-    "title": "Ceguera Ambiental y SocioCultural Vol.1 (Miami)",
-    "meta": "2025 · 表演 · 迈阿密",
-    "desc": "一场探讨环境与社会文化性“失明”这一当代境况的表演,是2025年在迈阿密展开的系列作品的第一部。作品结合身体、声音与批判性姿态,叩问感知、环境与集体责任之间的关系。它属于穆·布兰科持续开展的表演实践,活跃于迈阿密的表演艺术圈,并以影像形式记录在本站的“项目”档案中。"
-   },
-   "modernismo": {
-    "title": "Modernismo Anacrónico",
-    "meta": "2002年至今 · 拼贴、装置与集合艺术",
-    "desc": "2002年开始并持续至今的拼贴、集合与装置作品系列。项目汇集了以现成材料与综合技法制作的作品照片,已出版为同名艺术书,并曾在国际艺术博览会SWAB(2008)展出。Modernismo Anacrónico在现代性的承诺与其物质残余之间提出一种反讽的对话,是穆·布兰科视觉实践中最早也最持久的脉络之一,完整记录于“项目”画廊中。"
-   },
-   "afrolatin": {
-    "title": "Afro Latin Culture Flavor",
-    "meta": "同人志 · Selector驻场 2024–2026 · Tripping Animals Brewery,多拉尔",
-    "desc": "由穆·布兰科 / Dr.Muusica策划编辑与制作的月刊印刷同人志(限量版),在迈阿密多拉尔市出版。2024年至2026年间,该项目伴随着他在Tripping Animals Brewery担任声音研究员的每周Selector驻场活动,在那里Dr.Muusica以“Dr.Muusica Selector”之名呈现黑胶唱片选曲。Afro Latin Culture Flavor将编辑实践与现场选曲相连接,探索非洲拉丁根源、节奏与大众文化,将其作为一份实时的声音档案。"
-   }
-  }
- },
- "workwithmuu": {
-  "eyebrow": "与穆合作",
-  "lead": "可接洽展览、表演、场域特定声音委托创作、艺术家对谈以及黑胶聆听会。四十年往返于加拉加斯与迈阿密之间的跨学科实践。",
-  "cards": {
-   "soundart": {
-    "title": "声音艺术与表演",
-    "desc": "为画廊、艺术节与公共空间提供现场声音表演、扩展声音装置与即兴演奏。"
-   },
-   "commissions": {
-    "title": "场域特定声音委托创作",
-    "desc": "为特定空间、展览或场地创作的原创声音作品——氛围音乐创作、影像投影、空间音频。"
-   },
-   "talks": {
-    "title": "艺术家对谈",
-    "desc": "关于声音艺术、影像艺术,以及四十年跨学科实践的对谈与讲座,展览履历横跨美洲与欧洲——从加拉加斯、迈阿密到纽约、马德里、威尼斯与圣保罗。"
-   },
-   "vinyl": {
-    "title": "黑胶聆听体验",
-    "desc": "精心策划的黑胶聆听会与Selector场次,探索非洲拉丁、实验性与档案声音——从私密聚会到公开活动皆可。"
-   },
-   "dj": {
-    "title": "Dr.Muusica / Selector",
-    "desc": "以Dr.Muusica之名呈现的Selector场次与原创制作,横跨house与techno；funk、boogie与disco；new wave、post-punk、punk与rock；reggae、ska与dub；salsa、boogaloo、bolero、mambo、plena、guaguancó与cumbia；jazz；hip-hop、trip-hop与drum & bass；直至afrobeat、bossa nova、samba、world music与+。"
-   }
-  },
-  "closing": "展览 · 表演 · 声音委托创作 · 合作",
-  "ctaButton": "联系Muu Blanco →"
- }
 }
