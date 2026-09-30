@@ -1467,5 +1467,37 @@
    "de": "Biografischer Artikel"
   },
   "imageId": "1L67FFOPNQlaAldSQjRfmiSE_eM2Sh9q4"
+ },
+ {
+  "year": "1996",
+  "outlet": "Programación — Fundación Cinemateca Nacional Nº 60",
+  "place": {
+   "es": "Caracas",
+   "en": "Caracas",
+   "ko": "카라카스",
+   "ja": "カラカス",
+   "zh": "加拉加斯",
+   "hi": "कराकास",
+   "de": "Caracas"
+  },
+  "kind": {
+   "es": "Colectiva",
+   "en": "Group",
+   "ko": "단체전",
+   "ja": "グループ展",
+   "zh": "联展",
+   "hi": "सामूहिक",
+   "de": "Gruppenausstellung"
+  },
+  "note": {
+   "es": "Estreno de \"Perra Chillona\" (cortometraje, dir. Sabrina Montiel Soto) — intérprete: José Antonio Blanco (Muu Blanco)",
+   "en": "Premiere of \"Perra Chillona\" (short film, dir. Sabrina Montiel Soto) — performer: José Antonio Blanco (Muu Blanco)",
+   "ko": "단편영화 《Perra Chillona》(감독: 사브리나 몬티엘 소토) 시사회 — 출연: 호세 안토니오 블랑코 (무 블랑코)",
+   "ja": "短編映画《Perra Chillona》（監督：サブリナ・モンティエル・ソト）初公開 — 出演：ホセ・アントニオ・ブランコ（ムー・ブランコ）",
+   "zh": "短片《Perra Chillona》首映（导演：萨布丽娜·蒙铁尔·索托）——演员：何塞·安东尼奥·布兰科（穆·布兰科）",
+   "hi": "लघु फ़िल्म \"Perra Chillona\" का प्रीमियर (निर्देशक: साब्रिना मोंटिएल सोतो) — अभिनेता: होसे एंतोनियो ब्लांको (मू ब्लांको)",
+   "de": "Premiere von „Perra Chillona“ (Kurzfilm, Regie: Sabrina Montiel Soto) — Darsteller: José Antonio Blanco (Muu Blanco)"
+  },
+  "imageId": "1TfkboFFb3y_QTYUc1CyAy7Sdb65FuHyQ"
  }
 ]
