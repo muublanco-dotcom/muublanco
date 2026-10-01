@@ -20,7 +20,11 @@
    "hi": "लैटिन अमेरिकी विशेषांक",
    "de": "Lateinamerika-Sonderausgabe"
   },
-  "imageId": "1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7"
+  "imageIds": [
+   "assets/press/1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7/p1.jpg",
+   "assets/press/1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7/p2.jpg",
+   "assets/press/1g9w3ftsIz02WrhUCR49ucM0bepFSfDF7/p3.jpg"
+  ]
  },
  {
   "year": "2001",
@@ -43,7 +47,7 @@
    "hi": "Hermanos Monteverde की CD \"ChoKolate\" का लॉन्च",
    "de": "Veröffentlichung der CD „ChoKolate“ von Hermanos Monteverde"
   },
-  "imageId": "1h5txy34NDK2w72Z0tYxJo3oJEKlfldg6"
+  "imageId": "assets/press/1h5txy34NDK2w72Z0tYxJo3oJEKlfldg6/p1.jpg"
  },
  {
   "year": "2004",
@@ -66,7 +70,11 @@
    "hi": "संगीत",
    "de": "Musik"
   },
-  "imageId": "1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa"
+  "imageIds": [
+   "assets/press/1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa/p1.jpg",
+   "assets/press/1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa/p2.jpg",
+   "assets/press/1YEgYtBTMkeBDS9o9nzoCExT2D_FoTzYa/p3.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -89,7 +97,10 @@
    "hi": "संगीत",
    "de": "Musik"
   },
-  "imageId": "1tPG2wTM3LrwIiA5W7V95D6MYpTmnSEdQ"
+  "imageIds": [
+   "assets/press/1tPG2wTM3LrwIiA5W7V95D6MYpTmnSEdQ/p1.jpg",
+   "assets/press/1tPG2wTM3LrwIiA5W7V95D6MYpTmnSEdQ/p2.jpg"
+  ]
  },
  {
   "year": "2009",

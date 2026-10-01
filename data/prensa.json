@@ -29,7 +29,12 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL"
+  "imageIds": [
+   "assets/press/1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL/p1.jpg",
+   "assets/press/1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL/p2.jpg",
+   "assets/press/1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL/p3.jpg",
+   "assets/press/1JBhGY0DlpfO6hPh5yVKN-pQKk-222iuL/p4.jpg"
+  ]
  },
  {
   "year": "1996",
@@ -61,7 +66,10 @@
    "hi": "मिक्समीडिया",
    "de": "Mixmedia"
   },
-  "imageId": "1gq3GXFMmwYFi8gXT0bqN2fxIgf1dwtPq"
+  "imageIds": [
+   "assets/press/1gq3GXFMmwYFi8gXT0bqN2fxIgf1dwtPq/p1.jpg",
+   "assets/press/1gq3GXFMmwYFi8gXT0bqN2fxIgf1dwtPq/p2.jpg"
+  ]
  },
  {
   "year": "1998",
@@ -93,7 +101,7 @@
    "hi": "प्रदर्शनी \"Longitud de Onda\" की समीक्षा",
    "de": "Rezension der Ausstellung „Longitud de Onda“"
   },
-  "imageId": "1yYMHIgLd0g57D7vjlsInWieKFBi4iCdm"
+  "imageId": "assets/press/1yYMHIgLd0g57D7vjlsInWieKFBi4iCdm/p1.jpg"
  },
  {
   "year": "2001",
@@ -125,7 +133,11 @@
    "hi": "मिक्समीडिया",
    "de": "Mixmedia"
   },
-  "imageId": "1WUd-KzlI57ignNWephlgi5rOzsNm5JrT"
+  "imageIds": [
+   "assets/press/1WUd-KzlI57ignNWephlgi5rOzsNm5JrT/p1.jpg",
+   "assets/press/1WUd-KzlI57ignNWephlgi5rOzsNm5JrT/p2.jpg",
+   "assets/press/1WUd-KzlI57ignNWephlgi5rOzsNm5JrT/p3.jpg"
+  ]
  },
  {
   "year": "2004",
@@ -157,7 +169,10 @@
    "hi": "मिक्समीडिया",
    "de": "MixMedia"
   },
-  "imageId": "1i4JdBi0wJWfxrO747hQeUGtkYHqIGmh2"
+  "imageIds": [
+   "assets/press/1i4JdBi0wJWfxrO747hQeUGtkYHqIGmh2/p1.jpg",
+   "assets/press/1i4JdBi0wJWfxrO747hQeUGtkYHqIGmh2/p2.jpg"
+  ]
  },
  {
   "year": "2004",
@@ -189,7 +204,14 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG"
+  "imageIds": [
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p1.jpg",
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p2.jpg",
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p3.jpg",
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p4.jpg",
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p5.jpg",
+   "assets/press/1J8J2ckDo2jSzPquhjvqfdI3X-kE7iIQG/p6.jpg"
+  ]
  },
  {
   "year": "2005",
@@ -221,7 +243,11 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1MG_7aaCt9ZaFyJ96nL9vjOQWdpO7YEei"
+  "imageIds": [
+   "assets/press/1MG_7aaCt9ZaFyJ96nL9vjOQWdpO7YEei/p1.jpg",
+   "assets/press/1MG_7aaCt9ZaFyJ96nL9vjOQWdpO7YEei/p2.jpg",
+   "assets/press/1MG_7aaCt9ZaFyJ96nL9vjOQWdpO7YEei/p3.jpg"
+  ]
  },
  {
   "year": "2005",
@@ -253,7 +279,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1lnn564N86_Pt6t9RH8JVxoghsxVPqBED"
+  "imageIds": [
+   "assets/press/1lnn564N86_Pt6t9RH8JVxoghsxVPqBED/p1.jpg",
+   "assets/press/1lnn564N86_Pt6t9RH8JVxoghsxVPqBED/p2.jpg",
+   "assets/press/1lnn564N86_Pt6t9RH8JVxoghsxVPqBED/p3.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -285,7 +315,7 @@
    "hi": "एकल प्रदर्शनी \"AAA AP\" की समीक्षा",
    "de": "Rezension der Einzelausstellung „AAA AP“"
   },
-  "imageId": "1BDorI8vgFhAS3FKNy2fbe5ozU9zLVE_K"
+  "imageId": "assets/press/1BDorI8vgFhAS3FKNy2fbe5ozU9zLVE_K/p1.jpg"
  },
  {
   "year": "2007",
@@ -317,7 +347,12 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-"
+  "imageIds": [
+   "assets/press/1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-/p1.jpg",
+   "assets/press/1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-/p2.jpg",
+   "assets/press/1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-/p3.jpg",
+   "assets/press/1w1gyoLrL-NmEhbPBT2LdmK7X27Q9wQB-/p4.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -349,7 +384,10 @@
    "hi": "मिक्समीडिया",
    "de": "Mixmedia"
   },
-  "imageId": "1sMx4eM0Xb1oFoHaAFALguh94dqNFix_T"
+  "imageIds": [
+   "assets/press/1sMx4eM0Xb1oFoHaAFALguh94dqNFix_T/p1.jpg",
+   "assets/press/1sMx4eM0Xb1oFoHaAFALguh94dqNFix_T/p2.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -381,7 +419,11 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ"
+  "imageIds": [
+   "assets/press/1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ/p1.jpg",
+   "assets/press/1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ/p2.jpg",
+   "assets/press/1zoqT-9o1r5XUMXgB0swwQOV3k2hQQKdQ/p3.jpg"
+  ]
  },
  {
   "year": "2008",
@@ -413,7 +455,7 @@
    "hi": "एकल प्रदर्शनी की समीक्षा",
    "de": "Rezension der Einzelausstellung"
   },
-  "imageId": "1LJ7gI8tqhbk1V48UIWrM8QAte9nx-p4V"
+  "imageId": "assets/press/1LJ7gI8tqhbk1V48UIWrM8QAte9nx-p4V/p1.jpg"
  },
  {
   "year": "2008",
@@ -445,7 +487,7 @@
    "hi": "साक्षात्कार, एकल प्रदर्शनी \"AAA AP\"",
    "de": "Interview, Einzelausstellung „AAA AP“"
   },
-  "imageId": "18_MgAmVT4_CQv_77e59iHjlTl-cFE4LK"
+  "imageId": "assets/press/18_MgAmVT4_CQv_77e59iHjlTl-cFE4LK/p1.jpg"
  },
  {
   "year": "2010",
@@ -477,7 +519,7 @@
    "hi": "साक्षात्कार, एकल प्रदर्शनी \"Fósiles Analíticos\"",
    "de": "Interview, Einzelausstellung „Fósiles Analíticos“"
   },
-  "imageId": "1bjZD3lmPZD5m2DRwx8Obf-rDhaPko07d"
+  "imageId": "assets/press/1bjZD3lmPZD5m2DRwx8Obf-rDhaPko07d/p1.jpg"
  },
  {
   "year": "2011",
@@ -509,7 +551,7 @@
    "hi": "संपादकीय प्रदर्शनी",
    "de": "Redaktionelle Ausstellung"
   },
-  "imageId": "1EjO3Y-cMQ7uc35DkFaYssEhjwk7cX1Hl"
+  "imageId": "assets/press/1EjO3Y-cMQ7uc35DkFaYssEhjwk7cX1Hl/p1.jpg"
  },
  {
   "year": "2011",
@@ -541,7 +583,7 @@
    "hi": "प्रदर्शनी \"Geometrías Alteradas\" की समीक्षा",
    "de": "Rezension der Ausstellung „Geometrías Alteradas“"
   },
-  "imageId": "10GJaeWQCudVv7PAUvdvJKbZnRz0l1Bty"
+  "imageId": "assets/press/10GJaeWQCudVv7PAUvdvJKbZnRz0l1Bty/p1.jpg"
  },
  {
   "year": "2011",
@@ -573,7 +615,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1NPvGIlif2ImQy1NpbL0JMOr6PVn_OoL6"
+  "imageIds": [
+   "assets/press/1NPvGIlif2ImQy1NpbL0JMOr6PVn_OoL6/p1.jpg",
+   "assets/press/1NPvGIlif2ImQy1NpbL0JMOr6PVn_OoL6/p2.jpg"
+  ]
  },
  {
   "year": "2011",
@@ -605,7 +650,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1-X3_VDalmkPay8-IDZXPZV8DOXKkWDNp"
+  "imageIds": [
+   "assets/press/1-X3_VDalmkPay8-IDZXPZV8DOXKkWDNp/p1.jpg",
+   "assets/press/1-X3_VDalmkPay8-IDZXPZV8DOXKkWDNp/p2.jpg",
+   "assets/press/1-X3_VDalmkPay8-IDZXPZV8DOXKkWDNp/p3.jpg"
+  ]
  },
  {
   "year": "2012",
@@ -637,7 +686,15 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu"
+  "imageIds": [
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p1.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p2.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p3.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p4.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p5.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p6.jpg",
+   "assets/press/1Qoo1MZdUo1JMaLbHKUX-_JAFp-2C0fzu/p7.jpg"
+  ]
  },
  {
   "year": "2013",
@@ -669,7 +726,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1hxV3UwKMTM8G5_AOboIuS5Nih5bTBO-F"
+  "imageIds": [
+   "assets/press/1hxV3UwKMTM8G5_AOboIuS5Nih5bTBO-F/p1.jpg",
+   "assets/press/1hxV3UwKMTM8G5_AOboIuS5Nih5bTBO-F/p2.jpg"
+  ]
  },
  {
   "year": "2013",
@@ -701,7 +761,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "18mcE5xANS8u9LkyThMa50--lDRafojWg"
+  "imageIds": [
+   "assets/press/18mcE5xANS8u9LkyThMa50--lDRafojWg/p1.jpg",
+   "assets/press/18mcE5xANS8u9LkyThMa50--lDRafojWg/p2.jpg"
+  ]
  },
  {
   "year": "2014",
@@ -733,7 +796,7 @@
    "hi": "एकल प्रदर्शनी \"BlackPoint\" की समीक्षा (9 अगस्त)",
    "de": "Rezension der Einzelausstellung „BlackPoint“ (9. August)"
   },
-  "imageId": "1Xcm8LVnDBHEcDi7XHOWT8GMr119lssnO"
+  "imageId": "assets/press/1Xcm8LVnDBHEcDi7XHOWT8GMr119lssnO/p1.jpg"
  },
  {
   "year": "2019",
@@ -835,7 +898,7 @@
    "de": "„Apuntes para una poética del silencio“ — Rezension der Ausstellung NatuUrban Symphony"
   },
   "url": "https://www.elnacional.com/papel-literario/apuntes-para-una-poetica-del-silencio/",
-  "imageId": "134CRNwGNKQzxqrMnt0eMT9vh-fpnjzZC"
+  "imageId": "assets/press/134CRNwGNKQzxqrMnt0eMT9vh-fpnjzZC/p1.jpg"
  },
  {
   "year": "2025",

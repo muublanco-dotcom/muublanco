@@ -29,7 +29,16 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP"
+  "imageIds": [
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p1.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p2.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p3.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p4.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p5.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p6.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p7.jpg",
+   "assets/press/1seqCNeP0vJhFFF3ltOc8iOoKS89uC1vP/p8.jpg"
+  ]
  },
  {
   "year": "2008",
@@ -61,7 +70,16 @@
    "hi": "प्रदर्शनी कैटलॉग",
    "de": "Ausstellungskatalog"
   },
-  "imageId": "1OEOdBUV13urUjmw--ybHtYcuZkWyesk4"
+  "imageIds": [
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p1.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p2.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p3.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p4.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p5.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p6.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p7.jpg",
+   "assets/press/1OEOdBUV13urUjmw--ybHtYcuZkWyesk4/p8.jpg"
+  ]
  },
  {
   "year": "2008",
@@ -93,7 +111,7 @@
    "hi": "प्रदर्शनी सूचना पत्र",
    "de": "Ausstellungsflyer"
   },
-  "imageId": "1bnGu_k8Hzicjxk-X5l4sS8RiJOB6nxR2"
+  "imageId": "assets/press/1bnGu_k8Hzicjxk-X5l4sS8RiJOB6nxR2/p1.jpg"
  },
  {
   "year": "2008",
@@ -125,7 +143,10 @@
    "hi": "प्रदर्शनी त्रिफलक",
    "de": "Ausstellungs-Faltblatt"
   },
-  "imageId": "1w-d9XzZGzzg9WTlhi2noUPUlnZebuHYb"
+  "imageIds": [
+   "assets/press/1w-d9XzZGzzg9WTlhi2noUPUlnZebuHYb/p1.jpg",
+   "assets/press/1w-d9XzZGzzg9WTlhi2noUPUlnZebuHYb/p2.jpg"
+  ]
  },
  {
   "year": "1994",
@@ -157,7 +178,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7"
+  "imageIds": [
+   "assets/press/1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7/p1.jpg",
+   "assets/press/1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7/p2.jpg",
+   "assets/press/1Lw3c2q2-PZzeFvvEMZtucBYkvJOWvsf7/p3.jpg"
+  ]
  },
  {
   "year": "1998",
@@ -189,7 +214,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "15q_1kpH203Mfw8Iiu6G7-j945bm5EO-X"
+  "imageIds": [
+   "assets/press/15q_1kpH203Mfw8Iiu6G7-j945bm5EO-X/p1.jpg",
+   "assets/press/15q_1kpH203Mfw8Iiu6G7-j945bm5EO-X/p2.jpg"
+  ]
  },
  {
   "year": "1998",
@@ -221,7 +249,11 @@
    "hi": "वीडियो कला प्रदर्शनी",
    "de": "Videokunstausstellung"
   },
-  "imageId": "1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz"
+  "imageIds": [
+   "assets/press/1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz/p1.jpg",
+   "assets/press/1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz/p2.jpg",
+   "assets/press/1rhz_lifoSZXsxG6KL_NJHHuKlT6R02kz/p3.jpg"
+  ]
  },
  {
   "year": "1998",
@@ -253,7 +285,13 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz"
+  "imageIds": [
+   "assets/press/1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz/p1.jpg",
+   "assets/press/1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz/p2.jpg",
+   "assets/press/1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz/p3.jpg",
+   "assets/press/1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz/p4.jpg",
+   "assets/press/1QzAQJ_X2yuKQjcMJjqpQW8hcRZhdY1Tz/p5.jpg"
+  ]
  },
  {
   "year": "1998",
@@ -285,7 +323,13 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe"
+  "imageIds": [
+   "assets/press/1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe/p1.jpg",
+   "assets/press/1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe/p2.jpg",
+   "assets/press/1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe/p3.jpg",
+   "assets/press/1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe/p4.jpg",
+   "assets/press/1drsY4Vyn6Fv97vQUXSEtXyRaqER8WmCe/p5.jpg"
+  ]
  },
  {
   "year": "2000",
@@ -317,7 +361,11 @@
    "hi": "प्रदर्शनी सूचना पत्र",
    "de": "Ausstellungsflyer"
   },
-  "imageId": "1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM"
+  "imageIds": [
+   "assets/press/1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM/p1.jpg",
+   "assets/press/1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM/p2.jpg",
+   "assets/press/1ffTWTOQCCv2lR4oIvQ-vLckmdNeLdoRM/p3.jpg"
+  ]
  },
  {
   "year": "2000",
@@ -349,7 +397,12 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV"
+  "imageIds": [
+   "assets/press/1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV/p1.jpg",
+   "assets/press/1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV/p2.jpg",
+   "assets/press/1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV/p3.jpg",
+   "assets/press/1bD7ZLCEOrLvwisJXXLzx1N1E_TwoHGLV/p4.jpg"
+  ]
  },
  {
   "year": "2001",
@@ -381,7 +434,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr"
+  "imageIds": [
+   "assets/press/1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr/p1.jpg",
+   "assets/press/1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr/p2.jpg",
+   "assets/press/1NseIO2PUFJqNqjvpX8g52jNwGIIqPvsr/p3.jpg"
+  ]
  },
  {
   "year": "2002",
@@ -413,7 +470,13 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH"
+  "imageIds": [
+   "assets/press/1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH/p1.jpg",
+   "assets/press/1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH/p2.jpg",
+   "assets/press/1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH/p3.jpg",
+   "assets/press/1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH/p4.jpg",
+   "assets/press/1ARbG53ZXWBIac_M6i7vl0XETI-RM4QWH/p5.jpg"
+  ]
  },
  {
   "year": "2003–2004",
@@ -445,7 +508,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1i8ruLA7brUUXEqhXT8rY3XPTd5Nm9I-N"
+  "imageIds": [
+   "assets/press/1i8ruLA7brUUXEqhXT8rY3XPTd5Nm9I-N/p1.jpg",
+   "assets/press/1i8ruLA7brUUXEqhXT8rY3XPTd5Nm9I-N/p2.jpg"
+  ]
  },
  {
   "year": "2004",
@@ -477,7 +543,12 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "16281z47hmWGZ5Re5VC__hrsXZ_RkKA27"
+  "imageIds": [
+   "assets/press/16281z47hmWGZ5Re5VC__hrsXZ_RkKA27/p1.jpg",
+   "assets/press/16281z47hmWGZ5Re5VC__hrsXZ_RkKA27/p2.jpg",
+   "assets/press/16281z47hmWGZ5Re5VC__hrsXZ_RkKA27/p3.jpg",
+   "assets/press/16281z47hmWGZ5Re5VC__hrsXZ_RkKA27/p4.jpg"
+  ]
  },
  {
   "year": "2004",
@@ -509,7 +580,12 @@
    "hi": "विशेष अतिथि",
    "de": "Sondergast"
   },
-  "imageId": "1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX"
+  "imageIds": [
+   "assets/press/1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX/p1.jpg",
+   "assets/press/1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX/p2.jpg",
+   "assets/press/1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX/p3.jpg",
+   "assets/press/1fj2_gEXVOulRFRbq8Z2QxzpmR-e89YdX/p4.jpg"
+  ]
  },
  {
   "year": "2004–2005",
@@ -541,7 +617,12 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt"
+  "imageIds": [
+   "assets/press/1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt/p1.jpg",
+   "assets/press/1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt/p2.jpg",
+   "assets/press/1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt/p3.jpg",
+   "assets/press/1LyrQurmzLwDruaQxRAYofDwh-1vp1mwt/p4.jpg"
+  ]
  },
  {
   "year": "2005",
@@ -573,7 +654,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu"
+  "imageIds": [
+   "assets/press/1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu/p1.jpg",
+   "assets/press/1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu/p2.jpg",
+   "assets/press/1hIjpE_n8NaS9TxArT4ZGFuPSyDjisLBu/p3.jpg"
+  ]
  },
  {
   "year": "2006",
@@ -605,7 +690,13 @@
    "hi": "पुस्तक, 4 पृष्ठ",
    "de": "Buch, 4 Seiten"
   },
-  "imageId": "1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP"
+  "imageIds": [
+   "assets/press/1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP/p1.jpg",
+   "assets/press/1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP/p2.jpg",
+   "assets/press/1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP/p3.jpg",
+   "assets/press/1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP/p4.jpg",
+   "assets/press/1TjBdMidaPPZ41ZqunK3OBsWFoPqZ5fIP/p5.jpg"
+  ]
  },
  {
   "year": "2006",
@@ -637,7 +728,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n"
+  "imageIds": [
+   "assets/press/14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n/p1.jpg",
+   "assets/press/14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n/p2.jpg",
+   "assets/press/14TTjJ-lkXUGSNUJfu7KOHNzVxg2SGc-n/p3.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -669,7 +764,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1mgblT9KqPYIPQerQwv8Miu8oYPuAW2UF"
+  "imageIds": [
+   "assets/press/1mgblT9KqPYIPQerQwv8Miu8oYPuAW2UF/p1.jpg",
+   "assets/press/1mgblT9KqPYIPQerQwv8Miu8oYPuAW2UF/p2.jpg"
+  ]
  },
  {
   "year": "2007",
@@ -701,7 +799,14 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l"
+  "imageIds": [
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p1.jpg",
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p2.jpg",
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p3.jpg",
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p4.jpg",
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p5.jpg",
+   "assets/press/1kKbRpfhBx1tX7wVqA4_qRQ8EEmGDZE7l/p6.jpg"
+  ]
  },
  {
   "year": "2009",
@@ -733,7 +838,13 @@
    "hi": "मिक्समीडिया प्रदर्शनी · सूचना पत्र",
    "de": "Mixed-Media-Ausstellung · Flyer"
   },
-  "imageId": "1PItXx059gOYPCWRh9zhHVbeRvbtOXuge"
+  "imageIds": [
+   "assets/press/1PItXx059gOYPCWRh9zhHVbeRvbtOXuge/p1.jpg",
+   "assets/press/1PItXx059gOYPCWRh9zhHVbeRvbtOXuge/p2.jpg",
+   "assets/press/1PItXx059gOYPCWRh9zhHVbeRvbtOXuge/p3.jpg",
+   "assets/press/1PItXx059gOYPCWRh9zhHVbeRvbtOXuge/p4.jpg",
+   "assets/press/1PItXx059gOYPCWRh9zhHVbeRvbtOXuge/p5.jpg"
+  ]
  },
  {
   "year": "2010",
@@ -765,7 +876,16 @@
    "hi": "CD साउंड कैटलॉग",
    "de": "Klangkatalog auf CD"
   },
-  "imageId": "1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd"
+  "imageIds": [
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p1.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p2.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p3.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p4.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p5.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p6.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p7.jpg",
+   "assets/press/1MgMgnRFVKJZ9OYv_ve7yuRuEE8YtfpPd/p8.jpg"
+  ]
  },
  {
   "year": "2011",
@@ -797,7 +917,10 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1jyqbhTnt-o3inE2qT1J0FdMN5Ysk17TF"
+  "imageIds": [
+   "assets/press/1jyqbhTnt-o3inE2qT1J0FdMN5Ysk17TF/p1.jpg",
+   "assets/press/1jyqbhTnt-o3inE2qT1J0FdMN5Ysk17TF/p2.jpg"
+  ]
  },
  {
   "year": "2012",
@@ -829,7 +952,16 @@
    "hi": "फुटबॉल पर अंतरराष्ट्रीय प्रदर्शनी",
    "de": "Internationale Ausstellung zum Thema Fußball"
   },
-  "imageId": "1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh"
+  "imageIds": [
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p1.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p2.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p3.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p4.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p5.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p6.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p7.jpg",
+   "assets/press/1MLDm2Lz_gwoymMg5990KmQ_ygeOrCXOh/p8.jpg"
+  ]
  },
  {
   "year": "2013",
@@ -861,7 +993,11 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq"
+  "imageIds": [
+   "assets/press/1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq/p1.jpg",
+   "assets/press/1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq/p2.jpg",
+   "assets/press/1GDA8DMG9MNZ39yojTXjhWbfJrXFOw7Dq/p3.jpg"
+  ]
  },
  {
   "year": "2014",
@@ -893,7 +1029,13 @@
    "hi": "",
    "de": ""
   },
-  "imageId": "1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH"
+  "imageIds": [
+   "assets/press/1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH/p1.jpg",
+   "assets/press/1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH/p2.jpg",
+   "assets/press/1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH/p3.jpg",
+   "assets/press/1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH/p4.jpg",
+   "assets/press/1KXcyfXhH_8P5gLXcnumZM4gFFNnmU6GH/p5.jpg"
+  ]
  },
  {
   "year": "1994",
