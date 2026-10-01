@@ -925,7 +925,11 @@
    "hi": "एक अन्य कलाकार के काम में उनकी छवि दिखाई देती है",
    "de": "Sein Bild erscheint im Werk eines anderen Künstlers"
   },
-  "imageId": "1c8glaiwXzNxlrlpZljecJSkgF0q5GwvC"
+  "imageIds": [
+   "1c8glaiwXzNxlrlpZljecJSkgF0q5GwvC",
+   "1rGOuYPBaseO6rZ7cuRIXMB5iRjAko1cX",
+   "1HHwmb4CCR8alo5MBsB8lLgqHNv3A3qEI"
+  ]
  },
  {
   "year": "1995",
@@ -989,7 +993,10 @@
    "hi": "आमंत्रण पत्र",
    "de": "Einladungsschreiben"
   },
-  "imageId": "12S7dpNJ2gsFmYwx16KzoDOqUy47tBpV2"
+  "imageIds": [
+   "12S7dpNJ2gsFmYwx16KzoDOqUy47tBpV2",
+   "1-CuwtB5WKrzlUjVaTBa2AhaRqQISaMLU"
+  ]
  },
  {
   "year": "2005",
@@ -1053,7 +1060,10 @@
    "hi": "गैलरी हैंडआउट",
    "de": "Saalblatt"
   },
-  "imageId": "1uOTiKAsvGy6pDrYpk3-47PEGjhh9rKBS"
+  "imageIds": [
+   "11eTUUejIu_RtzWZa7QUj3Kmd6SKlQI2t",
+   "1uOTiKAsvGy6pDrYpk3-47PEGjhh9rKBS"
+  ]
  },
  {
   "year": "2007",

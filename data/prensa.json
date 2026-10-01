@@ -922,7 +922,11 @@
    "hi": "पेंटिंग",
    "de": "Malerei"
   },
-  "imageId": "1kYM_9qRScewK4tuXjTXDuZc2i-loQxCT"
+  "imageIds": [
+   "1tcCUjRUd_YsrGdk7R6gffgCRTNoCFBjI",
+   "1WNXGaoVdb0PXsy5Y0133zx74pjPQB9oS",
+   "1kYM_9qRScewK4tuXjTXDuZc2i-loQxCT"
+  ]
  },
  {
   "year": "1993",
@@ -954,7 +958,11 @@
    "hi": "परफॉर्मेंस फोटोग्राफी",
    "de": "Performance-Fotografie"
   },
-  "imageId": "1qp7Bn-u27Y5N9F4zZ8YZvcxf2b1xXkFr"
+  "imageIds": [
+   "1qp7Bn-u27Y5N9F4zZ8YZvcxf2b1xXkFr",
+   "1mzyqow64uXOWjcSRhLJy6mJCT67PzyH6",
+   "1bQ2yyaXdKorE-VEosV_KuqXUmVBwLTJ2"
+  ]
  },
  {
   "year": "1996",
@@ -986,7 +994,11 @@
    "hi": "साक्षात्कार",
    "de": "Interview"
   },
-  "imageId": "10m9bH5WxiJzp080Gx_nmt44gvdOvNb86"
+  "imageIds": [
+   "10m9bH5WxiJzp080Gx_nmt44gvdOvNb86",
+   "1ocq-DhsVFrwOQ_WPb75y3zQ_vd92pKTX",
+   "19wIzxK4R0rSnX9IPrrAJsApv4efwek1-"
+  ]
  },
  {
   "year": "1997",
@@ -1018,7 +1030,10 @@
    "hi": "“ला अवारीसिया” — फोटो फ़ीचर",
    "de": "„La Avaricia“ — Fotostrecke"
   },
-  "imageId": "1QCtXdF1EPDgiqvAPczyrf-hf-tGdfQKI"
+  "imageIds": [
+   "1QCtXdF1EPDgiqvAPczyrf-hf-tGdfQKI",
+   "1QShYE7BiheztPSiiYdeHgyRMIWQ0k9ZR"
+  ]
  },
  {
   "year": "1997",
@@ -1050,7 +1065,16 @@
    "hi": "फोटोग्राफिक पोर्ट्रेट श्रृंखला",
    "de": "Serie fotografischer Porträts"
   },
-  "imageId": "1gBjkFLmYu83BWniFPowmx_0jNQ_Bsno-"
+  "imageIds": [
+   "1gBjkFLmYu83BWniFPowmx_0jNQ_Bsno-",
+   "1XpKGk77W0OdCD3tbYztufrQSLMpl21vg",
+   "15AcmvfjZFtoQ8Dc82mvtswOMuEsfKHfV",
+   "1UpnGb5PwrdyxDJTOTzHn-jskrOHyDFY8",
+   "1ziriNGAB0lKtsZ1GJ_SPigUgNNYCuTod",
+   "1w4olTR9ZBG5x1W1aea0VqESam9EJbs9O",
+   "19z0bkltATYp8IrziomA5orzpLUaS5ii6",
+   "1GFP8_HdH6tvkIxMOU_QnDZIFe3zvSwx8"
+  ]
  },
  {
   "year": "1998",
@@ -1082,7 +1106,11 @@
    "hi": "मिक्समीडिया",
    "de": "Mixmedia"
   },
-  "imageId": "1hHP1BsgBDd1F9LU5GcQ9Cvh_AzoL3_GX"
+  "imageIds": [
+   "1hHP1BsgBDd1F9LU5GcQ9Cvh_AzoL3_GX",
+   "1-wyrW39n7jpF-qPOVJMmM9k7pVdJlOIb",
+   "1b_VZ-GglNg0a05bhdOL_XxV1NE9VR_gw"
+  ]
  },
  {
   "year": "1999",
@@ -1114,7 +1142,11 @@
    "hi": "साक्षात्कार",
    "de": "Interview"
   },
-  "imageId": "1P5rK3SUSC2oC9d5LxOpTyQh-H7XLAQ_u"
+  "imageIds": [
+   "1P5rK3SUSC2oC9d5LxOpTyQh-H7XLAQ_u",
+   "14Ev6qfPIBUnCy__Bp75_9Vjth786v1Q1",
+   "1oaYo8FP6ZEYvD6g0o-wPTSOTHp1zcxO5"
+  ]
  },
  {
   "year": "2003",
@@ -1146,7 +1178,10 @@
    "hi": "ड्रॉइंग",
    "de": "Zeichnung"
   },
-  "imageId": "1npK0BWkYHuP7V8iJ1bJuetdKwZAEZgyX"
+  "imageIds": [
+   "1npK0BWkYHuP7V8iJ1bJuetdKwZAEZgyX",
+   "1x3ow49OMbDE6EvROMc1NsFTksbqv8sk1"
+  ]
  },
  {
   "year": "2006",
@@ -1178,7 +1213,13 @@
    "hi": "साक्षात्कार",
    "de": "Interview"
   },
-  "imageId": "1XWc9b4uC7QkaGLdpEBwb88Vcyu5Vz-NA"
+  "imageIds": [
+   "1XWc9b4uC7QkaGLdpEBwb88Vcyu5Vz-NA",
+   "1qhpLLC1BCjhNIVj3rUSC7TbczEtPkOvl",
+   "1zgYJB5c6Tl92s-dToy3g0ghz83HLlVMB",
+   "1m66g5McUCL9P0cJUTjK2WmHBaxi0Wans",
+   "1sdLgB22XjX1unX1p0q4GivmVm7fPPTfx"
+  ]
  },
  {
   "year": "2006",
@@ -1210,7 +1251,10 @@
    "hi": "साक्षात्कार, साप्ताहिक",
    "de": "Interview, Wochenzeitschrift"
   },
-  "imageId": "1kwImb3b_YNXcr2ghA5SRlXiBXj0A-Nb0"
+  "imageIds": [
+   "1kwImb3b_YNXcr2ghA5SRlXiBXj0A-Nb0",
+   "1A0TN3eEviyIn16S-LmFPlXQ4ySZOU8NT"
+  ]
  },
  {
   "year": "2006",
@@ -1242,7 +1286,12 @@
    "hi": "फोटोग्राफी",
    "de": "Fotografie"
   },
-  "imageId": "1qpN5V9Y7b1_sYtFZcwSE3SXE1CJ2h2x-"
+  "imageIds": [
+   "1qpN5V9Y7b1_sYtFZcwSE3SXE1CJ2h2x-",
+   "15jDUaaKjJaQ1mdasVaTfkdCvIvrvZfFp",
+   "1jNBHmK4xfSAKQquGicrHh6B1_Q8Au98z",
+   "1GjAEUz0mlQA3VcvCcppZ-Ll8K5Si08aS"
+  ]
  },
  {
   "year": "2006",
@@ -1274,7 +1323,11 @@
    "hi": "मिक्समीडिया",
    "de": "Mixmedia"
   },
-  "imageId": "1WXWkp4WEqtySASmpA2Bn-0pcDSDi40af"
+  "imageIds": [
+   "1WXWkp4WEqtySASmpA2Bn-0pcDSDi40af",
+   "1aJ30tyYmm-VtkIMLU9E3--31kXjl36w_",
+   "1xobpt5FRNJsM4cserbuApnIDMj6vZ1YE"
+  ]
  },
  {
   "year": "2007",
@@ -1306,7 +1359,10 @@
    "hi": "प्रदर्शनी विज्ञापन",
    "de": "Ausstellungswerbung"
   },
-  "imageId": "1ZANXLKa-WObNOfXQ_ykj7xvu2vnTiv4O"
+  "imageIds": [
+   "1ZANXLKa-WObNOfXQ_ykj7xvu2vnTiv4O",
+   "1kw0EGD7v7PP1ixBdIoUurfB2DlkoikDm"
+  ]
  },
  {
   "year": "2007",
@@ -1338,7 +1394,10 @@
    "hi": "प्रदर्शनी विज्ञापन",
    "de": "Ausstellungswerbung"
   },
-  "imageId": "1bi4OnvKutWzZkHRQBBMutRwxBSorxs7M"
+  "imageIds": [
+   "1bi4OnvKutWzZkHRQBBMutRwxBSorxs7M",
+   "1hcGyXfo6PSFmgCazW97kBDJqri59JKMn"
+  ]
  },
  {
   "year": "2008",
@@ -1411,7 +1470,10 @@
    "hi": "प्रदर्शनियों और मेलों का विज्ञापन",
    "de": "Werbung für Ausstellungen und Messen"
   },
-  "imageId": "12FohoJIDxLm2aSCuDf218XmdVQ9cS74B"
+  "imageIds": [
+   "12FohoJIDxLm2aSCuDf218XmdVQ9cS74B",
+   "1JOJ1J7NKHGy9m9JXQpzkC52PFahIlXP0"
+  ]
  },
  {
   "year": "2010",
@@ -1443,7 +1505,13 @@
    "hi": "कवर फोटोग्राफी",
    "de": "Coverfotografie"
   },
-  "imageId": "17QWEyY1G_JxJgC1KOXBcOLVEU4dX76tq"
+  "imageIds": [
+   "17QWEyY1G_JxJgC1KOXBcOLVEU4dX76tq",
+   "1B2MRXcR8_zscv5Dex9CRUth909aO54fw",
+   "1llB7YlTHq3F80Z8EuUHpGgl_-c4LX3l2",
+   "1lxu8AHbN4Ll94qll9UGwacTRpFlSmITo",
+   "1iN_bL5ia3ClmWWbNyVe7uSJw2ce83ZT2"
+  ]
  },
  {
   "year": "2011",
@@ -1514,6 +1582,10 @@
    "hi": "लघु फ़िल्म \"Perra Chillona\" का प्रीमियर (निर्देशक: साब्रिना मोंटिएल सोतो) — अभिनेता: होसे एंतोनियो ब्लांको (मू ब्लांको)",
    "de": "Premiere von „Perra Chillona“ (Kurzfilm, Regie: Sabrina Montiel Soto) — Darsteller: José Antonio Blanco (Muu Blanco)"
   },
-  "imageId": "1TfkboFFb3y_QTYUc1CyAy7Sdb65FuHyQ"
+  "imageIds": [
+   "1VYGUD8_UzfHviEBjrONPXcZXbzDiH-_k",
+   "1TfkboFFb3y_QTYUc1CyAy7Sdb65FuHyQ",
+   "1DXFGU7Y9x6qGvQ4VDBr-o3pO3GlshE-y"
+  ]
  }
 ]
