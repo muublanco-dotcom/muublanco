@@ -177,6 +177,8 @@ main { min-height: 60vh; }
 .press-entry__img img { width: 100%; display: block; transition: opacity .18s; }
 .press-entry__img:hover img { opacity: .85; }
 .press-entry__img:hover { border-color: var(--green); }
+.press-entry__img-wrap--grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .7rem; max-width: 100%; }
+.press-entry__img-wrap--grid .press-entry__img { max-width: none; margin: 0; }
 .press-entry__outlet { font-family: var(--display); font-size: 1.2rem; }
 .press-entry__place { color: var(--muted); font-size: .9rem; margin-top: .25rem; }
 .press-entry__note { color: var(--ink); font-size: .92rem; margin-top: .3rem; }
