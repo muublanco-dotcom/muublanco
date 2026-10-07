@@ -15,7 +15,12 @@
       "exposiciones": "展览目录",
       "selectedworks": "精选作品",
       "workwithmuu": "与穆合作",
-      "ahora": "Muu Blanco — 现在"
+      "ahora": "Muu Blanco — 现在",
+      "group": {
+        "obra": "作品与档案",
+        "musica": "声音与音乐",
+        "bio": "简介与媒体报道"
+      }
     }
   },
   "index": {

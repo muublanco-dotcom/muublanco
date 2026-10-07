@@ -15,7 +15,12 @@
       "exposiciones": "Ausstellungskataloge",
       "selectedworks": "Ausgewählte Werke",
       "workwithmuu": "Mit Muu arbeiten",
-      "ahora": "Muu Blanco — Jetzt"
+      "ahora": "Muu Blanco — Jetzt",
+      "group": {
+        "obra": "Werk & Archiv",
+        "musica": "Klang & Musik",
+        "bio": "Biografie & Presse"
+      }
     }
   },
   "index": {

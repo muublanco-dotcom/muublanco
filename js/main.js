@@ -81,6 +81,40 @@ function parseCSV(text) {
       toggle.setAttribute("aria-expanded", "false");
     });
   });
+
+  // Dropdown nav groups (desktop/touch): click to toggle, since hover
+  // alone doesn't work on touchscreens. CSS handles mobile, where the
+  // trigger is non-interactive and the submenu is always expanded.
+  $$(".nav-group", nav).forEach((group) => {
+    const trigger = $(".nav-group__trigger", group);
+    if (!trigger) return;
+    trigger.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const willOpen = !group.classList.contains("is-open");
+      $$(".nav-group", nav).forEach((g) => {
+        g.classList.remove("is-open");
+        $(".nav-group__trigger", g).setAttribute("aria-expanded", "false");
+      });
+      if (willOpen) {
+        group.classList.add("is-open");
+        trigger.setAttribute("aria-expanded", "true");
+      }
+    });
+  });
+  document.addEventListener("click", () => {
+    $$(".nav-group.is-open", nav).forEach((g) => {
+      g.classList.remove("is-open");
+      $(".nav-group__trigger", g).setAttribute("aria-expanded", "false");
+    });
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      $$(".nav-group.is-open", nav).forEach((g) => {
+        g.classList.remove("is-open");
+        $(".nav-group__trigger", g).setAttribute("aria-expanded", "false");
+      });
+    }
+  });
 })();
 
 /* ---------- Store / Galería (Store page only) ---------- */

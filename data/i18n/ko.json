@@ -15,7 +15,12 @@
       "exposiciones": "전시 카탈로그",
       "selectedworks": "선정 작품",
       "workwithmuu": "무와 함께 작업하기",
-      "ahora": "무 블랑코 — 지금"
+      "ahora": "무 블랑코 — 지금",
+      "group": {
+        "obra": "작업 & 아카이브",
+        "musica": "사운드 & 음악",
+        "bio": "약력 & 언론"
+      }
     }
   },
   "index": {

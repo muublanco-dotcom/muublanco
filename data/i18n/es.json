@@ -15,7 +15,12 @@
       "exposiciones": "Catálogos Exposiciones",
       "selectedworks": "Obras Seleccionadas",
       "workwithmuu": "Trabaja con Muu",
-      "ahora": "Muu Blanco — Ahora"
+      "ahora": "Muu Blanco — Ahora",
+      "group": {
+        "obra": "Obra & Archivo",
+        "musica": "Música & Sonido",
+        "bio": "Biografía & Prensa"
+      }
     }
   },
   "index": {

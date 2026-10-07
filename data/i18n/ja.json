@@ -15,7 +15,12 @@
       "exposiciones": "展覧会カタログ",
       "selectedworks": "厳選作品",
       "workwithmuu": "ムーと仕事をする",
-      "ahora": "ムー・ブランコ — 現在"
+      "ahora": "ムー・ブランコ — 現在",
+      "group": {
+        "obra": "作品とアーカイブ",
+        "musica": "サウンド&ミュージック",
+        "bio": "経歴とプレス"
+      }
     }
   },
   "index": {
