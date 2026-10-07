@@ -182,6 +182,8 @@ main { min-height: 60vh; }
 .press-entry__outlet { font-family: var(--display); font-size: 1.2rem; }
 .press-entry__place { color: var(--muted); font-size: .9rem; margin-top: .25rem; }
 .press-entry__note { color: var(--ink); font-size: .92rem; margin-top: .3rem; }
+.press-entry__source { font-size: .88rem; margin-top: .5rem; }
+.press-entry__source a { color: var(--accent); }
 @media (max-width: 640px) { .press-entry { grid-template-columns: 1fr; gap: .25rem; } }
 
 /* ===== CV ===== */

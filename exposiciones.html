@@ -64,6 +64,7 @@
   const pick = (field, lang) => (field && (field[lang] || field.es)) || "";
   const emptyMsg = { es: "Aún no hay exposiciones publicadas.", en: "No exhibitions published yet.", de: "Es sind noch keine Ausstellungen veröffentlicht.", ko: "아직 게시된 전시가 없습니다.", ja: "まだ公開された展覧会はありません。", zh: "暂无已发布的展览。", hi: "अभी तक कोई प्रदर्शनी प्रकाशित नहीं हुई है।" };
   const errMsg = { es: "No se pudieron cargar las exposiciones.", en: "Could not load the exhibitions.", de: "Die Ausstellungen konnten nicht geladen werden.", ko: "전시를 불러올 수 없습니다.", ja: "展覧会を読み込めませんでした。", zh: "无法加载展览。", hi: "प्रदर्शनियां लोड नहीं की जा सकीं।" };
+  const sourceLabel = { es: "Ver catálogo completo (PDF) ↗", en: "View full catalog (PDF) ↗", de: "Vollständigen Katalog ansehen (PDF) ↗", ko: "전체 카탈로그 보기 (PDF) ↗", ja: "カタログ全体を見る (PDF) ↗", zh: "查看完整目录 (PDF) ↗", hi: "पूरा कैटलॉग देखें (PDF) ↗" };
 
   let ENTRIES = null;
 
@@ -82,6 +83,7 @@
           ${pick(e.place, lang) ? `<p class="press-entry__place">${esc(pick(e.place, lang))}</p>` : ""}
           ${pick(e.note, lang) ? `<p class="press-entry__note">${e.url ? `<a href="${e.url}" target="_blank" rel="noopener">${esc(pick(e.note, lang))} ↗</a>` : esc(pick(e.note, lang))}</p>` : ""}
           ${imgs.length ? `<div class="press-entry__img-wrap video-toggle-content is-collapsed${imgs.length > 1 ? " press-entry__img-wrap--grid" : ""}">${imgs.map((id) => `<a class="press-entry__img" href="${driveView(id)}" target="_blank" rel="noopener"><img src="${driveThumb(id)}" alt="${esc(e.outlet)}" loading="lazy" referrerpolicy="no-referrer"></a>`).join("")}</div>` : ""}
+          ${e.sourceUrl ? `<p class="press-entry__source"><a href="${e.sourceUrl}" target="_blank" rel="noopener">${sourceLabel[lang]}</a></p>` : ""}
         </div>
       </article>
     `;
